@@ -32,7 +32,7 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: |
-          python reddit-demand-mapper/reddit_demand_mapper.py
+          python reddit_demand_mapper.py
 
       # Step 5: Upload results as artifacts
       - name: Upload results as artifacts
