@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import defaultdict
 import time
 
@@ -25,7 +25,7 @@ class RedditDemandMapper:
             'appliances', 'BuyItForLife', 'fixit', 'HomeAppliances',
             'Appliances', 'appliancerepair', 'Frugal', 'BudgetFood',
             'MealPrepSunday', 'cookingforbeginners', 'Baking',
-            'Repair', 'AskEngineers', 'whatisthisthing',
+            'fixit', 'Repair', 'AskEngineers', 'whatisthisthing',
             'HelpMeFind', 'NoStupidQuestions', 'explainlikeimfive'
         ]
         
@@ -55,11 +55,12 @@ class RedditDemandMapper:
             'mixer', 'toaster', 'coffee maker', 'vacuum', 'air purifier'
         ]
 
-    def extract_posts(self, subreddit_name, time_filter='week', limit=200):
+    def extract_posts(self, subreddit_name, time_filter='week', limit=50):
         """Extract posts from a subreddit that match demand patterns"""
         try:
             subreddit = self.reddit.subreddit(subreddit_name)
             posts = []
+            
             print(f"Scanning r/{subreddit_name}...")
             
             for submission in subreddit.top(time_filter=time_filter, limit=limit):
@@ -72,7 +73,7 @@ class RedditDemandMapper:
                         demand_signals.extend(matches)
                     
                     if demand_signals or submission.num_comments >= 5:
-                        post_data = {
+                        posts.append({
                             'subreddit': subreddit_name,
                             'title': submission.title,
                             'selftext': submission.selftext[:500],
@@ -83,42 +84,12 @@ class RedditDemandMapper:
                             'permalink': f"https://reddit.com{submission.permalink}",
                             'demand_signals': demand_signals,
                             'matched_keywords': [kw for kw in self.niche_keywords if kw in text_content]
-                        }
-                        posts.append(post_data)
+                        })
             
             time.sleep(1)
             return posts
-            
         except Exception as e:
             print(f"Error processing r/{subreddit_name}: {e}")
-            return []
-
-    def extract_comments(self, submission_url, max_comments=20):
-        """Extract high-engagement comments from a submission"""
-        try:
-            submission = self.reddit.submission(url=submission_url)
-            submission.comments.replace_more(limit=0)
-            
-            valuable_comments = []
-            for comment in submission.comments[:max_comments]:
-                if comment.score >= 3:
-                    comment_text = comment.body.lower()
-                    demand_signals = []
-                    for pattern in self.demand_patterns:
-                        matches = re.findall(pattern, comment_text)
-                        demand_signals.extend(matches)
-                    
-                    if demand_signals:
-                        valuable_comments.append({
-                            'comment_body': comment.body[:300],
-                            'score': comment.score,
-                            'demand_signals': demand_signals
-                        })
-            
-            return valuable_comments
-            
-        except Exception as e:
-            print(f"Error extracting comments: {e}")
             return []
 
     def analyze_demand_themes(self, posts):
@@ -191,13 +162,11 @@ class RedditDemandMapper:
                 'hashtags': ['#budgettools', '#affordabletools', '#tooldeals', '#budgetDIY']
             }
         }
-        
         for theme, posts in themes.items():
             if len(posts) >= 3:
                 avg_score = sum(p['score'] for p in posts) / len(posts)
                 total_comments = sum(p['num_comments'] for p in posts)
-                
-                opportunity = {
+                opportunities.append({
                     'theme': theme,
                     'post_count': len(posts),
                     'avg_engagement': avg_score,
@@ -209,9 +178,7 @@ class RedditDemandMapper:
                         'example_videos': ['Custom content needed'],
                         'hashtags': [f'#{theme}']
                     })
-                }
-                opportunities.append(opportunity)
-        
+                })
         opportunities.sort(key=lambda x: x['demand_strength'], reverse=True)
         return opportunities
 
@@ -237,53 +204,39 @@ class RedditDemandMapper:
         
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         
-        # Save all reports in reports/
+        # Save latest.json for dashboard
+        latest_json_path = os.path.join("reports", "latest.json")
+        os.makedirs("reports", exist_ok=True)
+        with open(latest_json_path, "w") as f:
+            json.dump(opportunities, f, indent=2, default=str)
+
+        # Save historical reports
         pd.DataFrame(all_posts).to_csv(f'reports/reddit_posts_{timestamp}.csv', index=False)
         with open(f'reports/tiktok_opportunities_{timestamp}.json', 'w') as f:
             json.dump(opportunities, f, indent=2, default=str)
+
         self.create_summary_report(opportunities, timestamp)
-        
         print(f"Analysis complete! Reports saved in 'reports/' with timestamp: {timestamp}")
         return opportunities
 
     def create_summary_report(self, opportunities, timestamp):
-        report = f"""
-# TikTok Content Opportunities Report
-Generated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
-
-## Top Opportunities (Ranked by Demand Strength)
-
-"""
-        for i, opp in enumerate(opportunities[:10], 1):
-            report += f"""
-### {i}. {opp['content_angle']}
-- **Demand Strength**: {opp['demand_strength']:.1f}
-- **Posts Found**: {opp['post_count']}
-- **Average Engagement**: {opp['avg_engagement']:.1f}
-- **Total Comments**: {opp['total_comments']}
-
-**Example TikTok Videos:**
-{chr(10).join(f"- {video}" for video in opp['example_videos'])}
-
-**Suggested Hashtags:**
-{' '.join(opp['hashtags'])}
-
-**Sample Reddit Posts:**
-"""
-            for post in opp['sample_posts'][:2]:
-                report += f"""
-- **r/{post['subreddit']}**: "{post['title']}" ({post['score']} upvotes, {post['num_comments']} comments)
-  URL: {post['permalink']}
-"""
-        
-        with open(f'reports/opportunities_summary_{timestamp}.md', 'w') as f:
-            f.write(report)
+        """Create a simple markdown summary report"""
+        lines = [f"# Reddit Demand Mapping Report ({timestamp})", ""]
+        top_themes = opportunities[:10]
+        for opp in top_themes:
+            lines.append(f"## {opp['theme'].replace('_', ' ').title()}")
+            lines.append(f"Content Angle: {opp['content_angle']}")
+            lines.append(f"Average Engagement: {opp['avg_engagement']:.2f}")
+            lines.append(f"Total Comments: {opp['total_comments']}")
+            lines.append(f"Sample Posts:")
+            for post in opp['sample_posts']:
+                lines.append(f"- [{post['title']}]({post['permalink']}) ({post['score']} pts, {post['num_comments']} comments)")
+            lines.append(f"Suggested Hashtags: {', '.join(opp['hashtags'])}")
+            lines.append("")
+        report_path = os.path.join("reports", f"opportunities_summary_{timestamp}.md")
+        with open(report_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines))
 
 if __name__ == "__main__":
     mapper = RedditDemandMapper()
-    opportunities = mapper.run_full_analysis()
-    
-    if opportunities:
-        print(f"\nTop 3 TikTok Opportunities:")
-        for i, opp in enumerate(opportunities[:3], 1):
-            print(f"{i}. {opp['content_angle']} (Demand: {opp['demand_strength']:.1f})")
+    mapper.run_full_analysis()
