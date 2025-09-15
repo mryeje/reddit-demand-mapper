@@ -1,0 +1,50 @@
+name: Reddit Demand Mapper
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Run every Sunday at 00:00 UTC
+  workflow_dispatch:       # Allow manual runs too
+
+jobs:
+  run-mapper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install praw pandas
+
+      - name: Run Reddit Demand Mapper
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          python reddit-demand-mapper/reddit_demand_mapper.py
+
+      - name: Upload results as artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: reddit-demand-mapper-results
+          path: reports/*
+
+      - name: Commit and push reports to repo
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/*
+          git commit -m "Add latest Reddit Demand Mapper reports [skip ci]" || echo "No changes to commit"
+          git push origin main
+
+      - name: Cleanup old reports (keep last 12)
+        run: |
+          cd reports
+          ls -tp | grep -v '/$' | tail -n +13 | xargs -I {} rm -- {}
