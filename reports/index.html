@@ -47,6 +47,8 @@
       const response = await fetch(latestFile);
       const opportunities = await response.json();
       const tbody = document.querySelector("#opportunities-table tbody");
+      const jsonFile = "latest.json";  // Always points to latest run
+
 
       opportunities.forEach(opp => {
         const tr = document.createElement("tr");
