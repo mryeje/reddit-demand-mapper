@@ -31,11 +31,10 @@ jobs:
           python reddit-demand-mapper/reddit_demand_mapper.py
 
       - name: Upload results as artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: reddit-demand-mapper-results
-          path: reports/*
-
+          uses: actions/upload-artifact@v4
+          with:
+            name: reddit-demand-mapper-results
+            path: reports/
       - name: Commit and push reports to repo
         run: |
           git config --local user.name "github-actions[bot]"
