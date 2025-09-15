@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Reddit Demand Mapper - TikTok Opportunities</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; }
+    h1 { color: #333; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; background-color: #fff; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #eee; }
+    tr:nth-child(even) { background-color: #f2f2f2; }
+    .hashtags { color: #555; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <h1>Reddit Demand Mapper - TikTok Opportunities</h1>
+  <p>Loaded latest JSON report automatically.</p>
+  <table id="opportunities-table">
+    <thead>
+      <tr>
+        <th>Theme</th>
+        <th>Content Angle</th>
+        <th>Posts Found</th>
+        <th>Avg Engagement</th>
+        <th>Total Comments</th>
+        <th>Demand Strength</th>
+        <th>Example Videos</th>
+        <th>Suggested Hashtags</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    // Find the latest JSON file in the folder
+    async function getLatestJSON() {
+      const files = ["tiktok_opportunities_20250910_120000.json", "tiktok_opportunities_20250915_090000.json"]; 
+      // Replace this with an updated list of files in the folder if you know them, or auto-generate via Python later
+
+      files.sort(); // filenames are timestamped, so sorting works
+      return files[files.length - 1];
+    }
+
+    async function loadOpportunities() {
+      const latestFile = await getLatestJSON();
+      const response = await fetch(latestFile);
+      const opportunities = await response.json();
+      const tbody = document.querySelector("#opportunities-table tbody");
+      const jsonFile = "latest.json";  // Always points to latest run
+
+
+      opportunities.forEach(opp => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${opp.theme}</td>
+          <td>${opp.content_angle}</td>
+          <td>${opp.post_count}</td>
+          <td>${opp.avg_engagement.toFixed(1)}</td>
+          <td>${opp.total_comments}</td>
+          <td>${opp.demand_strength.toFixed(1)}</td>
+          <td>${opp.example_videos.map(v => `<div>${v}</div>`).join('')}</td>
+          <td class="hashtags">${opp.hashtags.join(' ')}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    loadOpportunities();
+  </script>
+</body>
+</html>
