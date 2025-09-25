@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Reddit Demand Mapper - Video Opportunities</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; }
+    h1 { color: #333; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; background-color: #fff; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top; }
+    th { background-color: #eee; }
+    tr:nth-child(even) { background-color: #f2f2f2; }
+    .hashtags { color: #555; font-size: 0.9em; }
+    .video-title { font-weight: bold; margin-bottom: 5px; }
+    .video-reasons { font-size: 0.8em; color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Reddit Demand Mapper - Video Opportunities</h1>
+  <p>Data auto-updated from the latest GitHub Action run.</p>
+
+  <table id="opportunities-table">
+    <thead>
+      <tr>
+        <th>Theme</th>
+        <th>Posts Found</th>
+        <th>Avg Engagement</th>
+        <th>Total Comments</th>
+        <th>Demand Strength</th>
+        <th>Matched Videos</th>
+        <th>Suggested Hashtags</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    async function loadData() {
+      try {
+        const response = await fetch("latest.json");
+        const data = await response.json();
+        const tbody = document.querySelector("#opportunities-table tbody");
+
+        data.forEach(theme => {
+          const tr = document.createElement("tr");
+
+          // Build videos column
+          let videosHTML = "<em>No matches</em>";
+          if (theme.matched_videos && theme.matched_videos.length > 0) {
+            videosHTML = theme.matched_videos.map(v => `
+              <div class="video-title">
+                <a href="https://www.youtube.com/watch?v=${v.video_id}" target="_blank">${v.title}</a>
+                <span title="${v.match_reasons.join('; ')}">(${v.relevance_score.toFixed(1)})</span>
+              </div>
+              <div class="video-reasons">${v.channel}</div>
+            `).join("");
+          }
+
+          tr.innerHTML = `
+            <td>${theme.theme}</td>
+            <td>${theme.post_count || "-"}</td>
+            <td>${theme.avg_engagement ? theme.avg_engagement.toFixed(1) : "-"}</td>
+            <td>${theme.total_comments || "-"}</td>
+            <td>${theme.demand_strength ? theme.demand_strength.toFixed(1) : "-"}</td>
+            <td>${videosHTML}</td>
+            <td class="hashtags">${theme.hashtags ? theme.hashtags.join(" ") : ""}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      } catch (err) {
+        console.error("Failed to load JSON:", err);
+        document.body.insertAdjacentHTML("beforeend", "<p style='color:red'>Error loading data</p>");
+      }
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
