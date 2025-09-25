@@ -1,0 +1,604 @@
+[
+  {
+    "theme": "kitchen_appliances",
+    "post_count": 27,
+    "avg_engagement": 1201.7037037037037,
+    "total_comments": 2522,
+    "demand_strength": 32446.0,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "How to fix battery / charger?",
+        "selftext": "I was searching and couldn\u2019t find this specific issue so hope this is a valid post. \n\nProblem: battery won\u2019t charge. \n\nPlugging the empty charger into the wall results in a solid red light. As soon as I insert the battery into the charger, the charger indicator light flashes red for about 5 seconds and then goes solid green. But the battery indicator light still flashes only 1 green bar and the appliances do not work with this battery. \n\nSpecs: 18v 2Ah battery, PCG002 charger\n\nPlease let me know",
+        "score": 3,
+        "num_comments": 0,
+        "created_utc": 1757853208.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1ngq508/how_to_fix_battery_charger/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1ngq508/how_to_fix_battery_charger/",
+        "demand_signals": [
+          "how to"
+        ],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "DIY",
+        "title": "How do I make this look better?",
+        "selftext": "I had a kitchen center design and make inexpensive cabinets and I had my contractor install them.  When it come to the microwave I am at a loss on how to fix this.\n\nKitchen center said that the plans were designed so the cabinets went all the way to the ceiling bu that would have had the cabinets about 21\" from the counter top and not level with the dropped ceiling.\n\nThe contractor installed the cabinets at 19\" above the countertop and with no cabinet to mount the microwave to, he added lumber a",
+        "score": 57,
+        "num_comments": 82,
+        "created_utc": 1757547520.0,
+        "url": "https://www.reddit.com/gallery/1ndtte7",
+        "permalink": "https://reddit.com/r/DIY/comments/1ndtte7/how_do_i_make_this_look_better/",
+        "demand_signals": [
+          "how do i",
+          "how to",
+          "expensive"
+        ],
+        "matched_keywords": [
+          "microwave"
+        ]
+      },
+      {
+        "subreddit": "electricians",
+        "title": "Don't you just love the other trades?",
+        "selftext": "So I wired my parents house back in 1997. This is the cabinet above the microwave mounted above the cook top. When this was originally wired there was not any duct work. Fast forward to today and I am doing some work for my parents and happen to look in the cabinet above the microwave and this is what I see.\n\nAfter talking to my father, they had the duct work added some years after they had moved in and never thought to tell me that this had been done. I love how the HVAC company thought that th",
+        "score": 38,
+        "num_comments": 61,
+        "created_utc": 1757877956.0,
+        "url": "https://www.reddit.com/gallery/1nh0c7p",
+        "permalink": "https://reddit.com/r/electricians/comments/1nh0c7p/dont_you_just_love_the_other_trades/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "microwave"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Reviews & Kitchen Hacks",
+    "example_videos": [
+      "Air fryer vs oven comparison",
+      "Kitchen appliance buying guide"
+    ],
+    "hashtags": [
+      "#kitchenappliances",
+      "#airfryer",
+      "#kitchenhacks",
+      "#cooking"
+    ]
+  },
+  {
+    "theme": "general",
+    "post_count": 59,
+    "avg_engagement": 230.57627118644066,
+    "total_comments": 2645,
+    "demand_strength": 13604.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "These tractor LED work lights make really bright flashlights. Works with 12-24V, so it can be powered with tool batteries. This is 17W and costed 8eur.",
+        "selftext": "I made a 12V 4ah 18650 battery for it. It should last for around 2-2.5 hours. ",
+        "score": 349,
+        "num_comments": 33,
+        "created_utc": 1757700454.0,
+        "url": "https://www.reddit.com/gallery/1nfacps",
+        "permalink": "https://reddit.com/r/Tools/comments/1nfacps/these_tractor_led_work_lights_make_really_bright/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "Tools",
+        "title": "Cannot remember the name of this tool to save my life",
+        "selftext": "Trying to remember what this tool is called but no combination of searches leads me to this tool. It's a bit niche and very old school, but is basically a big blade with a handle that is attached to a bench with a swivel connection of some sort. I've seen it mostly used for shaping wooden spoons. Included a sketch of what the tool looks like.",
+        "score": 289,
+        "num_comments": 99,
+        "created_utc": 1757513810.0,
+        "url": "https://i.redd.it/906n471wicof1.jpeg",
+        "permalink": "https://reddit.com/r/Tools/comments/1ndfftr/cannot_remember_the_name_of_this_tool_to_save_my/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "blade"
+        ]
+      },
+      {
+        "subreddit": "Tools",
+        "title": "The best Wirecutters I've ever used!",
+        "selftext": "Hi Guys,\n\nFound this little guy in a lot of tools and am using it as my beater to protect my knipex. I've been using it for a few years now and it has become my favorite pair! It cut the worst stuff and the blades stay good. \n\nAnyone know the brand and is there a little bigger version available?",
+        "score": 216,
+        "num_comments": 34,
+        "created_utc": 1757811303.0,
+        "url": "https://www.reddit.com/gallery/1ngdrg9",
+        "permalink": "https://reddit.com/r/Tools/comments/1ngdrg9/the_best_wirecutters_ive_ever_used/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "blade"
+        ]
+      }
+    ],
+    "content_angle": "General Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#general"
+    ]
+  },
+  {
+    "theme": "cutting_tools",
+    "post_count": 24,
+    "avg_engagement": 438.0416666666667,
+    "total_comments": 2124,
+    "demand_strength": 10513.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Had to torque 40 deadbolts on a dd15 this morning. Coworker saw me throwing my body behind the cheater pipe and let me use his torque multiplier. What a game changer.",
+        "selftext": "",
+        "score": 2488,
+        "num_comments": 197,
+        "created_utc": 1757966661.0,
+        "url": "https://i.redd.it/4v2usv8gxdpf1.jpeg",
+        "permalink": "https://reddit.com/r/Tools/comments/1nhwilj/had_to_torque_40_deadbolts_on_a_dd15_this_morning/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "torque"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Pawned reciprocating saw is soul-bonded to its battery?",
+        "selftext": "I needed a reciprocating saw. Found this at a pawn shop. Now the battery only charges up to 1 bar and ONLY works with the saw. I have tried it on all 10 of my other dewalt tools to no use AND none of my other batteries work on the saw!\n\nCan anyone tell me how this is possible with an otherwise universal system?",
+        "score": 207,
+        "num_comments": 56,
+        "created_utc": 1757531716.0,
+        "url": "https://www.reddit.com/gallery/1ndnitn",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ndnitn/pawned_reciprocating_saw_is_soulbonded_to_its/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "reciprocating saw",
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Good deal?",
+        "selftext": "Got this, plus a router, bandsaw, and 2 tubs of old tools for 450$. Got it cleaned up and put in outdoor closet. I\u2019m going to sell it probably, it\u2019s a little overkill for me. What is this realistically gonna sell for if I do post it?",
+        "score": 33,
+        "num_comments": 8,
+        "created_utc": 1757557359.0,
+        "url": "https://www.reddit.com/gallery/1ndx5s8",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ndx5s8/good_deal/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "router"
+        ]
+      }
+    ],
+    "content_angle": "Chainsaw & Cutting Tool Reviews/Tips",
+    "example_videos": [
+      "Chainsaw maintenance in 60 seconds",
+      "Best budget chainsaws 2024"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#powertools",
+      "#DIY",
+      "#woodworking"
+    ]
+  },
+  {
+    "theme": "cleaning_equipment",
+    "post_count": 67,
+    "avg_engagement": 59.208955223880594,
+    "total_comments": 2179,
+    "demand_strength": 3967.0,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "PSA: Check Your Ryobi Electric Pressure Washer for the Capacitor Recall",
+        "selftext": "I have one of the Ryobi electric pressure washers (model RY142300)affected by the recent recall relating to bad capacitors. I just received the replacement capacitor from Ryobi and attempted the fix using the video directions. I had some difficulty removing the plastic cover, and once I pried it open, I understood why. The affected capacitor had burned through, nearly separated in half, had melted the surrounding plastic parts, and damaged the second capacitor. I used my pressure washer occasion",
+        "score": 23,
+        "num_comments": 5,
+        "created_utc": 1757967751.0,
+        "url": "https://www.reddit.com/gallery/1nhx0ik",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nhx0ik/psa_check_your_ryobi_electric_pressure_washer_for/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "pressure washer"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Part Search - RY143011VNM Pressure Washer",
+        "selftext": "I just bought a used Ryobi and when I turned her on for the first time we had a major leak out the bottom. After disassembly, I found this rubber gasketed bolt's head just fell off -- where the water was coming out. I tried to find the part on the ryobi parts site, but to no luck (link below). \n\nAnyone have any ideas of how to replce this piece? \n\n  \n[https://ryobipower.ordertree.com/model?modelId=77790&brandCode=HCP](https://ryobipower.ordertree.com/model?modelId=77790&brandCode=HCP)\n\n\n\nhttps:/",
+        "score": 2,
+        "num_comments": 0,
+        "created_utc": 1757680860.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1nf25l9/part_search_ry143011vnm_pressure_washer/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nf25l9/part_search_ry143011vnm_pressure_washer/",
+        "demand_signals": [
+          "how to",
+          "first time"
+        ],
+        "matched_keywords": [
+          "pressure washer"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Could I turn my dishwasher hard wire into a power outlet?",
+        "selftext": "Removing an old dishwasher and learning that it\u2019s hard wired into the wall. Would I be able to turn this wire into an outlet and plug in my new dishwasher into that outlet?",
+        "score": 38,
+        "num_comments": 66,
+        "created_utc": 1757957167.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1nhs6oa/could_i_turn_my_dishwasher_hard_wire_into_a_power/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1nhs6oa/could_i_turn_my_dishwasher_hard_wire_into_a_power/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "dishwasher"
+        ]
+      }
+    ],
+    "content_angle": "Pressure Washing & Cleaning Equipment",
+    "example_videos": [
+      "Pressure washer setup guide",
+      "Before/after cleaning reveals"
+    ],
+    "hashtags": [
+      "#pressurewashing",
+      "#cleaning",
+      "#satisfying",
+      "#powerwashing"
+    ]
+  },
+  {
+    "theme": "drilling_tools",
+    "post_count": 32,
+    "avg_engagement": 114.4375,
+    "total_comments": 1116,
+    "demand_strength": 3662.0,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "New Multi head drill?! Anyone tried it?",
+        "selftext": "Apparently a brand new multi head drill, anyone tried or got it? ",
+        "score": 171,
+        "num_comments": 76,
+        "created_utc": 1757974956.0,
+        "url": "https://i.redd.it/6tfwib84mepf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ni032u/new_multi_head_drill_anyone_tried_it/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "drill"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "finally pulled the trigger",
+        "selftext": "following the latest post about drills and impacts, i got left with this one being the only option because i already have an used dcd711 with 2 5ah batteries, i wanted the 850 but i had a goddamn voucher for this specific store and they only had this one, its really light and so far i love it, i hope i wont regret not buying random stuff with the voucher and spend 120\u20ac on 850 in another store, which made no financial sense for me. ",
+        "score": 58,
+        "num_comments": 26,
+        "created_utc": 1757514558.0,
+        "url": "https://i.redd.it/z4qhcej2lcof1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ndfr9s/finally_pulled_the_trigger/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "drill"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Battery indicator, stupid design?",
+        "selftext": "I\u2019m referring to the fact that the battery indicator is covered when you insert the battery into the tool. At least in the SDS drill and the trimmer. Couldn\u2019t they have put it on the other side?",
+        "score": 30,
+        "num_comments": 46,
+        "created_utc": 1757711826.0,
+        "url": "https://i.redd.it/naaafgzovsof1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nff5u3/battery_indicator_stupid_design/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "drill",
+          "battery"
+        ]
+      }
+    ],
+    "content_angle": "Drill & Driver Comparisons/Tutorials",
+    "example_videos": [
+      "Impact driver vs regular drill",
+      "Drill bit guide for beginners"
+    ],
+    "hashtags": [
+      "#drill",
+      "#impactdriver",
+      "#powertools",
+      "#construction"
+    ]
+  },
+  {
+    "theme": "beginner_guidance",
+    "post_count": 16,
+    "avg_engagement": 212.5,
+    "total_comments": 1088,
+    "demand_strength": 3400.0,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Is this much \"wiggle\" normal?",
+        "selftext": "So, I just received the XHU08T 18v 30\" hedge trimmer today.  It was a used, supposedly like new model. It definitely looks new, but is this much back and forth expected? I know the 30\" will have some flex with such a long bar, but this seems to be all over the place. ",
+        "score": 12,
+        "num_comments": 5,
+        "created_utc": 1757984319.0,
+        "url": "https://v.redd.it/ukpnfnrwdfpf1",
+        "permalink": "https://reddit.com/r/Makita/comments/1ni3n1w/is_this_much_wiggle_normal/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "hedge trimmer"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Local HD Clearance - HP Pet Stick Vac with 2x 4Ah HP batteries",
+        "selftext": "Internet # 333174679\nModel # PBLSV716K2SB\nStore SKU # 1013241252\nNormally $199, on local clearance ($100.04 here). \n\nFor those of us who have more-limited options (DTO won't ship here and HD won't get/ship most of the HD HP bundles here), this was a great deal since the best accessible deal is the 2x 4Ah HP battery clamshell pack for $129, so this is getting the vacuum for better than free!\n\nMy store had a couple pallets of them.   I guess they're clearing them out to make space for the new WHIS",
+        "score": 14,
+        "num_comments": 13,
+        "created_utc": 1758072633.0,
+        "url": "https://www.reddit.com/gallery/1nizyox",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nizyox/local_hd_clearance_hp_pet_stick_vac_with_2x_4ah/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "battery",
+          "vacuum"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "What's the best way to buy two 4 Ah batteries?",
+        "selftext": "I'm talking 18 volt. HD has it for $79. So that's one way. But I keep seeing how people mention \"if you look for a sale you can get batteries much cheaper\". That or getting a free tool with batteries. Or other promotions.\n\nI don't need the batteries right away. Maybe within a month or two. Do various sales come up often? Or should I just buy the batteries for $79 and be done with it?\n\nWhat's a good way to know about current and upcoming promotions and deals to tools and batteries?\n\nI'm new to co",
+        "score": 3,
+        "num_comments": 16,
+        "created_utc": 1757775519.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1nfzm6p/whats_the_best_way_to_buy_two_4_ah_batteries/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nfzm6p/whats_the_best_way_to_buy_two_4_ah_batteries/",
+        "demand_signals": [
+          "what's the best",
+          "cheap",
+          "new to"
+        ],
+        "matched_keywords": [
+          "cordless"
+        ]
+      }
+    ],
+    "content_angle": "Tool & Equipment Education for Beginners",
+    "example_videos": [
+      "Tools every homeowner needs",
+      "Beginner tool buying guide"
+    ],
+    "hashtags": [
+      "#beginnertools",
+      "#DIYbeginner",
+      "#homeimprovement",
+      "#tools101"
+    ]
+  },
+  {
+    "theme": "lawn_care",
+    "post_count": 12,
+    "avg_engagement": 138.16666666666666,
+    "total_comments": 726,
+    "demand_strength": 1658.0,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Advise requested",
+        "selftext": "Hello! Thought I would check the group for suggestions. As you can see the padding on my lawn mower is ripping. My wife kissed me about using \"my black tape\" to tape it up. Admitted it was a thought but usually doesn't work/last. Any thoughts? No, the padding isn't necessary but I do like it and wanted to save what I could. I would like to jeep the padding and it not look like crap. TIA! ",
+        "score": 4,
+        "num_comments": 5,
+        "created_utc": 1757784983.0,
+        "url": "https://i.redd.it/f3gt9xq7xyof1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1ng3ll5/advise_requested/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "lawn mower"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "HELP with RY40108",
+        "selftext": "I have a RY40108 lawn mower, and my son accidentally pulled the handle bars too hard, which caused them to come off. The small cord attached to the handle also broke. Is this something that can be fixed? I would really appreciate any advice or help, especially budget-friendly options since I am a single mom currently out of work. Thank you so much in advance.",
+        "score": 3,
+        "num_comments": 1,
+        "created_utc": 1757541270.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1ndrgdu/help_with_ry40108/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1ndrgdu/help_with_ry40108/",
+        "demand_signals": [
+          "help with",
+          "advice",
+          "budget"
+        ],
+        "matched_keywords": [
+          "lawn mower"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "How do I know if a lawn mower will be sufficient for my yard before purchasing it?",
+        "selftext": "Right now I have a Toro 60V lawnmower (specifically model #21356) with a 7.5 Ah battery, and I'm pretty unimpressed by it.  I love that it's quiet and that it's not gas, and that I can complete my full yard without swapping batteries.  But it is terrible at bagging, its self-propelled capabilities are mediocre at best (which is very unfortunate given all the inclines of my yard), and it's starting to make some pretty unpleasant sounds after only a couple years, making me question its overall qua",
+        "score": 2,
+        "num_comments": 10,
+        "created_utc": 1757904413.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1nhafb4/how_do_i_know_if_a_lawn_mower_will_be_sufficient/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nhafb4/how_do_i_know_if_a_lawn_mower_will_be_sufficient/",
+        "demand_signals": [
+          "how do i",
+          "advice"
+        ],
+        "matched_keywords": [
+          "lawn mower",
+          "battery"
+        ]
+      }
+    ],
+    "content_angle": "Lawn Equipment Reviews & Tips",
+    "example_videos": [
+      "Mower buying guide",
+      "Lawn care mistakes to avoid"
+    ],
+    "hashtags": [
+      "#lawncare",
+      "#mower",
+      "#landscaping",
+      "#yardwork"
+    ]
+  },
+  {
+    "theme": "budget_options",
+    "post_count": 8,
+    "avg_engagement": 144.375,
+    "total_comments": 216,
+    "demand_strength": 1155.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "DIY Sanding Disc Holder \u2013 Simple, Cheap, and Functional (~7\u20ac build)",
+        "selftext": "I\u2019ve been looking for a proper way to store my sanding discs for quite a while. Most of the ideas I found online were either visually boring (just a plain box with thin dividers) or way too expensive. Even the few affordable commercial options run close to 30\u20ac for only 8 compartments.\n\nSo, I decided to make my own inexpensive and simple version. Here\u2019s what I came up with \u2014 the whole thing cost me about 7\u20ac.\n\n\n---\n\nMaterials\n\n500mm sewage pipe (KG Rohr DN 160, \u00d8160 mm) \u2013 ~4\u20ac\n\n10mm thick plywood o",
+        "score": 136,
+        "num_comments": 3,
+        "created_utc": 1757521502.0,
+        "url": "https://www.reddit.com/gallery/1ndiw8e",
+        "permalink": "https://reddit.com/r/Tools/comments/1ndiw8e/diy_sanding_disc_holder_simple_cheap_and/",
+        "demand_signals": [
+          "cheap",
+          "expensive",
+          "expensive",
+          "cheap",
+          "small space"
+        ],
+        "matched_keywords": [
+          "drill",
+          "jigsaw",
+          "cordless"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Are these junk",
+        "selftext": "They are $85 for both of them just seems too cheap of a price...I order them anyway if junk,  my wife can use them for her hand held vacuum ",
+        "score": 25,
+        "num_comments": 36,
+        "created_utc": 1757988331.0,
+        "url": "https://i.redd.it/817bzsxvpfpf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ni5375/are_these_junk/",
+        "demand_signals": [
+          "cheap"
+        ],
+        "matched_keywords": [
+          "vacuum"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "18v 5.0ah battery - best way to buy?",
+        "selftext": "I've been a Milwaukee M12 guy but got into Makita 18v when I bought their weedeater and blower. Both impressed me for the weight and power.\n\nI'm looking to pick up another battery so I can have one for each tool.\n\nOutright at retail, the 5.0ah battery is around $125 but does it ever get cheaper during black friday or holiday sales?\n\nOr is this one of the cases where you are better off spending a little more for a tool + battery combo where you are basically getting the battery for super cheap.",
+        "score": 13,
+        "num_comments": 19,
+        "created_utc": 1757714099.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1nfg3xd/18v_50ah_battery_best_way_to_buy/",
+        "permalink": "https://reddit.com/r/Makita/comments/1nfg3xd/18v_50ah_battery_best_way_to_buy/",
+        "demand_signals": [
+          "cheap",
+          "cheap"
+        ],
+        "matched_keywords": [
+          "battery"
+        ]
+      }
+    ],
+    "content_angle": "Budget Tool & Appliance Reviews",
+    "example_videos": [
+      "Best budget power tools",
+      "Cheap vs expensive tool comparison"
+    ],
+    "hashtags": [
+      "#budgettools",
+      "#affordabletools",
+      "#tooldeals",
+      "#budgetDIY"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 12,
+    "avg_engagement": 38.583333333333336,
+    "total_comments": 980,
+    "demand_strength": 463.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Spent the last month buying for parts/not working Fluke 52 II thermometers, fixing them up, and putting together this kit for myself.",
+        "selftext": "I do supermarket refrigeration and have frequently felt limited by the single Fluke 52 II that my company supplies with the van. Ever since I discovered how cheaply you can get them for parts/not working on ebay I've started amassing a collection, and I'm now ready to diagnose entire lineups of refrigerated cases at the same time. Also acquired some neat accessories like the velcro probe straps, three of the ridiculously overpriced Fluke pipe clamps acquired at a nice price, and a Fluke 80PK-IR ",
+        "score": 119,
+        "num_comments": 11,
+        "created_utc": 1757949454.0,
+        "url": "https://www.reddit.com/gallery/1nhoota",
+        "permalink": "https://reddit.com/r/Tools/comments/1nhoota/spent_the_last_month_buying_for_partsnot_working/",
+        "demand_signals": [
+          "not working",
+          "not working",
+          "not working",
+          "cheap"
+        ],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "18V Lithium+, no lights when button pushed... batteries at 19V",
+        "selftext": "Hello, i was given a tool and battery from someone telling me it's not working anymore and if i can fix it, i could keep it. the tool works! but the battery doesn't seem to turn on. It's a P108 18V lithium+. When i push the button, no lights come one... but when i check the battery pack itself, i see 19V with my multimeter. The terminal show 30 mV... has anyone had this issue and figured out how to fix it?",
+        "score": 1,
+        "num_comments": 11,
+        "created_utc": 1758038379.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1nilhl6/18v_lithium_no_lights_when_button_pushed/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nilhl6/18v_lithium_no_lights_when_button_pushed/",
+        "demand_signals": [
+          "how to",
+          "not working"
+        ],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "A simple framework for choosing the right exterior paint color (and avoiding a costly mistake)",
+        "selftext": "**How to Choose the Right Exterior Color, The First Time.**\n\nDon't choose your exterior paint color in a vacuum. To get it right, follow this simple framework that focuses on what's already there.\n\n* **Start with Your \"Fixed Elements.\"** \\> Your roof, stone, and brick aren't changing. Your new paint color must complement them. This is the foundation of a great color choice.\n* **Identify the Undertones.** \\> Look closely at your brick or stone. Are the underlying colors warm (orange, tan, pink) o",
+        "score": 4,
+        "num_comments": 3,
+        "created_utc": 1757865655.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1ngv0vh/a_simple_framework_for_choosing_the_right/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1ngv0vh/a_simple_framework_for_choosing_the_right/",
+        "demand_signals": [
+          "how to",
+          "first time"
+        ],
+        "matched_keywords": [
+          "vacuum"
+        ]
+      }
+    ],
+    "content_angle": "DIY Repair Tutorials",
+    "example_videos": [
+      "Fix it yourself tutorials",
+      "Common appliance problems"
+    ],
+    "hashtags": [
+      "#DIYrepair",
+      "#fixit",
+      "#repair",
+      "#maintenance"
+    ]
+  }
+]

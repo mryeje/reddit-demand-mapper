@@ -1,4 +1,4 @@
-name: Reddit Demand Mapper
+name: Reddit Demand Mapper Full Pipeline
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:       # Allow manual runs
 
 jobs:
-  run-mapper:
+  run-pipeline:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,20 +30,26 @@ jobs:
         run: |
           python reddit_demand_mapper.py
 
-      - name: Commit latest JSON (if exists)
+      - name: Run Video Matcher (db2json)
         run: |
-          if [ -f reports/latest.json ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "actions@github.com"
-            git add reports/latest.json
-            git commit -m "Update latest.json" || echo "No changes to commit"
-            git push
-          else
-            echo "No latest.json found, skipping commit."
-          fi
+          python db2json.py
 
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+      - name: Commit reports (latest + archives)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add reports/*.json
+          git commit -m "Auto-update reports [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Prepare Dashboard
+        run: |
+          mkdir -p public
+          cp index.html public/
+          cp reports/latest.json public/latest.json
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: reddit-reports
-          path: reports/
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

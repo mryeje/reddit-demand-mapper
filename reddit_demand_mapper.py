@@ -8,12 +8,24 @@ from collections import defaultdict
 import time
 
 class RedditDemandMapper:
-    def __init__(self):
-        # Initialize Reddit API connection
+    def __init__(self, persist_subreddits=False):
+        # Load Reddit credentials from environment variables first
+        client_id = os.getenv('REDDIT_CLIENT_ID')
+        client_secret = os.getenv('REDDIT_CLIENT_SECRET')
+        user_agent = 'DemandMapper/1.0'
+
+        # === LOCAL TESTING FALLBACK ===
+        # Replace the below with your own Reddit app credentials for temporary testing
+        if not client_id or not client_secret:
+            client_id = 'sDahoUx4K4Bmx9ebIGVtHQ'          # <-- replace with real client_id
+            client_secret = 'jUn8xcFBOeh7jBX5eyW4s7JDpSNalQ'  # <-- replace with real client_secret
+            print("WARNING: Using hard-coded Reddit credentials for local testing. Remove before GitHub push!")
+
+        # Initialize Reddit instance
         self.reddit = praw.Reddit(
-            client_id=os.getenv('REDDIT_CLIENT_ID'),
-            client_secret=os.getenv('REDDIT_CLIENT_SECRET'),
-            user_agent='DemandMapper/1.0'
+            client_id=client_id,
+            client_secret=client_secret,
+            user_agent=user_agent
         )
         
         # Target subreddits for OPE, power tools, and appliances
@@ -238,5 +250,5 @@ class RedditDemandMapper:
             f.write("\n".join(lines))
 
 if __name__ == "__main__":
-    mapper = RedditDemandMapper()
+    mapper = RedditDemandMapper(persist_subreddits=True)
     mapper.run_full_analysis()

@@ -2,30 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Reddit Demand Mapper - TikTok Opportunities</title>
+  <title>Reddit Demand Mapper - Video Opportunities</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; }
     h1 { color: #333; }
     table { border-collapse: collapse; width: 100%; margin-top: 20px; background-color: #fff; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top; }
     th { background-color: #eee; }
     tr:nth-child(even) { background-color: #f2f2f2; }
     .hashtags { color: #555; font-size: 0.9em; }
+    .video-title { font-weight: bold; margin-bottom: 5px; }
+    .video-reasons { font-size: 0.8em; color: #666; }
   </style>
 </head>
 <body>
-  <h1>Reddit Demand Mapper - TikTok Opportunities</h1>
-  <p>Loaded latest JSON report automatically.</p>
+  <h1>Reddit Demand Mapper - Video Opportunities</h1>
+  <p>Data auto-updated from the latest GitHub Action run.</p>
+
   <table id="opportunities-table">
     <thead>
       <tr>
         <th>Theme</th>
-        <th>Content Angle</th>
         <th>Posts Found</th>
         <th>Avg Engagement</th>
         <th>Total Comments</th>
         <th>Demand Strength</th>
-        <th>Example Videos</th>
+        <th>Matched Videos</th>
         <th>Suggested Hashtags</th>
       </tr>
     </thead>
@@ -33,40 +35,45 @@
   </table>
 
   <script>
-    // Find the latest JSON file in the folder
-    async function getLatestJSON() {
-      const files = ["tiktok_opportunities_20250910_120000.json", "tiktok_opportunities_20250915_090000.json"]; 
-      // Replace this with an updated list of files in the folder if you know them, or auto-generate via Python later
+    async function loadData() {
+      try {
+        const response = await fetch("latest.json");
+        const data = await response.json();
+        const tbody = document.querySelector("#opportunities-table tbody");
 
-      files.sort(); // filenames are timestamped, so sorting works
-      return files[files.length - 1];
+        data.forEach(theme => {
+          const tr = document.createElement("tr");
+
+          // Build videos column
+          let videosHTML = "<em>No matches</em>";
+          if (theme.matched_videos && theme.matched_videos.length > 0) {
+            videosHTML = theme.matched_videos.map(v => `
+              <div class="video-title">
+                <a href="https://www.youtube.com/watch?v=${v.video_id}" target="_blank">${v.title}</a>
+                <span title="${v.match_reasons.join('; ')}">(${v.relevance_score.toFixed(1)})</span>
+              </div>
+              <div class="video-reasons">${v.channel}</div>
+            `).join("");
+          }
+
+          tr.innerHTML = `
+            <td>${theme.theme}</td>
+            <td>${theme.post_count || "-"}</td>
+            <td>${theme.avg_engagement ? theme.avg_engagement.toFixed(1) : "-"}</td>
+            <td>${theme.total_comments || "-"}</td>
+            <td>${theme.demand_strength ? theme.demand_strength.toFixed(1) : "-"}</td>
+            <td>${videosHTML}</td>
+            <td class="hashtags">${theme.hashtags ? theme.hashtags.join(" ") : ""}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      } catch (err) {
+        console.error("Failed to load JSON:", err);
+        document.body.insertAdjacentHTML("beforeend", "<p style='color:red'>Error loading data</p>");
+      }
     }
 
-    async function loadOpportunities() {
-      const latestFile = await getLatestJSON();
-      const response = await fetch(latestFile);
-      const opportunities = await response.json();
-      const tbody = document.querySelector("#opportunities-table tbody");
-      const jsonFile = "latest.json";  // Always points to latest run
-
-
-      opportunities.forEach(opp => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td>${opp.theme}</td>
-          <td>${opp.content_angle}</td>
-          <td>${opp.post_count}</td>
-          <td>${opp.avg_engagement.toFixed(1)}</td>
-          <td>${opp.total_comments}</td>
-          <td>${opp.demand_strength.toFixed(1)}</td>
-          <td>${opp.example_videos.map(v => `<div>${v}</div>`).join('')}</td>
-          <td class="hashtags">${opp.hashtags.join(' ')}</td>
-        `;
-        tbody.appendChild(tr);
-      });
-    }
-
-    loadOpportunities();
+    loadData();
   </script>
 </body>
 </html>
