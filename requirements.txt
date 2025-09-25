@@ -3,3 +3,4 @@ requests>=2.25.0
 sentence-transformers>=2.2.2
 rapidfuzz>=3.0.0
 torch>=2.0.0
+pandas>=1.5.0  # ← Add this line
