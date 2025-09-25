@@ -1,5 +1,5 @@
 import praw
-import pandas as pd
+import csv  # ← Added to replace pandas
 import json
 import os
 import re
@@ -222,8 +222,13 @@ class RedditDemandMapper:
         with open(latest_json_path, "w") as f:
             json.dump(opportunities, f, indent=2, default=str)
 
-        # Save historical reports
-        pd.DataFrame(all_posts).to_csv(f'reports/reddit_posts_{timestamp}.csv', index=False)
+        # Save historical reports - REPLACED PANDAS WITH CSV MODULE
+        if all_posts:
+            with open(f'reports/reddit_posts_{timestamp}.csv', 'w', newline='', encoding='utf-8') as csvfile:
+                writer = csv.DictWriter(csvfile, fieldnames=all_posts[0].keys())
+                writer.writeheader()
+                writer.writerows(all_posts)
+                
         with open(f'reports/tiktok_opportunities_{timestamp}.json', 'w') as f:
             json.dump(opportunities, f, indent=2, default=str)
 
