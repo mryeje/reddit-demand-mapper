@@ -52,7 +52,9 @@ jobs:
           mkdir -p public
           cp index.html public/
           cp reports/latest.json public/latest.json
-          # Add a simple CSS file to avoid Jekyll processing
+          # Create a .nojekyll file to disable Jekyll processing
+          touch public/.nojekyll
+          # Create a simple CSS file
           echo "body { font-family: Arial, sans-serif; margin: 20px; }" > public/style.css
 
       - name: Deploy to GitHub Pages
@@ -60,5 +62,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          enable_jekyll: false  # ← Disable Jekyll processing
-          keep_files: false     # ← Clean the deployment branch
+          enable_jekyll: false
+          keep_files: false
