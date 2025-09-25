@@ -50,17 +50,20 @@ jobs:
       - name: Prepare Dashboard
         run: |
           mkdir -p public
-          cp index.html public/index.html
+          cp index.html public/
           cp reports/latest.json public/latest.json
           # Create a .nojekyll file to disable Jekyll processing
           touch public/.nojekyll
-          # Simple CSS for basic styling
+          # Create a simple CSS file
           echo "body { font-family: Arial, sans-serif; margin: 20px; }" > public/style.css
+
+      - name: Move latest.json to public root
+        run: cp reports/latest.json public/latest.json
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./public   # 👈 serve only the public folder
           enable_jekyll: false
           keep_files: false
