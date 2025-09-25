@@ -320,7 +320,7 @@ class ImprovedVideoMatcher:
             else:
                 print(f"  {theme_name:20} → No matches")
 
-ddef main():
+def main():
     REDDIT_JSON_PATH = "reports/latest.json"  # ← Fixed path
     YOUTUBE_DB_PATHS = [
         "fixtechguides.db",
@@ -353,5 +353,6 @@ ddef main():
 
 if __name__ == "__main__":
     main()
+
 
 
