@@ -22,7 +22,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
+          # Add this if pandas is still missing:
+          pip install pandas>=1.5.0
+          
       - name: Run Reddit Demand Mapper
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
