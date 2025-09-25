@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ← Added for write permissions
+          persist-credentials: true           # ← Added for write permissions
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -22,9 +25,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          # Add this if pandas is still missing:
-          pip install pandas>=1.5.0
-          
+
       - name: Run Reddit Demand Mapper
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
@@ -39,10 +40,12 @@ jobs:
       - name: Commit reports (latest + archives)
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "actions@github.com"
-          git add reports/*.json
-          git commit -m "Auto-update reports [skip ci]" || echo "No changes to commit"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/*.json reports/*.md reports/*.csv
+          git diff --staged --quiet || git commit -m "Auto-update reports [skip ci]"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ← Added environment variable
 
       - name: Prepare Dashboard
         run: |
