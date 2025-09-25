@@ -57,6 +57,9 @@ jobs:
           # Create a simple CSS file
           echo "body { font-family: Arial, sans-serif; margin: 20px; }" > public/style.css
 
+      - name: Move latest.json to public root
+        run: cp reports/latest.json public/latest.json
+      
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
