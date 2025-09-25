@@ -321,7 +321,7 @@ class ImprovedVideoMatcher:
                 print(f"  {theme_name:20} → No matches")
 
 def main():
-    REDDIT_JSON_PATH = "reddit_posts.json"
+    REDDIT_JSON_PATH = "reports/latest.json"
     YOUTUBE_DB_PATHS = [
         "fixtechguides.db",
         "partselect.db"
@@ -353,3 +353,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
