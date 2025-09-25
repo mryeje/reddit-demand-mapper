@@ -50,15 +50,12 @@ jobs:
       - name: Prepare Dashboard
         run: |
           mkdir -p public
-          cp index.html public/
+          cp index.html public/index.html          # ✅ publish root index.html
           cp reports/latest.json public/latest.json
           # Create a .nojekyll file to disable Jekyll processing
           touch public/.nojekyll
           # Create a simple CSS file
           echo "body { font-family: Arial, sans-serif; margin: 20px; }" > public/style.css
-
-      - name: Move latest.json to public root
-        run: cp reports/latest.json public/latest.json
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
