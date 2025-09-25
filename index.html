@@ -1,79 +1,538 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Reddit Demand Mapper - Video Opportunities</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; }
-    h1 { color: #333; }
-    table { border-collapse: collapse; width: 100%; margin-top: 20px; background-color: #fff; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top; }
-    th { background-color: #eee; }
-    tr:nth-child(even) { background-color: #f2f2f2; }
-    .hashtags { color: #555; font-size: 0.9em; }
-    .video-title { font-weight: bold; margin-bottom: 5px; }
-    .video-reasons { font-size: 0.8em; color: #666; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reddit Posts & Video Correlation Viewer</title>
+<style>
+    body { 
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
+        margin: 20px; 
+        background: #f8f9fa; 
+        line-height: 1.6;
+    }
+    h1 { 
+        text-align: center; 
+        color: #2c3e50;
+        margin-bottom: 30px;
+    }
+    .controls {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    input[type="file"] { 
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 2px dashed #bdc3c7;
+        border-radius: 5px;
+        background: white;
+    }
+    .summary {
+        background: #e8f4fd;
+        padding: 20px;
+        border-radius: 8px;
+        margin-bottom: 30px;
+        border-left: 4px solid #3498db;
+    }
+    .theme { 
+        margin-bottom: 40px; 
+        background: #fff; 
+        padding: 20px; 
+        border-radius: 12px; 
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        border-left: 5px solid #e74c3c;
+    }
+    .theme h2 { 
+        margin-top: 0; 
+        color: #2c3e50;
+        text-transform: capitalize;
+        border-bottom: 2px solid #ecf0f1;
+        padding-bottom: 10px;
+    }
+    .theme-stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 15px;
+        margin: 15px 0;
+        padding: 15px;
+        background: #f8f9fa;
+        border-radius: 8px;
+    }
+    .stat-item {
+        text-align: center;
+    }
+    .stat-value {
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #e74c3c;
+        display: block;
+    }
+    .stat-label {
+        font-size: 0.9em;
+        color: #7f8c8d;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .content-angle {
+        background: #fff3cd;
+        padding: 10px 15px;
+        border-radius: 6px;
+        border-left: 4px solid #ffc107;
+        margin: 15px 0;
+        font-weight: 500;
+    }
+    .hashtags {
+        margin: 15px 0;
+    }
+    .hashtag {
+        display: inline-block;
+        background: #17a2b8;
+        color: white;
+        padding: 4px 8px;
+        border-radius: 12px;
+        font-size: 0.8em;
+        margin-right: 8px;
+        margin-bottom: 5px;
+    }
+    .section {
+        margin: 25px 0;
+    }
+    .section h3 {
+        color: #34495e;
+        border-bottom: 1px solid #bdc3c7;
+        padding-bottom: 5px;
+        margin-bottom: 15px;
+    }
+    .sample-post { 
+        border: 1px solid #e9ecef;
+        padding: 15px; 
+        margin-bottom: 15px;
+        border-radius: 8px;
+        background: #fafafa;
+    }
+    .post-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+        flex-wrap: wrap;
+    }
+    .subreddit {
+        background: #ff4500;
+        color: white;
+        padding: 3px 8px;
+        border-radius: 12px;
+        font-size: 0.8em;
+        font-weight: bold;
+    }
+    .post-stats {
+        color: #7f8c8d;
+        font-size: 0.9em;
+    }
+    .post-title {
+        font-weight: bold;
+        color: #2c3e50;
+        margin: 10px 0;
+        font-size: 1.1em;
+    }
+    .post-content {
+        color: #555;
+        margin: 10px 0;
+        max-height: 150px;
+        overflow-y: auto;
+        padding: 8px;
+        background: white;
+        border-radius: 4px;
+    }
+    .post-links {
+        margin-top: 10px;
+    }
+    .post-links a {
+        margin-right: 15px;
+        color: #3498db;
+        text-decoration: none;
+        font-size: 0.9em;
+    }
+    .post-links a:hover {
+        text-decoration: underline;
+    }
+    .demand-signals {
+        margin: 8px 0;
+    }
+    .signal {
+        display: inline-block;
+        background: #28a745;
+        color: white;
+        padding: 2px 6px;
+        border-radius: 8px;
+        font-size: 0.7em;
+        margin-right: 5px;
+    }
+    .matched-keywords {
+        margin: 8px 0;
+    }
+    .keyword {
+        display: inline-block;
+        background: #6f42c1;
+        color: white;
+        padding: 2px 6px;
+        border-radius: 8px;
+        font-size: 0.7em;
+        margin-right: 5px;
+    }
+    .matched-videos {
+        margin-top: 20px;
+    }
+    .video-item {
+        background: #fff5f5;
+        border: 1px solid #fed7d7;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+    .video-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 10px;
+    }
+    .video-title {
+        font-weight: bold;
+        color: #c53030;
+        flex: 1;
+        margin-right: 10px;
+    }
+    .relevance-score {
+        background: #c53030;
+        color: white;
+        padding: 4px 8px;
+        border-radius: 12px;
+        font-size: 0.8em;
+        font-weight: bold;
+        min-width: 60px;
+        text-align: center;
+    }
+    .video-description {
+        color: #666;
+        font-size: 0.9em;
+        margin: 8px 0;
+        line-height: 1.4;
+    }
+    .match-reasons {
+        margin-top: 10px;
+    }
+    .match-reason {
+        display: inline-block;
+        background: #e2e8f0;
+        color: #2d3748;
+        padding: 2px 6px;
+        border-radius: 8px;
+        font-size: 0.7em;
+        margin-right: 5px;
+        margin-bottom: 3px;
+    }
+    .video-link {
+        display: inline-block;
+        background: #c53030;
+        color: white;
+        padding: 8px 15px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 0.9em;
+        margin-top: 10px;
+    }
+    .video-link:hover {
+        background: #9c2626;
+        text-decoration: none;
+    }
+    .example-videos {
+        background: #f0fff4;
+        padding: 10px;
+        border-radius: 6px;
+        border-left: 4px solid #28a745;
+    }
+    .example-video {
+        color: #155724;
+        font-style: italic;
+        margin: 3px 0;
+    }
+    .loading {
+        text-align: center;
+        padding: 40px;
+        color: #6c757d;
+    }
+    .error {
+        background: #f8d7da;
+        color: #721c24;
+        padding: 20px;
+        border-radius: 5px;
+        margin: 20px 0;
+    }
+</style>
 </head>
 <body>
-  <h1>Reddit Demand Mapper - Video Opportunities</h1>
-  <p>Data auto-updated from the latest GitHub Action run.</p>
 
-  <table id="opportunities-table">
-    <thead>
-      <tr>
-        <th>Theme</th>
-        <th>Posts Found</th>
-        <th>Avg Engagement</th>
-        <th>Total Comments</th>
-        <th>Demand Strength</th>
-        <th>Matched Videos</th>
-        <th>Suggested Hashtags</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+<h1>Reddit Posts & Video Correlation Viewer</h1>
 
-  <script>
-    async function loadData() {
-      try {
-        const response = await fetch("latest.json");
-        const data = await response.json();
-        const tbody = document.querySelector("#opportunities-table tbody");
+<div class="controls">
+    <input type="file" id="jsonFile" accept=".json" placeholder="Select JSON file..." />
+</div>
 
-        data.forEach(theme => {
-          const tr = document.createElement("tr");
+<div id="loading" class="loading">Loading latest analysis data...</div>
+<div id="summary"></div>
+<div id="content"></div>
 
-          // Build videos column
-          let videosHTML = "<em>No matches</em>";
-          if (theme.matched_videos && theme.matched_videos.length > 0) {
-            videosHTML = theme.matched_videos.map(v => `
-              <div class="video-title">
-                <a href="https://www.youtube.com/watch?v=${v.video_id}" target="_blank">${v.title}</a>
-                <span title="${v.match_reasons.join('; ')}">(${v.relevance_score.toFixed(1)})</span>
-              </div>
-              <div class="video-reasons">${v.channel}</div>
-            `).join("");
-          }
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Auto-load the latest.json data when page loads
+    loadLatestData();
+});
 
-          tr.innerHTML = `
-            <td>${theme.theme}</td>
-            <td>${theme.post_count || "-"}</td>
-            <td>${theme.avg_engagement ? theme.avg_engagement.toFixed(1) : "-"}</td>
-            <td>${theme.total_comments || "-"}</td>
-            <td>${theme.demand_strength ? theme.demand_strength.toFixed(1) : "-"}</td>
-            <td>${videosHTML}</td>
-            <td class="hashtags">${theme.hashtags ? theme.hashtags.join(" ") : ""}</td>
-          `;
-          tbody.appendChild(tr);
+function loadLatestData() {
+    const loadingElement = document.getElementById('loading');
+    const fileInput = document.getElementById('jsonFile');
+    
+    fetch('latest.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            loadingElement.style.display = 'none';
+            displayData(data);
+            // Hide the file input since we're auto-loading
+            fileInput.style.display = 'none';
+        })
+        .catch(error => {
+            loadingElement.innerHTML = '<div class="error">' +
+                '<h3>Error loading data</h3>' +
+                '<p>Could not load latest.json. You can upload a JSON file manually:</p>' +
+                '<p><strong>Error details:</strong> ' + error.message + '</p>' +
+                '</div>';
+            fileInput.style.display = 'block';
+            console.error('Error loading latest.json:', error);
         });
-      } catch (err) {
-        console.error("Failed to load JSON:", err);
-        document.body.insertAdjacentHTML("beforeend", "<p style='color:red'>Error loading data</p>");
-      }
+}
+
+// Keep the existing file upload functionality as fallback
+document.getElementById('jsonFile').addEventListener('change', function(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    const loadingElement = document.getElementById('loading');
+    loadingElement.style.display = 'block';
+    loadingElement.textContent = 'Processing uploaded file...';
+
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        try {
+            const data = JSON.parse(e.target.result);
+            loadingElement.style.display = 'none';
+            displayData(data);
+        } catch (err) {
+            loadingElement.style.display = 'none';
+            alert("Invalid JSON file! Please check the file format.");
+            console.error(err);
+        }
+    };
+    reader.onerror = function() {
+        loadingElement.style.display = 'none';
+        alert("Error reading file. Please try again.");
+    };
+    reader.readAsText(file);
+});
+
+function displayData(data) {
+    const summaryContainer = document.getElementById('summary');
+    const contentContainer = document.getElementById('content');
+    
+    // Clear existing content
+    summaryContainer.innerHTML = '';
+    contentContainer.innerHTML = '';
+
+    if (!data || !Array.isArray(data) || data.length === 0) {
+        summaryContainer.innerHTML = '<div class="error">No data available or invalid data format.</div>';
+        return;
     }
 
-    loadData();
-  </script>
+    // Generate summary
+    const totalPosts = data.reduce((sum, theme) => sum + (theme.post_count || 0), 0);
+    const totalComments = data.reduce((sum, theme) => sum + (theme.total_comments || 0), 0);
+    const totalDemandStrength = data.reduce((sum, theme) => sum + (theme.demand_strength || 0), 0);
+    const avgEngagement = data.reduce((sum, theme) => sum + (theme.avg_engagement || 0), 0) / data.length;
+
+    summaryContainer.innerHTML = `
+        <div class="summary">
+            <h2>Dataset Summary</h2>
+            <div class="theme-stats">
+                <div class="stat-item">
+                    <span class="stat-value">${data.length}</span>
+                    <span class="stat-label">Themes</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${totalPosts.toLocaleString()}</span>
+                    <span class="stat-label">Total Posts</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${totalComments.toLocaleString()}</span>
+                    <span class="stat-label">Total Comments</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${avgEngagement.toFixed(1)}</span>
+                    <span class="stat-label">Avg Engagement</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${Math.round(totalDemandStrength).toLocaleString()}</span>
+                    <span class="stat-label">Total Demand Strength</span>
+                </div>
+            </div>
+            <p style="margin-top: 15px; font-style: italic; color: #666;">
+                Last updated: ${new Date().toLocaleString()}
+            </p>
+        </div>
+    `;
+
+    // Generate theme content
+    data.forEach(theme => {
+        if (!theme.theme) return;
+
+        let html = `<div class="theme">
+            <h2>${theme.theme.replace(/_/g, ' ')}</h2>
+            
+            <div class="theme-stats">
+                <div class="stat-item">
+                    <span class="stat-value">${theme.post_count || 0}</span>
+                    <span class="stat-label">Posts</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${(theme.avg_engagement || 0).toFixed(1)}</span>
+                    <span class="stat-label">Avg Engagement</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${(theme.total_comments || 0).toLocaleString()}</span>
+                    <span class="stat-label">Comments</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${Math.round(theme.demand_strength || 0).toLocaleString()}</span>
+                    <span class="stat-label">Demand Strength</span>
+                </div>
+            </div>`;
+
+        if (theme.content_angle) {
+            html += `<div class="content-angle">
+                <strong>Content Angle:</strong> ${theme.content_angle}
+            </div>`;
+        }
+
+        if (theme.hashtags && theme.hashtags.length > 0) {
+            html += `<div class="hashtags">
+                <strong>Hashtags:</strong>
+                ${theme.hashtags.map(tag => `<span class="hashtag">${tag}</span>`).join('')}
+            </div>`;
+        }
+
+        // Example videos section
+        if (theme.example_videos && theme.example_videos.length > 0) {
+            html += `<div class="section">
+                <h3>Example Video Ideas</h3>
+                <div class="example-videos">
+                    ${theme.example_videos.map(video => `<div class="example-video">"${video}"</div>`).join('')}
+                </div>
+            </div>`;
+        }
+
+        // Sample posts section
+        if (theme.sample_posts && theme.sample_posts.length > 0) {
+            html += `<div class="section">
+                <h3>Sample Posts (${theme.sample_posts.length})</h3>`;
+
+            theme.sample_posts.forEach(post => {
+                if (!post.title) return;
+
+                html += `<div class="sample-post">
+                    <div class="post-header">
+                        <span class="subreddit">r/${post.subreddit || 'unknown'}</span>
+                        <div class="post-stats">
+                            <strong>${(post.score || 0).toLocaleString()}</strong> upvotes | 
+                            <strong>${post.num_comments || 0}</strong> comments
+                        </div>
+                    </div>
+                    
+                    <div class="post-title">${post.title}</div>`;
+
+                if (post.selftext && post.selftext.trim() && post.selftext !== "Still wo") {
+                    html += `<div class="post-content">${post.selftext}</div>`;
+                }
+
+                if (post.demand_signals && post.demand_signals.length > 0) {
+                    html += `<div class="demand-signals">
+                        <strong>Demand Signals:</strong>
+                        ${post.demand_signals.map(signal => `<span class="signal">${signal}</span>`).join('')}
+                    </div>`;
+                }
+
+                if (post.matched_keywords && post.matched_keywords.length > 0) {
+                    html += `<div class="matched-keywords">
+                        <strong>Keywords:</strong>
+                        ${post.matched_keywords.map(keyword => `<span class="keyword">${keyword}</span>`).join('')}
+                    </div>`;
+                }
+
+                const redditUrl = post.permalink ? `https://reddit.com${post.permalink}` : (post.url || '#');
+                html += `<div class="post-links">
+                        ${post.url ? `<a href="${post.url}" target="_blank">Original Link</a>` : ''}
+                        <a href="${redditUrl}" target="_blank">Reddit Discussion</a>
+                    </div>
+                </div>`;
+            });
+
+            html += `</div>`; // Close sample posts section
+        }
+
+        // Matched videos section
+        if (theme.matched_videos && theme.matched_videos.length > 0) {
+            html += `<div class="section">
+                <h3>Matched YouTube Videos (${theme.matched_videos.length})</h3>
+                <div class="matched-videos">`;
+
+            theme.matched_videos.forEach(video => {
+                if (!video.video_id || !video.title) return;
+
+                const youtubeUrl = `https://www.youtube.com/watch?v=${video.video_id}`;
+                html += `<div class="video-item">
+                    <div class="video-header">
+                        <div class="video-title">${video.title}</div>
+                        <div class="relevance-score">${Math.round(video.relevance_score || 0)}</div>
+                    </div>
+                    
+                    ${video.channel ? `<div><strong>Channel:</strong> ${video.channel}</div>` : ''}
+                    
+                    ${video.description_snippet ? `<div class="video-description">${video.description_snippet}</div>` : ''}
+                    
+                    ${video.match_reasons && video.match_reasons.length > 0 ? `
+                    <div class="match-reasons">
+                        <strong>Match Reasons:</strong><br>
+                        ${video.match_reasons.map(reason => `<span class="match-reason">${reason}</span>`).join('')}
+                    </div>` : ''}
+                    
+                    <a href="${youtubeUrl}" target="_blank" class="video-link">Watch on YouTube</a>
+                </div>`;
+            });
+
+            html += `</div></div>`; // Close matched videos section
+        }
+
+        html += `</div>`; // Close theme div
+        contentContainer.innerHTML += html;
+    });
+}
+
+// Add some console info for debugging
+console.log('Reddit Posts & Video Correlation Viewer loaded');
+console.log('Auto-loading data from latest.json...');
+</script>
+
 </body>
 </html>
