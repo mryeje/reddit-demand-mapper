@@ -256,6 +256,18 @@
         font-style: italic;
         margin: 3px 0;
     }
+    .loading {
+        text-align: center;
+        padding: 40px;
+        color: #6c757d;
+    }
+    .error {
+        background: #f8d7da;
+        color: #721c24;
+        padding: 20px;
+        border-radius: 5px;
+        margin: 20px 0;
+    }
 </style>
 </head>
 <body>
@@ -266,23 +278,68 @@
     <input type="file" id="jsonFile" accept=".json" placeholder="Select JSON file..." />
 </div>
 
+<div id="loading" class="loading">Loading latest analysis data...</div>
 <div id="summary"></div>
 <div id="content"></div>
 
 <script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Auto-load the latest.json data when page loads
+    loadLatestData();
+});
+
+function loadLatestData() {
+    const loadingElement = document.getElementById('loading');
+    const fileInput = document.getElementById('jsonFile');
+    
+    fetch('latest.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            loadingElement.style.display = 'none';
+            displayData(data);
+            // Hide the file input since we're auto-loading
+            fileInput.style.display = 'none';
+        })
+        .catch(error => {
+            loadingElement.innerHTML = '<div class="error">' +
+                '<h3>Error loading data</h3>' +
+                '<p>Could not load latest.json. You can upload a JSON file manually:</p>' +
+                '<p><strong>Error details:</strong> ' + error.message + '</p>' +
+                '</div>';
+            fileInput.style.display = 'block';
+            console.error('Error loading latest.json:', error);
+        });
+}
+
+// Keep the existing file upload functionality as fallback
 document.getElementById('jsonFile').addEventListener('change', function(event) {
     const file = event.target.files[0];
     if (!file) return;
+
+    const loadingElement = document.getElementById('loading');
+    loadingElement.style.display = 'block';
+    loadingElement.textContent = 'Processing uploaded file...';
 
     const reader = new FileReader();
     reader.onload = function(e) {
         try {
             const data = JSON.parse(e.target.result);
+            loadingElement.style.display = 'none';
             displayData(data);
         } catch (err) {
-            alert("Invalid JSON file!");
+            loadingElement.style.display = 'none';
+            alert("Invalid JSON file! Please check the file format.");
             console.error(err);
         }
+    };
+    reader.onerror = function() {
+        loadingElement.style.display = 'none';
+        alert("Error reading file. Please try again.");
     };
     reader.readAsText(file);
 });
@@ -295,11 +352,16 @@ function displayData(data) {
     summaryContainer.innerHTML = '';
     contentContainer.innerHTML = '';
 
+    if (!data || !Array.isArray(data) || data.length === 0) {
+        summaryContainer.innerHTML = '<div class="error">No data available or invalid data format.</div>';
+        return;
+    }
+
     // Generate summary
-    const totalPosts = data.reduce((sum, theme) => sum + theme.post_count, 0);
-    const totalComments = data.reduce((sum, theme) => sum + theme.total_comments, 0);
-    const totalDemandStrength = data.reduce((sum, theme) => sum + theme.demand_strength, 0);
-    const avgEngagement = data.reduce((sum, theme) => sum + theme.avg_engagement, 0) / data.length;
+    const totalPosts = data.reduce((sum, theme) => sum + (theme.post_count || 0), 0);
+    const totalComments = data.reduce((sum, theme) => sum + (theme.total_comments || 0), 0);
+    const totalDemandStrength = data.reduce((sum, theme) => sum + (theme.demand_strength || 0), 0);
+    const avgEngagement = data.reduce((sum, theme) => sum + (theme.avg_engagement || 0), 0) / data.length;
 
     summaryContainer.innerHTML = `
         <div class="summary">
@@ -322,45 +384,54 @@ function displayData(data) {
                     <span class="stat-label">Avg Engagement</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-value">${totalDemandStrength.toLocaleString()}</span>
+                    <span class="stat-value">${Math.round(totalDemandStrength).toLocaleString()}</span>
                     <span class="stat-label">Total Demand Strength</span>
                 </div>
             </div>
+            <p style="margin-top: 15px; font-style: italic; color: #666;">
+                Last updated: ${new Date().toLocaleString()}
+            </p>
         </div>
     `;
 
     // Generate theme content
     data.forEach(theme => {
+        if (!theme.theme) return;
+
         let html = `<div class="theme">
             <h2>${theme.theme.replace(/_/g, ' ')}</h2>
             
             <div class="theme-stats">
                 <div class="stat-item">
-                    <span class="stat-value">${theme.post_count}</span>
+                    <span class="stat-value">${theme.post_count || 0}</span>
                     <span class="stat-label">Posts</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-value">${theme.avg_engagement.toFixed(1)}</span>
+                    <span class="stat-value">${(theme.avg_engagement || 0).toFixed(1)}</span>
                     <span class="stat-label">Avg Engagement</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-value">${theme.total_comments.toLocaleString()}</span>
+                    <span class="stat-value">${(theme.total_comments || 0).toLocaleString()}</span>
                     <span class="stat-label">Comments</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-value">${theme.demand_strength.toLocaleString()}</span>
+                    <span class="stat-value">${Math.round(theme.demand_strength || 0).toLocaleString()}</span>
                     <span class="stat-label">Demand Strength</span>
                 </div>
-            </div>
+            </div>`;
 
-            <div class="content-angle">
+        if (theme.content_angle) {
+            html += `<div class="content-angle">
                 <strong>Content Angle:</strong> ${theme.content_angle}
-            </div>
+            </div>`;
+        }
 
-            <div class="hashtags">
+        if (theme.hashtags && theme.hashtags.length > 0) {
+            html += `<div class="hashtags">
                 <strong>Hashtags:</strong>
                 ${theme.hashtags.map(tag => `<span class="hashtag">${tag}</span>`).join('')}
             </div>`;
+        }
 
         // Example videos section
         if (theme.example_videos && theme.example_videos.length > 0) {
@@ -373,47 +444,52 @@ function displayData(data) {
         }
 
         // Sample posts section
-        html += `<div class="section">
-            <h3>Sample Posts</h3>`;
+        if (theme.sample_posts && theme.sample_posts.length > 0) {
+            html += `<div class="section">
+                <h3>Sample Posts (${theme.sample_posts.length})</h3>`;
 
-        theme.sample_posts.forEach(post => {
-            html += `<div class="sample-post">
-                <div class="post-header">
-                    <span class="subreddit">r/${post.subreddit}</span>
-                    <div class="post-stats">
-                        <strong>${post.score.toLocaleString()}</strong> upvotes | 
-                        <strong>${post.num_comments}</strong> comments
+            theme.sample_posts.forEach(post => {
+                if (!post.title) return;
+
+                html += `<div class="sample-post">
+                    <div class="post-header">
+                        <span class="subreddit">r/${post.subreddit || 'unknown'}</span>
+                        <div class="post-stats">
+                            <strong>${(post.score || 0).toLocaleString()}</strong> upvotes | 
+                            <strong>${post.num_comments || 0}</strong> comments
+                        </div>
                     </div>
-                </div>
-                
-                <div class="post-title">${post.title}</div>`;
+                    
+                    <div class="post-title">${post.title}</div>`;
 
-            if (post.selftext && post.selftext.trim() && post.selftext !== "Still wo") {
-                html += `<div class="post-content">${post.selftext}</div>`;
-            }
+                if (post.selftext && post.selftext.trim() && post.selftext !== "Still wo") {
+                    html += `<div class="post-content">${post.selftext}</div>`;
+                }
 
-            if (post.demand_signals && post.demand_signals.length > 0) {
-                html += `<div class="demand-signals">
-                    <strong>Demand Signals:</strong>
-                    ${post.demand_signals.map(signal => `<span class="signal">${signal}</span>`).join('')}
+                if (post.demand_signals && post.demand_signals.length > 0) {
+                    html += `<div class="demand-signals">
+                        <strong>Demand Signals:</strong>
+                        ${post.demand_signals.map(signal => `<span class="signal">${signal}</span>`).join('')}
+                    </div>`;
+                }
+
+                if (post.matched_keywords && post.matched_keywords.length > 0) {
+                    html += `<div class="matched-keywords">
+                        <strong>Keywords:</strong>
+                        ${post.matched_keywords.map(keyword => `<span class="keyword">${keyword}</span>`).join('')}
+                    </div>`;
+                }
+
+                const redditUrl = post.permalink ? `https://reddit.com${post.permalink}` : (post.url || '#');
+                html += `<div class="post-links">
+                        ${post.url ? `<a href="${post.url}" target="_blank">Original Link</a>` : ''}
+                        <a href="${redditUrl}" target="_blank">Reddit Discussion</a>
+                    </div>
                 </div>`;
-            }
+            });
 
-            if (post.matched_keywords && post.matched_keywords.length > 0) {
-                html += `<div class="matched-keywords">
-                    <strong>Keywords:</strong>
-                    ${post.matched_keywords.map(keyword => `<span class="keyword">${keyword}</span>`).join('')}
-                </div>`;
-            }
-
-            html += `<div class="post-links">
-                    <a href="${post.url}" target="_blank">Original Link</a>
-                    <a href="https://reddit.com${post.permalink}" target="_blank">Reddit Discussion</a>
-                </div>
-            </div>`;
-        });
-
-        html += `</div>`; // Close sample posts section
+            html += `</div>`; // Close sample posts section
+        }
 
         // Matched videos section
         if (theme.matched_videos && theme.matched_videos.length > 0) {
@@ -422,19 +498,24 @@ function displayData(data) {
                 <div class="matched-videos">`;
 
             theme.matched_videos.forEach(video => {
+                if (!video.video_id || !video.title) return;
+
                 const youtubeUrl = `https://www.youtube.com/watch?v=${video.video_id}`;
                 html += `<div class="video-item">
                     <div class="video-header">
                         <div class="video-title">${video.title}</div>
-                        <div class="relevance-score">${video.relevance_score}</div>
+                        <div class="relevance-score">${Math.round(video.relevance_score || 0)}</div>
                     </div>
                     
-                    <div class="video-description">${video.description_snippet}</div>
+                    ${video.channel ? `<div><strong>Channel:</strong> ${video.channel}</div>` : ''}
                     
+                    ${video.description_snippet ? `<div class="video-description">${video.description_snippet}</div>` : ''}
+                    
+                    ${video.match_reasons && video.match_reasons.length > 0 ? `
                     <div class="match-reasons">
                         <strong>Match Reasons:</strong><br>
                         ${video.match_reasons.map(reason => `<span class="match-reason">${reason}</span>`).join('')}
-                    </div>
+                    </div>` : ''}
                     
                     <a href="${youtubeUrl}" target="_blank" class="video-link">Watch on YouTube</a>
                 </div>`;
@@ -448,10 +529,9 @@ function displayData(data) {
     });
 }
 
-// Auto-load if there's a file input on page load (for development)
-window.addEventListener('load', function() {
-    console.log('Reddit Posts & Video Correlation Viewer loaded');
-});
+// Add some console info for debugging
+console.log('Reddit Posts & Video Correlation Viewer loaded');
+console.log('Auto-loading data from latest.json...');
 </script>
 
 </body>
