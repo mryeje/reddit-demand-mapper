@@ -1,36 +1,34 @@
 [
   {
     "theme": "general",
-    "post_count": 60,
-    "avg_engagement": 370.55,
-    "total_comments": 3540,
-    "demand_strength": 22233.0,
+    "post_count": 65,
+    "avg_engagement": 399.53846153846155,
+    "total_comments": 4434,
+    "demand_strength": 25970.0,
     "sample_posts": [
       {
         "subreddit": "Tools",
-        "title": "How many people own some Ryobi tools even if they aren't your main tools?",
-        "selftext": "Just wondering if anyone uses some Ryobi stuff in addition to your \"main\" brand of tools? And if you do, what Ryobi tools do you use?\n\nI mainly use Makita and some of the Milwaukee M12, but Ryobi really rocks for their fans, nail guns to supplement my pneumatic ones, and I actually really like their cordless angle grinders for the price.",
-        "score": 114,
-        "num_comments": 274,
-        "created_utc": 1758496897.0,
-        "url": "https://www.reddit.com/r/Tools/comments/1nn6u0f/how_many_people_own_some_ryobi_tools_even_if_they/",
-        "permalink": "https://reddit.com/r/Tools/comments/1nn6u0f/how_many_people_own_some_ryobi_tools_even_if_they/",
+        "title": "Any ideas on how I can get this stripped screw out without damaging this terminal block?",
+        "selftext": "Tried all sizes of my speed out and now it looks like a rivet, it’s super small to get some pliers in there and getting this terminal block is not easy on my dryer so want to keep it in tact as much as possible, appreciate any ideas!",
+        "score": 169,
+        "num_comments": 175,
+        "created_utc": 1758807851.0,
+        "url": "https://www.reddit.com/gallery/1nq75xc",
+        "permalink": "https://reddit.com/r/Tools/comments/1nq75xc/any_ideas_on_how_i_can_get_this_stripped_screw/",
         "demand_signals": [],
         "matched_keywords": [
-          "angle grinder",
-          "nail gun",
-          "cordless"
+          "dryer"
         ]
       },
       {
         "subreddit": "Dewalt",
-        "title": "DCN21pl not sinking",
-        "selftext": "Worked great with no issues for building a shed and few other things. Sat in storage for a year and now it won’t drive nails all the way. Full battery. Any ideas?",
-        "score": 507,
-        "num_comments": 133,
-        "created_utc": 1758287338.0,
-        "url": "https://v.redd.it/1he3drbze4qf1",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1nl34ne/dcn21pl_not_sinking/",
+        "title": "What's the difference between this battery and the ones not xr",
+        "selftext": "They're both DCB205. ",
+        "score": 77,
+        "num_comments": 63,
+        "created_utc": 1758589823.0,
+        "url": "https://i.redd.it/7lpvpwifetqf1.png",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1no4472/whats_the_difference_between_this_battery_and_the/",
         "demand_signals": [],
         "matched_keywords": [
           "battery"
@@ -38,13 +36,13 @@
       },
       {
         "subreddit": "Dewalt",
-        "title": "What's the difference between this battery and the ones not xr",
-        "selftext": "They're both DCB205. ",
-        "score": 72,
-        "num_comments": 63,
-        "created_utc": 1758589823.0,
-        "url": "https://i.redd.it/7lpvpwifetqf1.png",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1no4472/whats_the_difference_between_this_battery_and_the/",
+        "title": "Tools with free battery. Will deal work?",
+        "selftext": "",
+        "score": 24,
+        "num_comments": 15,
+        "created_utc": 1758680293.0,
+        "url": "https://i.redd.it/1tkxbn0gv0rf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1np0fa2/tools_with_free_battery_will_deal_work/",
         "demand_signals": [],
         "matched_keywords": [
           "battery"
@@ -60,58 +58,53 @@
     ],
     "matched_videos": [
       {
-        "video_id": "oZf0u6HXqkE",
-        "title": "Milwaukee Cordless Grinder Repair - Replacing the Guard (Milwaukee Part # 14-32-0210)",
+        "video_id": "YkFqrESU39g",
+        "title": "Gas Powered Leaf Blower or Battery Powered Leaf Blower? Which One Is Better? | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Guard Assembly for your Grinder? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To...",
-        "relevance_score": 18,
+        "description_snippet": "We're back this week with another buyer's guide! We've taken you through Gas Powered vs Battery Powered Lawn Mowers (https://www.youtube.com/watch?v=FVhkavCI7h4) and Chainsaws (https://www.youtube....",
+        "relevance_score": 11,
         "match_reasons": [
-          "Brand match: milwaukee",
-          "Product match: grinder",
-          "Reddit keyword: cordless",
-          "Fuzzy Reddit keyword: angle grinder (76.92307692307692)",
-          "Heavy repair focus (penalty)"
-        ]
-      },
-      {
-        "video_id": "nOychPGimN4",
-        "title": "Hammer Drill Repair - Replacing the Battery Terminal (Makita Part # 643852-2)",
-        "channel": "fixtechguides",
-        "description_snippet": "http://www.ereplacementparts.com/terminal-p-719473.html Click here for more information on this part, installation instructions and more.\n\nThis particular battery terminal is specific to Makita...",
-        "relevance_score": 14,
-        "match_reasons": [
-          "Brand match: makita",
           "Product match: battery",
-          "Reddit keyword: battery",
-          "Heavy repair focus (penalty)"
+          "Reddit keyword: battery"
         ]
       },
       {
-        "video_id": "meFXCaWystw",
-        "title": "How to Replace the Switch on a Makita Grinder--A Quick Fix",
+        "video_id": "tkxfSCke7UM",
+        "title": "How Do Electric Motors Work? | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "In this Quick Fix, Mark guides you through the steps needed to replace a broken switch in a Makita grinder. Switches fail, but lukcily, replacing them is fast and easy. And this video shows...",
-        "relevance_score": 14,
+        "description_snippet": "Most folks who use electric power tools simply plug them in or charge the battery, and use them the way they were intended. They can be incredibly handy to have around the shop and the house,...",
+        "relevance_score": 11,
         "match_reasons": [
-          "Brand match: makita",
-          "Product match: grinder"
+          "Product match: battery",
+          "Reddit keyword: battery"
+        ]
+      },
+      {
+        "video_id": "h0LW6pBr0Yk",
+        "title": "Gas Powered Chainsaw or Battery Powered Chainsaw? Which One Is Better? | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "We're back with another video in our Gas vs. Battery Power Equipment Series! This time, we're taking a look at Gas-Powered Chainsaws vs. Electric or Battery-Powered Chainsaws!\n\nIn this video...",
+        "relevance_score": 11,
+        "match_reasons": [
+          "Product match: battery",
+          "Reddit keyword: battery"
         ]
       }
     ]
   },
   {
     "theme": "beginner_guidance",
-    "post_count": 20,
-    "avg_engagement": 508.35,
-    "total_comments": 2791,
-    "demand_strength": 10167.0,
+    "post_count": 23,
+    "avg_engagement": 938.5652173913044,
+    "total_comments": 3070,
+    "demand_strength": 21587.0,
     "sample_posts": [
       {
         "subreddit": "Tools",
         "title": "Is this a normal amount of oil from an oil-lubricated air compressor?",
         "selftext": "I've just bought a new compressor and oil is coming through the duster. \n\nMy current setup is:\n\nCompressor > inline filter ---10m---> filter/regulator ---10m coil---> blower (running at 2 bar).\n\n  \nIt seems like a lot, especially since the blower will be my main tool of use. What does everyone think? and how much oil should I be getting?",
-        "score": 735,
-        "num_comments": 142,
+        "score": 1289,
+        "num_comments": 189,
         "created_utc": 1758753026.0,
         "url": "https://v.redd.it/jjg22h4cv6rf1",
         "permalink": "https://reddit.com/r/Tools/comments/1npq3xr/is_this_a_normal_amount_of_oil_from_an/",
@@ -124,8 +117,8 @@
         "subreddit": "Dewalt",
         "title": "two separate batteries. two separate chargers. pretty much brand new. two different circuts. 15 amp flexvolts",
         "selftext": "bought these guys and had them sitting on the charger over night in the shed. had the window open, woke up to that sweet smell of lithium this morning. these are the dcb615s, I contacted dewalt and they told me I have to ship them at my expense to a service center to determine if I'm able to recieve replacements or not. pretty sure that even my dumbest ideas can't top how dumb it is to ship fried 15 amp lithium batteries through the mail. \n\nSo no, I'm not shipping them out. not really sure what ",
-        "score": 426,
-        "num_comments": 99,
+        "score": 484,
+        "num_comments": 105,
         "created_utc": 1758580336.0,
         "url": "https://i.redd.it/elaugn08msqf1.jpeg",
         "permalink": "https://reddit.com/r/Dewalt/comments/1no0ozo/two_separate_batteries_two_separate_chargers/",
@@ -138,8 +131,8 @@
         "subreddit": "Dewalt",
         "title": "NTD",
         "selftext": "Finally got my fan (battery not included). I've been looking at it for a while now and decided to get it after working alot of hours after starting a new job.",
-        "score": 201,
-        "num_comments": 75,
+        "score": 204,
+        "num_comments": 76,
         "created_utc": 1758484730.0,
         "url": "https://i.redd.it/e2im08nxpkqf1.jpeg",
         "permalink": "https://reddit.com/r/Dewalt/comments/1nn1yko/ntd/",
@@ -210,17 +203,17 @@
   },
   {
     "theme": "kitchen_appliances",
-    "post_count": 21,
-    "avg_engagement": 420.57142857142856,
-    "total_comments": 812,
-    "demand_strength": 8832.0,
+    "post_count": 15,
+    "avg_engagement": 541.6666666666666,
+    "total_comments": 679,
+    "demand_strength": 8124.999999999999,
     "sample_posts": [
       {
         "subreddit": "Dewalt",
         "title": "Can someone help me, please?",
         "selftext": "Tried to jump my car, like I did before and it didn’t work. When I looked things up, it said it should at least 12.4, but this says 11. It’s charging right now. Should I let it charge to 12 (it’s going very slow now that it’s at 11.4). And try again, or is it, or my car battery cooked? It was making a clicking noise when I tried to use it to jump my car. Thanks for the help. ",
-        "score": 13,
-        "num_comments": 14,
+        "score": 15,
+        "num_comments": 16,
         "created_utc": 1758422950.0,
         "url": "https://i.redd.it/j3zmiwy7mfqf1.jpeg",
         "permalink": "https://reddit.com/r/Dewalt/comments/1nmgtje/can_someone_help_me_please/",
@@ -232,25 +225,11 @@
         ]
       },
       {
-        "subreddit": "Ryobi",
-        "title": "Is this battery cooked?",
-        "selftext": "Please photos, this battery will not charge! \nIs it cooked or is there a way to revive it.\nThe charger is good I can charge my 2 Ah battery.\n",
-        "score": 4,
-        "num_comments": 9,
-        "created_utc": 1758303211.0,
-        "url": "https://www.reddit.com/gallery/1nl9ztc",
-        "permalink": "https://reddit.com/r/ryobi/comments/1nl9ztc/is_this_battery_cooked/",
-        "demand_signals": [],
-        "matched_keywords": [
-          "battery"
-        ]
-      },
-      {
         "subreddit": "woodworking",
         "title": "I made a knife for my son",
         "selftext": "I thought I’d share something I made for my son. He has been wanting to help with cooking more and more, and he always wants to use the kitchen knives. I made him this knife so he could practice knife skills in a way that he can’t hurt himself or anyone else. The blade is some kind of maple (I think) with a Brazilian walnut handle and padauk bolsters. I finished it with Howard’s butcher board conditioner so it will be safe to use on food.",
-        "score": 1004,
-        "num_comments": 47,
+        "score": 1015,
+        "num_comments": 48,
         "created_utc": 1758470477.0,
         "url": "https://www.reddit.com/gallery/1nmvry5",
         "permalink": "https://reddit.com/r/woodworking/comments/1nmvry5/i_made_a_knife_for_my_son/",
@@ -259,6 +238,20 @@
         ],
         "matched_keywords": [
           "blade"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Keeping a fan the kitchen. Yay or nay?",
+        "selftext": "So I like to cook at night as I found that to be least distracted time when everyone is a sleep. But the problem is my dad who keeps the heat because He needs the heat to fall asleep even in the summer. \n\nI cant can't concrete with the heat on though when I want to cook.. And he seems extremely adamant of not changing that. \n\nSo I'm looking to get fan so i can cook comfortably.  Should I a tower fan like [this?](https://www.amazon.com/Vornado-Oscillating-70-Degree-Oscillation-Circulation/dp/B0C8",
+        "score": 7,
+        "num_comments": 11,
+        "created_utc": 1758592916.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1no573t/keeping_a_fan_the_kitchen_yay_or_nay/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1no573t/keeping_a_fan_the_kitchen_yay_or_nay/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "oscillating"
         ]
       }
     ],
@@ -316,152 +309,27 @@
     ]
   },
   {
-    "theme": "cutting_tools",
-    "post_count": 33,
-    "avg_engagement": 173.27272727272728,
-    "total_comments": 1923,
-    "demand_strength": 5718.0,
-    "sample_posts": [
-      {
-        "subreddit": "Tools",
-        "title": "My complete loadout for fishing walls-  I retrofit without cutting Sheetrock.",
-        "selftext": "Here are my tools-  everything has a purpose, and there are some things I had to invent myself. Everything you see here keeps me from having to cut Sheetrock. And there are NO blind drill shots, I have the $1k Bosch studfinder, and inspection cameras-  also I spend time searching for possible issues-  I inspect my top plate, bottom plate, other side of wall, attic and crawlspace before committing to a location.  YouTube channel coming soon. ",
-        "score": 211,
-        "num_comments": 82,
-        "created_utc": 1758209938.0,
-        "url": "https://i.redd.it/no0bon5s0ypf1.jpeg",
-        "permalink": "https://reddit.com/r/Tools/comments/1nkbo3o/my_complete_loadout_for_fishing_walls_i_retrofit/",
-        "demand_signals": [],
-        "matched_keywords": [
-          "drill"
-        ]
-      },
-      {
-        "subreddit": "Tools",
-        "title": "Tips to remove this hellacious hex bolt? (Switching saw blades)",
-        "selftext": "I'm struggling to remove the saw blade on my new, pretty cheap Metabo HPT miter saw. It's been a multiple-day ordeal, and even using a hammer on the hex bar hasn't helped at all (that was a last resort). \n\nThis is left-hand threaded, so it turns clockwise to remove. I'm turning it in the right direction. \n\nThanks!",
-        "score": 176,
-        "num_comments": 197,
-        "created_utc": 1758571186.0,
-        "url": "https://www.reddit.com/gallery/1nnwv8r",
-        "permalink": "https://reddit.com/r/Tools/comments/1nnwv8r/tips_to_remove_this_hellacious_hex_bolt_switching/",
-        "demand_signals": [
-          "cheap"
-        ],
-        "matched_keywords": [
-          "miter saw",
-          "blade"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "Saw spinning but blade not moving?",
-        "selftext": "Had this saw for two years. A few days ago I attempted to make some 45° cuts with my circular saw on some 2x12s. I noticed that even though I was using a speed square the saw would force itself away from the cut once I got close to the end. So I tried to apply a bit more pressure to keep it against the speed square. I then noticed that the saw blade stopped spinning but I could still hear it \"running\". Happened twice so I decided not to push the issue. Is this something I need to send to a profe",
-        "score": 28,
-        "num_comments": 36,
-        "created_utc": 1758415032.0,
-        "url": "https://i.redd.it/zt3q4hpoyeqf1.jpeg",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1nme8l9/saw_spinning_but_blade_not_moving/",
-        "demand_signals": [
-          "stopped"
-        ],
-        "matched_keywords": [
-          "circular saw",
-          "blade"
-        ]
-      }
-    ],
-    "content_angle": "Chainsaw & Cutting Tool Reviews/Tips",
-    "example_videos": [
-      "Chainsaw maintenance in 60 seconds",
-      "Best budget chainsaws 2024"
-    ],
-    "hashtags": [
-      "#chainsaw",
-      "#powertools",
-      "#DIY",
-      "#woodworking"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "U6UzuCLoVog",
-        "title": "CHAINSAW REPAIR: How to Replace the Chain on Your Chainsaw | FIX.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Your chainsaw's chain is the cutting blade that allows the tool to cut materials. If the chain is damaged to the point that it can't be fixed, this video will show you how to replace the chain...",
-        "relevance_score": 75,
-        "match_reasons": [
-          "Theme keyword: chainsaw",
-          "Fuzzy theme keyword match: chain saw (94.11764705882352)",
-          "Theme keyword: saw",
-          "Theme keyword: cutting",
-          "Theme keyword: blade",
-          "Theme keyword: cut",
-          "Product match: saw",
-          "Product match: blade",
-          "Reddit keyword: blade"
-        ]
-      },
-      {
-        "video_id": "AycxZLXvEgU",
-        "title": "Tool Tear Down: Orbital Sander | How to Disassemble Your Orbital Sander | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "In previous videos we've taken apart a Reciprocating Saw, a Circular Saw, and a Cordless Drill, but today we're going to be taking a look at the disassembly process of an Orbital Sander. Most...",
-        "relevance_score": 74,
-        "match_reasons": [
-          "Fuzzy theme keyword match: chain saw (77.77777777777779)",
-          "Theme keyword: saw",
-          "Fuzzy theme keyword match: cutting (71.42857142857143)",
-          "Theme keyword: circular saw",
-          "Theme keyword: reciprocating saw",
-          "Product match: saw",
-          "Product match: drill",
-          "Product match: bit",
-          "Reddit keyword: circular saw",
-          "Reddit keyword: drill"
-        ]
-      },
-      {
-        "video_id": "iUBMViME_oY",
-        "title": "How to Change the Blade Clamp on the Bosch RS15 and RS20 saws",
-        "channel": "fixtechguides",
-        "description_snippet": "Learn how to change the blade clamp on the Bosch RS15 and RS2 reciprocating saw with this helpful video from Dale, one of eReplacementParts.com's professional tool repair technicians.\n\nFor...",
-        "relevance_score": 71,
-        "match_reasons": [
-          "Fuzzy theme keyword match: chain saw (77.77777777777779)",
-          "Theme keyword: saw",
-          "Fuzzy theme keyword match: cutting (71.42857142857143)",
-          "Theme keyword: blade",
-          "Theme keyword: reciprocating saw",
-          "Brand match: bosch",
-          "Product match: saw",
-          "Product match: blade",
-          "Reddit keyword: blade"
-        ]
-      }
-    ]
-  },
-  {
     "theme": "cleaning_equipment",
-    "post_count": 69,
-    "avg_engagement": 38.63768115942029,
-    "total_comments": 3584,
-    "demand_strength": 2666.0,
+    "post_count": 70,
+    "avg_engagement": 100.18571428571428,
+    "total_comments": 4066,
+    "demand_strength": 7013.0,
     "sample_posts": [
       {
         "subreddit": "Ryobi",
-        "title": "Ryobi Pressure Washer Recall - Model and Serial Number Location",
-        "selftext": "TL;DR - This is how you find your pressure washer model and serial number. Ignore the red circle as this was from the Ryobi website where they show you incorrectly where to find your model number.\n\n**Longer Version - Ryobi, I hope you're listening.**\n\nI went to the Ryobi website to see if my pressure washer was on the recall list. They want your model number and serial number. The attached graphic is from their website and the red circle is where they tell you to look for the model number and th",
-        "score": 10,
-        "num_comments": 1,
-        "created_utc": 1758407433.0,
-        "url": "https://i.redd.it/4eatflf4beqf1.jpeg",
-        "permalink": "https://reddit.com/r/ryobi/comments/1nmbjl8/ryobi_pressure_washer_recall_model_and_serial/",
+        "title": "Need Advice: PCL704K vs PCL705K for Litter Box Cleanups",
+        "selftext": "I’m trying to decide between the PCL704K (Performance model) and PCL705K (Multi-Surface model) handheld vacuums. My main use case is quick cleanups of cat litter bits around the litter box on tiled floors, 1-2 times per day.\n\nFrom what I can tell, PCL704K seems to have stronger suction and comes with a crevice tool and dust brush. PCL705K is multi-surface, compatible with 1-1/4” accessories, and has a dual filter system, but suction may be slightly lower.\n\nI’m trying to weigh power vs versatilit",
+        "score": 11,
+        "num_comments": 27,
+        "created_utc": 1758852694.0,
+        "url": "https://www.reddit.com/gallery/1nqpew8",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nqpew8/need_advice_pcl704k_vs_pcl705k_for_litter_box/",
         "demand_signals": [
-          "how to",
-          "how to"
+          "advice",
+          "advice"
         ],
         "matched_keywords": [
-          "pressure washer"
+          "vacuum"
         ]
       },
       {
@@ -479,20 +347,19 @@
         ]
       },
       {
-        "subreddit": "HomeImprovement",
-        "title": "Which Pressure Washer Would You Buy With $300?",
-        "selftext": "I’ve been setting aside a budget for a good pressure washer and wanted to get some input from folks here. If you had around $300 to spend, which pressure washer would you recommend for home use?\n\nI’m mostly looking at electric pressure washers since they’re easier to maintain for things like patios, cars, siding, and general around-the-house cleaning. But I’ve also seen people swear by gas models when you need extra power.\n\nWhat I’d love to hear is:\n\n* Which brands/models have lasted for you lon",
-        "score": 46,
-        "num_comments": 69,
-        "created_utc": 1758487702.0,
-        "url": "https://www.reddit.com/r/HomeImprovement/comments/1nn38bo/which_pressure_washer_would_you_buy_with_300/",
-        "permalink": "https://reddit.com/r/HomeImprovement/comments/1nn38bo/which_pressure_washer_would_you_buy_with_300/",
+        "subreddit": "woodworking",
+        "title": "Custom Night Stand with recessed pulls. White oak Finished with Rubio Cotton White.",
+        "selftext": "This was one of two custom nightstands I made for local clients. A simple design but a surprising amount of work to get everything looking so minimal and clean. \n\nI love making night stands… they’re manageable as a one person job, don’t take incredibly long but scratch the itch of building a  cabinet, opportunity to add details, and keeps the budget predictable. \n\nRecessed pulls are great but tricky with white oak. Have to make a ton of passes with the router to get them to come out clean withou",
+        "score": 762,
+        "num_comments": 29,
+        "created_utc": 1758824268.0,
+        "url": "https://i.redd.it/8abu9i3krcrf1.jpeg",
+        "permalink": "https://reddit.com/r/woodworking/comments/1nqeacs/custom_night_stand_with_recessed_pulls_white_oak/",
         "demand_signals": [
-          "recommend",
           "budget"
         ],
         "matched_keywords": [
-          "pressure washer"
+          "router"
         ]
       }
     ],
@@ -560,18 +427,136 @@
     ]
   },
   {
+    "theme": "cutting_tools",
+    "post_count": 23,
+    "avg_engagement": 242.8695652173913,
+    "total_comments": 1635,
+    "demand_strength": 5586.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Tips to remove this hellacious hex bolt? (Switching saw blades)",
+        "selftext": "I'm struggling to remove the saw blade on my new, pretty cheap Metabo HPT miter saw. It's been a multiple-day ordeal, and even using a hammer on the hex bar hasn't helped at all (that was a last resort). \n\nThis is left-hand threaded, so it turns clockwise to remove. I'm turning it in the right direction. \n\nThanks!",
+        "score": 179,
+        "num_comments": 200,
+        "created_utc": 1758571186.0,
+        "url": "https://www.reddit.com/gallery/1nnwv8r",
+        "permalink": "https://reddit.com/r/Tools/comments/1nnwv8r/tips_to_remove_this_hellacious_hex_bolt_switching/",
+        "demand_signals": [
+          "cheap"
+        ],
+        "matched_keywords": [
+          "miter saw",
+          "blade"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Is this amount of play normal? DWE7491",
+        "selftext": "DWE7491 had a worn out spindle assembly that caused the arbor nut to come loose (bought used). Reached out to Dewalt and they sent me a new assembly to put in myself, which I did… a few weeks after taking it apart. Now I’ve got two extra screws and a blade that has a bit of play. The answer seems obvious, but I can’t find a home for these two screws, or a way to fix this amount of play. The majority of the play comes from the splitter, and does not seem to effect the blade while cutting, althoug",
+        "score": 20,
+        "num_comments": 12,
+        "created_utc": 1758474130.0,
+        "url": "https://v.redd.it/4fjeggxeujqf1",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nmxc37/is_this_amount_of_play_normal_dwe7491/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "blade"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "I just learned about the LF1000 (flipper saw)",
+        "selftext": "For those unfamiliar, it’s a 10” / 260mm mitre saw (with built-in table) that you can flip over and use as a table saw. I neeeeed. 🤤\n\nBut it seems not to be available in the US, despite being available elsewhere for at least a year. From what I saw in a few minutes of Googling, I think it’s Europe only?\n\nFor anyone who has one: is it as awesome as it seems?\n\nCome on Makita! Bring the cool stuff to the states!",
+        "score": 75,
+        "num_comments": 19,
+        "created_utc": 1758594402.0,
+        "url": "https://www.reddit.com/gallery/1no5pgn",
+        "permalink": "https://reddit.com/r/Makita/comments/1no5pgn/i_just_learned_about_the_lf1000_flipper_saw/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "table saw"
+        ]
+      }
+    ],
+    "content_angle": "Chainsaw & Cutting Tool Reviews/Tips",
+    "example_videos": [
+      "Chainsaw maintenance in 60 seconds",
+      "Best budget chainsaws 2024"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#powertools",
+      "#DIY",
+      "#woodworking"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "U6UzuCLoVog",
+        "title": "CHAINSAW REPAIR: How to Replace the Chain on Your Chainsaw | FIX.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Your chainsaw's chain is the cutting blade that allows the tool to cut materials. If the chain is damaged to the point that it can't be fixed, this video will show you how to replace the chain...",
+        "relevance_score": 75,
+        "match_reasons": [
+          "Theme keyword: chainsaw",
+          "Fuzzy theme keyword match: chain saw (94.11764705882352)",
+          "Theme keyword: saw",
+          "Theme keyword: cutting",
+          "Theme keyword: blade",
+          "Theme keyword: cut",
+          "Product match: blade",
+          "Product match: saw",
+          "Reddit keyword: blade"
+        ]
+      },
+      {
+        "video_id": "iUBMViME_oY",
+        "title": "How to Change the Blade Clamp on the Bosch RS15 and RS20 saws",
+        "channel": "fixtechguides",
+        "description_snippet": "Learn how to change the blade clamp on the Bosch RS15 and RS2 reciprocating saw with this helpful video from Dale, one of eReplacementParts.com's professional tool repair technicians.\n\nFor...",
+        "relevance_score": 63,
+        "match_reasons": [
+          "Fuzzy theme keyword match: chain saw (77.77777777777779)",
+          "Theme keyword: saw",
+          "Fuzzy theme keyword match: cutting (71.42857142857143)",
+          "Theme keyword: blade",
+          "Theme keyword: reciprocating saw",
+          "Product match: blade",
+          "Product match: saw",
+          "Reddit keyword: blade"
+        ]
+      },
+      {
+        "video_id": "-ATa8iOMJgw",
+        "title": "CHAINSAW REPAIR: How to Install a New Brake Spring on Your Chainsaw | FIX.com",
+        "channel": "fixtechguides",
+        "description_snippet": "The Brake Spring is part of your chainsaw's safety system. Chain brakes prevent movement of the saw's cutting chain by applying a steel brake band around the driven clutch drum. Clamping force...",
+        "relevance_score": 62,
+        "match_reasons": [
+          "Theme keyword: chainsaw",
+          "Fuzzy theme keyword match: chain saw (94.11764705882352)",
+          "Theme keyword: saw",
+          "Theme keyword: cutting",
+          "Theme keyword: cut",
+          "Fuzzy theme keyword match: band saw (75.0)",
+          "Product match: saw"
+        ]
+      }
+    ]
+  },
+  {
     "theme": "drilling_tools",
-    "post_count": 31,
-    "avg_engagement": 67.61290322580645,
-    "total_comments": 1274,
-    "demand_strength": 2096.0,
+    "post_count": 37,
+    "avg_engagement": 79.08108108108108,
+    "total_comments": 1723,
+    "demand_strength": 2926.0,
     "sample_posts": [
       {
         "subreddit": "Tools",
         "title": "Funny moment that made me appreciate my tools more",
         "selftext": "The other night I was sitting on my couch half distracted on myprize, when I glanced over at my little tool rack. It hit me how much easier life has gotten just from slowly building up a decent set. A couple years ago I didn’t even own a drill and every small repair felt like a massive headache. Now I’ve got a handful of solid basics a drill, socket set, level, and a few other essentials and it’s wild how much stress they’ve saved me. Instead of putting things off or improvising with the wrong s",
-        "score": 235,
-        "num_comments": 52,
+        "score": 250,
+        "num_comments": 55,
         "created_utc": 1758713628.0,
         "url": "https://www.reddit.com/r/Tools/comments/1np9p8n/funny_moment_that_made_me_appreciate_my_tools_more/",
         "permalink": "https://reddit.com/r/Tools/comments/1np9p8n/funny_moment_that_made_me_appreciate_my_tools_more/",
@@ -584,7 +569,7 @@
         "subreddit": "Tools",
         "title": "Finally upgraded my drill after years of using a hand me down",
         "selftext": "I’ve been using my dad’s old corded drill for years. It still technically works, but the chuck slips and the cord is all frayed. I finally had some extra money saved from a win on rollingriches and grabbed a Milwaukee cordless set this week. Honestly, it feels like night and day lighter, faster, and no extension cords everywhere. I spent half the afternoon just finding excuses to use it.",
-        "score": 195,
+        "score": 198,
         "num_comments": 33,
         "created_utc": 1758631368.0,
         "url": "https://www.reddit.com/r/Tools/comments/1nogcch/finally_upgraded_my_drill_after_years_of_using_a/",
@@ -597,17 +582,21 @@
         ]
       },
       {
-        "subreddit": "Tools",
-        "title": "Thank you dewalt grinder warranty",
-        "selftext": "Bought a ton of dewalt XR stuff during November Black Friday sales last year, waited years to choose which brand while babying my 2007 dewalt kit.  (1/4 driver still going! Replacement batteries…)\n\nAnyway xr grinder was a big hit, $250 with a battery, but I used a $50 HD pro-extra perk.   It was bigger/heavier than my corded makitas, but was the only paddle switch model they had.\n\nGot used to it real quick.  Very handy with the speed control knob and no cord.\n\nWell it lasted til July 2025.  I us",
-        "score": 109,
-        "num_comments": 27,
-        "created_utc": 1758378104.0,
-        "url": "https://www.reddit.com/gallery/1nlzgyy",
-        "permalink": "https://reddit.com/r/Tools/comments/1nlzgyy/thank_you_dewalt_grinder_warranty/",
-        "demand_signals": [],
+        "subreddit": "Dewalt",
+        "title": "Really liking the new Powerpack 4ah batteries",
+        "selftext": "I've been using them for the last month of so. I'm really impressed with them so far. Tools feel like they get a nice bump in power, compared to other small batteries and even the 5ah. These are my go to for mini cutoff, die grinder, bandfile, stick vacuum, mini blower, drill. \n I liked the form factor of the 4ah compact, but they continually failed on me. Most unreliable battery I've had. These tabless cells are said to be very durable. If that proves true, these are winners. I think they run d",
+        "score": 114,
+        "num_comments": 49,
+        "created_utc": 1758612866.0,
+        "url": "https://i.redd.it/7yxevxxxavqf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nob2zo/really_liking_the_new_powerpack_4ah_batteries/",
+        "demand_signals": [
+          "failed"
+        ],
         "matched_keywords": [
-          "battery"
+          "drill",
+          "battery",
+          "vacuum"
         ]
       }
     ],
@@ -624,25 +613,6 @@
     ],
     "matched_videos": [
       {
-        "video_id": "boehGcrozmE",
-        "title": "Drill Repair - Removing a Stuck, Seized, Stripped or Stubborn Chuck (Makita LXPH01)",
-        "channel": "fixtechguides",
-        "description_snippet": "http://www.ereplacementparts.com/makita-lxph01z-18v-lxt-lithiumion-cordless-hammer-driverdrill-parts-c-97_16247_187891.html Click here for more information on this part, installation instructions...",
-        "relevance_score": 71,
-        "match_reasons": [
-          "Theme keyword: drill",
-          "Fuzzy theme keyword match: drilling (76.92307692307692)",
-          "Fuzzy theme keyword match: hammer drill (75.0)",
-          "Theme keyword: driver",
-          "Fuzzy theme keyword match: drill bit (80.0)",
-          "Product match: driver",
-          "Product match: drill",
-          "Reddit keyword: cordless",
-          "Reddit keyword: drill",
-          "Reddit keyword: chuck"
-        ]
-      },
-      {
         "video_id": "zVlxGYYzV9Q",
         "title": "How to Replace the Brush Spring in a Milwaukee Cordless Drill",
         "channel": "fixtechguides",
@@ -655,8 +625,8 @@
           "Theme keyword: hole",
           "Brand match: milwaukee",
           "Product match: drill",
-          "Reddit keyword: cordless",
           "Reddit keyword: drill",
+          "Reddit keyword: cordless",
           "Content type: tutorial"
         ]
       },
@@ -673,8 +643,26 @@
           "Theme keyword: hole",
           "Brand match: milwaukee",
           "Product match: drill",
-          "Reddit keyword: cordless",
           "Reddit keyword: drill",
+          "Reddit keyword: cordless",
+          "Content type: tutorial"
+        ]
+      },
+      {
+        "video_id": "Dv61kNynKzo",
+        "title": "How to Replace the Field in a Milwaukee Cordless Drill",
+        "channel": "fixtechguides",
+        "description_snippet": "MORE DRILLING. LESS BILLING. If broken drills and service bills are boring holes in your budget, it's time to face the fix. This tutorial will show you how to easily, expertly and economically...",
+        "relevance_score": 67,
+        "match_reasons": [
+          "Theme keyword: drill",
+          "Theme keyword: drilling",
+          "Theme keyword: boring",
+          "Theme keyword: hole",
+          "Brand match: milwaukee",
+          "Product match: drill",
+          "Reddit keyword: drill",
+          "Reddit keyword: cordless",
           "Content type: tutorial"
         ]
       }
@@ -682,49 +670,17 @@
   },
   {
     "theme": "repair_help",
-    "post_count": 14,
-    "avg_engagement": 83.28571428571429,
-    "total_comments": 1301,
-    "demand_strength": 1166.0,
+    "post_count": 7,
+    "avg_engagement": 54.857142857142854,
+    "total_comments": 160,
+    "demand_strength": 384.0,
     "sample_posts": [
-      {
-        "subreddit": "Dewalt",
-        "title": "First ever Router, how did i do?",
-        "selftext": "I bought it because Im building racks and cabinets in my construction trailer, hoping to start a side hustle building and fixing things.\nAny advice would be much appreciated.",
-        "score": 14,
-        "num_comments": 12,
-        "created_utc": 1758256011.0,
-        "url": "https://www.reddit.com/gallery/1nku00q",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1nku00q/first_ever_router_how_did_i_do/",
-        "demand_signals": [
-          "advice"
-        ],
-        "matched_keywords": [
-          "router"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Makita LS0815FL – clicking noise from blade guard, any fix?",
-        "selftext": "Hi! I’ve got a Makita LS0815FL that works fine overall, but when the blade guard is mounted it makes a distinct click about halfway down when lowering the arm. I already lubricated the return spring, which solved the squeaking, but this clicking remains.\n\nI’ve recorded a short video so you can hear it. Has anyone run into this before or know how to adjust/fix it?",
-        "score": 7,
-        "num_comments": 6,
-        "created_utc": 1758364921.0,
-        "url": "https://v.redd.it/lor0y0p8taqf1",
-        "permalink": "https://reddit.com/r/Makita/comments/1nluwrt/makita_ls0815fl_clicking_noise_from_blade_guard/",
-        "demand_signals": [
-          "how to"
-        ],
-        "matched_keywords": [
-          "blade"
-        ]
-      },
       {
         "subreddit": "Makita",
         "title": "Drt50 stopped working",
         "selftext": "I have a drt50 router, was working this morning , I turned of the machine to change bits and it wouldn't start anymore. Eventually brought it in for repair but did people have this issue also? I have it for less than a year and not abusing it. I do everything in multiple passes etc",
         "score": 1,
-        "num_comments": 1,
+        "num_comments": 2,
         "created_utc": 1758553607.0,
         "url": "https://www.reddit.com/r/Makita/comments/1nnp0ui/drt50_stopped_working/",
         "permalink": "https://reddit.com/r/Makita/comments/1nnp0ui/drt50_stopped_working/",
@@ -733,6 +689,38 @@
         ],
         "matched_keywords": [
           "router"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "18v one+ battery reading 50v with multimeter",
+        "selftext": "My battery stopped working last week, so I threw it on the charger. Checked on it later, and the red light stayed on and pulsed, saying it was defective. \n\nThought it was too drained, so I checked with my multimeter to see the voltage, thinking I could jumpstart it with another battery. When I measured though, it was reading 50 volts, so way overcharged. \n\nAny idea what’s going on here, and if it’s possible to fix without too much hassle? Or should I just recycle this thing?",
+        "score": 1,
+        "num_comments": 13,
+        "created_utc": 1758842709.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1nqlx6x/18v_one_battery_reading_50v_with_multimeter/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nqlx6x/18v_one_battery_reading_50v_with_multimeter/",
+        "demand_signals": [
+          "stopped"
+        ],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "Plumbing",
+        "title": "Water leaking through vacuum breaker only when hose is closed off?",
+        "selftext": "Why is this happening and how to fix? When the hose is open it doesn't leak.",
+        "score": 24,
+        "num_comments": 32,
+        "created_utc": 1758765840.0,
+        "url": "https://i.redd.it/f5s09i3tx7rf1.jpeg",
+        "permalink": "https://reddit.com/r/Plumbing/comments/1npupaa/water_leaking_through_vacuum_breaker_only_when/",
+        "demand_signals": [
+          "how to"
+        ],
+        "matched_keywords": [
+          "vacuum"
         ]
       }
     ],
@@ -809,25 +797,11 @@
   },
   {
     "theme": "lawn_care",
-    "post_count": 6,
-    "avg_engagement": 32.833333333333336,
-    "total_comments": 110,
-    "demand_strength": 197.0,
+    "post_count": 3,
+    "avg_engagement": 25.666666666666668,
+    "total_comments": 53,
+    "demand_strength": 77.0,
     "sample_posts": [
-      {
-        "subreddit": "Ryobi",
-        "title": "Can't get my blades off",
-        "selftext": "I was trying to remove my blades on my mower and the nut unthreaded about 3 turns and then beared down.  Now the blades are loose but I cannot remove the nut or tighten it to secure the blades and there isn't enough of a gap to get my skinniest channel locks into to lock down the drive shaft.  Is there any other way to lock it so that I can remove the nut?",
-        "score": 13,
-        "num_comments": 15,
-        "created_utc": 1758389122.0,
-        "url": "https://v.redd.it/jq8k2numtcqf1",
-        "permalink": "https://reddit.com/r/ryobi/comments/1nm43z5/cant_get_my_blades_off/",
-        "demand_signals": [],
-        "matched_keywords": [
-          "blade"
-        ]
-      },
       {
         "subreddit": "Ryobi",
         "title": "Trying to get warranty repair on 40v mower",
@@ -849,7 +823,7 @@
         "subreddit": "Ryobi",
         "title": "Ride on mower battery dying, want to make sure I am getting the right replacement battery.",
         "selftext": "We have had this ride on mower for about five years now and the battery is finally giving out. I want to upgrade and this battery replacement is pitched as a lighter, longer lasting alternative but I’m not too savvy with this sort of thing. Will this battery be able to to hook up and replace the current original battery or am I looking at the wrong one? \n\nHere is the link to my mower RY48130: https://www.homedepot.com/p/RYOBI-48V-Brushless-30-in-50-Ah-Battery-Electric-Rear-Engine-Riding-Mower-RY",
-        "score": 2,
+        "score": 3,
         "num_comments": 6,
         "created_utc": 1758636609.0,
         "url": "https://www.reddit.com/gallery/1noifs6",
@@ -860,6 +834,22 @@
         "matched_keywords": [
           "battery",
           "brushless"
+        ]
+      },
+      {
+        "subreddit": "lawncare",
+        "title": "What's wrong with my lawn?",
+        "selftext": "Located in northeastern Pennsylvania. I've had issues with my lawn turning brown in late summer, particuarly now in August/September, it's become a very noticeable issue only in the last couple of years. Throughout the lawn most of the grass grows in a way where each \"blade\" of grass grows as a brown stem with small, separate offshoot blades of green grass growing off of top of this visible brown stem, rather than just being normal individual green baldes growing out from the soil. I do not regu",
+        "score": 71,
+        "num_comments": 44,
+        "created_utc": 1758565236.0,
+        "url": "https://www.reddit.com/gallery/1nnu91b",
+        "permalink": "https://reddit.com/r/lawncare/comments/1nnu91b/whats_wrong_with_my_lawn/",
+        "demand_signals": [
+          "help with"
+        ],
+        "matched_keywords": [
+          "blade"
         ]
       }
     ],
@@ -930,36 +920,32 @@
   {
     "theme": "budget_options",
     "post_count": 3,
-    "avg_engagement": 58.666666666666664,
-    "total_comments": 164,
-    "demand_strength": 176.0,
+    "avg_engagement": 22.666666666666668,
+    "total_comments": 194,
+    "demand_strength": 68.0,
     "sample_posts": [
       {
-        "subreddit": "BudgetFood",
-        "title": "Some of my recent budget meals",
-        "selftext": "Honey garlic glazed chicken thigh. Around $6.40 for 10 chicken thighs. Garlic glaze used about 3$ worth of marinade ingredients (soy, sesame oil, jarlic, honey, apple cider vinegar, free harvested green onion); 1.5 cups of marinade for all the thighs. Bought yakisoba for $4.50 and added fresh vegetables (onion, celery, carrots, brussel sprouts, free harvested swiss chard leaves). Free harvested summer squash with parmesean. Overall it balanced out to about $4-$5 per serving.\n\n[TANGENT] I was for",
-        "score": 136,
-        "num_comments": 14,
-        "created_utc": 1758255730.0,
-        "url": "https://www.reddit.com/gallery/1nktx19",
-        "permalink": "https://reddit.com/r/budgetfood/comments/1nktx19/some_of_my_recent_budget_meals/",
+        "subreddit": "BuyItForLife",
+        "title": "Best toaster to buy right now",
+        "selftext": "My old toaster finally broke after 5 years. Looking for a replacement that will hopefully last me the rest of my life. I have a family of 4 so a 4 slice would be great but I am open to others. Budget is not really an issue so any price works as long as the toaster justifies it. \n\nThanks for the recs ",
+        "score": 25,
+        "num_comments": 27,
+        "created_utc": 1758540420.0,
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1nnjva1/best_toaster_to_buy_right_now/",
+        "permalink": "https://reddit.com/r/BuyItForLife/comments/1nnjva1/best_toaster_to_buy_right_now/",
         "demand_signals": [
-          "budget",
-          "expensive",
-          "cheap",
-          "expensive"
+          "budget"
         ],
         "matched_keywords": [
-          "chuck",
-          "oven"
+          "toaster"
         ]
       },
       {
         "subreddit": "cookingforbeginners",
         "title": "Easiest things to do with potatoes?",
         "selftext": "Potatoes are extremely cheap where I am so i bought a 10lb bag and I'm looking for things to do with them. Normally I just cut them into fries and air fry them and while that's fine, I'm looking for something else I can do. Preferably minimal prep and either air fryer or instant pot-able.",
-        "score": 38,
-        "num_comments": 144,
+        "score": 41,
+        "num_comments": 161,
         "created_utc": 1758731968.0,
         "url": "https://www.reddit.com/r/cookingforbeginners/comments/1nph3mo/easiest_things_to_do_with_potatoes/",
         "permalink": "https://reddit.com/r/cookingforbeginners/comments/1nph3mo/easiest_things_to_do_with_potatoes/",
@@ -1001,32 +987,16 @@
     ],
     "matched_videos": [
       {
-        "video_id": "xr1vf-sK_h8",
-        "title": "How to Replace the Check Valve on an Air Compressor",
-        "channel": "fixtechguides",
-        "description_snippet": "REFRESH COMPRESSION: If leaking seals and service bills are compressing your expenses, it's time to face the fix. This tutorial will show you how to remove and install a new check valve on...",
-        "relevance_score": 40,
-        "match_reasons": [
-          "Fuzzy theme keyword match: value (80.0)",
-          "Fuzzy theme keyword match: deal (75.0)",
-          "Fuzzy theme keyword match: sale (75.0)",
-          "Fuzzy theme keyword match: price (80.0)",
-          "Fuzzy Reddit keyword: oven (75.0)",
-          "Fuzzy Reddit keyword: chuck (80.0)"
-        ]
-      },
-      {
         "video_id": "dZ7CDNt7aQ4",
         "title": "DRYER REPAIR: How to Remove the Inlet Valve on Your Dryer | FIX.com",
         "channel": "fixtechguides",
         "description_snippet": "Dryers that utilize steam in their cycle need to have access to water, and the inlet valve allows that water to enter the dryer. If the valve is faulty you may experience issues with the steam...",
-        "relevance_score": 36,
+        "relevance_score": 32,
         "match_reasons": [
           "Fuzzy theme keyword match: value (80.0)",
           "Fuzzy theme keyword match: deal (75.0)",
           "Fuzzy theme keyword match: sale (75.0)",
-          "Fuzzy theme keyword match: price (80.0)",
-          "Fuzzy Reddit keyword: oven (75.0)"
+          "Fuzzy theme keyword match: price (80.0)"
         ]
       },
       {
@@ -1034,13 +1004,25 @@
         "title": "DRYER REPAIR: How to Install the Inlet Valve on Your Dryer | FIX.com",
         "channel": "fixtechguides",
         "description_snippet": "Dryers that use steam in their cycle need to have access to water, and the inlet valve allows that water to enter the dryer. If the valve is faulty you may experience issues with the steam...",
-        "relevance_score": 36,
+        "relevance_score": 32,
         "match_reasons": [
           "Fuzzy theme keyword match: value (80.0)",
           "Fuzzy theme keyword match: deal (75.0)",
           "Fuzzy theme keyword match: sale (75.0)",
-          "Fuzzy theme keyword match: price (80.0)",
-          "Fuzzy Reddit keyword: oven (75.0)"
+          "Fuzzy theme keyword match: price (80.0)"
+        ]
+      },
+      {
+        "video_id": "puFM9tu5Zsw",
+        "title": "DRYER REPAIR: How to Diagnose the Inlet Valve on Your Dryer | FIX.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Dryers that use steam in their cycle need to have access to water, and the inlet valve allows that water to enter the dryer. If the valve is faulty you may experience issues with the steam...",
+        "relevance_score": 32,
+        "match_reasons": [
+          "Fuzzy theme keyword match: value (80.0)",
+          "Fuzzy theme keyword match: deal (75.0)",
+          "Fuzzy theme keyword match: sale (75.0)",
+          "Fuzzy theme keyword match: price (80.0)"
         ]
       }
     ]
