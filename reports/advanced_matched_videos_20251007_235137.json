@@ -1,0 +1,1721 @@
+[
+  {
+    "theme": "general",
+    "post_count": 60,
+    "avg_engagement": 366.6,
+    "total_comments": 3507,
+    "demand_strength": 21996.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "How many people own some Ryobi tools even if they aren't your main tools?",
+        "selftext": "Just wondering if anyone uses some Ryobi stuff in addition to your \"main\" brand of tools? And if you do, what Ryobi tools do you use?\n\nI mainly use Makita and some of the Milwaukee M12, but Ryobi really rocks for their fans, nail guns to supplement my pneumatic ones, and I actually really like their cordless angle grinders for the price.",
+        "score": 111,
+        "num_comments": 274,
+        "created_utc": 1758496897.0,
+        "url": "https://www.reddit.com/r/Tools/comments/1nn6u0f/how_many_people_own_some_ryobi_tools_even_if_they/",
+        "permalink": "https://reddit.com/r/Tools/comments/1nn6u0f/how_many_people_own_some_ryobi_tools_even_if_they/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "angle grinder",
+          "nail gun",
+          "cordless"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "DCN21pl not sinking",
+        "selftext": "Worked great with no issues for building a shed and few other things. Sat in storage for a year and now it won’t drive nails all the way. Full battery. Any ideas?",
+        "score": 509,
+        "num_comments": 133,
+        "created_utc": 1758287338.0,
+        "url": "https://v.redd.it/1he3drbze4qf1",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nl34ne/dcn21pl_not_sinking/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "What's the difference between this battery and the ones not xr",
+        "selftext": "They're both DCB205. ",
+        "score": 72,
+        "num_comments": 63,
+        "created_utc": 1758589823.0,
+        "url": "https://i.redd.it/7lpvpwifetqf1.png",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1no4472/whats_the_difference_between_this_battery_and_the/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "battery"
+        ]
+      }
+    ],
+    "content_angle": "General Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#general"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "kGaiOtRqMs0",
+        "title": "Ryobi String Trimmer Repair - Replacing the Spring (Ryobi Part # 679958001)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Spring for your Trimmer? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 42.2,
+        "scoring_breakdown": {
+          "semantic_score": 19.4,
+          "keyword_score": 19,
+          "intent_score": 3.8,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:ryobi",
+            "tfidf:tools",
+            "fuzzy_tfidf:ones(75.0)",
+            "fuzzy_tfidf:main(75.0)",
+            "product:ryobi"
+          ],
+          "intent_matches": [
+            "buying_advice:3.0↔1.0",
+            "comparison:0.9↔1.8"
+          ]
+        }
+      },
+      {
+        "video_id": "JdJB-lTROss",
+        "title": "Ryobi String Trimmer Repair - Replacing the Spark Plug (Ryobi Part # 870170001)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Spark Plug for your Trimmer? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 41.69,
+        "scoring_breakdown": {
+          "semantic_score": 18.89,
+          "keyword_score": 19,
+          "intent_score": 3.8,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:ryobi",
+            "tfidf:tools",
+            "fuzzy_tfidf:ones(75.0)",
+            "fuzzy_tfidf:main(75.0)",
+            "product:ryobi"
+          ],
+          "intent_matches": [
+            "buying_advice:3.0↔1.0",
+            "comparison:0.9↔1.8"
+          ]
+        }
+      },
+      {
+        "video_id": "WYiuyQDqaNE",
+        "title": "Keep Your Mower Running its Best with our Toro Self-Propelled Lawn Mower Maintenance Checklist!",
+        "channel": "partselect",
+        "description_snippet": "If you've invested in a high-quality Lawn Mower, it's important that you develop a solid maintenance routine to keep it running its best for years to come! In this video, we'll show you some...",
+        "relevance_score": 26.36,
+        "scoring_breakdown": {
+          "semantic_score": 9.97,
+          "keyword_score": 8,
+          "intent_score": 4.0,
+          "content_boost": 1.2,
+          "content_type": "review"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:ones(75.0)",
+            "tfidf:main"
+          ],
+          "intent_matches": [
+            "buying_advice:3.0↔2.0"
+          ]
+        }
+      },
+      {
+        "video_id": "ilj1uAnVang",
+        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
+        "relevance_score": 26.17,
+        "scoring_breakdown": {
+          "semantic_score": 16.17,
+          "keyword_score": 8,
+          "intent_score": 2.0,
+          "content_boost": 1.0,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:tools",
+            "fuzzy_tfidf:ones(75.0)"
+          ],
+          "intent_matches": [
+            "buying_advice:3.0↔1.0"
+          ]
+        }
+      },
+      {
+        "video_id": "Dim-JOsrA5s",
+        "title": "Ryobi String Trimmer Repair - Replacing the Spool (Ryobi Part # 310412005)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Spool for your Trimmer? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 41.31,
+        "scoring_breakdown": {
+          "semantic_score": 18.51,
+          "keyword_score": 19,
+          "intent_score": 3.8,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:ryobi",
+            "tfidf:tools",
+            "fuzzy_tfidf:ones(75.0)",
+            "fuzzy_tfidf:main(75.0)",
+            "product:ryobi"
+          ],
+          "intent_matches": [
+            "buying_advice:3.0↔1.0",
+            "comparison:0.9↔1.8"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "beginner_guidance",
+    "post_count": 18,
+    "avg_engagement": 556.4444444444445,
+    "total_comments": 2737,
+    "demand_strength": 10016.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Is this a normal amount of oil from an oil-lubricated air compressor?",
+        "selftext": "I've just bought a new compressor and oil is coming through the duster. \n\nMy current setup is:\n\nCompressor > inline filter ---10m---> filter/regulator ---10m coil---> blower (running at 2 bar).\n\n  \nIt seems like a lot, especially since the blower will be my main tool of use. What does everyone think? and how much oil should I be getting?",
+        "score": 635,
+        "num_comments": 132,
+        "created_utc": 1758753026.0,
+        "url": "https://v.redd.it/jjg22h4cv6rf1",
+        "permalink": "https://reddit.com/r/Tools/comments/1npq3xr/is_this_a_normal_amount_of_oil_from_an/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "air compressor"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "two separate batteries. two separate chargers. pretty much brand new. two different circuts. 15 amp flexvolts",
+        "selftext": "bought these guys and had them sitting on the charger over night in the shed. had the window open, woke up to that sweet smell of lithium this morning. these are the dcb615s, I contacted dewalt and they told me I have to ship them at my expense to a service center to determine if I'm able to recieve replacements or not. pretty sure that even my dumbest ideas can't top how dumb it is to ship fried 15 amp lithium batteries through the mail. \n\nSo no, I'm not shipping them out. not really sure what ",
+        "score": 423,
+        "num_comments": 98,
+        "created_utc": 1758580336.0,
+        "url": "https://i.redd.it/elaugn08msqf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1no0ozo/two_separate_batteries_two_separate_chargers/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "miter saw"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "NTD",
+        "selftext": "Finally got my fan (battery not included). I've been looking at it for a while now and decided to get it after working alot of hours after starting a new job.",
+        "score": 200,
+        "num_comments": 79,
+        "created_utc": 1758484730.0,
+        "url": "https://i.redd.it/e2im08nxpkqf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nn1yko/ntd/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "battery"
+        ]
+      }
+    ],
+    "content_angle": "Tool & Equipment Education for Beginners",
+    "example_videos": [
+      "Tools every homeowner needs",
+      "Beginner tool buying guide"
+    ],
+    "hashtags": [
+      "#beginnertools",
+      "#DIYbeginner",
+      "#homeimprovement",
+      "#tools101"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "s_OMILEX6PM",
+        "title": "Which Oil Mix is Right for My Engine? How to Properly Mix Fuel for 2-Stroke Engines | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "In most 2-Stroke engines, you'll need to mix some kind of engine oil with your gas, to ensure that your machine starts and runs properly. But what type of oil do you need for your machine?...",
+        "relevance_score": 45.73,
+        "scoring_breakdown": {
+          "semantic_score": 10.38,
+          "keyword_score": 16,
+          "intent_score": 8.8,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:oil",
+            "fuzzy_tfidf:new(80.0)",
+            "fuzzy_tfidf:separate(75.0)",
+            "tfidf:sure"
+          ],
+          "intent_matches": [
+            "buying_advice:2.0↔2.0",
+            "maintenance:4.0↔2.4000000000000004"
+          ]
+        }
+      },
+      {
+        "video_id": "TyrPmBX5WN8",
+        "title": "How to Service or Replace the Air Filter on a Campbell Hausfeld Oilless Air Compressor",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement air filter for your Campbell Hausfeld oilless air compressor here: http://www.ereplacementparts.com/campbell-hausfeld-air-compressor-parts-c-32345_32346.html\n\nThis tutorial...",
+        "relevance_score": 44.15,
+        "scoring_breakdown": {
+          "semantic_score": 12.36,
+          "keyword_score": 20,
+          "intent_score": 1.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:oil",
+            "tfidf:compressor",
+            "tfidf:filter",
+            "tfidf:amp"
+          ],
+          "intent_matches": [
+            "maintenance:4.0↔0.8"
+          ]
+        }
+      },
+      {
+        "video_id": "s5NQPSKV_KY",
+        "title": "How to Replace the Motor Brushes on an Air Compressor",
+        "channel": "fixtechguides",
+        "description_snippet": "KNOW PRESSURE: If leaking seals and service bills are compressing your expenses, it's time to face the fix. This tutorial will show you how to remove and install new motor brushes on an air...",
+        "relevance_score": 43.83,
+        "scoring_breakdown": {
+          "semantic_score": 12.11,
+          "keyword_score": 20,
+          "intent_score": 1.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:ve",
+            "tfidf:new",
+            "tfidf:compressor",
+            "tfidf:sure"
+          ],
+          "intent_matches": [
+            "maintenance:4.0↔0.8"
+          ]
+        }
+      },
+      {
+        "video_id": "pJW2otpKhXk",
+        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
+        "relevance_score": 35.29,
+        "scoring_breakdown": {
+          "semantic_score": 5.14,
+          "keyword_score": 22,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:pretty",
+            "fuzzy_tfidf:ship(75.0)",
+            "fuzzy_tfidf:sure(75.0)",
+            "brand:model"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "L0Rhc-gr8Wk",
+        "title": "How to Replace the Regulator on a Campbell Hausfeld Oilless Air Compressor (Part # RE300000AJ)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement regulator for your Campbell Hausfeld oilless air compressor here: http://www.ereplacementparts.com/regulator-p-432208.html\n\nThis tutorial will show you how to remove and install...",
+        "relevance_score": 41.1,
+        "scoring_breakdown": {
+          "semantic_score": 11.62,
+          "keyword_score": 20,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:oil",
+            "tfidf:ve",
+            "tfidf:compressor",
+            "tfidf:amp"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "kitchen_appliances",
+    "post_count": 20,
+    "avg_engagement": 441.8,
+    "total_comments": 809,
+    "demand_strength": 8836.0,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "Can someone help me, please?",
+        "selftext": "Tried to jump my car, like I did before and it didn’t work. When I looked things up, it said it should at least 12.4, but this says 11. It’s charging right now. Should I let it charge to 12 (it’s going very slow now that it’s at 11.4). And try again, or is it, or my car battery cooked? It was making a clicking noise when I tried to use it to jump my car. Thanks for the help. ",
+        "score": 13,
+        "num_comments": 14,
+        "created_utc": 1758422950.0,
+        "url": "https://i.redd.it/j3zmiwy7mfqf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nmgtje/can_someone_help_me_please/",
+        "demand_signals": [
+          "can someone"
+        ],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Is this battery cooked?",
+        "selftext": "Please photos, this battery will not charge! \nIs it cooked or is there a way to revive it.\nThe charger is good I can charge my 2 Ah battery.\n",
+        "score": 6,
+        "num_comments": 9,
+        "created_utc": 1758303211.0,
+        "url": "https://www.reddit.com/gallery/1nl9ztc",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nl9ztc/is_this_battery_cooked/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "battery"
+        ]
+      },
+      {
+        "subreddit": "woodworking",
+        "title": "I made a knife for my son",
+        "selftext": "I thought I’d share something I made for my son. He has been wanting to help with cooking more and more, and he always wants to use the kitchen knives. I made him this knife so he could practice knife skills in a way that he can’t hurt himself or anyone else. The blade is some kind of maple (I think) with a Brazilian walnut handle and padauk bolsters. I finished it with Howard’s butcher board conditioner so it will be safe to use on food.",
+        "score": 1006,
+        "num_comments": 47,
+        "created_utc": 1758470477.0,
+        "url": "https://www.reddit.com/gallery/1nmvry5",
+        "permalink": "https://reddit.com/r/woodworking/comments/1nmvry5/i_made_a_knife_for_my_son/",
+        "demand_signals": [
+          "help with"
+        ],
+        "matched_keywords": [
+          "blade"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Reviews & Kitchen Hacks",
+    "example_videos": [
+      "Air fryer vs oven comparison",
+      "Kitchen appliance buying guide"
+    ],
+    "hashtags": [
+      "#kitchenappliances",
+      "#airfryer",
+      "#kitchenhacks",
+      "#cooking"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "nUkEZZzipvM",
+        "title": "How to Properly Dispose of Power Tool Batteries",
+        "channel": "fixtechguides",
+        "description_snippet": "Learn how you can reduce your carbon footprint and help the environment for free by recycling your used batteries. Recycling batteries helps the environment, lowers manufacturing costs, and...",
+        "relevance_score": 45.17,
+        "scoring_breakdown": {
+          "semantic_score": 11.34,
+          "keyword_score": 21,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:battery(85.71428571428572)",
+            "tfidf:use",
+            "tfidf:car",
+            "tfidf:help",
+            "fuzzy_tfidf:tried(80.0)"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "FbHweFEm3LI",
+        "title": "How to Charge Your Lawn Tractor's Battery",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement battery for your lawn tractor here: http://www.ereplacementparts.com/lawn-tractor-parts-c-18715_18801.html\n\nThis tutorial will show you how to replace and charge the battery...",
+        "relevance_score": 36.02,
+        "scoring_breakdown": {
+          "semantic_score": 17.71,
+          "keyword_score": 10,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:battery",
+            "tfidf:charge"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "yqWpzesAc6U",
+        "title": "Refrigerator Repair - Replacing the Crisper Pan (Whirlpool Part# 2188656)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 34.26,
+        "scoring_breakdown": {
+          "semantic_score": 8.95,
+          "keyword_score": 15,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:use",
+            "tfidf:help"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "OKcCClMK4Tw",
+        "title": "Refrigerator Repair  - Replacing the Freezer Door Shelf End Cap (Frigidaire Part# 215473602)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 34.03,
+        "scoring_breakdown": {
+          "semantic_score": 8.77,
+          "keyword_score": 15,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:use",
+            "tfidf:help"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "NpGZEoplmGM",
+        "title": "Refrigerator and IceMaker Repair - Replacing the Auger Assembly (GE Part# WR17X11705)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 34.0,
+        "scoring_breakdown": {
+          "semantic_score": 8.76,
+          "keyword_score": 15,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:use",
+            "tfidf:help"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "cutting_tools",
+    "post_count": 33,
+    "avg_engagement": 169.33333333333334,
+    "total_comments": 1896,
+    "demand_strength": 5588.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "My complete loadout for fishing walls-  I retrofit without cutting Sheetrock.",
+        "selftext": "Here are my tools-  everything has a purpose, and there are some things I had to invent myself. Everything you see here keeps me from having to cut Sheetrock. And there are NO blind drill shots, I have the $1k Bosch studfinder, and inspection cameras-  also I spend time searching for possible issues-  I inspect my top plate, bottom plate, other side of wall, attic and crawlspace before committing to a location.  YouTube channel coming soon. ",
+        "score": 215,
+        "num_comments": 82,
+        "created_utc": 1758209938.0,
+        "url": "https://i.redd.it/no0bon5s0ypf1.jpeg",
+        "permalink": "https://reddit.com/r/Tools/comments/1nkbo3o/my_complete_loadout_for_fishing_walls_i_retrofit/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "drill"
+        ]
+      },
+      {
+        "subreddit": "Tools",
+        "title": "Tips to remove this hellacious hex bolt? (Switching saw blades)",
+        "selftext": "I'm struggling to remove the saw blade on my new, pretty cheap Metabo HPT miter saw. It's been a multiple-day ordeal, and even using a hammer on the hex bar hasn't helped at all (that was a last resort). \n\nThis is left-hand threaded, so it turns clockwise to remove. I'm turning it in the right direction. \n\nThanks!",
+        "score": 176,
+        "num_comments": 197,
+        "created_utc": 1758571186.0,
+        "url": "https://www.reddit.com/gallery/1nnwv8r",
+        "permalink": "https://reddit.com/r/Tools/comments/1nnwv8r/tips_to_remove_this_hellacious_hex_bolt_switching/",
+        "demand_signals": [
+          "cheap"
+        ],
+        "matched_keywords": [
+          "miter saw",
+          "blade"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Saw spinning but blade not moving?",
+        "selftext": "Had this saw for two years. A few days ago I attempted to make some 45° cuts with my circular saw on some 2x12s. I noticed that even though I was using a speed square the saw would force itself away from the cut once I got close to the end. So I tried to apply a bit more pressure to keep it against the speed square. I then noticed that the saw blade stopped spinning but I could still hear it \"running\". Happened twice so I decided not to push the issue. Is this something I need to send to a profe",
+        "score": 27,
+        "num_comments": 36,
+        "created_utc": 1758415032.0,
+        "url": "https://i.redd.it/zt3q4hpoyeqf1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nme8l9/saw_spinning_but_blade_not_moving/",
+        "demand_signals": [
+          "stopped"
+        ],
+        "matched_keywords": [
+          "circular saw",
+          "blade"
+        ]
+      }
+    ],
+    "content_angle": "Chainsaw & Cutting Tool Reviews/Tips",
+    "example_videos": [
+      "Chainsaw maintenance in 60 seconds",
+      "Best budget chainsaws 2024"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#powertools",
+      "#DIY",
+      "#woodworking"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 53.24,
+        "scoring_breakdown": {
+          "semantic_score": 12.95,
+          "keyword_score": 28,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "fuzzy_tfidf:plate(80.0)",
+            "tfidf:model",
+            "fuzzy_tfidf:cut(80.0)",
+            "brand:model"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "_zLME2dPObQ",
+        "title": "How to Replace the Inner Filter on a Makita Cut Off Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "CUT OUT THE MIDDLE-MAN: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. This article will show you how to easily and expertly remove and...",
+        "relevance_score": 51.79,
+        "scoring_breakdown": {
+          "semantic_score": 15.84,
+          "keyword_score": 24,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "tfidf:remove",
+            "fuzzy_tfidf:plate(80.0)",
+            "tfidf:cut",
+            "fuzzy_tfidf:attic(80.0)"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "7u28aG7NfLk",
+        "title": "Chainsaw Troubleshooting: How to Properly Clean Your Chainsaw | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "Maintaining yours chainsaw can be a little extra work, but can have HUGE rewards. A clean chainsaw is an efficient chainsaw, and in this video, we'll show you how to properly clean yours, so...",
+        "relevance_score": 29.99,
+        "scoring_breakdown": {
+          "semantic_score": 15.07,
+          "keyword_score": 8,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "product:saw"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "vEUugYzsI3g",
+        "title": "A Complete Guide to Basic Chainsaw Maintenance | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're a seasonal chainsaw user, meaning that you use the chainsaw for specific jobs here and there around the house, it's important that you conduct some routine maintenance, if your saw...",
+        "relevance_score": 29.53,
+        "scoring_breakdown": {
+          "semantic_score": 11.72,
+          "keyword_score": 11,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "fuzzy_tfidf:plate(80.0)",
+            "product:saw"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "Smk3okUIZZc",
+        "title": "How to Replace the Blade Guard Assembly on a DeWALT DW718 Miter Saw (Part # N353439)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement blade guard assembly for your DeWALT DW718 miter saw here: http://www.ereplacementparts.com/lower-guard-assembly-p-91033.html\n\nThis tutorial will show you how to remove and...",
+        "relevance_score": 50.64,
+        "scoring_breakdown": {
+          "semantic_score": 17.96,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "tfidf:remove",
+            "fuzzy_tfidf:plate(80.0)",
+            "tfidf:blade",
+            "product:saw"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "cleaning_equipment",
+    "post_count": 71,
+    "avg_engagement": 37.59154929577465,
+    "total_comments": 3597,
+    "demand_strength": 2669.0,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Ryobi Pressure Washer Recall - Model and Serial Number Location",
+        "selftext": "TL;DR - This is how you find your pressure washer model and serial number. Ignore the red circle as this was from the Ryobi website where they show you incorrectly where to find your model number.\n\n**Longer Version - Ryobi, I hope you're listening.**\n\nI went to the Ryobi website to see if my pressure washer was on the recall list. They want your model number and serial number. The attached graphic is from their website and the red circle is where they tell you to look for the model number and th",
+        "score": 9,
+        "num_comments": 1,
+        "created_utc": 1758407433.0,
+        "url": "https://i.redd.it/4eatflf4beqf1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nmbjl8/ryobi_pressure_washer_recall_model_and_serial/",
+        "demand_signals": [
+          "how to",
+          "how to"
+        ],
+        "matched_keywords": [
+          "pressure washer"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "40v string trimmer bump feed problems",
+        "selftext": "I've got a 40v string trimmer using .08 line. I consistently have problems with tangles. If I can get 15 min without a tangle I'm happy. \n\nWhat am I doing wrong? I feel like there's enough pressure on the turning meechinism to keep the line taught but withing a few minutes one side or both get sucked into the head and I have to start over. \n\nIt's mostly for edge work against a brick house or a level concrete drive. ",
+        "score": 2,
+        "num_comments": 5,
+        "created_utc": 1758483299.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1nn1crl/40v_string_trimmer_bump_feed_problems/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nn1crl/40v_string_trimmer_bump_feed_problems/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "string trimmer"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Which Pressure Washer Would You Buy With $300?",
+        "selftext": "I’ve been setting aside a budget for a good pressure washer and wanted to get some input from folks here. If you had around $300 to spend, which pressure washer would you recommend for home use?\n\nI’m mostly looking at electric pressure washers since they’re easier to maintain for things like patios, cars, siding, and general around-the-house cleaning. But I’ve also seen people swear by gas models when you need extra power.\n\nWhat I’d love to hear is:\n\n* Which brands/models have lasted for you lon",
+        "score": 46,
+        "num_comments": 67,
+        "created_utc": 1758487702.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1nn38bo/which_pressure_washer_would_you_buy_with_300/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1nn38bo/which_pressure_washer_would_you_buy_with_300/",
+        "demand_signals": [
+          "recommend",
+          "budget"
+        ],
+        "matched_keywords": [
+          "pressure washer"
+        ]
+      }
+    ],
+    "content_angle": "Pressure Washing & Cleaning Equipment",
+    "example_videos": [
+      "Pressure washer setup guide",
+      "Before/after cleaning reveals"
+    ],
+    "hashtags": [
+      "#pressurewashing",
+      "#cleaning",
+      "#satisfying",
+      "#powerwashing"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "FXkj_2QmyHU",
+        "title": "How to Replace the Spool on a Ryobi 132R String Trimmer (Part # 791-181457)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement spool for your Ryobi 132R string trimmer here: http://www.ereplacementparts.com/outer-spool-and-eyelet-assembly-retainer-p-283427.html\n\nThis tutorial will show you how to...",
+        "relevance_score": 66.99,
+        "scoring_breakdown": {
+          "semantic_score": 21.53,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:line(75.0)",
+            "tfidf:trimmer",
+            "tfidf:string trimmer",
+            "tfidf:string",
+            "tfidf:ryobi"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "tQTgGWhN0g8",
+        "title": "How to Replace the Plunger on a Ryobi 132R String Trimmer (Part # 791-181462)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement plunger for your Ryobi 132R string trimmer here: http://www.ereplacementparts.com/plunger-p-283434.html\n\nThis tutorial will show you how to remove and install the plunger...",
+        "relevance_score": 66.29,
+        "scoring_breakdown": {
+          "semantic_score": 20.99,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:ve",
+            "tfidf:trimmer",
+            "tfidf:string trimmer",
+            "tfidf:string",
+            "tfidf:ryobi"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "NY6M2PvoBuY",
+        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 54.76,
+        "scoring_breakdown": {
+          "semantic_score": 14.12,
+          "keyword_score": 28,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:washer",
+            "fuzzy_tfidf:models(83.33333333333334)",
+            "fuzzy_tfidf:problems(75.0)",
+            "fuzzy_tfidf:line(75.0)"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "yIPnnUqJ6Ds",
+        "title": "Dryer Repair - Replacing the Dryer Drum Slide (GE Part# WE1M481)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 47.84,
+        "scoring_breakdown": {
+          "semantic_score": 13.8,
+          "keyword_score": 23,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:models(83.33333333333334)",
+            "fuzzy_tfidf:problems(75.0)",
+            "fuzzy_tfidf:line(75.0)",
+            "fuzzy_tfidf:like(75.0)"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "apQWqi7LMVQ",
+        "title": "How to Replace the Reel and Line Assembly on a Ryobi 132R String Trimmer (Part # 791-181460B)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement reel and line assembly for your Ryobi 132R string trimmer here: http://www.ereplacementparts.com/reel-and-line-assembly-p-283486.html\n\nThis tutorial will show you how to remove...",
+        "relevance_score": 66.23,
+        "scoring_breakdown": {
+          "semantic_score": 20.95,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:ve",
+            "tfidf:line",
+            "tfidf:trimmer",
+            "tfidf:string trimmer",
+            "tfidf:string"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "drilling_tools",
+    "post_count": 31,
+    "avg_engagement": 67.48387096774194,
+    "total_comments": 1277,
+    "demand_strength": 2092.0,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Funny moment that made me appreciate my tools more",
+        "selftext": "The other night I was sitting on my couch half distracted on myprize, when I glanced over at my little tool rack. It hit me how much easier life has gotten just from slowly building up a decent set. A couple years ago I didn’t even own a drill and every small repair felt like a massive headache. Now I’ve got a handful of solid basics a drill, socket set, level, and a few other essentials and it’s wild how much stress they’ve saved me. Instead of putting things off or improvising with the wrong s",
+        "score": 233,
+        "num_comments": 52,
+        "created_utc": 1758713628.0,
+        "url": "https://www.reddit.com/r/Tools/comments/1np9p8n/funny_moment_that_made_me_appreciate_my_tools_more/",
+        "permalink": "https://reddit.com/r/Tools/comments/1np9p8n/funny_moment_that_made_me_appreciate_my_tools_more/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "drill"
+        ]
+      },
+      {
+        "subreddit": "Tools",
+        "title": "Finally upgraded my drill after years of using a hand me down",
+        "selftext": "I’ve been using my dad’s old corded drill for years. It still technically works, but the chuck slips and the cord is all frayed. I finally had some extra money saved from a win on rollingriches and grabbed a Milwaukee cordless set this week. Honestly, it feels like night and day lighter, faster, and no extension cords everywhere. I spent half the afternoon just finding excuses to use it.",
+        "score": 197,
+        "num_comments": 33,
+        "created_utc": 1758631368.0,
+        "url": "https://www.reddit.com/r/Tools/comments/1nogcch/finally_upgraded_my_drill_after_years_of_using_a/",
+        "permalink": "https://reddit.com/r/Tools/comments/1nogcch/finally_upgraded_my_drill_after_years_of_using_a/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "drill",
+          "cordless",
+          "chuck"
+        ]
+      },
+      {
+        "subreddit": "Tools",
+        "title": "Thank you dewalt grinder warranty",
+        "selftext": "Bought a ton of dewalt XR stuff during November Black Friday sales last year, waited years to choose which brand while babying my 2007 dewalt kit.  (1/4 driver still going! Replacement batteries…)\n\nAnyway xr grinder was a big hit, $250 with a battery, but I used a $50 HD pro-extra perk.   It was bigger/heavier than my corded makitas, but was the only paddle switch model they had.\n\nGot used to it real quick.  Very handy with the speed control knob and no cord.\n\nWell it lasted til July 2025.  I us",
+        "score": 112,
+        "num_comments": 27,
+        "created_utc": 1758378104.0,
+        "url": "https://www.reddit.com/gallery/1nlzgyy",
+        "permalink": "https://reddit.com/r/Tools/comments/1nlzgyy/thank_you_dewalt_grinder_warranty/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "battery"
+        ]
+      }
+    ],
+    "content_angle": "Drill & Driver Comparisons/Tutorials",
+    "example_videos": [
+      "Impact driver vs regular drill",
+      "Drill bit guide for beginners"
+    ],
+    "hashtags": [
+      "#drill",
+      "#impactdriver",
+      "#powertools",
+      "#construction"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "hYw_llFgevE",
+        "title": "Drill Repair - Replacing the (Housing) Clamshell (DeWALT Part # 620711-02SV)",
+        "channel": "fixtechguides",
+        "description_snippet": "http://www.ereplacementparts.com/clamshell-set-p-69815.html?q=620711-02SV Click here for more information on this part, installation instructions and more.\n\nThis particular clamshell set is...",
+        "relevance_score": 45.13,
+        "scoring_breakdown": {
+          "semantic_score": 15.13,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:drill",
+            "tfidf:set",
+            "tfidf:using",
+            "fuzzy_tfidf:drill years(77.77777777777779)",
+            "tfidf:dewalt"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "ygI8aj0BQcg",
+        "title": "DeWALT Drill Repair - Replacing the Gear & Spindle (DeWALT Part # 449486-01)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Gear & Spindle for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 44.96,
+        "scoring_breakdown": {
+          "semantic_score": 19.16,
+          "keyword_score": 22,
+          "intent_score": 3.8,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:drill",
+            "fuzzy_tfidf:set(80.0)",
+            "fuzzy_tfidf:years(80.0)",
+            "tfidf:dewalt",
+            "product:drill"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0",
+            "comparison:0.9↔1.8"
+          ]
+        }
+      },
+      {
+        "video_id": "2A5LP3s9ThY",
+        "title": "Avoid the Headaches! Don't Make These Top 5 Washing Machine Mistakes!",
+        "channel": "partselect",
+        "description_snippet": "You've probably been using a washing machine for years now, but are your really using your washing machine properly? There are a few hot tips that can help you utilize some of the settings...",
+        "relevance_score": 36.44,
+        "scoring_breakdown": {
+          "semantic_score": 7.37,
+          "keyword_score": 23,
+          "intent_score": 0,
+          "content_boost": 1.2,
+          "content_type": "review"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:ve",
+            "tfidf:set",
+            "tfidf:years",
+            "tfidf:using",
+            "fuzzy_tfidf:like(75.0)"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 29.17,
+        "scoring_breakdown": {
+          "semantic_score": 16.17,
+          "keyword_score": 11,
+          "intent_score": 2.0,
+          "content_boost": 1.0,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:drill(75.0)",
+            "tfidf:ve",
+            "fuzzy_tfidf:years(80.0)"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0"
+          ]
+        }
+      },
+      {
+        "video_id": "oZDAQ4u8kqY",
+        "title": "DeWALT Drill Repair - Replacing the Power Cord (DeWALT Part # 36485-98)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Power Cord for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 44.52,
+        "scoring_breakdown": {
+          "semantic_score": 21.72,
+          "keyword_score": 19,
+          "intent_score": 3.8,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:drill",
+            "fuzzy_tfidf:set(80.0)",
+            "tfidf:dewalt",
+            "product:drill",
+            "product:dewalt"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0",
+            "comparison:0.9↔1.8"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 13,
+    "avg_engagement": 88.76923076923077,
+    "total_comments": 1269,
+    "demand_strength": 1154.0,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "First ever Router, how did i do?",
+        "selftext": "I bought it because Im building racks and cabinets in my construction trailer, hoping to start a side hustle building and fixing things.\nAny advice would be much appreciated.",
+        "score": 16,
+        "num_comments": 12,
+        "created_utc": 1758256011.0,
+        "url": "https://www.reddit.com/gallery/1nku00q",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1nku00q/first_ever_router_how_did_i_do/",
+        "demand_signals": [
+          "advice"
+        ],
+        "matched_keywords": [
+          "router"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita LS0815FL – clicking noise from blade guard, any fix?",
+        "selftext": "Hi! I’ve got a Makita LS0815FL that works fine overall, but when the blade guard is mounted it makes a distinct click about halfway down when lowering the arm. I already lubricated the return spring, which solved the squeaking, but this clicking remains.\n\nI’ve recorded a short video so you can hear it. Has anyone run into this before or know how to adjust/fix it?",
+        "score": 8,
+        "num_comments": 6,
+        "created_utc": 1758364921.0,
+        "url": "https://v.redd.it/lor0y0p8taqf1",
+        "permalink": "https://reddit.com/r/Makita/comments/1nluwrt/makita_ls0815fl_clicking_noise_from_blade_guard/",
+        "demand_signals": [
+          "how to"
+        ],
+        "matched_keywords": [
+          "blade"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Drt50 stopped working",
+        "selftext": "I have a drt50 router, was working this morning , I turned of the machine to change bits and it wouldn't start anymore. Eventually brought it in for repair but did people have this issue also? I have it for less than a year and not abusing it. I do everything in multiple passes etc",
+        "score": 1,
+        "num_comments": 1,
+        "created_utc": 1758553607.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1nnp0ui/drt50_stopped_working/",
+        "permalink": "https://reddit.com/r/Makita/comments/1nnp0ui/drt50_stopped_working/",
+        "demand_signals": [
+          "stopped"
+        ],
+        "matched_keywords": [
+          "router"
+        ]
+      }
+    ],
+    "content_angle": "DIY Repair Tutorials",
+    "example_videos": [
+      "Fix it yourself tutorials",
+      "Common appliance problems"
+    ],
+    "hashtags": [
+      "#DIYrepair",
+      "#fixit",
+      "#repair",
+      "#maintenance"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "Smk3okUIZZc",
+        "title": "How to Replace the Blade Guard Assembly on a DeWALT DW718 Miter Saw (Part # N353439)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement blade guard assembly for your DeWALT DW718 miter saw here: http://www.ereplacementparts.com/lower-guard-assembly-p-91033.html\n\nThis tutorial will show you how to remove and...",
+        "relevance_score": 58.8,
+        "scoring_breakdown": {
+          "semantic_score": 20.03,
+          "keyword_score": 23,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:start(80.0)",
+            "tfidf:guard",
+            "tfidf:blade",
+            "tfidf:blade guard",
+            "tfidf:ve"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      },
+      {
+        "video_id": "PZkZniNQmb0",
+        "title": "How to Replace the Blade on a Miter Saw--A Quick Fix",
+        "channel": "fixtechguides",
+        "description_snippet": "In this Quick Fix Tutorial, Mark guides you through the steps needed to replace a miter saw blade. With a little help from Mark and OEM parts from eReplacementParts.com you can complete this...",
+        "relevance_score": 53.23,
+        "scoring_breakdown": {
+          "semantic_score": 18.55,
+          "keyword_score": 13,
+          "intent_score": 9.399999999999999,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:start(80.0)",
+            "tfidf:fix",
+            "tfidf:blade"
+          ],
+          "intent_matches": [
+            "troubleshooting:4.8↔3.5999999999999996",
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      },
+      {
+        "video_id": "TXIAwE2uMVE",
+        "title": "Refrigerator Repair: Ice Maker Not Working - What Parts Could Cause This Problem?",
+        "channel": "partselect",
+        "description_snippet": "Need the part you’re trying to replace? Simply enter your model or part number into our website to get started finding the manufacturer-approved part you need! https://www.partselect.com/?utm_sou...",
+        "relevance_score": 44.62,
+        "scoring_breakdown": {
+          "semantic_score": 11.82,
+          "keyword_score": 26,
+          "intent_score": 6.8,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:working",
+            "tfidf:start",
+            "tfidf:ve",
+            "brand:model"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0",
+            "troubleshooting:4.8↔2.4"
+          ]
+        }
+      },
+      {
+        "video_id": "pJW2otpKhXk",
+        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
+        "relevance_score": 42.38,
+        "scoring_breakdown": {
+          "semantic_score": 12.0,
+          "keyword_score": 16,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:working",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:4.8↔1.2",
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "tfTDQKakVnU",
+        "title": "How to Replace the Starter Assembly on a Makita Cut Off Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "LET’S GET (YOUR SAW) STARTED: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. Replacing the starter assembly in a Makita DPC7311 cut-off...",
+        "relevance_score": 52.99,
+        "scoring_breakdown": {
+          "semantic_score": 20.56,
+          "keyword_score": 18,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:start",
+            "tfidf:makita",
+            "tfidf:ve",
+            "product:makita"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "lawn_care",
+    "post_count": 6,
+    "avg_engagement": 32.666666666666664,
+    "total_comments": 110,
+    "demand_strength": 196.0,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Can't get my blades off",
+        "selftext": "I was trying to remove my blades on my mower and the nut unthreaded about 3 turns and then beared down.  Now the blades are loose but I cannot remove the nut or tighten it to secure the blades and there isn't enough of a gap to get my skinniest channel locks into to lock down the drive shaft.  Is there any other way to lock it so that I can remove the nut?",
+        "score": 12,
+        "num_comments": 15,
+        "created_utc": 1758389122.0,
+        "url": "https://v.redd.it/jq8k2numtcqf1",
+        "permalink": "https://reddit.com/r/ryobi/comments/1nm43z5/cant_get_my_blades_off/",
+        "demand_signals": [],
+        "matched_keywords": [
+          "blade"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Trying to get warranty repair on 40v mower",
+        "selftext": "My 40v mower recently stopped spinning the blade. The powered movement still works so the battery and the safety bar are working. Just the blade is not spinning when I press the button to engage the blade. The nearest repair facility is 300 miles away. Ryobi support is telling me to ship the mower to the repair site. How am I supposed to find a box big enough to ship this back? This really is pushing me away from using Ryobi lawn equipment if they cannot support warranty repairs for customers in",
+        "score": 3,
+        "num_comments": 3,
+        "created_utc": 1758725021.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1npe0rk/trying_to_get_warranty_repair_on_40v_mower/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1npe0rk/trying_to_get_warranty_repair_on_40v_mower/",
+        "demand_signals": [
+          "stopped"
+        ],
+        "matched_keywords": [
+          "battery",
+          "blade"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Ride on mower battery dying, want to make sure I am getting the right replacement battery.",
+        "selftext": "We have had this ride on mower for about five years now and the battery is finally giving out. I want to upgrade and this battery replacement is pitched as a lighter, longer lasting alternative but I’m not too savvy with this sort of thing. Will this battery be able to to hook up and replace the current original battery or am I looking at the wrong one? \n\nHere is the link to my mower RY48130: https://www.homedepot.com/p/RYOBI-48V-Brushless-30-in-50-Ah-Battery-Electric-Rear-Engine-Riding-Mower-RY",
+        "score": 2,
+        "num_comments": 6,
+        "created_utc": 1758636609.0,
+        "url": "https://www.reddit.com/gallery/1noifs6",
+        "permalink": "https://reddit.com/r/ryobi/comments/1noifs6/ride_on_mower_battery_dying_want_to_make_sure_i/",
+        "demand_signals": [
+          "alternative"
+        ],
+        "matched_keywords": [
+          "battery",
+          "brushless"
+        ]
+      }
+    ],
+    "content_angle": "Lawn Equipment Reviews & Tips",
+    "example_videos": [
+      "Mower buying guide",
+      "Lawn care mistakes to avoid"
+    ],
+    "hashtags": [
+      "#lawncare",
+      "#mower",
+      "#landscaping",
+      "#yardwork"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "jMgMUNL06sE",
+        "title": "How to Replace the Bell Blade Support on a Troy-Bilt TB130 Lawn Mower (Part # 736-0524B)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement bell blade support for your Troy-Bilt TB130 lawn mower here: http://www.ereplacementparts.com/bell-blade-support-p-311499.html\n\nThis tutorial will show you how to remove and...",
+        "relevance_score": 68.6,
+        "scoring_breakdown": {
+          "semantic_score": 21.97,
+          "keyword_score": 29,
+          "intent_score": 1.8,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:mower",
+            "fuzzy_tfidf:blades(83.33333333333334)",
+            "tfidf:remove",
+            "tfidf:blade",
+            "fuzzy_tfidf:remove nut(80.0)"
+          ],
+          "intent_matches": [
+            "comparison:2.7↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "VFskjcCQ9Ws",
+        "title": "How to Replace the Blade Support on a Troy-Bilt TB280ES Lawn Mower (Part # 736-0524B)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement blade support for your Troy-Bilt TB280ES lawn mower here: http://www.ereplacementparts.com/bell-blade-support-p-311499.html\n\nThis tutorial will show you how to remove and...",
+        "relevance_score": 68.4,
+        "scoring_breakdown": {
+          "semantic_score": 21.81,
+          "keyword_score": 29,
+          "intent_score": 1.8,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:mower",
+            "fuzzy_tfidf:blades(83.33333333333334)",
+            "tfidf:remove",
+            "tfidf:blade",
+            "fuzzy_tfidf:remove nut(80.0)"
+          ],
+          "intent_matches": [
+            "comparison:2.7↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "obhThOwXciI",
+        "title": "How to Sharpen Lawn Mower Blades | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "Keeping your lawn mower's blades sharp is one of the best ways to ensure that your lawn looks its best. Dull blades don't cut grass properly, which will leave your lawn uneven, and possibly...",
+        "relevance_score": 57.07,
+        "scoring_breakdown": {
+          "semantic_score": 19.9,
+          "keyword_score": 24,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:mower",
+            "tfidf:blades",
+            "tfidf:blade",
+            "fuzzy_tfidf:lock(75.0)",
+            "fuzzy_tfidf:away(75.0)"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "A1iYxZsHfY0",
+        "title": "Refrigerator Repair – Replacing the Auger and Crusher Blade (Whirlpool Part # WP12740302)",
+        "channel": "partselect",
+        "description_snippet": "Click here for more information on this part, installation instructions and more.  http://www.partselect.com/PS11738609-Whirlpool-WP12740302-Icemaker-Auger-and-Crusher-Blade-Assembly.htm?SourceCode...",
+        "relevance_score": 39.53,
+        "scoring_breakdown": {
+          "semantic_score": 11.4,
+          "keyword_score": 19,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:model(75.0)",
+            "fuzzy_tfidf:blades(83.33333333333334)",
+            "tfidf:repair",
+            "tfidf:blade",
+            "fuzzy_tfidf:lock(75.0)"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "9RUfTg2mX7g",
+        "title": "How to Replace the Guard and Blade Assembly on a Ryobi 132R String Trimmer (Part # 791-683274)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement guard and blade assembly for your Ryobi 132R string trimmer here: http://www.ereplacementparts.com/guard-and-blade-assy-p-282800.html\n\nThis tutorial will show you how to remove...",
+        "relevance_score": 61.38,
+        "scoring_breakdown": {
+          "semantic_score": 21.42,
+          "keyword_score": 24,
+          "intent_score": 1.8,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:blades(83.33333333333334)",
+            "tfidf:remove",
+            "tfidf:blade",
+            "fuzzy_tfidf:remove nut(75.0)",
+            "tfidf:ryobi"
+          ],
+          "intent_matches": [
+            "comparison:2.7↔0.9"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "budget_options",
+    "post_count": 3,
+    "avg_engagement": 60.0,
+    "total_comments": 159,
+    "demand_strength": 180.0,
+    "sample_posts": [
+      {
+        "subreddit": "BudgetFood",
+        "title": "Some of my recent budget meals",
+        "selftext": "Honey garlic glazed chicken thigh. Around $6.40 for 10 chicken thighs. Garlic glaze used about 3$ worth of marinade ingredients (soy, sesame oil, jarlic, honey, apple cider vinegar, free harvested green onion); 1.5 cups of marinade for all the thighs. Bought yakisoba for $4.50 and added fresh vegetables (onion, celery, carrots, brussel sprouts, free harvested swiss chard leaves). Free harvested summer squash with parmesean. Overall it balanced out to about $4-$5 per serving.\n\n[TANGENT] I was for",
+        "score": 140,
+        "num_comments": 14,
+        "created_utc": 1758255730.0,
+        "url": "https://www.reddit.com/gallery/1nktx19",
+        "permalink": "https://reddit.com/r/budgetfood/comments/1nktx19/some_of_my_recent_budget_meals/",
+        "demand_signals": [
+          "budget",
+          "expensive",
+          "cheap",
+          "expensive"
+        ],
+        "matched_keywords": [
+          "chuck",
+          "oven"
+        ]
+      },
+      {
+        "subreddit": "cookingforbeginners",
+        "title": "Easiest things to do with potatoes?",
+        "selftext": "Potatoes are extremely cheap where I am so i bought a 10lb bag and I'm looking for things to do with them. Normally I just cut them into fries and air fry them and while that's fine, I'm looking for something else I can do. Preferably minimal prep and either air fryer or instant pot-able.",
+        "score": 38,
+        "num_comments": 141,
+        "created_utc": 1758731968.0,
+        "url": "https://www.reddit.com/r/cookingforbeginners/comments/1nph3mo/easiest_things_to_do_with_potatoes/",
+        "permalink": "https://reddit.com/r/cookingforbeginners/comments/1nph3mo/easiest_things_to_do_with_potatoes/",
+        "demand_signals": [
+          "cheap"
+        ],
+        "matched_keywords": [
+          "air fryer",
+          "instant pot"
+        ]
+      },
+      {
+        "subreddit": "AskEngineers",
+        "title": "3D printing for industrial cycloidal gearbox",
+        "selftext": "Hi everyone, so I am building a 6dof robot arm from scratch using aluminium and some 3d printed parts. I will use cycloidal gearboxes on all of the joints to increase the torque and precision. I have a small 3 axis cnc machine on which i will make the components.\n\nI have a very limited budget for the robot, so to spend less on bigger motors and raw aluminium i decided to make the outer housing of the cycloidal gearbox from petg or abs. Only the outside will be 3d printed along the motor covers a",
+        "score": 2,
+        "num_comments": 4,
+        "created_utc": 1758648658.0,
+        "url": "https://www.reddit.com/r/AskEngineers/comments/1nonr31/3d_printing_for_industrial_cycloidal_gearbox/",
+        "permalink": "https://reddit.com/r/AskEngineers/comments/1nonr31/3d_printing_for_industrial_cycloidal_gearbox/",
+        "demand_signals": [
+          "budget"
+        ],
+        "matched_keywords": [
+          "torque"
+        ]
+      }
+    ],
+    "content_angle": "Budget Tool & Appliance Reviews",
+    "example_videos": [
+      "Best budget power tools",
+      "Cheap vs expensive tool comparison"
+    ],
+    "hashtags": [
+      "#budgettools",
+      "#affordabletools",
+      "#tooldeals",
+      "#budgetDIY"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "z_s7GJsQkr0",
+        "title": "Refrigerator and Icemaker Repair - Replacing the Solenoid Assembly (GE Part# WR62X10055)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 42.04,
+        "scoring_breakdown": {
+          "semantic_score": 11.34,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:air",
+            "tfidf:make",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "NpGZEoplmGM",
+        "title": "Refrigerator and IceMaker Repair - Replacing the Auger Assembly (GE Part# WR17X11705)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 40.92,
+        "scoring_breakdown": {
+          "semantic_score": 10.48,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:air",
+            "tfidf:make",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "hn-mb9Ge82w",
+        "title": "How to make Custom Homemade Cookie Cutters | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "If you're looking for a really cool project to take on in your shop this year, then look no further than building your own home-made cookie cutters! It's a fairly easy process, and it can allow...",
+        "relevance_score": 33.98,
+        "scoring_breakdown": {
+          "semantic_score": 9.14,
+          "keyword_score": 15,
+          "intent_score": 2.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:looking",
+            "tfidf:air",
+            "tfidf:make"
+          ],
+          "intent_matches": [
+            "buying_advice:6.0↔1.0"
+          ]
+        }
+      },
+      {
+        "video_id": "2d46qh8cH9g",
+        "title": "5 Essential Power Tools Every DIYer Should Have | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Power Tools can certainly make life easier in the workshop. But if you're new to the game, you may be wondering what tools you'll need to get things started. In this video, we'll cover 5 tools...",
+        "relevance_score": 32.11,
+        "scoring_breakdown": {
+          "semantic_score": 12.7,
+          "keyword_score": 10,
+          "intent_score": 2.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:things",
+            "tfidf:make"
+          ],
+          "intent_matches": [
+            "buying_advice:6.0↔1.0"
+          ]
+        }
+      },
+      {
+        "video_id": "AVBYkedhaZA",
+        "title": "Refrigerator & IceMaker Repair - Replacing the Double Outlet Water Valve (GE Part# WR57X10032)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 40.31,
+        "scoring_breakdown": {
+          "semantic_score": 10.01,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:air",
+            "tfidf:make",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  }
+]
