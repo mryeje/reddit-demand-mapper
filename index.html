@@ -16,6 +16,91 @@
         color: #2c3e50;
         margin-bottom: 30px;
     }
+    
+    /* Dashboard-A Styles */
+    .dashboard-a {
+        background: #e8f4fd;
+        border: 2px solid #3498db;
+        border-radius: 12px;
+        padding: 20px;
+        margin-bottom: 40px;
+    }
+    .dashboard-a h2 {
+        color: #2c3e50;
+        margin-top: 0;
+        text-align: center;
+        font-size: 1.5em;
+        border-bottom: 2px solid #3498db;
+        padding-bottom: 10px;
+    }
+    .correlation-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        background: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .correlation-table th {
+        background: #3498db;
+        color: white;
+        padding: 12px;
+        text-align: left;
+        font-weight: bold;
+        border-bottom: 2px solid #2980b9;
+    }
+    .correlation-table td {
+        padding: 10px 12px;
+        border-bottom: 1px solid #ecf0f1;
+        vertical-align: top;
+    }
+    .correlation-table tr:nth-child(even) {
+        background: #f8f9fa;
+    }
+    .correlation-table tr:hover {
+        background: #e3f2fd;
+    }
+    .reddit-post-cell {
+        font-weight: 500;
+        color: #2c3e50;
+        max-width: 300px;
+    }
+    .video-title-cell {
+        color: #c53030;
+        max-width: 300px;
+    }
+    .video-title-cell a {
+        color: #c53030;
+        text-decoration: none;
+    }
+    .video-title-cell a:hover {
+        text-decoration: underline;
+    }
+    .score-cell {
+        text-align: center;
+        font-weight: bold;
+        min-width: 80px;
+    }
+    .score-strong {
+        color: #27ae60;
+        background: #d5f4e6;
+        padding: 4px 8px;
+        border-radius: 12px;
+    }
+    .score-medium {
+        color: #f39c12;
+        background: #fef9e7;
+        padding: 4px 8px;
+        border-radius: 12px;
+    }
+    .score-weak {
+        color: #e67e22;
+        background: #fdf2e9;
+        padding: 4px 8px;
+        border-radius: 12px;
+    }
+    
     .controls {
         text-align: center;
         margin-bottom: 30px;
@@ -27,6 +112,55 @@
         border-radius: 5px;
         background: white;
     }
+    
+    /* View Toggle Buttons */
+    .view-toggle {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .toggle-btn {
+        background: #3498db;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        margin: 0 5px;
+        cursor: pointer;
+        font-size: 14px;
+    }
+    .toggle-btn.active {
+        background: #2c3e50;
+    }
+    .toggle-btn:hover {
+        background: #2980b9;
+    }
+    
+    /* Correlation Filters */
+    .correlation-filters {
+        background: #f8f9fa;
+        padding: 15px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        text-align: center;
+        display: none;
+    }
+    .correlation-filters.active {
+        display: block;
+    }
+    .filter-group {
+        display: inline-block;
+        margin: 0 15px;
+    }
+    .filter-group label {
+        font-weight: bold;
+        margin-right: 8px;
+    }
+    .filter-group select {
+        padding: 5px;
+        border-radius: 4px;
+        border: 1px solid #bdc3c7;
+    }
+    
     .summary {
         background: #e8f4fd;
         padding: 20px;
@@ -34,6 +168,8 @@
         margin-bottom: 30px;
         border-left: 4px solid #3498db;
     }
+    
+    /* Theme Overview Styles */
     .theme { 
         margin-bottom: 40px; 
         background: #fff; 
@@ -49,9 +185,169 @@
         border-bottom: 2px solid #ecf0f1;
         padding-bottom: 10px;
     }
-    .theme-stats {
+    
+    /* Correlation View Styles */
+    .correlation-view {
+        display: none;
+    }
+    .correlation-view.active {
+        display: block;
+    }
+    
+    .post-video-pair {
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        margin-bottom: 30px;
+        overflow: hidden;
+        border-left: 5px solid #27ae60;
+    }
+    
+    .post-video-pair.strong-match {
+        border-left-color: #27ae60;
+    }
+    .post-video-pair.medium-match {
+        border-left-color: #f39c12;
+    }
+    .post-video-pair.weak-match {
+        border-left-color: #e67e22;
+    }
+    .post-video-pair.poor-match {
+        border-left-color: #e74c3c;
+    }
+    
+    .pair-header {
+        background: #ecf0f1;
+        padding: 15px 20px;
+        border-bottom: 1px solid #bdc3c7;
+    }
+    
+    .pair-theme {
+        font-size: 1.1em;
+        font-weight: bold;
+        color: #2c3e50;
+        text-transform: capitalize;
+    }
+    
+    .correlation-strength {
+        display: inline-block;
+        color: white;
+        padding: 4px 12px;
+        border-radius: 15px;
+        font-size: 0.8em;
+        margin-left: 10px;
+    }
+    
+    .correlation-strength.strong {
+        background: #27ae60;
+    }
+    .correlation-strength.medium {
+        background: #f39c12;
+    }
+    .correlation-strength.weak {
+        background: #e67e22;
+    }
+    .correlation-strength.poor {
+        background: #e74c3c;
+    }
+    
+    .pair-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0;
+    }
+    
+    .reddit-side {
+        background: #fff5f5;
+        padding: 20px;
+        border-right: 3px solid #e74c3c;
+    }
+    
+    .youtube-side {
+        background: #f0fff4;
+        padding: 20px;
+    }
+    
+    .side-header {
+        font-weight: bold;
+        color: #2c3e50;
+        margin-bottom: 15px;
+        padding-bottom: 8px;
+        border-bottom: 2px solid #ecf0f1;
+    }
+    
+    .reddit-side .side-header {
+        color: #e74c3c;
+    }
+    
+    .youtube-side .side-header {
+        color: #27ae60;
+    }
+    
+    .match-explanation {
+        background: #fff3cd;
+        border: 1px solid #ffeaa7;
+        border-radius: 8px;
+        padding: 15px;
+        margin: 15px 20px;
+        border-left: 4px solid #f39c12;
+    }
+    
+    .match-title {
+        font-weight: bold;
+        color: #8b4513;
+        margin-bottom: 8px;
+    }
+    
+    .match-details {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 10px;
+        margin-top: 10px;
+    }
+    
+    .match-category {
+        background: #f8f9fa;
+        padding: 8px;
+        border-radius: 5px;
+        font-size: 0.9em;
+    }
+    
+    .match-category strong {
+        color: #2c3e50;
+    }
+    
+    .connection-line {
+        position: relative;
+        height: 3px;
+        background: linear-gradient(to right, #e74c3c, #27ae60);
+        margin: 0 20px;
+        border-radius: 2px;
+    }
+    
+    .connection-line::before {
+        content: "⟷";
+        position: absolute;
+        left: 50%;
+        top: -8px;
+        transform: translateX(-50%);
+        background: white;
+        padding: 0 5px;
+        color: #7f8c8d;
+        font-size: 1.2em;
+    }
+    
+    .no-correlations {
+        text-align: center;
+        padding: 40px;
+        background: #f8f9fa;
+        border-radius: 8px;
+        color: #6c757d;
+    }
+    
+    .theme-stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
         gap: 15px;
         margin: 15px 0;
         padding: 15px;
@@ -268,29 +564,233 @@
         border-radius: 5px;
         margin: 20px 0;
     }
+    
+    /* Responsive Design */
+    @media (max-width: 768px) {
+        .pair-content {
+            grid-template-columns: 1fr;
+        }
+        .reddit-side {
+            border-right: none;
+            border-bottom: 3px solid #e74c3c;
+        }
+        .connection-line::before {
+            content: "⤵";
+            transform: translateX(-50%) rotate(90deg);
+        }
+        .correlation-table {
+            font-size: 0.9em;
+        }
+        .correlation-table th,
+        .correlation-table td {
+            padding: 8px;
+        }
+    }
 </style>
 </head>
 <body>
 
 <h1>Reddit Posts & Video Correlation Viewer</h1>
 
+<!-- Dashboard-A Section -->
+<div class="dashboard-a" id="dashboardA">
+    <h2>📊 Dashboard-A: Reddit Post & Video Correlations</h2>
+    <div id="correlationTableContent">
+        <p style="text-align: center; color: #666;">Loading correlation data...</p>
+    </div>
+</div>
+
 <div class="controls">
     <input type="file" id="jsonFile" accept=".json" placeholder="Select JSON file..." />
 </div>
 
+<div class="view-toggle">
+    <button class="toggle-btn active" onclick="switchView('overview')">Theme Overview</button>
+    <button class="toggle-btn" onclick="switchView('correlation')">Post ↔ Video Correlations</button>
+</div>
+
+<div class="correlation-filters" id="correlationFilters">
+    <div class="filter-group">
+        <label>Min Score:</label>
+        <select id="minScoreFilter" onchange="filterCorrelations()">
+            <option value="0">All Matches</option>
+            <option value="15" selected>Good (15+)</option>
+            <option value="25">Strong (25+)</option>
+            <option value="35">Excellent (35+)</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Theme:</label>
+        <select id="themeFilter" onchange="filterCorrelations()">
+            <option value="all">All Themes</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Diversity:</label>
+        <select id="diversityFilter" onchange="filterCorrelations()">
+            <option value="high" selected>High Diversity</option>
+            <option value="medium">Medium Diversity</option>
+            <option value="low">Show All Matches</option>
+        </select>
+    </div>
+</div>
+
 <div id="loading" class="loading">Loading latest analysis data...</div>
 <div id="summary"></div>
-<div id="content"></div>
+<div id="overview-content"></div>
+<div id="correlation-content" class="correlation-view"></div>
 
 <script>
+let currentData = null;
+let allCorrelations = [];
+
 document.addEventListener('DOMContentLoaded', function() {
-    // Auto-load the latest.json data when page loads
     loadLatestData();
 });
+
+function generateDashboardA(data) {
+    const tableContent = document.getElementById('correlationTableContent');
+    
+    if (!data || !Array.isArray(data) || data.length === 0) {
+        tableContent.innerHTML = '<p style="text-align: center; color: #666;">No correlation data available</p>';
+        return;
+    }
+
+    // Generate correlations for the table (similar to the detailed view but simpler)
+    const tableCorrelations = [];
+    
+    data.forEach(theme => {
+        if (!theme.sample_posts || !theme.matched_videos || 
+            theme.sample_posts.length === 0 || theme.matched_videos.length === 0) {
+            return;
+        }
+
+        theme.sample_posts.forEach((post, postIndex) => {
+            // Find the best matching video for this post
+            let bestMatch = null;
+            let bestScore = 0;
+            
+            theme.matched_videos.forEach((video, videoIndex) => {
+                const correlation = calculateAdvancedCorrelationStrength(post, video, theme);
+                
+                if (correlation.score > bestScore && correlation.score >= 15) {
+                    bestScore = correlation.score;
+                    bestMatch = {
+                        post,
+                        video,
+                        correlation
+                    };
+                }
+            });
+            
+            if (bestMatch) {
+                tableCorrelations.push(bestMatch);
+            }
+        });
+    });
+
+    // Remove duplicate posts
+    const uniqueCorrelations = [];
+    const seenPosts = new Set();
+    
+    tableCorrelations.sort((a, b) => b.correlation.score - a.correlation.score);
+    
+    for (const corr of tableCorrelations) {
+        const postKey = corr.post.title;
+        if (!seenPosts.has(postKey)) {
+            uniqueCorrelations.push(corr);
+            seenPosts.add(postKey);
+        }
+    }
+
+    // Generate table HTML
+    let html = `
+        <table class="correlation-table">
+            <thead>
+                <tr>
+                    <th>Reddit Post</th>
+                    <th>Video Match</th>
+                    <th>Correlation Score</th>
+                </tr>
+            </thead>
+            <tbody>
+    `;
+
+    // Show top 20 correlations
+    uniqueCorrelations.slice(0, 20).forEach(corr => {
+        const youtubeUrl = `https://www.youtube.com/watch?v=${corr.video.video_id}`;
+        const scoreClass = corr.correlation.score >= 30 ? 'score-strong' : 
+                          corr.correlation.score >= 20 ? 'score-medium' : 'score-weak';
+        
+        html += `
+            <tr>
+                <td class="reddit-post-cell">${corr.post.title}</td>
+                <td class="video-title-cell">
+                    <a href="${youtubeUrl}" target="_blank">${corr.video.title}</a>
+                </td>
+                <td class="score-cell">
+                    <span class="${scoreClass}">${corr.correlation.score.toFixed(2)}</span>
+                </td>
+            </tr>
+        `;
+    });
+
+    html += `
+            </tbody>
+        </table>
+    `;
+
+    if (uniqueCorrelations.length === 0) {
+        tableContent.innerHTML = '<p style="text-align: center; color: #666;">No high-quality correlations found</p>';
+    } else {
+        tableContent.innerHTML = html;
+    }
+}
+
+function switchView(viewType) {
+    const overviewContent = document.getElementById('overview-content');
+    const correlationContent = document.getElementById('correlation-content');
+    const correlationFilters = document.getElementById('correlationFilters');
+    const buttons = document.querySelectorAll('.toggle-btn');
+    
+    buttons.forEach(btn => btn.classList.remove('active'));
+    
+    if (viewType === 'overview') {
+        overviewContent.style.display = 'block';
+        correlationContent.style.display = 'none';
+        correlationFilters.classList.remove('active');
+        buttons[0].classList.add('active');
+    } else {
+        overviewContent.style.display = 'none';
+        correlationContent.style.display = 'block';
+        correlationFilters.classList.add('active');
+        buttons[1].classList.add('active');
+        if (currentData) {
+            generateCorrelations(currentData);
+        }
+    }
+}
 
 function loadLatestData() {
     const loadingElement = document.getElementById('loading');
     const fileInput = document.getElementById('jsonFile');
+    
+    // Check if we're running from file:// protocol
+    if (window.location.protocol === 'file:') {
+        loadingElement.innerHTML = `
+            <div class="error">
+                <h3>🚫 CORS Security Issue</h3>
+                <p>You're opening this HTML file directly. Browsers block file access for security.</p>
+                <h4>🔧 Quick Fix:</h4>
+                <p>1. Open Command Prompt/Terminal in this folder</p>
+                <p>2. Run: <code style="background: #f0f0f0; padding: 2px 5px;">python -m http.server 8000</code></p>
+                <p>3. Open: <code style="background: #f0f0f0; padding: 2px 5px;">http://localhost:8000/dashboard.html</code></p>
+                <p><strong>Or upload your JSON file manually below:</strong></p>
+            </div>
+        `;
+        fileInput.style.display = 'block';
+        return;
+    }
     
     fetch('latest.json')
         .then(response => {
@@ -301,22 +801,25 @@ function loadLatestData() {
         })
         .then(data => {
             loadingElement.style.display = 'none';
+            currentData = data;
+            generateDashboardA(data); // Generate Dashboard-A table
             displayData(data);
-            // Hide the file input since we're auto-loading
             fileInput.style.display = 'none';
         })
         .catch(error => {
-            loadingElement.innerHTML = '<div class="error">' +
-                '<h3>Error loading data</h3>' +
-                '<p>Could not load latest.json. You can upload a JSON file manually:</p>' +
-                '<p><strong>Error details:</strong> ' + error.message + '</p>' +
-                '</div>';
+            loadingElement.innerHTML = `
+                <div class="error">
+                    <h3>📁 Could not load data</h3>
+                    <p><strong>Error:</strong> ${error.message}</p>
+                    <p>Make sure reports/latest.json exists and run: <code>python reddit_demand_mapper.py</code></p>
+                    <p><strong>Or upload your JSON file manually:</strong></p>
+                </div>
+            `;
             fileInput.style.display = 'block';
             console.error('Error loading latest.json:', error);
         });
 }
 
-// Keep the existing file upload functionality as fallback
 document.getElementById('jsonFile').addEventListener('change', function(event) {
     const file = event.target.files[0];
     if (!file) return;
@@ -330,6 +833,8 @@ document.getElementById('jsonFile').addEventListener('change', function(event) {
         try {
             const data = JSON.parse(e.target.result);
             loadingElement.style.display = 'none';
+            currentData = data;
+            generateDashboardA(data); // Generate Dashboard-A table
             displayData(data);
         } catch (err) {
             loadingElement.style.display = 'none';
@@ -344,9 +849,419 @@ document.getElementById('jsonFile').addEventListener('change', function(event) {
     reader.readAsText(file);
 });
 
+function checkProductMatch(postText, videoText) {
+    // Define specific product categories
+    const productCategories = {
+        'dryer': ['dryer', 'clothes dryer', 'laundry'],
+        'washer': ['washer', 'washing machine', 'laundry'],
+        'pressure_washer': ['pressure washer', 'power washer', 'pressure wash'],
+        'mower': ['mower', 'lawn mower', 'grass', 'blade', 'cutting deck'],
+        'chainsaw': ['chainsaw', 'chain saw'],
+        'blower': ['blower', 'leaf blower', 'gas blower'],
+        'trimmer': ['trimmer', 'string trimmer', 'weed eater'],
+        'refrigerator': ['refrigerator', 'fridge', 'freezer'],
+        'drill': ['drill', 'impact driver', 'driver'],
+        'saw': ['saw', 'circular saw', 'miter saw', 'table saw']
+    };
+    
+    // Find what product categories the post mentions
+    const postCategories = [];
+    for (const [category, keywords] of Object.entries(productCategories)) {
+        if (keywords.some(keyword => postText.includes(keyword))) {
+            postCategories.push(category);
+        }
+    }
+    
+    // Find what product categories the video mentions
+    const videoCategories = [];
+    for (const [category, keywords] of Object.entries(productCategories)) {
+        if (keywords.some(keyword => videoText.includes(keyword))) {
+            videoCategories.push(category);
+        }
+    }
+    
+    // Check for overlap
+    const overlap = postCategories.filter(cat => videoCategories.includes(cat));
+    return {
+        postCategories,
+        videoCategories,
+        overlap,
+        hasMatch: overlap.length > 0
+    };
+}
+
+function generateCorrelations(data) {
+    allCorrelations = [];
+    const themes = new Set();
+    
+    if (!data || !Array.isArray(data) || data.length === 0) {
+        displayFilteredCorrelations([]);
+        return;
+    }
+
+    // Generate correlations with strict product matching
+    data.forEach(theme => {
+        if (!theme.sample_posts || !theme.matched_videos || 
+            theme.sample_posts.length === 0 || theme.matched_videos.length === 0) {
+            return;
+        }
+
+        themes.add(theme.theme);
+
+        theme.sample_posts.forEach((post, postIndex) => {
+            const postText = (post.title + " " + (post.selftext || "")).toLowerCase();
+            
+            // Find all videos that could match this post
+            const candidates = [];
+            
+            theme.matched_videos.forEach((video, videoIndex) => {
+                const correlation = calculateAdvancedCorrelationStrength(post, video, theme);
+                
+                if (correlation.score >= 10) { // Minimum viable threshold
+                    candidates.push({
+                        post,
+                        video,
+                        theme,
+                        correlation,
+                        uniqueKey: `${theme.theme}-${postIndex}-${videoIndex}`
+                    });
+                }
+            });
+            
+            // Sort candidates by score and take the best one
+            candidates.sort((a, b) => b.correlation.score - a.correlation.score);
+            
+            if (candidates.length > 0) {
+                allCorrelations.push(candidates[0]); // Only take the best match
+            }
+        });
+    });
+
+    // Apply diversity filtering
+    allCorrelations = applyDiversityFiltering(allCorrelations);
+    
+    // Sort by correlation score
+    allCorrelations.sort((a, b) => b.correlation.score - a.correlation.score);
+
+    // Populate theme filter
+    populateThemeFilter(Array.from(themes));
+    
+    // Display filtered correlations
+    filterCorrelations();
+}
+
+function applyDiversityFiltering(correlations) {
+    const videoUsageCount = new Map();
+    const filteredCorrelations = [];
+    
+    // Track video usage
+    correlations.forEach(corr => {
+        const videoId = corr.video.video_id;
+        videoUsageCount.set(videoId, (videoUsageCount.get(videoId) || 0) + 1);
+    });
+    
+    // Sort by score first to prioritize better matches
+    correlations.sort((a, b) => b.correlation.score - a.correlation.score);
+    
+    const usedVideos = new Set();
+    
+    for (const corr of correlations) {
+        const videoId = corr.video.video_id;
+        
+        // Allow high-scoring matches even if video was used before
+        if (!usedVideos.has(videoId) || corr.correlation.score >= 30) {
+            filteredCorrelations.push(corr);
+            usedVideos.add(videoId);
+        }
+        // If video already used, only allow if it's a much better match
+        else if (corr.correlation.score >= 40) {
+            filteredCorrelations.push(corr);
+        }
+    }
+    
+    return filteredCorrelations;
+}
+
+function calculateAdvancedCorrelationStrength(post, video, theme) {
+    let score = 0;
+    let explanations = [];
+    
+    const postText = (post.title + " " + (post.selftext || "")).toLowerCase();
+    const videoText = (video.title + " " + (video.description_snippet || "")).toLowerCase();
+    
+    // Check for product category matching (most important)
+    const productMatch = checkProductMatch(postText, videoText);
+    if (productMatch.hasMatch) {
+        score += productMatch.overlap.length * 15; // High score for product category match
+        explanations.push(`Product category match: ${productMatch.overlap.join(', ')}`);
+    } else if (productMatch.postCategories.length > 0 && productMatch.videoCategories.length > 0) {
+        // Penalty for mismatched product categories
+        score -= 10;
+        explanations.push(`Product mismatch: post(${productMatch.postCategories.join(',')}) vs video(${productMatch.videoCategories.join(',')})`);
+    }
+    
+    // Brand matching (high value)
+    if (post.matched_brands && post.matched_brands.length > 0) {
+        const videoBrands = post.matched_brands.filter(brand => 
+            videoText.includes(brand.toLowerCase())
+        );
+        if (videoBrands.length > 0) {
+            score += videoBrands.length * 12;
+            explanations.push(`Brand match: ${videoBrands.join(', ')}`);
+        }
+    }
+    
+    // Exact product mentions (high value)
+    if (post.matched_products && post.matched_products.length > 0) {
+        const videoProducts = post.matched_products.filter(product => 
+            videoText.includes(product.toLowerCase())
+        );
+        if (videoProducts.length > 0) {
+            score += videoProducts.length * 10;
+            explanations.push(`Product match: ${videoProducts.join(', ')}`);
+        }
+    }
+    
+    // Common meaningful words (reduced weight)
+    const commonWords = findMeaningfulCommonWords(postText, videoText);
+    if (commonWords.length >= 2) { // Require at least 2 meaningful shared words
+        score += Math.min(commonWords.length * 3, 12); // Capped contribution
+        explanations.push(`Shared keywords: ${commonWords.slice(0, 3).join(', ')}`);
+    }
+    
+    // Intent alignment
+    if (post.detected_intents && video.match_reasons) {
+        const intentMatches = post.detected_intents.filter(intent => 
+            video.match_reasons.some(reason => reason.toLowerCase().includes(intent))
+        );
+        if (intentMatches.length > 0) {
+            score += intentMatches.length * 5;
+            explanations.push(`Intent alignment: ${intentMatches.join(', ')}`);
+        }
+    }
+    
+    // Video relevance score bonus
+    const videoRelevance = Math.min(video.relevance_score || 0, 20);
+    score += videoRelevance * 0.4;
+    
+    // Heavy penalty for poor matches
+    if (score < 10 && explanations.some(exp => exp.includes('Product mismatch'))) {
+        score = Math.max(score - 15, 0);
+    }
+    
+    // Determine strength based on score
+    let strength;
+    if (score >= 35) strength = 'Strong';
+    else if (score >= 25) strength = 'Medium';
+    else if (score >= 15) strength = 'Weak';
+    else strength = 'Poor';
+    
+    return {
+        score: Math.round(score),
+        explanations: explanations,
+        strength: strength
+    };
+}
+
+function findMeaningfulCommonWords(text1, text2) {
+    const stopWords = new Set([
+        'this', 'that', 'with', 'have', 'will', 'been', 'from', 'they', 'know', 'want', 
+        'good', 'much', 'some', 'time', 'very', 'when', 'come', 'here', 'just', 'like', 
+        'long', 'make', 'many', 'over', 'such', 'take', 'than', 'them', 'well', 'were',
+        'your', 'help', 'repair', 'how', 'the', 'and', 'for', 'are', 'but', 'not',
+        'replace', 'part', 'video', 'tutorial', 'guide'
+    ]);
+    
+    const words1 = text1.split(/\s+/).filter(word => 
+        word.length > 4 && !stopWords.has(word) && !/^\d+$/.test(word)
+    );
+    const words2 = text2.split(/\s+/).filter(word => 
+        word.length > 4 && !stopWords.has(word) && !/^\d+$/.test(word)
+    );
+    
+    const common = words1.filter(word => words2.includes(word));
+    return [...new Set(common)].slice(0, 4);
+}
+
+function populateThemeFilter(themes) {
+    const themeFilter = document.getElementById('themeFilter');
+    
+    // Clear existing options except "All Themes"
+    while (themeFilter.children.length > 1) {
+        themeFilter.removeChild(themeFilter.lastChild);
+    }
+    
+    themes.sort().forEach(theme => {
+        const option = document.createElement('option');
+        option.value = theme;
+        option.textContent = theme.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        themeFilter.appendChild(option);
+    });
+}
+
+function filterCorrelations() {
+    const minScore = parseInt(document.getElementById('minScoreFilter').value);
+    const selectedTheme = document.getElementById('themeFilter').value;
+    const diversityLevel = document.getElementById('diversityFilter').value;
+    
+    let filtered = allCorrelations.filter(corr => {
+        return corr.correlation.score >= minScore &&
+               (selectedTheme === 'all' || corr.theme.theme === selectedTheme);
+    });
+    
+    // Apply additional diversity filtering based on selection
+    if (diversityLevel === 'high') {
+        filtered = enforceHighDiversity(filtered);
+    } else if (diversityLevel === 'medium') {
+        filtered = enforceMediumDiversity(filtered);
+    }
+    // 'low' means show all matches (no additional filtering)
+    
+    displayFilteredCorrelations(filtered);
+}
+
+function enforceHighDiversity(correlations) {
+    const usedVideos = new Set();
+    return correlations.filter(corr => {
+        const videoId = corr.video.video_id;
+        if (usedVideos.has(videoId)) {
+            return false; // Strict: no video repetition
+        }
+        usedVideos.add(videoId);
+        return true;
+    });
+}
+
+function enforceMediumDiversity(correlations) {
+    const videoUsage = new Map();
+    return correlations.filter(corr => {
+        const videoId = corr.video.video_id;
+        const currentUsage = videoUsage.get(videoId) || 0;
+        
+        if (currentUsage >= 2) {
+            return false; // Max 2 uses per video
+        }
+        
+        videoUsage.set(videoId, currentUsage + 1);
+        return true;
+    });
+}
+
+function displayFilteredCorrelations(correlations) {
+    const correlationContainer = document.getElementById('correlation-content');
+    
+    if (correlations.length === 0) {
+        correlationContainer.innerHTML = `
+            <div class="no-correlations">
+                <h3>🔍 No correlations found</h3>
+                <p>Try adjusting the filters to see more matches.</p>
+                <p>Current filters may be too restrictive.</p>
+            </div>
+        `;
+        return;
+    }
+
+    const diversityLevel = document.getElementById('diversityFilter').value;
+    let html = `<div style="text-align: center; margin-bottom: 20px; color: #666;">
+        Showing ${correlations.length} correlations with ${diversityLevel} diversity filtering
+    </div>`;
+
+    correlations.forEach(corr => {
+        html += createPostVideoPair(corr.post, corr.video, corr.theme, corr.correlation);
+    });
+
+    correlationContainer.innerHTML = html;
+}
+
+function createPostVideoPair(post, video, theme, correlation) {
+    const strengthClass = correlation.strength.toLowerCase().replace(' ', '-');
+    const youtubeUrl = `https://www.youtube.com/watch?v=${video.video_id}`;
+    const redditUrl = post.permalink ? `https://reddit.com${post.permalink}` : (post.url || '#');
+    
+    return `
+        <div class="post-video-pair ${strengthClass}-match">
+            <div class="pair-header">
+                <span class="pair-theme">${theme.theme.replace(/_/g, ' ')}</span>
+                <span class="correlation-strength ${correlation.strength.toLowerCase()}">${correlation.strength} Match (${correlation.score})</span>
+            </div>
+            
+            <div class="pair-content">
+                <div class="reddit-side">
+                    <div class="side-header">📱 Reddit Post</div>
+                    <div class="post-title">${post.title}</div>
+                    <div class="post-header">
+                        <span class="subreddit">r/${post.subreddit || 'unknown'}</span>
+                        <div class="post-stats">
+                            <strong>${(post.score || 0).toLocaleString()}</strong> upvotes | 
+                            <strong>${post.num_comments || 0}</strong> comments
+                        </div>
+                    </div>
+                    ${post.selftext && post.selftext.trim() && post.selftext !== "Still wo" ? 
+                        `<div class="post-content">${post.selftext.substring(0, 200)}${post.selftext.length > 200 ? '...' : ''}</div>` : ''
+                    }
+                    ${post.matched_brands && post.matched_brands.length > 0 ? 
+                        `<div class="matched-keywords">
+                            <strong>Brands:</strong>
+                            ${post.matched_brands.slice(0, 3).map(brand => `<span class="keyword">${brand}</span>`).join('')}
+                        </div>` : ''
+                    }
+                    ${post.matched_products && post.matched_products.length > 0 ? 
+                        `<div class="matched-keywords">
+                            <strong>Products:</strong>
+                            ${post.matched_products.slice(0, 3).map(product => `<span class="keyword">${product}</span>`).join('')}
+                        </div>` : ''
+                    }
+                    <div class="post-links">
+                        <a href="${redditUrl}" target="_blank">View on Reddit</a>
+                    </div>
+                </div>
+                
+                <div class="youtube-side">
+                    <div class="side-header">🎥 YouTube Video</div>
+                    <div class="video-header">
+                        <div class="video-title">${video.title}</div>
+                        <div class="relevance-score">${Math.round(video.relevance_score || 0)}</div>
+                    </div>
+                    ${video.channel ? `<div><strong>Channel:</strong> ${video.channel}</div>` : ''}
+                    ${video.description_snippet ? 
+                        `<div class="video-description">${video.description_snippet}</div>` : ''
+                    }
+                    ${video.match_reasons && video.match_reasons.length > 0 ? `
+                        <div class="match-reasons">
+                            <strong>AI Match Reasons:</strong><br>
+                            ${video.match_reasons.slice(0, 3).map(reason => `<span class="match-reason">${reason}</span>`).join('')}
+                        </div>` : ''
+                    }
+                    <a href="${youtubeUrl}" target="_blank" class="video-link">Watch on YouTube</a>
+                </div>
+            </div>
+            
+            <div class="connection-line"></div>
+            
+            <div class="match-explanation">
+                <div class="match-title">🔍 Why This Video Matches This Post</div>
+                <div class="match-details">
+                    ${correlation.explanations.map(explanation => 
+                        `<div class="match-category">
+                            <strong>${explanation.includes('mismatch') ? '⚠️' : '✓'}</strong> ${explanation}
+                        </div>`
+                    ).join('')}
+                    <div class="match-category">
+                        <strong>Relevance Score:</strong> ${Math.round(video.relevance_score || 0)}/100
+                    </div>
+                    <div class="match-category">
+                        <strong>Match Strength:</strong> ${correlation.strength}
+                    </div>
+                </div>
+            </div>
+        </div>
+    `;
+}
+
+// Keep all the existing displayData function code exactly as before...
 function displayData(data) {
     const summaryContainer = document.getElementById('summary');
-    const contentContainer = document.getElementById('content');
+    const contentContainer = document.getElementById('overview-content');
     
     // Clear existing content
     summaryContainer.innerHTML = '';
@@ -362,6 +1277,7 @@ function displayData(data) {
     const totalComments = data.reduce((sum, theme) => sum + (theme.total_comments || 0), 0);
     const totalDemandStrength = data.reduce((sum, theme) => sum + (theme.demand_strength || 0), 0);
     const avgEngagement = data.reduce((sum, theme) => sum + (theme.avg_engagement || 0), 0) / data.length;
+    const totalVideos = data.reduce((sum, theme) => sum + (theme.matched_videos ? theme.matched_videos.length : 0), 0);
 
     summaryContainer.innerHTML = `
         <div class="summary">
@@ -373,7 +1289,11 @@ function displayData(data) {
                 </div>
                 <div class="stat-item">
                     <span class="stat-value">${totalPosts.toLocaleString()}</span>
-                    <span class="stat-label">Total Posts</span>
+                    <span class="stat-label">Reddit Posts</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${totalVideos.toLocaleString()}</span>
+                    <span class="stat-label">Matched Videos</span>
                 </div>
                 <div class="stat-item">
                     <span class="stat-value">${totalComments.toLocaleString()}</span>
@@ -385,16 +1305,17 @@ function displayData(data) {
                 </div>
                 <div class="stat-item">
                     <span class="stat-value">${Math.round(totalDemandStrength).toLocaleString()}</span>
-                    <span class="stat-label">Total Demand Strength</span>
+                    <span class="stat-label">Demand Strength</span>
                 </div>
             </div>
             <p style="margin-top: 15px; font-style: italic; color: #666;">
-                Last updated: ${new Date().toLocaleString()}
+                Last updated: ${new Date().toLocaleString()} | 
+                <strong>💡 Tip:</strong> Switch to "Post ↔ Video Correlations" view to see detailed matching explanations
             </p>
         </div>
     `;
 
-    // Generate theme content
+    // Generate theme content (existing overview)
     data.forEach(theme => {
         if (!theme.theme) return;
 
@@ -413,6 +1334,10 @@ function displayData(data) {
                 <div class="stat-item">
                     <span class="stat-value">${(theme.total_comments || 0).toLocaleString()}</span>
                     <span class="stat-label">Comments</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">${theme.matched_videos ? theme.matched_videos.length : 0}</span>
+                    <span class="stat-label">Matched Videos</span>
                 </div>
                 <div class="stat-item">
                     <span class="stat-value">${Math.round(theme.demand_strength || 0).toLocaleString()}</span>
@@ -529,8 +1454,7 @@ function displayData(data) {
     });
 }
 
-// Add some console info for debugging
-console.log('Reddit Posts & Video Correlation Viewer loaded');
+console.log('Enhanced Reddit Posts & Video Correlation Viewer loaded');
 console.log('Auto-loading data from latest.json...');
 </script>
 
