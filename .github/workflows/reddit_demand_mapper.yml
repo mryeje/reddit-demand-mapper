@@ -1,1 +1,79 @@
-name: Reddit Demand Mapper\n\non:\n  push:\n    branches: [ main ]\n  pull_request:\n    branches: [ main ]\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - name: Checkout code\n        uses: actions/checkout@v2\n      - name: Set up Python\n        uses: actions/setup-python@v2\n        with:\n          python-version: '3.8'\n      - name: Cache pip dependencies\n        uses: actions/cache@v2\n        with:\n          path: ~/.cache/pip\n          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}\n          restore-keys: ${{ runner.os }}-pip-\n      - name: Install dependencies\n        run: pip install -r requirements.txt\n      - name: Run the mapper\n        run: python mapper.py\n
+name: Reddit Demand Mapper Full Pipeline
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Run every Sunday at 00:00 UTC
+  workflow_dispatch:       # Allow manual runs
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install spaCy English model
+        run: python -m spacy download en_core_web_sm
+
+      - name: Run Reddit Demand Mapper
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          python reddit_demand_mapper.py
+
+      # If you have a YouTube DB extraction step, keep it here (optional)
+      # - name: Run YouTube DB Extractor
+      #   run: |
+      #     python db2json.py
+
+      - name: Run Advanced Video Matcher
+        run: |
+          python advanced_video_matcher.py
+
+      - name: Commit reports (latest + archives)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/*.json reports/*.md reports/*.csv
+          git diff --staged --quiet || git commit -m "Auto-update reports [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Prepare Dashboard
+        run: |
+          mkdir -p public
+          cp index.html public/index.html
+          cp reports/latest.json public/latest.json
+          touch public/.nojekyll
+          echo "body { font-family: Arial, sans-serif; margin: 20px; }" > public/style.css
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          enable_jekyll: false
+          keep_files: false
