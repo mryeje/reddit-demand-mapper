@@ -1,17 +1,52 @@
 [
   {
     "theme": "power_tools",
-    "post_count": 97,
-    "avg_engagement": 195.2577319587629,
-    "avg_relevance": 16.276123711340208,
-    "total_comments": 3643,
-    "demand_strength": 308269.78309278353,
+    "post_count": 102,
+    "avg_engagement": 195.07843137254903,
+    "avg_relevance": 16.690039215686273,
+    "total_comments": 3920,
+    "demand_strength": 332098.40031372546,
     "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Looking at buying into makita. Is this a good start. Or is there anything better?",
+        "selftext": "Originally i looked at makita since my pops swore by them and i dont like mikwaukee. Never used dewalt either\n\nI currently use metabo (germany) and im pretty happy with them for my line of work (electrician). \nFrom them Currently i own 4 batteries, an sds drill, combi drill and impact driver.\nSo far ive invested about £700 over about 6 months. Not cheap but they perform really really well.\n\nWas looking at the list of tools i have left to buy, (multi tool, angle grinder and possibly circular saw)\nAnd i realised im actually paying out my ass for bare tools here. And those are lower end models, not that the high end models are any better either.\n\nSo i looked at makita for their multi tool, ive used it breifly before and it was actually very comfortable and ergonomic, vs the milwaukee n dewalt.\n\nThen i looked at the grinder and circular saw. They were decently priced too.\nBatteries were priced similarly unless i looked at metabos LIHD offerings.\n\n\nAnyway my only gripe is how lackluster som",
+        "score": 11,
+        "num_comments": 5,
+        "created_utc": 1760217278.0,
+        "url": "https://i.redd.it/gpo1ymtotjuf1.png",
+        "permalink": "https://reddit.com/r/Makita/comments/1o470c7/looking_at_buying_into_makita_is_this_a_good/",
+        "relevance_score": 77.52,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "metabo",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [
+          "torque"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
       {
         "subreddit": "woodworking",
         "title": "41 mistakes I made building this built-in cabinet and floating shelves",
         "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 300,
+        "score": 304,
         "num_comments": 70,
         "created_utc": 1759988339.0,
         "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
@@ -42,55 +77,27 @@
       },
       {
         "subreddit": "Makita",
-        "title": "Returning this",
-        "selftext": "Because I received a 5.5 year old new tool from Amazon. I know it’s still new but just doesn’t sit right.. rather pay 80-110$ more for one that is only a couple months from authorized dealer. \n\nNow that I’m returning it I started thinking though - should I get the HP001G instead of the DF001G? I’m a DIYer living on a small farm so I get lots of different projects all the time. I’ve never missed the hammer function on my DDF484 but the times I’ve had to drill in concrete I’ve always wipped out the corded blue Bosch rotary hammer and never the old corded hammer drill. Is there any situation where I would miss the hammer function? Professional tradesmen that need to drill small holes in masonry of course get use of the hammer function without having to use one more tool but for someone that very rarely drills in masonry and rock/concrete - should I stick with the DF001G? At first I got the DF001G because I thought it was lighter and smaller but after further research it seems as if the HP",
-        "score": 0,
-        "num_comments": 22,
-        "created_utc": 1760025060.0,
-        "url": "https://i.redd.it/n6bpdlx3y3uf1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1o29lcu/returning_this/",
-        "relevance_score": 51.16799999999999,
+        "title": "Conflicted",
+        "selftext": "I am a general contractor. We mainly do new construction. We specialize in the clearing, grading and foundation portions and then over see the project from there. Concrete, framing, etc. So our primary objectives are rough carpentry and flatwork. I have Milwaukee M18 Fuel tools at the moment, that I absolutely cannot stand. Several junk batteries, the Circ saw won’t rip a 2x4. I must’ve of them right after Milwaukee blew up and outsourced everything. \n\nI’m switching to Makita but I’m not sure which line to go with. I don’t want a tool that takes two 18v batteries. I’m leaning toward the XGT line but I want some opinions. Are the LXT and XGT batteries interchangeable in any way? Do both lines have framing nailers? Etc. ",
+        "score": 11,
+        "num_comments": 25,
+        "created_utc": 1760194419.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1o3xmzq/conflicted/",
+        "permalink": "https://reddit.com/r/Makita/comments/1o3xmzq/conflicted/",
+        "relevance_score": 51.480000000000004,
         "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch"
-        ],
-        "matched_products": [
-          "drill",
-          "hammer drill",
-          "rotary hammer"
-        ],
-        "matched_keywords": [
-          "trade"
-        ],
-        "detected_intents": [
-          "learning_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Is there a Makita product that I can use an 8” auger with?",
-        "selftext": "PowerPlanter.com sells augers from 2” to 9” used to dig holes for planting perennials and shrubs. They partnered with Dewalt in bundling their augers with the Dewalt DCD1007WW1 hammer drill. \n\nIs there a Makita cordless drill that I can run these augers with?  I’m particularly concerned about the 8” auger bit. It’s bulky. ",
-        "score": 26,
-        "num_comments": 28,
-        "created_utc": 1759776694.0,
-        "url": "https://www.reddit.com/gallery/1nzrqmg",
-        "permalink": "https://reddit.com/r/Makita/comments/1nzrqmg/is_there_a_makita_product_that_i_can_use_an_8/",
-        "relevance_score": 42.0,
-        "matched_brands": [
-          "dewalt",
+          "milwaukee",
           "makita",
-          "dewalt",
           "makita",
+          "milwaukee",
           "ge"
         ],
         "matched_products": [
-          "drill",
-          "hammer drill"
+          "framing nailer"
         ],
         "matched_keywords": [
-          "cordless"
+          "construction",
+          "contractor"
         ],
         "detected_intents": []
       }
@@ -110,90 +117,14 @@
     ],
     "matched_videos": [
       {
-        "video_id": "X4_7Cgx05fY",
-        "title": "Refrigerator Repair - Crusher Cover (GE Part# WR17X11497)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 55.14,
-        "scoring_breakdown": {
-          "semantic_score": 13.01,
-          "keyword_score": 27,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:use",
-            "fuzzy_tfidf:function(75.0)",
-            "tfidf:ve",
-            "fuzzy_tfidf:didn(75.0)"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "09l7MP3rPOs",
-        "title": "Range / Stove / Oven Repair - Replacing the 6\" Drip Bowl (GE Part# WB31T10014)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 53.29,
-        "scoring_breakdown": {
-          "semantic_score": 11.59,
-          "keyword_score": 27,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:use",
-            "fuzzy_tfidf:function(75.0)",
-            "tfidf:ve",
-            "fuzzy_tfidf:didn(75.0)"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "Vxo3BEDyB9g",
-        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "video_id": "7J-9cxjKASY",
+        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
         "channel": "fixtechguides",
-        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
-        "relevance_score": 48.01,
+        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
+        "relevance_score": 57.3,
         "scoring_breakdown": {
-          "semantic_score": 8.93,
-          "keyword_score": 28,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ve",
-            "fuzzy_tfidf:cut(80.0)",
-            "fuzzy_tfidf:didn(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "tfTDQKakVnU",
-        "title": "How to Replace the Starter Assembly on a Makita Cut Off Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "LET’S GET (YOUR SAW) STARTED: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. Replacing the starter assembly in a Makita DPC7311 cut-off...",
-        "relevance_score": 44.56,
-        "scoring_breakdown": {
-          "semantic_score": 13.28,
-          "keyword_score": 21,
+          "semantic_score": 17.07,
+          "keyword_score": 27,
           "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
@@ -201,23 +132,76 @@
         "match_evidence": {
           "keyword_matches": [
             "tfidf:makita",
-            "tfidf:ve",
-            "tfidf:cut",
-            "product:makita",
-            "product:saw"
+            "fuzzy_tfidf:line(75.0)",
+            "tfidf:tool",
+            "fuzzy_tfidf:tools(80.0)",
+            "tfidf:saw"
           ],
           "intent_matches": []
         }
       },
       {
-        "video_id": "ijeiqK-JJxg",
-        "title": "Range / Stove / Oven Repair - Replacing the 8\" Drip Bowl (GE Part# WB31T10015)",
+        "video_id": "2qBUUT--YpE",
+        "title": "Makita Chop Saw Repair - Replacing the Handle (Makita Part # 271072-4)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Handle for your Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase the...",
+        "relevance_score": 56.16,
+        "scoring_breakdown": {
+          "semantic_score": 21.56,
+          "keyword_score": 29,
+          "intent_score": 5.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:makita",
+            "fuzzy_tfidf:line(75.0)",
+            "tfidf:tool",
+            "tfidf:tools",
+            "tfidf:saw"
+          ],
+          "intent_matches": [
+            "buying_advice:2.0↔1.0",
+            "comparison:2.7↔1.8"
+          ]
+        }
+      },
+      {
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 50.15,
+        "scoring_breakdown": {
+          "semantic_score": 18.18,
+          "keyword_score": 16,
+          "intent_score": 4.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:line(75.0)",
+            "tfidf:tool",
+            "tfidf:tools",
+            "fuzzy_tfidf:used(75.0)"
+          ],
+          "intent_matches": [
+            "buying_advice:2.0↔1.0",
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "KYafjwm8ijk",
+        "title": "Dryer Repair - Replacing the Multi Rib Belt (Whirlpool Part# 40111201)",
         "channel": "partselect",
         "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 53.05,
+        "relevance_score": 44.5,
         "scoring_breakdown": {
-          "semantic_score": 11.41,
-          "keyword_score": 27,
+          "semantic_score": 6.83,
+          "keyword_score": 25,
           "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
@@ -225,31 +209,55 @@
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:use",
-            "fuzzy_tfidf:function(75.0)",
-            "tfidf:ve",
-            "fuzzy_tfidf:didn(75.0)"
+            "fuzzy_tfidf:line(75.0)",
+            "fuzzy_tfidf:tool(75.0)",
+            "tfidf:multi",
+            "fuzzy_tfidf:used(75.0)"
           ],
           "intent_matches": [
             "troubleshooting:1.2↔1.2"
           ]
+        }
+      },
+      {
+        "video_id": "wBDLOndKnIg",
+        "title": "How to Replace the Guard on a DeWALT DW708 Miter Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "Give your DeWALT DW708 Miter Saw a simple upgrade by replacing your old guard with DeWALT's latest guard kit. \n\nUseful tools include a (torque) screwdriver, a small socket and needle nose pliers....",
+        "relevance_score": 55.5,
+        "scoring_breakdown": {
+          "semantic_score": 15.7,
+          "keyword_score": 27,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:line(75.0)",
+            "tfidf:tool",
+            "tfidf:tools",
+            "tfidf:saw",
+            "fuzzy_tfidf:used(75.0)"
+          ],
+          "intent_matches": []
         }
       }
     ]
   },
   {
     "theme": "how_to_guides",
-    "post_count": 51,
-    "avg_engagement": 89.88235294117646,
-    "avg_relevance": 21.818117647058827,
-    "total_comments": 2047,
-    "demand_strength": 100014.25129411767,
+    "post_count": 53,
+    "avg_engagement": 88.73584905660377,
+    "avg_relevance": 21.702339622641503,
+    "total_comments": 2065,
+    "demand_strength": 102066.10324528298,
     "sample_posts": [
       {
         "subreddit": "woodworking",
         "title": "41 mistakes I made building this built-in cabinet and floating shelves",
         "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 300,
+        "score": 304,
         "num_comments": 70,
         "created_utc": 1759988339.0,
         "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
@@ -476,16 +484,51 @@
   {
     "theme": "buying_advice",
     "post_count": 43,
-    "avg_engagement": 88.74418604651163,
-    "avg_relevance": 21.38539534883721,
-    "total_comments": 1163,
-    "demand_strength": 81606.66865116279,
+    "avg_engagement": 86.04651162790698,
+    "avg_relevance": 22.744465116279066,
+    "total_comments": 1068,
+    "demand_strength": 84154.52093023254,
     "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Looking at buying into makita. Is this a good start. Or is there anything better?",
+        "selftext": "Originally i looked at makita since my pops swore by them and i dont like mikwaukee. Never used dewalt either\n\nI currently use metabo (germany) and im pretty happy with them for my line of work (electrician). \nFrom them Currently i own 4 batteries, an sds drill, combi drill and impact driver.\nSo far ive invested about £700 over about 6 months. Not cheap but they perform really really well.\n\nWas looking at the list of tools i have left to buy, (multi tool, angle grinder and possibly circular saw)\nAnd i realised im actually paying out my ass for bare tools here. And those are lower end models, not that the high end models are any better either.\n\nSo i looked at makita for their multi tool, ive used it breifly before and it was actually very comfortable and ergonomic, vs the milwaukee n dewalt.\n\nThen i looked at the grinder and circular saw. They were decently priced too.\nBatteries were priced similarly unless i looked at metabos LIHD offerings.\n\n\nAnyway my only gripe is how lackluster som",
+        "score": 11,
+        "num_comments": 5,
+        "created_utc": 1760217278.0,
+        "url": "https://i.redd.it/gpo1ymtotjuf1.png",
+        "permalink": "https://reddit.com/r/Makita/comments/1o470c7/looking_at_buying_into_makita_is_this_a_good/",
+        "relevance_score": 77.52,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "metabo",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [
+          "torque"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
       {
         "subreddit": "woodworking",
         "title": "41 mistakes I made building this built-in cabinet and floating shelves",
         "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 300,
+        "score": 304,
         "num_comments": 70,
         "created_utc": 1759988339.0,
         "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
@@ -544,32 +587,6 @@
           "comparison",
           "maintenance"
         ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "I know all new refrigerators suck but I need a new one",
-        "selftext": "Like the title says, I know they suck but I am in need of a new fridge. I'm looking for whatever input anyone can offer. I need something 30 inch width or less, could care less about/ice water dispenser and have been liking the french door style, fingerprint resistant would be nice. These are some models i've been looking at: \n\n[https://www.homedepot.com/p/Frigidaire-Gallery-30-in-20-cu-ft-Standard-Depth-French-Door-Refrigerator-in-Stainless-Steel-with-Internal-Water-Dispenser-GRFN2023AF/329101029](https://www.homedepot.com/p/Frigidaire-Gallery-30-in-20-cu-ft-Standard-Depth-French-Door-Refrigerator-in-Stainless-Steel-with-Internal-Water-Dispenser-GRFN2023AF/329101029)\n\n  \n[https://www.homedepot.com/p/GE-20-8-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR-GNE21FYKFS/319240148](https://www.homedepot.com/p/GE-20-8-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR-GNE21FYKFS/319240148)\n\n  \n[https://www.homedepot.com/p/L",
-        "score": 15,
-        "num_comments": 48,
-        "created_utc": 1759761964.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1nzl2et/i_know_all_new_refrigerators_suck_but_i_need_a/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1nzl2et/i_know_all_new_refrigerators_suck_but_i_need_a/",
-        "relevance_score": 39.0,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "lg",
-          "frigidaire"
-        ],
-        "matched_products": [
-          "refrigerator",
-          "fridge"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "maintenance"
-        ]
       }
     ],
     "content_angle": "Product Buying Guides & Recommendations",
@@ -586,13 +603,258 @@
     ],
     "matched_videos": [
       {
-        "video_id": "z_xjq46x7Uw",
-        "title": "Band Saw Repair - Replacing the Guide Blocks (Jet Part # 708719)",
+        "video_id": "7J-9cxjKASY",
+        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
         "channel": "fixtechguides",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.ereplacementparts.com/guide-block-set-p-563594.html\n\nThis particular Guide Blocks is specific to...",
-        "relevance_score": 56.44,
+        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
+        "relevance_score": 53.4,
         "scoring_breakdown": {
-          "semantic_score": 14.41,
+          "semantic_score": 17.07,
+          "keyword_score": 24,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:makita",
+            "tfidf:tool",
+            "fuzzy_tfidf:tools(80.0)",
+            "tfidf:saw",
+            "product:saw"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "2qBUUT--YpE",
+        "title": "Makita Chop Saw Repair - Replacing the Handle (Makita Part # 271072-4)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Handle for your Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase the...",
+        "relevance_score": 53.16,
+        "scoring_breakdown": {
+          "semantic_score": 21.56,
+          "keyword_score": 26,
+          "intent_score": 5.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:makita",
+            "tfidf:tool",
+            "tfidf:tools",
+            "tfidf:saw",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "buying_advice:5.0↔1.0",
+            "comparison:2.7↔1.8"
+          ]
+        }
+      },
+      {
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 52.75,
+        "scoring_breakdown": {
+          "semantic_score": 18.18,
+          "keyword_score": 18,
+          "intent_score": 4.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:dryer(80.0)",
+            "tfidf:looking",
+            "tfidf:tool",
+            "tfidf:tools"
+          ],
+          "intent_matches": [
+            "buying_advice:5.0↔1.0",
+            "troubleshooting:2.4↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "NY6M2PvoBuY",
+        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 46.52,
+        "scoring_breakdown": {
+          "semantic_score": 6.39,
+          "keyword_score": 27,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:washer",
+            "tfidf:dryer",
+            "fuzzy_tfidf:tool(75.0)",
+            "brand:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "UuGW57qWJws",
+        "title": "Makita Miter Saw Repair - Replacing the Armature (Makita Part # 516716-2)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Armature for your Miter Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 52.45,
+        "scoring_breakdown": {
+          "semantic_score": 20.85,
+          "keyword_score": 26,
+          "intent_score": 5.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:makita",
+            "tfidf:tool",
+            "tfidf:tools",
+            "tfidf:saw",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "buying_advice:5.0↔1.0",
+            "comparison:2.7↔1.8"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 25,
+    "avg_engagement": 103.6,
+    "avg_relevance": 25.58976,
+    "total_comments": 879,
+    "demand_strength": 66277.47839999999,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Looking at buying into makita. Is this a good start. Or is there anything better?",
+        "selftext": "Originally i looked at makita since my pops swore by them and i dont like mikwaukee. Never used dewalt either\n\nI currently use metabo (germany) and im pretty happy with them for my line of work (electrician). \nFrom them Currently i own 4 batteries, an sds drill, combi drill and impact driver.\nSo far ive invested about £700 over about 6 months. Not cheap but they perform really really well.\n\nWas looking at the list of tools i have left to buy, (multi tool, angle grinder and possibly circular saw)\nAnd i realised im actually paying out my ass for bare tools here. And those are lower end models, not that the high end models are any better either.\n\nSo i looked at makita for their multi tool, ive used it breifly before and it was actually very comfortable and ergonomic, vs the milwaukee n dewalt.\n\nThen i looked at the grinder and circular saw. They were decently priced too.\nBatteries were priced similarly unless i looked at metabos LIHD offerings.\n\n\nAnyway my only gripe is how lackluster som",
+        "score": 11,
+        "num_comments": 5,
+        "created_utc": 1760217278.0,
+        "url": "https://i.redd.it/gpo1ymtotjuf1.png",
+        "permalink": "https://reddit.com/r/Makita/comments/1o470c7/looking_at_buying_into_makita_is_this_a_good/",
+        "relevance_score": 77.52,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "metabo",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [
+          "torque"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "woodworking",
+        "title": "41 mistakes I made building this built-in cabinet and floating shelves",
+        "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
+        "score": 304,
+        "num_comments": 70,
+        "created_utc": 1759988339.0,
+        "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
+        "permalink": "https://reddit.com/r/woodworking/comments/1o1xxn7/41_mistakes_i_made_building_this_builtin_cabinet/",
+        "relevance_score": 53.27999999999999,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "table saw",
+          "router",
+          "hvac",
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Returning this",
+        "selftext": "Because I received a 5.5 year old new tool from Amazon. I know it’s still new but just doesn’t sit right.. rather pay 80-110$ more for one that is only a couple months from authorized dealer. \n\nNow that I’m returning it I started thinking though - should I get the HP001G instead of the DF001G? I’m a DIYer living on a small farm so I get lots of different projects all the time. I’ve never missed the hammer function on my DDF484 but the times I’ve had to drill in concrete I’ve always wipped out the corded blue Bosch rotary hammer and never the old corded hammer drill. Is there any situation where I would miss the hammer function? Professional tradesmen that need to drill small holes in masonry of course get use of the hammer function without having to use one more tool but for someone that very rarely drills in masonry and rock/concrete - should I stick with the DF001G? At first I got the DF001G because I thought it was lighter and smaller but after further research it seems as if the HP",
+        "score": 0,
+        "num_comments": 22,
+        "created_utc": 1760025060.0,
+        "url": "https://i.redd.it/n6bpdlx3y3uf1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1o29lcu/returning_this/",
+        "relevance_score": 51.16799999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "drill",
+          "hammer drill",
+          "rotary hammer"
+        ],
+        "matched_keywords": [
+          "trade"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "wBDLOndKnIg",
+        "title": "How to Replace the Guard on a DeWALT DW708 Miter Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "Give your DeWALT DW708 Miter Saw a simple upgrade by replacing your old guard with DeWALT's latest guard kit. \n\nUseful tools include a (torque) screwdriver, a small socket and needle nose pliers....",
+        "relevance_score": 58.1,
+        "scoring_breakdown": {
+          "semantic_score": 15.7,
           "keyword_score": 29,
           "intent_score": 0,
           "content_boost": 1.3,
@@ -600,112 +862,117 @@
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:https www",
-            "tfidf:https",
-            "tfidf:www",
-            "tfidf:com",
-            "brand:https www"
+            "tfidf:tool",
+            "tfidf:ve",
+            "fuzzy_tfidf:used(75.0)",
+            "tfidf:tools",
+            "tfidf:saw"
           ],
           "intent_matches": []
         }
       },
       {
-        "video_id": "1GFapc00FaI",
-        "title": "Whirlpool Oven Repair - How to Replace the Door Trim - Left Side (Whirlpool Part # W10761018)",
-        "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.partselect.com/PS10066095-Whirlpool-W10761018-Door-Trim-Left-Side-Black.htm?SourceCode=3&SearchTerm=W10...",
-        "relevance_score": 55.79,
-        "scoring_breakdown": {
-          "semantic_score": 12.92,
-          "keyword_score": 30,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:door",
-            "tfidf:https www",
-            "tfidf:https",
-            "tfidf:www",
-            "tfidf:com"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "OnJCrGzpRbM",
-        "title": "Frigidaire Oven Repair - How to Replace  the Outer Door Glass (Frigidaire Part # 316406400)",
-        "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more.  https://www.partselect.com/PS977727-Frigidaire-316406400-Outer-Door-Glass.htm?SourceCode=3&SearchTerm=316406400...",
-        "relevance_score": 55.17,
-        "scoring_breakdown": {
-          "semantic_score": 12.44,
-          "keyword_score": 30,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:door",
-            "tfidf:https www",
-            "tfidf:https",
-            "tfidf:www",
-            "tfidf:com"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "rnVJqHrUrUo",
-        "title": "How to Fix a 2-Cycle Engine Carburetor",
+        "video_id": "DCcWBi7Zdiw",
+        "title": "How to Put Your DeWalt Drill's Transmission in Place",
         "channel": "fixtechguides",
-        "description_snippet": "Get the parts you need here: http://www.ereplacementparts.com/\n\nThis tutorial will show you how to clean, fix and maintain your 2-cycle/2-stroke engine carburetor.\n\nSHOP FOR PARTS: http://bit.ly/13...",
-        "relevance_score": 53.91,
+        "description_snippet": "Visit http://eReplacementParts.com for power tool replacement parts.\n\nSUBSCRIBE AND NEVER MISS ANOTHER VIDEO!\nhttp://www.youtube.com/subscription_center?add_user=ereplacementparts\n\nCONNECT...",
+        "relevance_score": 57.06,
         "scoring_breakdown": {
-          "semantic_score": 12.47,
-          "keyword_score": 21,
-          "intent_score": 8.0,
+          "semantic_score": 15.09,
+          "keyword_score": 27,
+          "intent_score": 1.8,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:need",
-            "fuzzy_tfidf:https www(88.88888888888889)",
-            "fuzzy_tfidf:https(80.0)",
-            "tfidf:www",
-            "tfidf:com"
+            "tfidf:drill",
+            "tfidf:tool",
+            "tfidf:ve",
+            "fuzzy_tfidf:used(75.0)",
+            "fuzzy_tfidf:tools(80.0)"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔2.4",
-            "maintenance:1.6↔1.6"
+            "comparison:2.7↔0.9"
           ]
         }
       },
       {
-        "video_id": "kDVcFc-75sQ",
-        "title": "Frigidaire Washer Repair - How to Replace the Motor Control Board ( Frigidaire Part # 134743500)",
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
         "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.partselect.com/PS1524621-Frigidaire-134743500-Motor-Control-Board.htm?SourceCode=3&SearchTerm=PS1524621...",
-        "relevance_score": 55.08,
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 56.65,
         "scoring_breakdown": {
-          "semantic_score": 12.37,
-          "keyword_score": 30,
-          "intent_score": 0,
+          "semantic_score": 18.18,
+          "keyword_score": 21,
+          "intent_score": 4.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:washer",
-            "fuzzy_tfidf:door(75.0)",
-            "tfidf:https www",
-            "tfidf:https",
-            "tfidf:www"
+            "fuzzy_tfidf:drill(75.0)",
+            "tfidf:tool",
+            "tfidf:ve",
+            "fuzzy_tfidf:used(75.0)",
+            "tfidf:tools"
           ],
-          "intent_matches": []
+          "intent_matches": [
+            "buying_advice:1.0↔1.0",
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "ilj1uAnVang",
+        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
+        "relevance_score": 46.75,
+        "scoring_breakdown": {
+          "semantic_score": 18.96,
+          "keyword_score": 15,
+          "intent_score": 2.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:tool",
+            "tfidf:ve",
+            "tfidf:tools"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0"
+          ]
+        }
+      },
+      {
+        "video_id": "QRGkuq20nBI",
+        "title": "Makita Circular Saw Repair - Replacing the Lever (Makita Part # 272252-5)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Lever for your Circular Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 55.98,
+        "scoring_breakdown": {
+          "semantic_score": 20.38,
+          "keyword_score": 30,
+          "intent_score": 5.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:makita",
+            "tfidf:tool",
+            "tfidf:ve",
+            "tfidf:tools",
+            "tfidf:saw"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0",
+            "comparison:2.7↔1.8"
+          ]
         }
       }
     ]
@@ -713,16 +980,16 @@
   {
     "theme": "repair_help",
     "post_count": 50,
-    "avg_engagement": 72.26,
-    "avg_relevance": 20.734319999999997,
-    "total_comments": 1981,
-    "demand_strength": 74913.09816,
+    "avg_engagement": 62.42,
+    "avg_relevance": 21.109920000000002,
+    "total_comments": 1720,
+    "demand_strength": 65884.06032,
     "sample_posts": [
       {
         "subreddit": "woodworking",
         "title": "41 mistakes I made building this built-in cabinet and floating shelves",
         "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 300,
+        "score": 304,
         "num_comments": 70,
         "created_utc": 1759988339.0,
         "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
@@ -786,7 +1053,7 @@
         "subreddit": "Chainsaw",
         "title": "Husqvarna 395xp",
         "selftext": "Hi, first post in this sub. I have had the pleasure of using many 2stroke saws that my father has shared with me, poulan pro, Smaller Husqvarna saws. I own the Kobalt 40v chainsaw and pole saw. I’m a home owner not a homesteader.  I like the battery saws a lot. That brings me to this beast, 94cc  395xp I am working on now. It has a 36” bar. I’m cleaning and fixing it up to re-sell. It was part of an estate auction I won. I’m not keeping it.. (but it’s soo bad ass) I’d love to have any info about it, who might be a buyer (loggers and disaster specialists I’m guessing) and what it is worth. I’m finding them on eBay for over 1k for power head only but is that this saw or a sub model or variant? Looks the same. I’m working on it now, it’s been sitting for a while but I think it’s been used very little, it’s a 2020 model year.\nThanks for any feedback! Happy and Safe Cutting \n",
-        "score": 26,
+        "score": 30,
         "num_comments": 11,
         "created_utc": 1759928890.0,
         "url": "https://www.reddit.com/gallery/1o1a0q7",
@@ -953,11 +1220,11 @@
   },
   {
     "theme": "major_appliances",
-    "post_count": 72,
-    "avg_engagement": 52.40277777777778,
-    "avg_relevance": 17.804722222222217,
-    "total_comments": 2963,
-    "demand_strength": 67177.21694444443,
+    "post_count": 75,
+    "avg_engagement": 43.333333333333336,
+    "avg_relevance": 18.104533333333325,
+    "total_comments": 2707,
+    "demand_strength": 58839.73333333331,
     "sample_posts": [
       {
         "subreddit": "appliances",
@@ -994,7 +1261,7 @@
         "subreddit": "BuyItForLife",
         "title": "Appreciation for our Miele G 2150 SCU dishwasher",
         "selftext": "I bought this dishwasher used from a pre-demolition sale at some mansion in Westport CT for $300, manufactured ca. 2006 and ours since 2021.\n\nWe upgraded to a larger home last year but didn't sell our old home right away. Our new place had some brand-new Bosch or GE but my wife wanted to swap and keep the Miele. So I did. No joke here, the Miele weighs literally twice as much as any other dishwasher.\n\nThe other week, it started showing signs of finally being ready to go - cycles failing, fault codes etc. To my surprise, despite being 20 years old, Miele still makes parts for it. Not only that, but the full 200+ page service manual is published online, detailing exactly how to check fault codes and what each code means, how to access every part, circuit diagrams, water flow diagrams, etc. The parts definitely aren't being sold completely at cost but they're not egregious either.\n\nThe issue turned out to be some O-rings that disintegrated on a valve on the sump, causing the drain pump to",
-        "score": 28,
+        "score": 30,
         "num_comments": 4,
         "created_utc": 1760107596.0,
         "url": "https://www.reddit.com/r/BuyItForLife/comments/1o32wqa/appreciation_for_our_miele_g_2150_scu_dishwasher/",
@@ -1022,7 +1289,7 @@
         "title": "I know all new refrigerators suck but I need a new one",
         "selftext": "Like the title says, I know they suck but I am in need of a new fridge. I'm looking for whatever input anyone can offer. I need something 30 inch width or less, could care less about/ice water dispenser and have been liking the french door style, fingerprint resistant would be nice. These are some models i've been looking at: \n\n[https://www.homedepot.com/p/Frigidaire-Gallery-30-in-20-cu-ft-Standard-Depth-French-Door-Refrigerator-in-Stainless-Steel-with-Internal-Water-Dispenser-GRFN2023AF/329101029](https://www.homedepot.com/p/Frigidaire-Gallery-30-in-20-cu-ft-Standard-Depth-French-Door-Refrigerator-in-Stainless-Steel-with-Internal-Water-Dispenser-GRFN2023AF/329101029)\n\n  \n[https://www.homedepot.com/p/GE-20-8-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR-GNE21FYKFS/319240148](https://www.homedepot.com/p/GE-20-8-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR-GNE21FYKFS/319240148)\n\n  \n[https://www.homedepot.com/p/L",
         "score": 15,
-        "num_comments": 48,
+        "num_comments": 49,
         "created_utc": 1759761964.0,
         "url": "https://www.reddit.com/r/Appliances/comments/1nzl2et/i_know_all_new_refrigerators_suck_but_i_need_a/",
         "permalink": "https://reddit.com/r/Appliances/comments/1nzl2et/i_know_all_new_refrigerators_suck_but_i_need_a/",
@@ -1075,8 +1342,8 @@
             "tfidf:model",
             "tfidf:washer",
             "tfidf:com",
-            "brand:ge",
-            "brand:model"
+            "brand:model",
+            "brand:ge"
           ],
           "intent_matches": [
             "troubleshooting:4.8↔1.2",
@@ -1102,8 +1369,8 @@
             "tfidf:washer",
             "tfidf:www",
             "tfidf:com",
-            "brand:ge",
-            "brand:https www"
+            "brand:https www",
+            "brand:ge"
           ],
           "intent_matches": [
             "how_to_guide:2.2↔2.2"
@@ -1194,254 +1461,18 @@
     ]
   },
   {
-    "theme": "product_comparisons",
-    "post_count": 24,
-    "avg_engagement": 106.25,
-    "avg_relevance": 24.265999999999995,
-    "total_comments": 863,
-    "demand_strength": 61878.29999999999,
-    "sample_posts": [
-      {
-        "subreddit": "woodworking",
-        "title": "41 mistakes I made building this built-in cabinet and floating shelves",
-        "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 300,
-        "num_comments": 70,
-        "created_utc": 1759988339.0,
-        "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
-        "permalink": "https://reddit.com/r/woodworking/comments/1o1xxn7/41_mistakes_i_made_building_this_builtin_cabinet/",
-        "relevance_score": 53.27999999999999,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "drill",
-          "table saw",
-          "router",
-          "hvac",
-          "vacuum"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Returning this",
-        "selftext": "Because I received a 5.5 year old new tool from Amazon. I know it’s still new but just doesn’t sit right.. rather pay 80-110$ more for one that is only a couple months from authorized dealer. \n\nNow that I’m returning it I started thinking though - should I get the HP001G instead of the DF001G? I’m a DIYer living on a small farm so I get lots of different projects all the time. I’ve never missed the hammer function on my DDF484 but the times I’ve had to drill in concrete I’ve always wipped out the corded blue Bosch rotary hammer and never the old corded hammer drill. Is there any situation where I would miss the hammer function? Professional tradesmen that need to drill small holes in masonry of course get use of the hammer function without having to use one more tool but for someone that very rarely drills in masonry and rock/concrete - should I stick with the DF001G? At first I got the DF001G because I thought it was lighter and smaller but after further research it seems as if the HP",
-        "score": 0,
-        "num_comments": 22,
-        "created_utc": 1760025060.0,
-        "url": "https://i.redd.it/n6bpdlx3y3uf1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1o29lcu/returning_this/",
-        "relevance_score": 51.16799999999999,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch"
-        ],
-        "matched_products": [
-          "drill",
-          "hammer drill",
-          "rotary hammer"
-        ],
-        "matched_keywords": [
-          "trade"
-        ],
-        "detected_intents": [
-          "learning_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Advice on this old speed queen? Our machine broke and I have 5 kids and need to figure this out fast (I know I’m sorry 😭)",
-        "selftext": "Hey everyone. New here. I promise I have tried searching and don’t see the model number here. \n\nWe are in a tough pickle. My spouse got laid off months ago and we have 5 kids. We had an older washer that flooded our home and did a ton of damage. We bought a whirlpool set with removable agitator in 2021 and last week the washer started to leak. Had someone look at it and the cost to repair it would be not worth it. The auto detergent dispenser had already stopped working and we have to tape the dryer door shut with painter tape because it won’t stay shut so it’s not been a good purchase. They were washer WTW8127LW0 and dryer WED5100HW1)\n\nSo we need a new machine like now but I’m so so overwhelmed by all the brands, finding if they are good or not, etc. I’m so stressed out. \n\nMy friend has been saying she wanted a speed queen for years. I see speed queen stuff all over but I thought my whirlpool would last longer. \n\nI had been looking for an older washer/dryer set but usually they were s",
-        "score": 30,
-        "num_comments": 14,
-        "created_utc": 1759698824.0,
-        "url": "https://i.redd.it/fm6f9e520dtf1.jpeg",
-        "permalink": "https://reddit.com/r/Appliances/comments/1nz0bp4/advice_on_this_old_speed_queen_our_machine_broke/",
-        "relevance_score": 50.76,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "speed queen"
-        ],
-        "matched_products": [
-          "washer",
-          "dryer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Product Comparisons Content",
-    "example_videos": [
-      "Custom content needed"
-    ],
-    "hashtags": [
-      "#product_comparisons"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 49.91,
-        "scoring_breakdown": {
-          "semantic_score": 8.99,
-          "keyword_score": 27,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:washer",
-            "tfidf:dryer",
-            "fuzzy_tfidf:function(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:2.4↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "2d46qh8cH9g",
-        "title": "5 Essential Power Tools Every DIYer Should Have | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Power Tools can certainly make life easier in the workshop. But if you're new to the game, you may be wondering what tools you'll need to get things started. In this video, we'll cover 5 tools...",
-        "relevance_score": 46.18,
-        "scoring_breakdown": {
-          "semantic_score": 15.52,
-          "keyword_score": 18,
-          "intent_score": 2.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:dryer(80.0)",
-            "tfidf:new",
-            "tfidf:ve",
-            "tfidf:need"
-          ],
-          "intent_matches": [
-            "buying_advice:4.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "X4_7Cgx05fY",
-        "title": "Refrigerator Repair - Crusher Cover (GE Part# WR17X11497)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 44.74,
-        "scoring_breakdown": {
-          "semantic_score": 13.01,
-          "keyword_score": 19,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ve",
-            "fuzzy_tfidf:function(75.0)",
-            "brand:model",
-            "entity:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:2.4↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "vZwollxOtdU",
-        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
-        "channel": "fixtechguides",
-        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
-        "relevance_score": 44.27,
-        "scoring_breakdown": {
-          "semantic_score": 10.06,
-          "keyword_score": 24,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:hammer",
-            "tfidf:drill",
-            "brand:model",
-            "product:drill"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "Vxo3BEDyB9g",
-        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
-        "relevance_score": 44.11,
-        "scoring_breakdown": {
-          "semantic_score": 8.93,
-          "keyword_score": 25,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ve",
-            "fuzzy_tfidf:need(75.0)",
-            "brand:model",
-            "product:saw"
-          ],
-          "intent_matches": []
-        }
-      }
-    ]
-  },
-  {
     "theme": "outdoor_power_equipment",
-    "post_count": 35,
-    "avg_engagement": 29.6,
-    "avg_relevance": 16.689714285714288,
-    "total_comments": 595,
-    "demand_strength": 17290.544,
+    "post_count": 34,
+    "avg_engagement": 34.0,
+    "avg_relevance": 16.112352941176475,
+    "total_comments": 608,
+    "demand_strength": 18625.880000000005,
     "sample_posts": [
       {
         "subreddit": "Chainsaw",
         "title": "Husqvarna 395xp",
         "selftext": "Hi, first post in this sub. I have had the pleasure of using many 2stroke saws that my father has shared with me, poulan pro, Smaller Husqvarna saws. I own the Kobalt 40v chainsaw and pole saw. I’m a home owner not a homesteader.  I like the battery saws a lot. That brings me to this beast, 94cc  395xp I am working on now. It has a 36” bar. I’m cleaning and fixing it up to re-sell. It was part of an estate auction I won. I’m not keeping it.. (but it’s soo bad ass) I’d love to have any info about it, who might be a buyer (loggers and disaster specialists I’m guessing) and what it is worth. I’m finding them on eBay for over 1k for power head only but is that this saw or a sub model or variant? Looks the same. I’m working on it now, it’s been sitting for a while but I think it’s been used very little, it’s a 2020 model year.\nThanks for any feedback! Happy and Safe Cutting \n",
-        "score": 26,
+        "score": 30,
         "num_comments": 11,
         "created_utc": 1759928890.0,
         "url": "https://www.reddit.com/gallery/1o1a0q7",
@@ -1469,7 +1500,7 @@
         "subreddit": "Ryobi",
         "title": "RYOBI P20019 18v One+ HP Brushless String Trimmer spin up delay?",
         "selftext": "This seems like a long time to spin up the trimmer. Is this normal?  A friend has the Milwaukee and it’s instant turn on. Heck, even my crappy plug-in electric is instant on…\n\nIt may not seem like a big deal at first but then you think about all the times you pull the trigger on a trimmer and realize you have to wait. Every. Single. Time. ",
-        "score": 5,
+        "score": 6,
         "num_comments": 5,
         "created_utc": 1759965019.0,
         "url": "https://v.redd.it/mc0es5hkzytf1",
@@ -1575,7 +1606,7 @@
             "tfidf:time",
             "fuzzy_tfidf:spin(75.0)",
             "fuzzy_tfidf:semi(75.0)",
-            "product:chainsaw"
+            "product:saw"
           ],
           "intent_matches": [
             "buying_advice:2.0↔1.0"
@@ -1599,8 +1630,8 @@
           "keyword_matches": [
             "tfidf:saw",
             "fuzzy_tfidf:time(75.0)",
-            "product:chainsaw",
-            "product:saw"
+            "product:saw",
+            "product:chainsaw"
           ],
           "intent_matches": []
         }
@@ -1622,8 +1653,8 @@
           "keyword_matches": [
             "tfidf:saw",
             "fuzzy_tfidf:instant(85.71428571428572)",
-            "product:chainsaw",
-            "product:saw"
+            "product:saw",
+            "product:chainsaw"
           ],
           "intent_matches": [
             "buying_advice:2.0↔1.0"
@@ -1659,16 +1690,16 @@
   {
     "theme": "utility_appliances",
     "post_count": 3,
-    "avg_engagement": 70.0,
+    "avg_engagement": 67.33333333333333,
     "avg_relevance": 13.461333333333334,
     "total_comments": 25,
-    "demand_strength": 2826.88,
+    "demand_strength": 2719.1893333333333,
     "sample_posts": [
       {
         "subreddit": "HomeImprovement",
         "title": "Ozone machine vs. dehumidifiers. Can they safely run at the same time?",
         "selftext": "We recently had a water leak (thankfully fixed now), but part of the repair involved removing drywall,  releasing an old, nasty smoke smell from the previous owners. The house always had a bit of that odor, but now it’s way stronger and pretty unbearable.\n\nOur church offered to let us borrow their ozone generator to help get rid of the smell. At the same time, the restoration crew we hired still has dehumidifiers and a couple of fans running to heat and dry out the area so we don’t end up with mold under the floors.\n\nWe’re not currently living in the house while all this is going on, and the AC system is turned off. So my question is: is it safe to run the ozone generator while those other machines are operating, as long as no one’s inside? I just don’t want to risk damaging the equipment or create any unsafe conditions.\n\nAny info on ozone generators, general advice, or firsthand experience would be super appreciated. We’re first time homeowners and learning as we go here!",
-        "score": 6,
+        "score": 4,
         "num_comments": 1,
         "created_utc": 1759973003.0,
         "url": "https://www.reddit.com/r/HomeImprovement/comments/1o1t5ev/ozone_machine_vs_dehumidifiers_can_they_safely/",
@@ -1694,7 +1725,7 @@
         "subreddit": "HomeImprovement",
         "title": "NOT DIY - living through renovations while pregnant",
         "selftext": "My husband and I are not the ones doing work, we hired contractors, but we are having extensive work done in our old house (built in 1940). The biggest part is the kitchen which includes taking down a few walls. They've already gutted the walls down to the studs and today they actually take down the walls. They have put up plastic all around the kitchen and I leave the house during their working hours. I try to keep the windows open, we have an air purifier, they vacuum when theyre done and I do an extra round when they leave just to get the thin layer of dust left behind. What else should I be doing? Should I even sleep here at night? We have a 6 year old as well. Should I be wearing a mask even when they're not here, but when I'm relaxing at night? I just want to keep myself safe but I don't think I can move myself out of the house completely. ",
-        "score": 8,
+        "score": 6,
         "num_comments": 12,
         "created_utc": 1759934102.0,
         "url": "https://www.reddit.com/r/HomeImprovement/comments/1o1c886/not_diy_living_through_renovations_while_pregnant/",
@@ -1718,7 +1749,7 @@
         "subreddit": "Dewalt",
         "title": "3D printed vacuum clamping system for DW Grabo lifters",
         "selftext": "",
-        "score": 196,
+        "score": 192,
         "num_comments": 12,
         "created_utc": 1759919361.0,
         "url": "https://v.redd.it/gp9qdebq7vtf1",
