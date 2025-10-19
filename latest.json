@@ -1,105 +1,109 @@
 [
   {
     "theme": "power_tools",
-    "post_count": 102,
-    "avg_engagement": 195.07843137254903,
-    "avg_relevance": 16.690039215686273,
-    "total_comments": 3920,
-    "demand_strength": 332098.40031372546,
+    "post_count": 90,
+    "avg_engagement": 251.62222222222223,
+    "avg_relevance": 17.53466666666666,
+    "total_comments": 3908,
+    "demand_strength": 397090.06133333314,
     "sample_posts": [
       {
-        "subreddit": "Makita",
-        "title": "Looking at buying into makita. Is this a good start. Or is there anything better?",
-        "selftext": "Originally i looked at makita since my pops swore by them and i dont like mikwaukee. Never used dewalt either\n\nI currently use metabo (germany) and im pretty happy with them for my line of work (electrician). \nFrom them Currently i own 4 batteries, an sds drill, combi drill and impact driver.\nSo far ive invested about £700 over about 6 months. Not cheap but they perform really really well.\n\nWas looking at the list of tools i have left to buy, (multi tool, angle grinder and possibly circular saw)\nAnd i realised im actually paying out my ass for bare tools here. And those are lower end models, not that the high end models are any better either.\n\nSo i looked at makita for their multi tool, ive used it breifly before and it was actually very comfortable and ergonomic, vs the milwaukee n dewalt.\n\nThen i looked at the grinder and circular saw. They were decently priced too.\nBatteries were priced similarly unless i looked at metabos LIHD offerings.\n\n\nAnyway my only gripe is how lackluster som",
-        "score": 11,
-        "num_comments": 5,
-        "created_utc": 1760217278.0,
-        "url": "https://i.redd.it/gpo1ymtotjuf1.png",
-        "permalink": "https://reddit.com/r/Makita/comments/1o470c7/looking_at_buying_into_makita_is_this_a_good/",
-        "relevance_score": 77.52,
+        "subreddit": "Ryobi",
+        "title": "Help, which combo set should I purchase? Or at all?",
+        "selftext": "Context:  I have some DIY/home projects we're looking to do in the next few weeks. So unfortunately can't wait until Black Friday sales. The projects are things like DIY batten walls, cabinets, drawers etc.\n\nI'm looking at this set\n\nhttps://preview.redd.it/7hcqwx88mwuf1.png?width=1493&format=png&auto=webp&s=51ad297fd223f9cfe179d0cc2036ca4cd469a0ec\n\n[https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790](https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790)\n\nI was told that buying the brush-less as a DIYer isn't worth it. I'm not sure how true that is.\n\nThings I can see myself using immediately:  \n\\* Drill  \n\\* Circular Saw  \n\\* Orbital Sander  \n\\* Brad Nailer  \n\\* Jigsaw  \n\\* Miter Saw?\n\nI can imagine I'll also need a table-saw...\n\nWould it be better to go with this  \n[https://www.homedepot.com/p/RYOBI",
+        "score": 0,
+        "num_comments": 14,
+        "created_utc": 1760372863.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "relevance_score": 71.75999999999999,
         "matched_brands": [
-          "dewalt",
-          "milwaukee",
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "circular saw",
+          "miter saw",
+          "jigsaw",
+          "orbital sander",
+          "brad nailer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "brushless",
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Decent Deal?",
+        "selftext": "Saw someone ask about this when it was $260 last week. Saw it drop another $28. Wonder if there would be more drops or maybe better deals later in the year. I'm not necessarily in a rush for these, but figured if it's a good deal, may be worthwhile. Figured a kit like this was worthwhile to get the charger and a couple of decent mAh batteries.\n\nI'm replacing a super old Ryobi brushed drill, and I plan to maybe start doing some minor wood work where I need a drill, orbital sander, possibly a router, definitrly a jigsaw, so thought I'd start looking at some better tools. I really like the ergonomics / feel of Makita.\n\nThis kit is the XPH12Z hammer drill and XDT13Z impact driver.",
+        "score": 21,
+        "num_comments": 29,
+        "created_utc": 1760636320.0,
+        "url": "https://i.redd.it/f1xolrbpfivf1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1o8crxi/decent_deal/",
+        "relevance_score": 63.35999999999999,
+        "matched_brands": [
+          "ryobi",
           "makita",
-          "dewalt",
           "makita",
-          "milwaukee",
-          "metabo",
+          "ryobi",
           "ge"
         ],
         "matched_products": [
           "drill",
           "impact driver",
-          "circular saw",
-          "angle grinder"
+          "hammer drill",
+          "jigsaw",
+          "orbital sander",
+          "router"
         ],
         "matched_keywords": [
-          "torque"
+          "ah"
         ],
         "detected_intents": [
-          "buying_intent",
-          "comparison",
           "comparison"
         ]
       },
       {
-        "subreddit": "woodworking",
-        "title": "41 mistakes I made building this built-in cabinet and floating shelves",
-        "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 304,
-        "num_comments": 70,
-        "created_utc": 1759988339.0,
-        "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
-        "permalink": "https://reddit.com/r/woodworking/comments/1o1xxn7/41_mistakes_i_made_building_this_builtin_cabinet/",
-        "relevance_score": 53.27999999999999,
+        "subreddit": "Dewalt",
+        "title": "Impact driver recommendations",
+        "selftext": "Thank you everyone for your input. Update below original post.\n\n———-\n\nAfter using an impact driver, I’ve realized that I need one. DeWalt is having a promotion right now so I want to buy one. What would you recommend for home (deck, renovation, various small projects). I’m looking for versatility as I’d only buy one driver. I like how compact the Atomic series are (could have used that when fastening an electrical box in a tight space). I don’t want to break the bank but I’ve done enough cheap mistakes in my life to understand “Buy once, cry once”.  Thanks!!\n\n———\n\nI ordered the 870.\nI would have never considered it without the input of many contributors. Hydraulic seemed like a novelty - especially for an old guy like me happy with his “fully analog” 2007 Outback with manual transmission.\n\nThe torque seemed low, on paper - but based on comments here and more research on the Interweb, it will most likely be sufficient for my needs. \n\nI also pulled the trigger on the DeWalt cordless/cord",
+        "score": 9,
+        "num_comments": 12,
+        "created_utc": 1760444335.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1o6dxek/impact_driver_recommendations/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1o6dxek/impact_driver_recommendations/",
+        "relevance_score": 42.0,
         "matched_brands": [
+          "dewalt",
+          "dewalt",
           "ge"
         ],
         "matched_products": [
-          "drill",
-          "table saw",
-          "router",
-          "hvac",
-          "vacuum"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Conflicted",
-        "selftext": "I am a general contractor. We mainly do new construction. We specialize in the clearing, grading and foundation portions and then over see the project from there. Concrete, framing, etc. So our primary objectives are rough carpentry and flatwork. I have Milwaukee M18 Fuel tools at the moment, that I absolutely cannot stand. Several junk batteries, the Circ saw won’t rip a 2x4. I must’ve of them right after Milwaukee blew up and outsourced everything. \n\nI’m switching to Makita but I’m not sure which line to go with. I don’t want a tool that takes two 18v batteries. I’m leaning toward the XGT line but I want some opinions. Are the LXT and XGT batteries interchangeable in any way? Do both lines have framing nailers? Etc. ",
-        "score": 11,
-        "num_comments": 25,
-        "created_utc": 1760194419.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1o3xmzq/conflicted/",
-        "permalink": "https://reddit.com/r/Makita/comments/1o3xmzq/conflicted/",
-        "relevance_score": 51.480000000000004,
-        "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "ge"
-        ],
-        "matched_products": [
-          "framing nailer"
+          "impact driver",
+          "shop vac"
         ],
         "matched_keywords": [
-          "construction",
-          "contractor"
+          "cordless",
+          "torque",
+          "compact"
         ],
-        "detected_intents": []
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent"
+        ]
       }
     ],
     "content_angle": "Power Tool Reviews & Professional Tips",
@@ -117,105 +121,29 @@
     ],
     "matched_videos": [
       {
-        "video_id": "7J-9cxjKASY",
-        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
+        "video_id": "YkFqrESU39g",
+        "title": "Gas Powered Leaf Blower or Battery Powered Leaf Blower? Which One Is Better? | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
-        "relevance_score": 57.3,
+        "description_snippet": "We're back this week with another buyer's guide! We've taken you through Gas Powered vs Battery Powered Lawn Mowers (https://www.youtube.com/watch?v=FVhkavCI7h4) and Chainsaws (https://www.youtube....",
+        "relevance_score": 53.7,
         "scoring_breakdown": {
-          "semantic_score": 17.07,
-          "keyword_score": 27,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:makita",
-            "fuzzy_tfidf:line(75.0)",
-            "tfidf:tool",
-            "fuzzy_tfidf:tools(80.0)",
-            "tfidf:saw"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "2qBUUT--YpE",
-        "title": "Makita Chop Saw Repair - Replacing the Handle (Makita Part # 271072-4)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Handle for your Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase the...",
-        "relevance_score": 56.16,
-        "scoring_breakdown": {
-          "semantic_score": 21.56,
-          "keyword_score": 29,
+          "semantic_score": 14.71,
+          "keyword_score": 21,
           "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
+          "content_boost": 1.3,
+          "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:makita",
-            "fuzzy_tfidf:line(75.0)",
-            "tfidf:tool",
-            "tfidf:tools",
-            "tfidf:saw"
+            "tfidf:buy",
+            "tfidf:saw",
+            "tfidf:better",
+            "fuzzy_tfidf:need(75.0)",
+            "product:saw"
           ],
           "intent_matches": [
-            "buying_advice:2.0↔1.0",
+            "buying_advice:7.0↔1.0",
             "comparison:2.7↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "v5bgEvFV_4U",
-        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
-        "relevance_score": 50.15,
-        "scoring_breakdown": {
-          "semantic_score": 18.18,
-          "keyword_score": 16,
-          "intent_score": 4.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:line(75.0)",
-            "tfidf:tool",
-            "tfidf:tools",
-            "fuzzy_tfidf:used(75.0)"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0",
-            "troubleshooting:1.2↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "KYafjwm8ijk",
-        "title": "Dryer Repair - Replacing the Multi Rib Belt (Whirlpool Part# 40111201)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 44.5,
-        "scoring_breakdown": {
-          "semantic_score": 6.83,
-          "keyword_score": 25,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "fuzzy_tfidf:line(75.0)",
-            "fuzzy_tfidf:tool(75.0)",
-            "tfidf:multi",
-            "fuzzy_tfidf:used(75.0)"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2"
           ]
         }
       },
@@ -224,124 +152,202 @@
         "title": "How to Replace the Guard on a DeWALT DW708 Miter Saw",
         "channel": "fixtechguides",
         "description_snippet": "Give your DeWALT DW708 Miter Saw a simple upgrade by replacing your old guard with DeWALT's latest guard kit. \n\nUseful tools include a (torque) screwdriver, a small socket and needle nose pliers....",
-        "relevance_score": 55.5,
+        "relevance_score": 50.91,
         "scoring_breakdown": {
-          "semantic_score": 15.7,
-          "keyword_score": 27,
+          "semantic_score": 10.16,
+          "keyword_score": 29,
           "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:line(75.0)",
-            "tfidf:tool",
-            "tfidf:tools",
+            "fuzzy_tfidf:like(75.0)",
+            "tfidf:driver",
             "tfidf:saw",
-            "fuzzy_tfidf:used(75.0)"
+            "tfidf:kit",
+            "tfidf:need"
           ],
           "intent_matches": []
+        }
+      },
+      {
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 45.37,
+        "scoring_breakdown": {
+          "semantic_score": 17.5,
+          "keyword_score": 13,
+          "intent_score": 4.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:drill(75.0)",
+            "tfidf:looking",
+            "tfidf:need"
+          ],
+          "intent_matches": [
+            "buying_advice:7.0↔1.0",
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "-liWNAFJDsw",
+        "title": "Refrigerator Repair - Replacing the Door Closing Cam Kit (Whirlpool Part # 4318165)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 42.79,
+        "scoring_breakdown": {
+          "semantic_score": 11.52,
+          "keyword_score": 19,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:kit",
+            "fuzzy_tfidf:kit model(77.77777777777779)",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "V5EblqpxfXw",
+        "title": "Tool Tear Down: Jig Saw Comparison | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "When it comes time to replace or repair your jigsaw, it's handy to know what newer models might be offering that your old one did not. Also, if you're looking to pick up a new to you jigsaw,...",
+        "relevance_score": 45.35,
+        "scoring_breakdown": {
+          "semantic_score": 14.55,
+          "keyword_score": 27,
+          "intent_score": 3.8,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:saw",
+            "tfidf:looking",
+            "fuzzy_tfidf:need(75.0)",
+            "brand:model"
+          ],
+          "intent_matches": [
+            "buying_advice:7.0↔1.0",
+            "comparison:2.7↔0.9"
+          ]
         }
       }
     ]
   },
   {
     "theme": "how_to_guides",
-    "post_count": 53,
-    "avg_engagement": 88.73584905660377,
-    "avg_relevance": 21.702339622641503,
-    "total_comments": 2065,
-    "demand_strength": 102066.10324528298,
+    "post_count": 39,
+    "avg_engagement": 414.3333333333333,
+    "avg_relevance": 20.577969230769238,
+    "total_comments": 1802,
+    "demand_strength": 332519.40480000013,
     "sample_posts": [
       {
-        "subreddit": "woodworking",
-        "title": "41 mistakes I made building this built-in cabinet and floating shelves",
-        "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 304,
-        "num_comments": 70,
-        "created_utc": 1759988339.0,
-        "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
-        "permalink": "https://reddit.com/r/woodworking/comments/1o1xxn7/41_mistakes_i_made_building_this_builtin_cabinet/",
-        "relevance_score": 53.27999999999999,
+        "subreddit": "Ryobi",
+        "title": "Help, which combo set should I purchase? Or at all?",
+        "selftext": "Context:  I have some DIY/home projects we're looking to do in the next few weeks. So unfortunately can't wait until Black Friday sales. The projects are things like DIY batten walls, cabinets, drawers etc.\n\nI'm looking at this set\n\nhttps://preview.redd.it/7hcqwx88mwuf1.png?width=1493&format=png&auto=webp&s=51ad297fd223f9cfe179d0cc2036ca4cd469a0ec\n\n[https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790](https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790)\n\nI was told that buying the brush-less as a DIYer isn't worth it. I'm not sure how true that is.\n\nThings I can see myself using immediately:  \n\\* Drill  \n\\* Circular Saw  \n\\* Orbital Sander  \n\\* Brad Nailer  \n\\* Jigsaw  \n\\* Miter Saw?\n\nI can imagine I'll also need a table-saw...\n\nWould it be better to go with this  \n[https://www.homedepot.com/p/RYOBI",
+        "score": 0,
+        "num_comments": 14,
+        "created_utc": 1760372863.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "relevance_score": 71.75999999999999,
         "matched_brands": [
+          "ryobi",
+          "ryobi",
           "ge"
         ],
         "matched_products": [
           "drill",
-          "table saw",
-          "router",
-          "hvac",
-          "vacuum"
+          "circular saw",
+          "miter saw",
+          "jigsaw",
+          "orbital sander",
+          "brad nailer"
         ],
-        "matched_keywords": [],
+        "matched_keywords": [
+          "cordless",
+          "brushless",
+          "battery",
+          "ah"
+        ],
         "detected_intents": [
           "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "troubleshooting",
+          "buying_intent",
+          "buying_intent",
           "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
+          "comparison"
         ]
       },
       {
-        "subreddit": "Makita",
-        "title": "Returning this",
-        "selftext": "Because I received a 5.5 year old new tool from Amazon. I know it’s still new but just doesn’t sit right.. rather pay 80-110$ more for one that is only a couple months from authorized dealer. \n\nNow that I’m returning it I started thinking though - should I get the HP001G instead of the DF001G? I’m a DIYer living on a small farm so I get lots of different projects all the time. I’ve never missed the hammer function on my DDF484 but the times I’ve had to drill in concrete I’ve always wipped out the corded blue Bosch rotary hammer and never the old corded hammer drill. Is there any situation where I would miss the hammer function? Professional tradesmen that need to drill small holes in masonry of course get use of the hammer function without having to use one more tool but for someone that very rarely drills in masonry and rock/concrete - should I stick with the DF001G? At first I got the DF001G because I thought it was lighter and smaller but after further research it seems as if the HP",
-        "score": 0,
-        "num_comments": 22,
-        "created_utc": 1760025060.0,
-        "url": "https://i.redd.it/n6bpdlx3y3uf1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1o29lcu/returning_this/",
-        "relevance_score": 51.16799999999999,
+        "subreddit": "Chainsaw",
+        "title": "Picking a first \"real\" saw",
+        "selftext": "Hey everyone. Im hoping to get some advice from those far more knowledgeable than me. \n\nUp until this point ive exclusively been using my little milwaukee m18 saw with an 18\" bar but as you can see in the photo its getting a little bit silly. I want to buy a good...cheapish saw for around the farm. \n\nIdeally id like it to: \n\n1: Kind of* pull a long bar, maybe 36\"? Doesn't need to be fast, it can take 15 mins per cut in big stuff really. Im not on the clock doing anything commerial. \n\n2: Manage just enough milling to make some of the larger rounds fit my 30\" capacity bandsaw mill. \n\nMy local pawn shop has a couple saws and are interested in a pile of stuff ive been meaning to sell anyways so i could get a few hundred off. They've got:\n\n -A husky 365 special that starts easy and idles but dies on throttle (im assuming a carb rebuild will get it running right) for 400cad with a 28\" bar on it. I could probably negotiate down to 325 or 300.\n\n-A husky 592xp in good shape for 1k with a 24\" ba",
+        "score": 49,
+        "num_comments": 47,
+        "created_utc": 1760674019.0,
+        "url": "https://i.redd.it/ue5jt2ctjlvf1.png",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1o8rhhb/picking_a_first_real_saw/",
+        "relevance_score": 39.6,
+        "matched_brands": [
+          "ego",
+          "milwaukee",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [],
+        "matched_keywords": [
+          "capacity"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "learning_intent"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Bosch Dishwasher 800 series SHX68E15UC/32 - stops after two minutes, No Error code",
+        "selftext": "\nI stored my dishwasher in the unheated garage over the winter. I went to re-install it and it starts, but turns off after two minutes. There is no water inside when I open it.\n\nTroubleshooting Already Done:\n1. Door is latching properly\n2. I’ve taken out the racks and tried to run it empty\n3. There is no delay set \n4. The water line is working properly and I can feel water moving through the line. \n5. We checked the electrical service to the machine and confirmed it is good. \n6. Cleaned the filter \n\nWhat else could be causing this? How do I test to figure it out?\n\nThanks!!\n\n\n",
+        "score": 2,
+        "num_comments": 4,
+        "created_utc": 1760804835.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1oa08xp/bosch_dishwasher_800_series_shx68e15uc32_stops/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1oa08xp/bosch_dishwasher_800_series_shx68e15uc32_stops/",
+        "relevance_score": 39.6,
         "matched_brands": [
           "bosch",
           "ge",
           "bosch"
         ],
         "matched_products": [
-          "drill",
-          "hammer drill",
-          "rotary hammer"
-        ],
-        "matched_keywords": [
-          "trade"
-        ],
-        "detected_intents": [
-          "learning_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Advice on this old speed queen? Our machine broke and I have 5 kids and need to figure this out fast (I know I’m sorry 😭)",
-        "selftext": "Hey everyone. New here. I promise I have tried searching and don’t see the model number here. \n\nWe are in a tough pickle. My spouse got laid off months ago and we have 5 kids. We had an older washer that flooded our home and did a ton of damage. We bought a whirlpool set with removable agitator in 2021 and last week the washer started to leak. Had someone look at it and the cost to repair it would be not worth it. The auto detergent dispenser had already stopped working and we have to tape the dryer door shut with painter tape because it won’t stay shut so it’s not been a good purchase. They were washer WTW8127LW0 and dryer WED5100HW1)\n\nSo we need a new machine like now but I’m so so overwhelmed by all the brands, finding if they are good or not, etc. I’m so stressed out. \n\nMy friend has been saying she wanted a speed queen for years. I see speed queen stuff all over but I thought my whirlpool would last longer. \n\nI had been looking for an older washer/dryer set but usually they were s",
-        "score": 30,
-        "num_comments": 14,
-        "created_utc": 1759698824.0,
-        "url": "https://i.redd.it/fm6f9e520dtf1.jpeg",
-        "permalink": "https://reddit.com/r/Appliances/comments/1nz0bp4/advice_on_this_old_speed_queen_our_machine_broke/",
-        "relevance_score": 50.76,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "speed queen"
-        ],
-        "matched_products": [
           "washer",
-          "dryer"
+          "dishwasher"
         ],
         "matched_keywords": [],
         "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "buying_intent",
           "troubleshooting",
           "troubleshooting",
           "learning_intent",
-          "comparison",
+          "maintenance",
           "maintenance"
         ]
       }
@@ -355,79 +361,111 @@
     ],
     "matched_videos": [
       {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 49.91,
-        "scoring_breakdown": {
-          "semantic_score": 8.99,
-          "keyword_score": 27,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:washer",
-            "tfidf:dryer",
-            "fuzzy_tfidf:function(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:2.4↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "2d46qh8cH9g",
-        "title": "5 Essential Power Tools Every DIYer Should Have | eReplacementParts.com",
+        "video_id": "YkFqrESU39g",
+        "title": "Gas Powered Leaf Blower or Battery Powered Leaf Blower? Which One Is Better? | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "Power Tools can certainly make life easier in the workshop. But if you're new to the game, you may be wondering what tools you'll need to get things started. In this video, we'll cover 5 tools...",
-        "relevance_score": 46.18,
+        "description_snippet": "We're back this week with another buyer's guide! We've taken you through Gas Powered vs Battery Powered Lawn Mowers (https://www.youtube.com/watch?v=FVhkavCI7h4) and Chainsaws (https://www.youtube....",
+        "relevance_score": 58.12,
         "scoring_breakdown": {
-          "semantic_score": 15.52,
-          "keyword_score": 18,
-          "intent_score": 2.0,
+          "semantic_score": 14.71,
+          "keyword_score": 24,
+          "intent_score": 6.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:dryer(80.0)",
-            "tfidf:new",
-            "tfidf:ve",
-            "tfidf:need"
+            "fuzzy_tfidf:water(80.0)",
+            "tfidf:saw",
+            "tfidf:https",
+            "fuzzy_tfidf:starts(83.33333333333334)",
+            "tfidf:ve"
           ],
           "intent_matches": [
-            "buying_advice:4.0↔1.0"
+            "buying_advice:4.0↔1.0",
+            "how_to_guide:1.1↔1.1",
+            "comparison:0.9↔1.8"
           ]
         }
       },
       {
-        "video_id": "X4_7Cgx05fY",
-        "title": "Refrigerator Repair - Crusher Cover (GE Part# WR17X11497)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 44.74,
+        "video_id": "6YKI9gcRIhc",
+        "title": "How to Replace the Brushes on a DeWalt DW718 Miter Saw--A Quick Fix (Part # 381028-08)",
+        "channel": "fixtechguides",
+        "description_snippet": "Replacing the brushes on your DeWalt DW718 miter saw can help improve the saw's performance. Mark is here to guide you through the brush-replacing steps in this video. \n\nGet replacement brushes...",
+        "relevance_score": 56.92,
         "scoring_breakdown": {
-          "semantic_score": 13.01,
-          "keyword_score": 19,
-          "intent_score": 2.4,
+          "semantic_score": 16.98,
+          "keyword_score": 18,
+          "intent_score": 8.8,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "tfidf:im",
+            "tfidf:ve",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔2.4",
+            "how_to_guide:1.1↔3.3000000000000003",
+            "comparison:0.9↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "cOGiC-LwPow",
+        "title": "PartSelect Celebrates 10 Million Views!",
+        "channel": "partselect",
+        "description_snippet": "We're celebrating our ten millionth video view, here on YouTube! Thank you, PartSelect customers and viewers, ten million times over!\n\nGet model-specific repair help from PartSelect.com. Learn...",
+        "relevance_score": 43.96,
+        "scoring_breakdown": {
+          "semantic_score": 8.21,
+          "keyword_score": 21,
+          "intent_score": 4.6,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
+            "tfidf:im",
             "tfidf:ve",
-            "fuzzy_tfidf:function(75.0)",
             "brand:model",
             "entity:model"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2"
+            "troubleshooting:2.4↔1.2",
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "eNGe_VUDIBA",
+        "title": "Refrigerator Repair - Replacing the Water Inlet Valve (Whirlpool Part# 4389177)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 43.5,
+        "scoring_breakdown": {
+          "semantic_score": 7.86,
+          "keyword_score": 21,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:water",
+            "tfidf:ve",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003"
           ]
         }
       },
@@ -436,156 +474,129 @@
         "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
         "channel": "fixtechguides",
         "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
-        "relevance_score": 44.27,
+        "relevance_score": 52.98,
         "scoring_breakdown": {
-          "semantic_score": 10.06,
-          "keyword_score": 24,
-          "intent_score": 0,
+          "semantic_score": 10.75,
+          "keyword_score": 26,
+          "intent_score": 4.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:hammer",
-            "tfidf:drill",
-            "brand:model",
-            "product:drill"
+            "fuzzy_tfidf:model ah(75.0)",
+            "fuzzy_tfidf:https(80.0)",
+            "fuzzy_tfidf:starts(83.33333333333334)",
+            "brand:model"
           ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "Vxo3BEDyB9g",
-        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
-        "relevance_score": 44.11,
-        "scoring_breakdown": {
-          "semantic_score": 8.93,
-          "keyword_score": 25,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ve",
-            "fuzzy_tfidf:need(75.0)",
-            "brand:model",
-            "product:saw"
-          ],
-          "intent_matches": []
+          "intent_matches": [
+            "how_to_guide:1.1↔3.3000000000000003",
+            "comparison:0.9↔0.9"
+          ]
         }
       }
     ]
   },
   {
     "theme": "buying_advice",
-    "post_count": 43,
-    "avg_engagement": 86.04651162790698,
-    "avg_relevance": 22.744465116279066,
-    "total_comments": 1068,
-    "demand_strength": 84154.52093023254,
+    "post_count": 35,
+    "avg_engagement": 93.34285714285714,
+    "avg_relevance": 25.146857142857144,
+    "total_comments": 1597,
+    "demand_strength": 82154.78228571429,
     "sample_posts": [
       {
-        "subreddit": "Makita",
-        "title": "Looking at buying into makita. Is this a good start. Or is there anything better?",
-        "selftext": "Originally i looked at makita since my pops swore by them and i dont like mikwaukee. Never used dewalt either\n\nI currently use metabo (germany) and im pretty happy with them for my line of work (electrician). \nFrom them Currently i own 4 batteries, an sds drill, combi drill and impact driver.\nSo far ive invested about £700 over about 6 months. Not cheap but they perform really really well.\n\nWas looking at the list of tools i have left to buy, (multi tool, angle grinder and possibly circular saw)\nAnd i realised im actually paying out my ass for bare tools here. And those are lower end models, not that the high end models are any better either.\n\nSo i looked at makita for their multi tool, ive used it breifly before and it was actually very comfortable and ergonomic, vs the milwaukee n dewalt.\n\nThen i looked at the grinder and circular saw. They were decently priced too.\nBatteries were priced similarly unless i looked at metabos LIHD offerings.\n\n\nAnyway my only gripe is how lackluster som",
-        "score": 11,
-        "num_comments": 5,
-        "created_utc": 1760217278.0,
-        "url": "https://i.redd.it/gpo1ymtotjuf1.png",
-        "permalink": "https://reddit.com/r/Makita/comments/1o470c7/looking_at_buying_into_makita_is_this_a_good/",
-        "relevance_score": 77.52,
+        "subreddit": "Ryobi",
+        "title": "Help, which combo set should I purchase? Or at all?",
+        "selftext": "Context:  I have some DIY/home projects we're looking to do in the next few weeks. So unfortunately can't wait until Black Friday sales. The projects are things like DIY batten walls, cabinets, drawers etc.\n\nI'm looking at this set\n\nhttps://preview.redd.it/7hcqwx88mwuf1.png?width=1493&format=png&auto=webp&s=51ad297fd223f9cfe179d0cc2036ca4cd469a0ec\n\n[https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790](https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790)\n\nI was told that buying the brush-less as a DIYer isn't worth it. I'm not sure how true that is.\n\nThings I can see myself using immediately:  \n\\* Drill  \n\\* Circular Saw  \n\\* Orbital Sander  \n\\* Brad Nailer  \n\\* Jigsaw  \n\\* Miter Saw?\n\nI can imagine I'll also need a table-saw...\n\nWould it be better to go with this  \n[https://www.homedepot.com/p/RYOBI",
+        "score": 0,
+        "num_comments": 14,
+        "created_utc": 1760372863.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "relevance_score": 71.75999999999999,
         "matched_brands": [
-          "dewalt",
-          "milwaukee",
-          "makita",
-          "dewalt",
-          "makita",
-          "milwaukee",
-          "metabo",
+          "ryobi",
+          "ryobi",
           "ge"
         ],
         "matched_products": [
           "drill",
-          "impact driver",
           "circular saw",
-          "angle grinder"
+          "miter saw",
+          "jigsaw",
+          "orbital sander",
+          "brad nailer"
         ],
         "matched_keywords": [
-          "torque"
+          "cordless",
+          "brushless",
+          "battery",
+          "ah"
         ],
         "detected_intents": [
           "buying_intent",
-          "comparison",
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
           "comparison"
         ]
       },
       {
-        "subreddit": "woodworking",
-        "title": "41 mistakes I made building this built-in cabinet and floating shelves",
-        "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 304,
-        "num_comments": 70,
-        "created_utc": 1759988339.0,
-        "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
-        "permalink": "https://reddit.com/r/woodworking/comments/1o1xxn7/41_mistakes_i_made_building_this_builtin_cabinet/",
-        "relevance_score": 53.27999999999999,
+        "subreddit": "Dewalt",
+        "title": "Impact driver recommendations",
+        "selftext": "Thank you everyone for your input. Update below original post.\n\n———-\n\nAfter using an impact driver, I’ve realized that I need one. DeWalt is having a promotion right now so I want to buy one. What would you recommend for home (deck, renovation, various small projects). I’m looking for versatility as I’d only buy one driver. I like how compact the Atomic series are (could have used that when fastening an electrical box in a tight space). I don’t want to break the bank but I’ve done enough cheap mistakes in my life to understand “Buy once, cry once”.  Thanks!!\n\n———\n\nI ordered the 870.\nI would have never considered it without the input of many contributors. Hydraulic seemed like a novelty - especially for an old guy like me happy with his “fully analog” 2007 Outback with manual transmission.\n\nThe torque seemed low, on paper - but based on comments here and more research on the Interweb, it will most likely be sufficient for my needs. \n\nI also pulled the trigger on the DeWalt cordless/cord",
+        "score": 9,
+        "num_comments": 12,
+        "created_utc": 1760444335.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1o6dxek/impact_driver_recommendations/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1o6dxek/impact_driver_recommendations/",
+        "relevance_score": 42.0,
         "matched_brands": [
+          "dewalt",
+          "dewalt",
           "ge"
         ],
         "matched_products": [
-          "drill",
-          "table saw",
-          "router",
-          "hvac",
-          "vacuum"
+          "impact driver",
+          "shop vac"
         ],
-        "matched_keywords": [],
+        "matched_keywords": [
+          "cordless",
+          "torque",
+          "compact"
+        ],
         "detected_intents": [
           "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
+          "buying_intent"
         ]
       },
       {
-        "subreddit": "appliances",
-        "title": "Advice on this old speed queen? Our machine broke and I have 5 kids and need to figure this out fast (I know I’m sorry 😭)",
-        "selftext": "Hey everyone. New here. I promise I have tried searching and don’t see the model number here. \n\nWe are in a tough pickle. My spouse got laid off months ago and we have 5 kids. We had an older washer that flooded our home and did a ton of damage. We bought a whirlpool set with removable agitator in 2021 and last week the washer started to leak. Had someone look at it and the cost to repair it would be not worth it. The auto detergent dispenser had already stopped working and we have to tape the dryer door shut with painter tape because it won’t stay shut so it’s not been a good purchase. They were washer WTW8127LW0 and dryer WED5100HW1)\n\nSo we need a new machine like now but I’m so so overwhelmed by all the brands, finding if they are good or not, etc. I’m so stressed out. \n\nMy friend has been saying she wanted a speed queen for years. I see speed queen stuff all over but I thought my whirlpool would last longer. \n\nI had been looking for an older washer/dryer set but usually they were s",
-        "score": 30,
-        "num_comments": 14,
-        "created_utc": 1759698824.0,
-        "url": "https://i.redd.it/fm6f9e520dtf1.jpeg",
-        "permalink": "https://reddit.com/r/Appliances/comments/1nz0bp4/advice_on_this_old_speed_queen_our_machine_broke/",
-        "relevance_score": 50.76,
+        "subreddit": "Chainsaw",
+        "title": "Picking a first \"real\" saw",
+        "selftext": "Hey everyone. Im hoping to get some advice from those far more knowledgeable than me. \n\nUp until this point ive exclusively been using my little milwaukee m18 saw with an 18\" bar but as you can see in the photo its getting a little bit silly. I want to buy a good...cheapish saw for around the farm. \n\nIdeally id like it to: \n\n1: Kind of* pull a long bar, maybe 36\"? Doesn't need to be fast, it can take 15 mins per cut in big stuff really. Im not on the clock doing anything commerial. \n\n2: Manage just enough milling to make some of the larger rounds fit my 30\" capacity bandsaw mill. \n\nMy local pawn shop has a couple saws and are interested in a pile of stuff ive been meaning to sell anyways so i could get a few hundred off. They've got:\n\n -A husky 365 special that starts easy and idles but dies on throttle (im assuming a carb rebuild will get it running right) for 400cad with a 28\" bar on it. I could probably negotiate down to 325 or 300.\n\n-A husky 592xp in good shape for 1k with a 24\" ba",
+        "score": 49,
+        "num_comments": 47,
+        "created_utc": 1760674019.0,
+        "url": "https://i.redd.it/ue5jt2ctjlvf1.png",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1o8rhhb/picking_a_first_real_saw/",
+        "relevance_score": 39.6,
         "matched_brands": [
-          "whirlpool",
-          "ge",
-          "speed queen"
+          "ego",
+          "milwaukee",
+          "milwaukee",
+          "ge"
         ],
-        "matched_products": [
-          "washer",
-          "dryer"
+        "matched_products": [],
+        "matched_keywords": [
+          "capacity"
         ],
-        "matched_keywords": [],
         "detected_intents": [
           "buying_intent",
           "buying_intent",
           "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "maintenance"
+          "learning_intent"
         ]
       }
     ],
@@ -603,54 +614,54 @@
     ],
     "matched_videos": [
       {
-        "video_id": "7J-9cxjKASY",
-        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
+        "video_id": "6YKI9gcRIhc",
+        "title": "How to Replace the Brushes on a DeWalt DW718 Miter Saw--A Quick Fix (Part # 381028-08)",
         "channel": "fixtechguides",
-        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
-        "relevance_score": 53.4,
+        "description_snippet": "Replacing the brushes on your DeWalt DW718 miter saw can help improve the saw's performance. Mark is here to guide you through the brush-replacing steps in this video. \n\nGet replacement brushes...",
+        "relevance_score": 58.74,
         "scoring_breakdown": {
-          "semantic_score": 17.07,
+          "semantic_score": 16.98,
           "keyword_score": 24,
+          "intent_score": 4.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "tfidf:ve",
+            "fuzzy_tfidf:want(75.0)",
+            "tfidf:im",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "troubleshooting:1.2↔2.4",
+            "comparison:0.9↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "WghRozguEt0",
+        "title": "Screwdrivers 101: Get to Know One of the Most Important Tools in your Kit! | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "The screwdriver is one of the most important and versatile tools in your bag, and knowing how to properly utilize all the different styles and shapes of screwdriver will make your projects...",
+        "relevance_score": 53.0,
+        "scoring_breakdown": {
+          "semantic_score": 14.77,
+          "keyword_score": 26,
           "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:tool",
-            "fuzzy_tfidf:tools(80.0)",
-            "tfidf:saw",
-            "product:saw"
+            "tfidf:driver",
+            "fuzzy_tfidf:like(75.0)",
+            "tfidf:ve",
+            "fuzzy_tfidf:want(75.0)",
+            "tfidf:im"
           ],
           "intent_matches": []
-        }
-      },
-      {
-        "video_id": "2qBUUT--YpE",
-        "title": "Makita Chop Saw Repair - Replacing the Handle (Makita Part # 271072-4)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Handle for your Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase the...",
-        "relevance_score": 53.16,
-        "scoring_breakdown": {
-          "semantic_score": 21.56,
-          "keyword_score": 26,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:tool",
-            "tfidf:tools",
-            "tfidf:saw",
-            "product:saw"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:2.7↔1.8"
-          ]
         }
       },
       {
@@ -658,9 +669,9 @@
         "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
         "channel": "partselect",
         "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
-        "relevance_score": 52.75,
+        "relevance_score": 51.87,
         "scoring_breakdown": {
-          "semantic_score": 18.18,
+          "semantic_score": 17.5,
           "keyword_score": 18,
           "intent_score": 4.4,
           "content_boost": 1.3,
@@ -668,173 +679,168 @@
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:dryer(80.0)",
+            "tfidf:ve",
+            "fuzzy_tfidf:want(75.0)",
             "tfidf:looking",
-            "tfidf:tool",
-            "tfidf:tools"
+            "tfidf:projects"
           ],
           "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "troubleshooting:2.4↔1.2"
+            "buying_advice:7.0↔1.0",
+            "troubleshooting:1.2↔1.2"
           ]
         }
       },
       {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
+        "video_id": "ilj1uAnVang",
+        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
         "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 46.52,
+        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
+        "relevance_score": 44.87,
         "scoring_breakdown": {
-          "semantic_score": 6.39,
-          "keyword_score": 27,
-          "intent_score": 2.4,
+          "semantic_score": 19.51,
+          "keyword_score": 13,
+          "intent_score": 2.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:model",
-            "tfidf:washer",
-            "tfidf:dryer",
-            "fuzzy_tfidf:tool(75.0)",
-            "brand:model"
+            "tfidf:ve",
+            "fuzzy_tfidf:want(75.0)",
+            "tfidf:projects"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2"
+            "buying_advice:7.0↔1.0"
           ]
         }
       },
       {
-        "video_id": "UuGW57qWJws",
-        "title": "Makita Miter Saw Repair - Replacing the Armature (Makita Part # 516716-2)",
+        "video_id": "wBDLOndKnIg",
+        "title": "How to Replace the Guard on a DeWALT DW708 Miter Saw",
         "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Armature for your Miter Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 52.45,
+        "description_snippet": "Give your DeWALT DW708 Miter Saw a simple upgrade by replacing your old guard with DeWALT's latest guard kit. \n\nUseful tools include a (torque) screwdriver, a small socket and needle nose pliers....",
+        "relevance_score": 52.21,
         "scoring_breakdown": {
-          "semantic_score": 20.85,
-          "keyword_score": 26,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
+          "semantic_score": 10.16,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:tool",
-            "tfidf:tools",
+            "tfidf:driver",
+            "fuzzy_tfidf:like(75.0)",
             "tfidf:saw",
-            "product:saw"
+            "tfidf:ve",
+            "fuzzy_tfidf:want(75.0)"
           ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:2.7↔1.8"
-          ]
+          "intent_matches": []
         }
       }
     ]
   },
   {
     "theme": "product_comparisons",
-    "post_count": 25,
-    "avg_engagement": 103.6,
-    "avg_relevance": 25.58976,
-    "total_comments": 879,
-    "demand_strength": 66277.47839999999,
+    "post_count": 37,
+    "avg_engagement": 77.21621621621621,
+    "avg_relevance": 24.80867027027027,
+    "total_comments": 1604,
+    "demand_strength": 70878.37096216215,
     "sample_posts": [
       {
-        "subreddit": "Makita",
-        "title": "Looking at buying into makita. Is this a good start. Or is there anything better?",
-        "selftext": "Originally i looked at makita since my pops swore by them and i dont like mikwaukee. Never used dewalt either\n\nI currently use metabo (germany) and im pretty happy with them for my line of work (electrician). \nFrom them Currently i own 4 batteries, an sds drill, combi drill and impact driver.\nSo far ive invested about £700 over about 6 months. Not cheap but they perform really really well.\n\nWas looking at the list of tools i have left to buy, (multi tool, angle grinder and possibly circular saw)\nAnd i realised im actually paying out my ass for bare tools here. And those are lower end models, not that the high end models are any better either.\n\nSo i looked at makita for their multi tool, ive used it breifly before and it was actually very comfortable and ergonomic, vs the milwaukee n dewalt.\n\nThen i looked at the grinder and circular saw. They were decently priced too.\nBatteries were priced similarly unless i looked at metabos LIHD offerings.\n\n\nAnyway my only gripe is how lackluster som",
-        "score": 11,
-        "num_comments": 5,
-        "created_utc": 1760217278.0,
-        "url": "https://i.redd.it/gpo1ymtotjuf1.png",
-        "permalink": "https://reddit.com/r/Makita/comments/1o470c7/looking_at_buying_into_makita_is_this_a_good/",
-        "relevance_score": 77.52,
+        "subreddit": "Ryobi",
+        "title": "Help, which combo set should I purchase? Or at all?",
+        "selftext": "Context:  I have some DIY/home projects we're looking to do in the next few weeks. So unfortunately can't wait until Black Friday sales. The projects are things like DIY batten walls, cabinets, drawers etc.\n\nI'm looking at this set\n\nhttps://preview.redd.it/7hcqwx88mwuf1.png?width=1493&format=png&auto=webp&s=51ad297fd223f9cfe179d0cc2036ca4cd469a0ec\n\n[https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790](https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-12-Tool-Combo-Kit-with-1-1-5-Ah-Battery-and-2-4-0-Ah-Batteries-and-Charger-PCL2200K3N/321520790)\n\nI was told that buying the brush-less as a DIYer isn't worth it. I'm not sure how true that is.\n\nThings I can see myself using immediately:  \n\\* Drill  \n\\* Circular Saw  \n\\* Orbital Sander  \n\\* Brad Nailer  \n\\* Jigsaw  \n\\* Miter Saw?\n\nI can imagine I'll also need a table-saw...\n\nWould it be better to go with this  \n[https://www.homedepot.com/p/RYOBI",
+        "score": 0,
+        "num_comments": 14,
+        "created_utc": 1760372863.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o5oi24/help_which_combo_set_should_i_purchase_or_at_all/",
+        "relevance_score": 71.75999999999999,
         "matched_brands": [
-          "dewalt",
-          "milwaukee",
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "circular saw",
+          "miter saw",
+          "jigsaw",
+          "orbital sander",
+          "brad nailer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "brushless",
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Decent Deal?",
+        "selftext": "Saw someone ask about this when it was $260 last week. Saw it drop another $28. Wonder if there would be more drops or maybe better deals later in the year. I'm not necessarily in a rush for these, but figured if it's a good deal, may be worthwhile. Figured a kit like this was worthwhile to get the charger and a couple of decent mAh batteries.\n\nI'm replacing a super old Ryobi brushed drill, and I plan to maybe start doing some minor wood work where I need a drill, orbital sander, possibly a router, definitrly a jigsaw, so thought I'd start looking at some better tools. I really like the ergonomics / feel of Makita.\n\nThis kit is the XPH12Z hammer drill and XDT13Z impact driver.",
+        "score": 21,
+        "num_comments": 29,
+        "created_utc": 1760636320.0,
+        "url": "https://i.redd.it/f1xolrbpfivf1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1o8crxi/decent_deal/",
+        "relevance_score": 63.35999999999999,
+        "matched_brands": [
+          "ryobi",
           "makita",
-          "dewalt",
           "makita",
-          "milwaukee",
-          "metabo",
+          "ryobi",
           "ge"
         ],
         "matched_products": [
           "drill",
           "impact driver",
-          "circular saw",
-          "angle grinder"
+          "hammer drill",
+          "jigsaw",
+          "orbital sander",
+          "router"
         ],
         "matched_keywords": [
-          "torque"
+          "ah"
         ],
         "detected_intents": [
-          "buying_intent",
-          "comparison",
           "comparison"
         ]
       },
       {
-        "subreddit": "woodworking",
-        "title": "41 mistakes I made building this built-in cabinet and floating shelves",
-        "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 304,
-        "num_comments": 70,
-        "created_utc": 1759988339.0,
-        "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
-        "permalink": "https://reddit.com/r/woodworking/comments/1o1xxn7/41_mistakes_i_made_building_this_builtin_cabinet/",
-        "relevance_score": 53.27999999999999,
+        "subreddit": "Dewalt",
+        "title": "I got a yearly bonus at work and decided to upgrade my 5 year old Ryobi tools to Dewalt. It feels like going from a Yugo to a Ferrari.",
+        "selftext": "I bought myself the 7 XR brushless tool package a few weeks ago, I needed a better more ergonomic circular saw anyway, and always found the Ryobi was awkward with my medium sized lady hands, so I went with the kit that would replace most of my current Ryobi power tools. \n\nWell today I finally got to try the only tool that was waiting for it's debut, the much awaited circular saw. Holy shit, it breezed thru my project like nothing. I'm so used to my old saw grumbling thru a piece of wood like an angsty teenager.\n\nI am a convert.",
+        "score": 60,
+        "num_comments": 18,
+        "created_utc": 1760233719.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1o4cvdu/i_got_a_yearly_bonus_at_work_and_decided_to/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1o4cvdu/i_got_a_yearly_bonus_at_work_and_decided_to/",
+        "relevance_score": 39.35999999999999,
         "matched_brands": [
+          "ryobi",
+          "dewalt",
+          "dewalt",
+          "ryobi",
           "ge"
         ],
         "matched_products": [
-          "drill",
-          "table saw",
-          "router",
-          "hvac",
-          "vacuum"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Returning this",
-        "selftext": "Because I received a 5.5 year old new tool from Amazon. I know it’s still new but just doesn’t sit right.. rather pay 80-110$ more for one that is only a couple months from authorized dealer. \n\nNow that I’m returning it I started thinking though - should I get the HP001G instead of the DF001G? I’m a DIYer living on a small farm so I get lots of different projects all the time. I’ve never missed the hammer function on my DDF484 but the times I’ve had to drill in concrete I’ve always wipped out the corded blue Bosch rotary hammer and never the old corded hammer drill. Is there any situation where I would miss the hammer function? Professional tradesmen that need to drill small holes in masonry of course get use of the hammer function without having to use one more tool but for someone that very rarely drills in masonry and rock/concrete - should I stick with the DF001G? At first I got the DF001G because I thought it was lighter and smaller but after further research it seems as if the HP",
-        "score": 0,
-        "num_comments": 22,
-        "created_utc": 1760025060.0,
-        "url": "https://i.redd.it/n6bpdlx3y3uf1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1o29lcu/returning_this/",
-        "relevance_score": 51.16799999999999,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch"
-        ],
-        "matched_products": [
-          "drill",
-          "hammer drill",
-          "rotary hammer"
+          "circular saw"
         ],
         "matched_keywords": [
-          "trade"
+          "brushless"
         ],
         "detected_intents": [
-          "learning_intent",
           "comparison"
         ]
       }
@@ -848,53 +854,53 @@
     ],
     "matched_videos": [
       {
+        "video_id": "HqVEdc7xCRM",
+        "title": "Tool Tear Down: Cordless Batteries | What's Inside and How to Replace Them | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "When it comes to power tools, lots of folks like to go old-school and stick with their plug-in, corded tools. However, more and more people these days find themselves turning to another option:...",
+        "relevance_score": 52.54,
+        "scoring_breakdown": {
+          "semantic_score": 15.42,
+          "keyword_score": 23,
+          "intent_score": 2.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:like",
+            "tfidf:old",
+            "tfidf:tools",
+            "fuzzy_tfidf:better(83.33333333333334)",
+            "tfidf:tool"
+          ],
+          "intent_matches": [
+            "buying_advice:3.0↔1.0"
+          ]
+        }
+      },
+      {
         "video_id": "wBDLOndKnIg",
         "title": "How to Replace the Guard on a DeWALT DW708 Miter Saw",
         "channel": "fixtechguides",
         "description_snippet": "Give your DeWALT DW708 Miter Saw a simple upgrade by replacing your old guard with DeWALT's latest guard kit. \n\nUseful tools include a (torque) screwdriver, a small socket and needle nose pliers....",
-        "relevance_score": 58.1,
+        "relevance_score": 52.21,
         "scoring_breakdown": {
-          "semantic_score": 15.7,
-          "keyword_score": 29,
+          "semantic_score": 10.16,
+          "keyword_score": 30,
           "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:tool",
-            "tfidf:ve",
-            "fuzzy_tfidf:used(75.0)",
+            "tfidf:saw",
+            "fuzzy_tfidf:like(75.0)",
+            "tfidf:old",
             "tfidf:tools",
-            "tfidf:saw"
+            "tfidf:kit"
           ],
           "intent_matches": []
-        }
-      },
-      {
-        "video_id": "DCcWBi7Zdiw",
-        "title": "How to Put Your DeWalt Drill's Transmission in Place",
-        "channel": "fixtechguides",
-        "description_snippet": "Visit http://eReplacementParts.com for power tool replacement parts.\n\nSUBSCRIBE AND NEVER MISS ANOTHER VIDEO!\nhttp://www.youtube.com/subscription_center?add_user=ereplacementparts\n\nCONNECT...",
-        "relevance_score": 57.06,
-        "scoring_breakdown": {
-          "semantic_score": 15.09,
-          "keyword_score": 27,
-          "intent_score": 1.8,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:drill",
-            "tfidf:tool",
-            "tfidf:ve",
-            "fuzzy_tfidf:used(75.0)",
-            "fuzzy_tfidf:tools(80.0)"
-          ],
-          "intent_matches": [
-            "comparison:2.7↔0.9"
-          ]
         }
       },
       {
@@ -902,10 +908,10 @@
         "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
         "channel": "partselect",
         "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
-        "relevance_score": 56.65,
+        "relevance_score": 51.87,
         "scoring_breakdown": {
-          "semantic_score": 18.18,
-          "keyword_score": 21,
+          "semantic_score": 17.5,
+          "keyword_score": 18,
           "intent_score": 4.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
@@ -913,49 +919,50 @@
         "match_evidence": {
           "keyword_matches": [
             "fuzzy_tfidf:drill(75.0)",
+            "tfidf:tools",
             "tfidf:tool",
-            "tfidf:ve",
-            "fuzzy_tfidf:used(75.0)",
-            "tfidf:tools"
+            "tfidf:looking"
           ],
           "intent_matches": [
-            "buying_advice:1.0↔1.0",
+            "buying_advice:3.0↔1.0",
             "troubleshooting:1.2↔1.2"
           ]
         }
       },
       {
-        "video_id": "ilj1uAnVang",
-        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
+        "video_id": "-liWNAFJDsw",
+        "title": "Refrigerator Repair - Replacing the Door Closing Cam Kit (Whirlpool Part # 4318165)",
         "channel": "partselect",
-        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
-        "relevance_score": 46.75,
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 46.69,
         "scoring_breakdown": {
-          "semantic_score": 18.96,
-          "keyword_score": 15,
-          "intent_score": 2.0,
+          "semantic_score": 11.52,
+          "keyword_score": 22,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:tool",
-            "tfidf:ve",
-            "tfidf:tools"
+            "tfidf:model",
+            "tfidf:kit",
+            "fuzzy_tfidf:tool(75.0)",
+            "fuzzy_tfidf:kit model(77.77777777777779)",
+            "brand:model"
           ],
           "intent_matches": [
-            "buying_advice:1.0↔1.0"
+            "troubleshooting:1.2↔1.2"
           ]
         }
       },
       {
-        "video_id": "QRGkuq20nBI",
-        "title": "Makita Circular Saw Repair - Replacing the Lever (Makita Part # 272252-5)",
+        "video_id": "oyaMls03Niw",
+        "title": "Makita Drill Repair - Replacing the Brush Holder (Makita Part # 638494-5)",
         "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Lever for your Circular Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 55.98,
+        "description_snippet": "Do you need a replacement Brush Holder for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 51.89,
         "scoring_breakdown": {
-          "semantic_score": 20.38,
+          "semantic_score": 16.29,
           "keyword_score": 30,
           "intent_score": 5.6,
           "content_boost": 1.0,
@@ -963,256 +970,15 @@
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:tool",
-            "tfidf:ve",
+            "tfidf:drill",
+            "tfidf:old",
             "tfidf:tools",
-            "tfidf:saw"
+            "tfidf:kit",
+            "tfidf:tool"
           ],
           "intent_matches": [
-            "buying_advice:1.0↔1.0",
-            "comparison:2.7↔1.8"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "repair_help",
-    "post_count": 50,
-    "avg_engagement": 62.42,
-    "avg_relevance": 21.109920000000002,
-    "total_comments": 1720,
-    "demand_strength": 65884.06032,
-    "sample_posts": [
-      {
-        "subreddit": "woodworking",
-        "title": "41 mistakes I made building this built-in cabinet and floating shelves",
-        "selftext": "\n\n1: Made the cabinet box too big (had to put it on the table saw to trim after already built)\n\n2: Made the box 42” width with middle divider only sitting on bottom panel of the box, nothing going to the floor for support anywhere along the 42” span (was already sagging during build)\n\n3: Supported the span by putting a board on the bottom under the center divider.  Board was too thin so it didn’t reach the floor (cracked plywood while testing strength), needed to shim.\n\n4: Cut the divider too short so it stopped at the top of the plywood, didn’t reach the bottom of the rabbit , needed to cut a 26” long, 1/4” tall and  3/4” wide shim to fill the space.\n\n5: Sized cabinet too precisely to wall (assumed it was square… as if) wouldn’t slide in, had to cut out and replace section of wall (drywall and mud). \n\n6: mismeasured outlet position, had to trim face plate to fit.\n\n7: Didn’t leave enough space between outlet and fireplace controls, had to cutout and rebuild with additional support.\n\n8 ",
-        "score": 304,
-        "num_comments": 70,
-        "created_utc": 1759988339.0,
-        "url": "https://i.redd.it/vcp9uerxw0uf1.jpeg",
-        "permalink": "https://reddit.com/r/woodworking/comments/1o1xxn7/41_mistakes_i_made_building_this_builtin_cabinet/",
-        "relevance_score": 53.27999999999999,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "drill",
-          "table saw",
-          "router",
-          "hvac",
-          "vacuum"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Advice on this old speed queen? Our machine broke and I have 5 kids and need to figure this out fast (I know I’m sorry 😭)",
-        "selftext": "Hey everyone. New here. I promise I have tried searching and don’t see the model number here. \n\nWe are in a tough pickle. My spouse got laid off months ago and we have 5 kids. We had an older washer that flooded our home and did a ton of damage. We bought a whirlpool set with removable agitator in 2021 and last week the washer started to leak. Had someone look at it and the cost to repair it would be not worth it. The auto detergent dispenser had already stopped working and we have to tape the dryer door shut with painter tape because it won’t stay shut so it’s not been a good purchase. They were washer WTW8127LW0 and dryer WED5100HW1)\n\nSo we need a new machine like now but I’m so so overwhelmed by all the brands, finding if they are good or not, etc. I’m so stressed out. \n\nMy friend has been saying she wanted a speed queen for years. I see speed queen stuff all over but I thought my whirlpool would last longer. \n\nI had been looking for an older washer/dryer set but usually they were s",
-        "score": 30,
-        "num_comments": 14,
-        "created_utc": 1759698824.0,
-        "url": "https://i.redd.it/fm6f9e520dtf1.jpeg",
-        "permalink": "https://reddit.com/r/Appliances/comments/1nz0bp4/advice_on_this_old_speed_queen_our_machine_broke/",
-        "relevance_score": 50.76,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "speed queen"
-        ],
-        "matched_products": [
-          "washer",
-          "dryer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Chainsaw",
-        "title": "Husqvarna 395xp",
-        "selftext": "Hi, first post in this sub. I have had the pleasure of using many 2stroke saws that my father has shared with me, poulan pro, Smaller Husqvarna saws. I own the Kobalt 40v chainsaw and pole saw. I’m a home owner not a homesteader.  I like the battery saws a lot. That brings me to this beast, 94cc  395xp I am working on now. It has a 36” bar. I’m cleaning and fixing it up to re-sell. It was part of an estate auction I won. I’m not keeping it.. (but it’s soo bad ass) I’d love to have any info about it, who might be a buyer (loggers and disaster specialists I’m guessing) and what it is worth. I’m finding them on eBay for over 1k for power head only but is that this saw or a sub model or variant? Looks the same. I’m working on it now, it’s been sitting for a while but I think it’s been used very little, it’s a 2020 model year.\nThanks for any feedback! Happy and Safe Cutting \n",
-        "score": 30,
-        "num_comments": 11,
-        "created_utc": 1759928890.0,
-        "url": "https://www.reddit.com/gallery/1o1a0q7",
-        "permalink": "https://reddit.com/r/Chainsaw/comments/1o1a0q7/husqvarna_395xp/",
-        "relevance_score": 40.8,
-        "matched_brands": [
-          "husqvarna",
-          "poulan",
-          "kobalt",
-          "ge"
-        ],
-        "matched_products": [
-          "chainsaw",
-          "pole saw"
-        ],
-        "matched_keywords": [
-          "battery"
-        ],
-        "detected_intents": [
-          "troubleshooting",
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Troubleshooting & Repair Tutorials",
-    "example_videos": [
-      "Common tool problems and fixes",
-      "Appliance troubleshooting guide",
-      "When to repair vs replace"
-    ],
-    "hashtags": [
-      "#repair",
-      "#troubleshooting",
-      "#DIYrepair",
-      "#maintenance"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 51.05,
-        "scoring_breakdown": {
-          "semantic_score": 9.87,
-          "keyword_score": 27,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:washer",
-            "tfidf:dryer",
-            "fuzzy_tfidf:shut(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:2.4↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "tWQcdT8b9Bo",
-        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
-        "channel": "partselect",
-        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
-        "relevance_score": 45.94,
-        "scoring_breakdown": {
-          "semantic_score": 3.94,
-          "keyword_score": 29,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:washer",
-            "tfidf:working",
-            "tfidf:set",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:2.4↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "giZaqrz09JM",
-        "title": "Workshop DIY Project | How to Build a Custom Miter Saw Work Bench | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "One of our DIY Experts, Aaron, recently purchased a property, and in the process of setting up a brand new workshop, he decided he needed a new, permanent Miter Saw bench. The old, temporary...",
-        "relevance_score": 42.36,
-        "scoring_breakdown": {
-          "semantic_score": 14.59,
-          "keyword_score": 18,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:saw",
-            "tfidf:new",
-            "tfidf:set",
-            "product:saw"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "xz3EPWHjj0A",
-        "title": "How to Replace the Pivot Spring on a DeWALT DW708 Miter Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "Dammaged pivot springs can prevent your saw's cutting head from staying upright and, as a result, cause a potential saftey hazard. Mark will show you how to replace the pivot spring and get...",
-        "relevance_score": 40.3,
-        "scoring_breakdown": {
-          "semantic_score": 12.0,
-          "keyword_score": 19,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:saw",
-            "fuzzy_tfidf:shut(75.0)",
-            "fuzzy_tfidf:set(80.0)",
-            "tfidf:cut",
-            "product:saw"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "pJW2otpKhXk",
-        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
-        "channel": "partselect",
-        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
-        "relevance_score": 44.45,
-        "scoring_breakdown": {
-          "semantic_score": 2.79,
-          "keyword_score": 29,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:washer",
-            "tfidf:working",
-            "tfidf:set",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:2.4↔1.2"
+            "buying_advice:3.0↔1.0",
+            "comparison:3.6↔1.8"
           ]
         }
       }
@@ -1220,58 +986,26 @@
   },
   {
     "theme": "major_appliances",
-    "post_count": 75,
-    "avg_engagement": 43.333333333333336,
-    "avg_relevance": 18.104533333333325,
-    "total_comments": 2707,
-    "demand_strength": 58839.73333333331,
+    "post_count": 57,
+    "avg_engagement": 42.70175438596491,
+    "avg_relevance": 17.31685614035088,
+    "total_comments": 1866,
+    "demand_strength": 42149.22784561404,
     "sample_posts": [
       {
-        "subreddit": "appliances",
-        "title": "Advice on this old speed queen? Our machine broke and I have 5 kids and need to figure this out fast (I know I’m sorry 😭)",
-        "selftext": "Hey everyone. New here. I promise I have tried searching and don’t see the model number here. \n\nWe are in a tough pickle. My spouse got laid off months ago and we have 5 kids. We had an older washer that flooded our home and did a ton of damage. We bought a whirlpool set with removable agitator in 2021 and last week the washer started to leak. Had someone look at it and the cost to repair it would be not worth it. The auto detergent dispenser had already stopped working and we have to tape the dryer door shut with painter tape because it won’t stay shut so it’s not been a good purchase. They were washer WTW8127LW0 and dryer WED5100HW1)\n\nSo we need a new machine like now but I’m so so overwhelmed by all the brands, finding if they are good or not, etc. I’m so stressed out. \n\nMy friend has been saying she wanted a speed queen for years. I see speed queen stuff all over but I thought my whirlpool would last longer. \n\nI had been looking for an older washer/dryer set but usually they were s",
-        "score": 30,
-        "num_comments": 14,
-        "created_utc": 1759698824.0,
-        "url": "https://i.redd.it/fm6f9e520dtf1.jpeg",
-        "permalink": "https://reddit.com/r/Appliances/comments/1nz0bp4/advice_on_this_old_speed_queen_our_machine_broke/",
-        "relevance_score": 50.76,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "speed queen"
-        ],
-        "matched_products": [
-          "washer",
-          "dryer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "BuyItForLife",
-        "title": "Appreciation for our Miele G 2150 SCU dishwasher",
-        "selftext": "I bought this dishwasher used from a pre-demolition sale at some mansion in Westport CT for $300, manufactured ca. 2006 and ours since 2021.\n\nWe upgraded to a larger home last year but didn't sell our old home right away. Our new place had some brand-new Bosch or GE but my wife wanted to swap and keep the Miele. So I did. No joke here, the Miele weighs literally twice as much as any other dishwasher.\n\nThe other week, it started showing signs of finally being ready to go - cycles failing, fault codes etc. To my surprise, despite being 20 years old, Miele still makes parts for it. Not only that, but the full 200+ page service manual is published online, detailing exactly how to check fault codes and what each code means, how to access every part, circuit diagrams, water flow diagrams, etc. The parts definitely aren't being sold completely at cost but they're not egregious either.\n\nThe issue turned out to be some O-rings that disintegrated on a valve on the sump, causing the drain pump to",
-        "score": 30,
+        "subreddit": "appliancerepair",
+        "title": "Bosch Dishwasher 800 series SHX68E15UC/32 - stops after two minutes, No Error code",
+        "selftext": "\nI stored my dishwasher in the unheated garage over the winter. I went to re-install it and it starts, but turns off after two minutes. There is no water inside when I open it.\n\nTroubleshooting Already Done:\n1. Door is latching properly\n2. I’ve taken out the racks and tried to run it empty\n3. There is no delay set \n4. The water line is working properly and I can feel water moving through the line. \n5. We checked the electrical service to the machine and confirmed it is good. \n6. Cleaned the filter \n\nWhat else could be causing this? How do I test to figure it out?\n\nThanks!!\n\n\n",
+        "score": 2,
         "num_comments": 4,
-        "created_utc": 1760107596.0,
-        "url": "https://www.reddit.com/r/BuyItForLife/comments/1o32wqa/appreciation_for_our_miele_g_2150_scu_dishwasher/",
-        "permalink": "https://reddit.com/r/BuyItForLife/comments/1o32wqa/appreciation_for_our_miele_g_2150_scu_dishwasher/",
-        "relevance_score": 40.8,
+        "created_utc": 1760804835.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1oa08xp/bosch_dishwasher_800_series_shx68e15uc32_stops/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1oa08xp/bosch_dishwasher_800_series_shx68e15uc32_stops/",
+        "relevance_score": 39.6,
         "matched_brands": [
           "bosch",
           "ge",
-          "bosch",
-          "miele"
+          "bosch"
         ],
         "matched_products": [
           "washer",
@@ -1280,34 +1014,66 @@
         "matched_keywords": [],
         "detected_intents": [
           "troubleshooting",
+          "troubleshooting",
           "learning_intent",
+          "maintenance",
           "maintenance"
         ]
       },
       {
         "subreddit": "appliances",
-        "title": "I know all new refrigerators suck but I need a new one",
-        "selftext": "Like the title says, I know they suck but I am in need of a new fridge. I'm looking for whatever input anyone can offer. I need something 30 inch width or less, could care less about/ice water dispenser and have been liking the french door style, fingerprint resistant would be nice. These are some models i've been looking at: \n\n[https://www.homedepot.com/p/Frigidaire-Gallery-30-in-20-cu-ft-Standard-Depth-French-Door-Refrigerator-in-Stainless-Steel-with-Internal-Water-Dispenser-GRFN2023AF/329101029](https://www.homedepot.com/p/Frigidaire-Gallery-30-in-20-cu-ft-Standard-Depth-French-Door-Refrigerator-in-Stainless-Steel-with-Internal-Water-Dispenser-GRFN2023AF/329101029)\n\n  \n[https://www.homedepot.com/p/GE-20-8-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR-GNE21FYKFS/319240148](https://www.homedepot.com/p/GE-20-8-cu-ft-French-Door-Refrigerator-in-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR-GNE21FYKFS/319240148)\n\n  \n[https://www.homedepot.com/p/L",
-        "score": 15,
-        "num_comments": 49,
-        "created_utc": 1759761964.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1nzl2et/i_know_all_new_refrigerators_suck_but_i_need_a/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1nzl2et/i_know_all_new_refrigerators_suck_but_i_need_a/",
-        "relevance_score": 39.0,
+        "title": "Can anyone here speak to why Americans hate hear pump dryers, but they seem ubiquitous in parts of Europe?",
+        "selftext": "EDIT: I see now that the title says hear instead of heat, but can't edit it\n\nI live in the US and have had my eye on a heat pump washer/dryer combo unit for a while. I have a small household, limited space, limited venting options, looking to get off the gas grid, etc. \n\nI'm just confused about the really intense dislike I see for these units in the states, but Europeans chime in and say they have been using them without issue for ages. \n\nDoes this boil down to a difference in the units available here vs overseas? Do people just not like changing habits (clothes don't come out hot, might need to run smaller loads, different routine maintenance, etc)? \n\nIf the issue is maintenance of the coils or other parts, that's something I don't mind getting used to at all. Nor would I mind smaller loads, the longer dry times, or anything like that.\n\nThe appeal here is loading the unit before bed or leaving for work, and having clean, dry clothes without switching between machines. Even if it took ",
+        "score": 28,
+        "num_comments": 269,
+        "created_utc": 1760705833.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1o90l1p/can_anyone_here_speak_to_why_americans_hate_hear/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1o90l1p/can_anyone_here_speak_to_why_americans_hate_hear/",
+        "relevance_score": 37.92,
         "matched_brands": [
-          "whirlpool",
           "ge",
-          "lg",
-          "frigidaire"
+          "samsung"
         ],
         "matched_products": [
-          "refrigerator",
-          "fridge"
+          "washer",
+          "dryer",
+          "heat pump"
         ],
         "matched_keywords": [],
         "detected_intents": [
           "buying_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
           "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "I hate my washer and dryer",
+        "selftext": "Please give me reasons to give my washer and dryer a second chance.  Or convince me to replace them.  \n\nPerhaps someone has these models and can supply some tips that would help me endure.\n\n**Context**:  Lightly used W/D pair in a second home.  Approximately 5 loads per month.  3 years old.  Behavior has not gotten better or worse over time.\n\n**Washer**:  GE Profile - **PTW600BSR1WS** (top loader)  \n**Issue**:  Easily goes out of balance or \"walks across the floor\" when washing large items like sheets.  I would never leave the house while it is running. It's also very loud.\n\nMatching **Dryer**: GE Profile - **PTD60EBSR1WS**  \n**Issue**:  It **never** gets the clothes dry on the first pass.  I almost always have to run Timed Dry to finish it off.\n\n**Software**:  This is a matching set that has an accompanying app and sends messages to my phone.  I can not trust the messages.  For instance, it will say that I have damp clothes in the dryer 5 minutes after starting.  Supposedly, you can c",
+        "score": 11,
+        "num_comments": 22,
+        "created_utc": 1760382472.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1o5t0l1/i_hate_my_washer_and_dryer/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1o5t0l1/i_hate_my_washer_and_dryer/",
+        "relevance_score": 33.12,
+        "matched_brands": [
+          "ge",
+          "samsung"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "front load",
+          "top load"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "comparison",
+          "comparison"
         ]
       }
     ],
@@ -1329,132 +1095,366 @@
         "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
         "channel": "partselect",
         "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 75.46,
+        "relevance_score": 68.57,
         "scoring_breakdown": {
-          "semantic_score": 21.24,
+          "semantic_score": 18.15,
           "keyword_score": 30,
-          "intent_score": 6.800000000000001,
+          "intent_score": 4.6,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
+            "tfidf:dryer",
             "tfidf:washer",
-            "tfidf:com",
-            "brand:model",
+            "tfidf:dry",
             "brand:ge"
+          ],
+          "intent_matches": [
+            "troubleshooting:7.199999999999999↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      },
+      {
+        "video_id": "8mbrnoG5Dnw",
+        "title": "Dryer Repair  - Replacing the High Limit Thermal Fuse (Whirlpool Part# 40113801)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 66.0,
+        "scoring_breakdown": {
+          "semantic_score": 19.17,
+          "keyword_score": 27,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:dryer",
+            "tfidf:dry",
+            "brand:ge",
+            "brand:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:7.199999999999999↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      },
+      {
+        "video_id": "q2c2uUlP13s",
+        "title": "How to Fix a Pressure Washer (Part 2 of 2)",
+        "channel": "fixtechguides",
+        "description_snippet": "After diagnosing the pressure washer pump and replacing its unloader valve, Mark demonstrates how to reassemble and lubricate the pump with step by step instructions.\n\nGet replacement parts...",
+        "relevance_score": 58.96,
+        "scoring_breakdown": {
+          "semantic_score": 15.95,
+          "keyword_score": 23,
+          "intent_score": 6.3999999999999995,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:washer",
+            "fuzzy_tfidf:issue(80.0)",
+            "fuzzy_tfidf:water(80.0)",
+            "fuzzy_tfidf:loads(80.0)",
+            "brand:ge"
+          ],
+          "intent_matches": [
+            "troubleshooting:7.199999999999999↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003",
+            "comparison:1.8↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "bWXPez-FcL0",
+        "title": "How to Start a Pressure Washer",
+        "channel": "fixtechguides",
+        "description_snippet": "Watch this video to learn how to properly vent air out of a pressure washer before turning it on. These simple steps can make all the difference in the performance of your machine. \n\nGet replacemen...",
+        "relevance_score": 52.03,
+        "scoring_breakdown": {
+          "semantic_score": 14.82,
+          "keyword_score": 23,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:washer",
+            "fuzzy_tfidf:issue(80.0)",
+            "fuzzy_tfidf:washer dryer(75.0)",
+            "fuzzy_tfidf:matching(75.0)",
+            "brand:ge"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔4.4"
+          ]
+        }
+      },
+      {
+        "video_id": "B7pwgtbaOOA",
+        "title": "Dryer Repair - Replacing the Lint Filter (Whirlpool Part# 37001142)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 65.56,
+        "scoring_breakdown": {
+          "semantic_score": 18.83,
+          "keyword_score": 27,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:dryer",
+            "tfidf:dry",
+            "brand:ge",
+            "brand:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:7.199999999999999↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 46,
+    "avg_engagement": 27.5,
+    "avg_relevance": 19.346104347826095,
+    "total_comments": 583,
+    "demand_strength": 24472.82200000001,
+    "sample_posts": [
+      {
+        "subreddit": "appliancerepair",
+        "title": "Bosch Dishwasher 800 series SHX68E15UC/32 - stops after two minutes, No Error code",
+        "selftext": "\nI stored my dishwasher in the unheated garage over the winter. I went to re-install it and it starts, but turns off after two minutes. There is no water inside when I open it.\n\nTroubleshooting Already Done:\n1. Door is latching properly\n2. I’ve taken out the racks and tried to run it empty\n3. There is no delay set \n4. The water line is working properly and I can feel water moving through the line. \n5. We checked the electrical service to the machine and confirmed it is good. \n6. Cleaned the filter \n\nWhat else could be causing this? How do I test to figure it out?\n\nThanks!!\n\n\n",
+        "score": 2,
+        "num_comments": 4,
+        "created_utc": 1760804835.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1oa08xp/bosch_dishwasher_800_series_shx68e15uc32_stops/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1oa08xp/bosch_dishwasher_800_series_shx68e15uc32_stops/",
+        "relevance_score": 39.6,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "Craftsman (Poulan) PP5020AV chain brake replacement",
+        "selftext": "I got this saw used like six years ago, a couple years ago the band for the chain brake got damaged and the cover no longer went on so I removed it. Been using that way (though sees very seldom use) without it sense. Got some liming to do on a rental lift soon like to have this as an option but I think finally motivated me to fix this. I have a smaller 14 in Husqvarna saw too will probably use instead as runs better too.  \n\nThe craftsman works well it just seemed kind of ornery to start or would not idle long well. It seems like the parts for the brake should be like $30 or less all I can find if anything is entire covers for like $90+ and I'm not even sure they are a match not being craftsman. That price i think may be better off just junking this and spend a bit more get a better used one or an electric model. Safety sure worth the $ but seems stupid too to spend like 1/2 the cost of a new saw too considering this one is also kind of finicky too maybe better just cut the loss and mov",
+        "score": 1,
+        "num_comments": 1,
+        "created_utc": 1760323309.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1o58316/craftsman_poulan_pp5020av_chain_brake_replacement/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1o58316/craftsman_poulan_pp5020av_chain_brake_replacement/",
+        "relevance_score": 38.76,
+        "matched_brands": [
+          "husqvarna",
+          "craftsman",
+          "poulan",
+          "craftsman",
+          "ge"
+        ],
+        "matched_products": [],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Strange week for my Ryobi",
+        "selftext": "Had a bit of a strange experience this week with my Ryobi. I started to drill into a wall and my SDS drill just died. When I pulled the trigger, the light comes on. I took it apart and attached the motor to a battery and it seems to be dead.\nThen, three days later the reciprocating saw died too. \n\nNot sure what to do now. Has anyone ever changed Motors? I tried to look online to see where to buy it but could not find one.\nDo I stick with Ryobi?(although I know this is Ryobi page.🤣🤣)\n\n",
+        "score": 0,
+        "num_comments": 2,
+        "created_utc": 1760731556.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o9bp1l/strange_week_for_my_ryobi/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o9bp1l/strange_week_for_my_ryobi/",
+        "relevance_score": 33.0,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "reciprocating saw"
+        ],
+        "matched_keywords": [
+          "battery"
+        ],
+        "detected_intents": [
+          "troubleshooting"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "Q-iQ3ox1yAI",
+        "title": "How to Replace the Guard Spring on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark guides you through the steps needed to replace the guard spring on a Skil or Bosch worm drive saw. You will need to complete this repair if your spring breaks, causing the...",
+        "relevance_score": 55.81,
+        "scoring_breakdown": {
+          "semantic_score": 14.73,
+          "keyword_score": 26,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:died(75.0)",
+            "tfidf:saw",
+            "fuzzy_tfidf:sure(75.0)",
+            "fuzzy_tfidf:line(75.0)",
+            "brand:bosch"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔2.2"
+          ]
+        }
+      },
+      {
+        "video_id": "MPGIHx_xy_M",
+        "title": "Is This The Best Dishwasher of 2025?? This Dishwasher is the Best Bang for Your Buck!",
+        "channel": "partselect",
+        "description_snippet": "What's the Best Dishwasher to Buy in 2025? We've scoured through hundreds of reviews from four of the top dishwasher retailers, and the Bosch 500 Series Dishwasher is the best bang for your...",
+        "relevance_score": 55.06,
+        "scoring_breakdown": {
+          "semantic_score": 22.05,
+          "keyword_score": 20,
+          "intent_score": 8.0,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:died(75.0)",
+            "fuzzy_tfidf:sure(75.0)",
+            "tfidf:dishwasher",
+            "brand:bosch",
+            "product:bosch"
+          ],
+          "intent_matches": [
+            "buying_advice:4.0↔5.0"
+          ]
+        }
+      },
+      {
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 53.64,
+        "scoring_breakdown": {
+          "semantic_score": 14.06,
+          "keyword_score": 25,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:saw",
+            "fuzzy_tfidf:line(75.0)",
+            "brand:bosch",
+            "product:bosch"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔2.2"
+          ]
+        }
+      },
+      {
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 53.03,
+        "scoring_breakdown": {
+          "semantic_score": 18.19,
+          "keyword_score": 18,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:sure(75.0)",
+            "tfidf:properly",
+            "tfidf:dishwasher"
           ],
           "intent_matches": [
             "troubleshooting:4.8↔1.2",
-            "how_to_guide:2.2↔3.3000000000000003"
+            "how_to_guide:1.1↔1.1"
           ]
         }
       },
       {
-        "video_id": "SwLVRXW5ltI",
-        "title": "GE Washer or Dryer Repair - How to Replace the Knob (GE Part # WH01X10313)",
+        "video_id": "MYo9OgudQpo",
+        "title": "Dishwasher Repair – Replacing the Inlet Water Vale (Whirlpool Part # W10844024)",
         "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.partselect.com/PS1482289-GE-WH01X10313-Knob-and-Clip.htm?SourceCode=3&SearchTerm=PS1482289\n\nThis...",
-        "relevance_score": 71.53,
+        "description_snippet": "Click here for more information on this part, installation instructions and more.  http://www.partselect.com/PS11730996-Whirlpool-W10844024-Water-Inlet-Valve.htm?SourceCode=3&SearchTerm=PS11730996...",
+        "relevance_score": 52.38,
         "scoring_breakdown": {
-          "semantic_score": 20.62,
-          "keyword_score": 30,
-          "intent_score": 4.4,
+          "semantic_score": 19.1,
+          "keyword_score": 19,
+          "intent_score": 2.2,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:washer",
-            "tfidf:www",
-            "tfidf:com",
-            "brand:https www",
-            "brand:ge"
-          ],
-          "intent_matches": [
-            "how_to_guide:2.2↔2.2"
-          ]
-        }
-      },
-      {
-        "video_id": "GkcdWpCxONM",
-        "title": "WASHER REPAIR: How to Install Suspension Pads in Your Washer | FIX.com",
-        "channel": "fixtechguides",
-        "description_snippet": "If you've purchased a new Suspension Pad for your Washer, this video will help you Install it yourself!\n\n*Remember, this video is meant as a general guide for Washer repair. Your Washer may...",
-        "relevance_score": 60.7,
-        "scoring_breakdown": {
-          "semantic_score": 13.49,
-          "keyword_score": 24,
-          "intent_score": 9.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:washer",
-            "tfidf:new",
-            "tfidf:com",
-            "brand:ge",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:4.8↔2.4",
-            "how_to_guide:2.2↔2.2"
-          ]
-        }
-      },
-      {
-        "video_id": "rnVJqHrUrUo",
-        "title": "How to Fix a 2-Cycle Engine Carburetor",
-        "channel": "fixtechguides",
-        "description_snippet": "Get the parts you need here: http://www.ereplacementparts.com/\n\nThis tutorial will show you how to clean, fix and maintain your 2-cycle/2-stroke engine carburetor.\n\nSHOP FOR PARTS: http://bit.ly/13...",
-        "relevance_score": 59.48,
-        "scoring_breakdown": {
-          "semantic_score": 12.36,
-          "keyword_score": 21,
-          "intent_score": 12.399999999999999,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:need",
-            "tfidf:www",
-            "tfidf:com",
-            "brand:ge",
-            "entity:ge"
-          ],
-          "intent_matches": [
-            "troubleshooting:4.8↔2.4",
-            "how_to_guide:2.2↔3.3000000000000003",
-            "maintenance:2.4000000000000004↔1.6"
-          ]
-        }
-      },
-      {
-        "video_id": "aMD3j7hUbek",
-        "title": "Whirlpool Washer Repair - How to Replace the Circulation Water Pump (Whirlpool Part # WPW10233462)",
-        "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.partselect.com/PS11750729-Whirlpool-WPW10233462-Circulation-Water-Pump.htm?SourceCode=3&SearchTerm=WPW1...",
-        "relevance_score": 70.06,
-        "scoring_breakdown": {
-          "semantic_score": 20.49,
-          "keyword_score": 29,
-          "intent_score": 4.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:washer",
+            "fuzzy_tfidf:like(75.0)",
             "tfidf:water",
-            "tfidf:www",
-            "tfidf:com",
-            "brand:https www"
+            "fuzzy_tfidf:sure(75.0)",
+            "fuzzy_tfidf:line(75.0)",
+            "tfidf:dishwasher"
           ],
           "intent_matches": [
-            "how_to_guide:2.2↔2.2"
+            "how_to_guide:1.1↔1.1"
           ]
         }
       }
@@ -1462,89 +1462,90 @@
   },
   {
     "theme": "outdoor_power_equipment",
-    "post_count": 34,
-    "avg_engagement": 34.0,
-    "avg_relevance": 16.112352941176475,
-    "total_comments": 608,
-    "demand_strength": 18625.880000000005,
+    "post_count": 36,
+    "avg_engagement": 21.61111111111111,
+    "avg_relevance": 16.846666666666664,
+    "total_comments": 1040,
+    "demand_strength": 13106.706666666665,
     "sample_posts": [
       {
-        "subreddit": "Chainsaw",
-        "title": "Husqvarna 395xp",
-        "selftext": "Hi, first post in this sub. I have had the pleasure of using many 2stroke saws that my father has shared with me, poulan pro, Smaller Husqvarna saws. I own the Kobalt 40v chainsaw and pole saw. I’m a home owner not a homesteader.  I like the battery saws a lot. That brings me to this beast, 94cc  395xp I am working on now. It has a 36” bar. I’m cleaning and fixing it up to re-sell. It was part of an estate auction I won. I’m not keeping it.. (but it’s soo bad ass) I’d love to have any info about it, who might be a buyer (loggers and disaster specialists I’m guessing) and what it is worth. I’m finding them on eBay for over 1k for power head only but is that this saw or a sub model or variant? Looks the same. I’m working on it now, it’s been sitting for a while but I think it’s been used very little, it’s a 2020 model year.\nThanks for any feedback! Happy and Safe Cutting \n",
-        "score": 30,
-        "num_comments": 11,
-        "created_utc": 1759928890.0,
-        "url": "https://www.reddit.com/gallery/1o1a0q7",
-        "permalink": "https://reddit.com/r/Chainsaw/comments/1o1a0q7/husqvarna_395xp/",
-        "relevance_score": 40.8,
+        "subreddit": "Ryobi",
+        "title": "\"High Flow Pressure washer + cleaner attachments?\"",
+        "selftext": "I’ve really liked my Automotive High flow pressure washer and want to use it for other outdoor cleaning tasks around my house.\n\nThe [Pressure Washer Trigger Handle kit](https://www.ryobitools.com/products/46396045980) has been nice for cleaning my outdoor trash cans and patio cleans but I wanted to know if anyone has tried either of the surface cleaning attachments with this pressure washer eyt and if its powerful enough to make them worth it?\n\nSeems like the surface cleaner would work fine but the water broom might need some mroe power t o be worth it, \n\n[12 in. 2,300 PSI Electric Pressure Washers Surface Cleaner](https://www.homedepot.com/p/RYOBI-12-in-2-300-PSI-Electric-Pressure-Washers-Surface-Cleaner-RY31012/306343083?MERCH=REC-_-searchViewed-_-ryobi%20pressure%20washer%20attachment-_-0-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a)\n\n[Pressure Washer Water Broom and Undercarriage](https://www.homedepot.com/p/RYOBI-Pressure-Washer-Water-Broom-and-Undercarriage-for-Most-Gas-Electric-and-Cordless-Pr",
+        "score": 3,
+        "num_comments": 0,
+        "created_utc": 1760458895.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o6k2t4/high_flow_pressure_washer_cleaner_attachments/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o6k2t4/high_flow_pressure_washer_cleaner_attachments/",
+        "relevance_score": 37.8,
         "matched_brands": [
-          "husqvarna",
-          "poulan",
-          "kobalt",
+          "ryobi",
+          "ryobi",
           "ge"
         ],
         "matched_products": [
-          "chainsaw",
-          "pole saw"
+          "pressure washer",
+          "washer"
         ],
         "matched_keywords": [
-          "battery"
+          "outdoor",
+          "cordless"
         ],
         "detected_intents": [
-          "troubleshooting",
+          "buying_intent",
           "maintenance"
         ]
       },
       {
         "subreddit": "Ryobi",
-        "title": "RYOBI P20019 18v One+ HP Brushless String Trimmer spin up delay?",
-        "selftext": "This seems like a long time to spin up the trimmer. Is this normal?  A friend has the Milwaukee and it’s instant turn on. Heck, even my crappy plug-in electric is instant on…\n\nIt may not seem like a big deal at first but then you think about all the times you pull the trigger on a trimmer and realize you have to wait. Every. Single. Time. ",
-        "score": 6,
-        "num_comments": 5,
-        "created_utc": 1759965019.0,
-        "url": "https://v.redd.it/mc0es5hkzytf1",
-        "permalink": "https://reddit.com/r/ryobi/comments/1o1qbgb/ryobi_p20019_18v_one_hp_brushless_string_trimmer/",
-        "relevance_score": 37.199999999999996,
+        "title": "Choosing a leaf blower",
+        "selftext": "I am deciding between the 510CFM 18v (tool only) and the 730CFM 40v (tool +2x 4ah batteries). Currently, both of these are for sale near me for the same price ($100). I already have a collection of 18V batteries, including 2x 6ah HP. I don't have any 40v batteries but the kit includes all I would need. The 40v is clearly a better deal but I am concerned about the reports of the 40v batteries spontaneously combusting.\n\n[https://www.homedepot.com/p/RYOBI-40V-HP-Brushless-Whisper-Series-190-MPH-730-CFM-Cordless-Battery-Jet-Fan-Leaf-Blower-with-2-4-0-Ah-Batteries-Charger-RY404100/314600140](https://www.homedepot.com/p/RYOBI-40V-HP-Brushless-Whisper-Series-190-MPH-730-CFM-Cordless-Battery-Jet-Fan-Leaf-Blower-with-2-4-0-Ah-Batteries-Charger-RY404100/314600140)\n\n[https://www.homedepot.com/p/RYOBI-18V-ONE-HP-Brushless-Cordless-130-MPH-510-CFM-Leaf-Blower-Tool-Only-PBLLB01B/327353593](https://www.homedepot.com/p/RYOBI-18V-ONE-HP-Brushless-Cordless-130-MPH-510-CFM-Leaf-Blower-Tool-Only-PBLLB01B/",
+        "score": 2,
+        "num_comments": 13,
+        "created_utc": 1760742110.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o9fybo/choosing_a_leaf_blower/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o9fybo/choosing_a_leaf_blower/",
+        "relevance_score": 34.56,
         "matched_brands": [
           "ryobi",
-          "milwaukee",
-          "milwaukee",
           "ryobi",
-          "ge"
-        ],
-        "matched_products": [
-          "string trimmer"
-        ],
-        "matched_keywords": [
-          "brushless"
-        ],
-        "detected_intents": []
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Leaf Blower & Strimmer Recommendations",
-        "selftext": "Hello Reddit - I'l looking for someone to suggest a leaf blower and Strimmer from the Makita lineup.\n\nWe are about 1/2 acre of garden area, all relatively wild - not very neat lawns etc... Want a semi-decent blower for all the leaves coming off the trees aswell as the HUGE amount of acorns we have this year!\n\nThe strimmer will be for overgrown grass, nettles, brambles and the likes, not as much for edge-ing the lawn, so again something semi-decent.\n\nThere is so much in their lineup I just get abit lost! Any advice welcomed, thanks!\n\nEDIT: UK Post",
-        "score": 6,
-        "num_comments": 14,
-        "created_utc": 1759928013.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1o19ns2/leaf_blower_strimmer_recommendations/",
-        "permalink": "https://reddit.com/r/Makita/comments/1o19ns2/leaf_blower_strimmer_recommendations/",
-        "relevance_score": 32.4,
-        "matched_brands": [
-          "makita",
-          "makita",
           "ge"
         ],
         "matched_products": [
           "leaf blower"
         ],
-        "matched_keywords": [],
+        "matched_keywords": [
+          "cordless",
+          "brushless",
+          "battery",
+          "ah"
+        ],
         "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "learning_intent"
+          "comparison"
         ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "When does HD Canada do sales?",
+        "selftext": "I went all in on Ryobi 40V yard equipment this past summer when I inherited an older 20\" push mower and some yard tools. I quickly flipped that mower for a new 21\" self-propelled, sold my gas mower and gas single-stage snowblower, and want to buy the 22\" two-stage snowblower before winter comes here in Ontario.\n\nWill this go on sale between now and Christmas at HD and when should I expect the sale?  ...and more importantly, what is the best way to be notified of the sales?\n\nAfter that I'll just need to pickup the 2,000 psi pressure washer, sell my Husky/Honda pressure washer, and I'll be rid of all gas cans in my garage!",
+        "score": 1,
+        "num_comments": 3,
+        "created_utc": 1760462100.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1o6lj9d/when_does_hd_canada_do_sales/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1o6lj9d/when_does_hd_canada_do_sales/",
+        "relevance_score": 32.4,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "pressure washer",
+          "push mower",
+          "washer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": []
       }
     ],
     "content_angle": "OPE Reviews, Maintenance & Buying Guides",
@@ -1562,113 +1563,13 @@
     ],
     "matched_videos": [
       {
-        "video_id": "V5EblqpxfXw",
-        "title": "Tool Tear Down: Jig Saw Comparison | eReplacementParts.com",
+        "video_id": "bJGh2IsFniA",
+        "title": "Pressure Washer Repair - Replacing the Trigger Handle (Ryobi Part # 308760040)",
         "channel": "fixtechguides",
-        "description_snippet": "When it comes time to replace or repair your jigsaw, it's handy to know what newer models might be offering that your old one did not. Also, if you're looking to pick up a new to you jigsaw,...",
-        "relevance_score": 50.23,
+        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.ereplacementparts.com/trigger-handle-p-1757357.html\n\nThis particular Trigger Handle is specific...",
+        "relevance_score": 48.6,
         "scoring_breakdown": {
-          "semantic_score": 21.23,
-          "keyword_score": 27,
-          "intent_score": 2.0,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:saw",
-            "tfidf:time",
-            "fuzzy_tfidf:semi(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "h0LW6pBr0Yk",
-        "title": "Gas Powered Chainsaw or Battery Powered Chainsaw? Which One Is Better? | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "We're back with another video in our Gas vs. Battery Power Equipment Series! This time, we're taking a look at Gas-Powered Chainsaws vs. Electric or Battery-Powered Chainsaws!\n\nIn this video...",
-        "relevance_score": 49.3,
-        "scoring_breakdown": {
-          "semantic_score": 20.81,
-          "keyword_score": 22,
-          "intent_score": 2.0,
-          "content_boost": 1.1,
-          "content_type": "comparison"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:saw",
-            "tfidf:time",
-            "fuzzy_tfidf:spin(75.0)",
-            "fuzzy_tfidf:semi(75.0)",
-            "product:saw"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "8yJohq30T14",
-        "title": "Chainsaw Troubleshooting: Top 5 Reasons Your Chainsaw Won't Start | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "One of the most common issues that our customers report experiencing when it comes to their chainsaw, is that the saw itself won't start. Obviously if your chainsaw won't start, it's not going...",
-        "relevance_score": 39.13,
-        "scoring_breakdown": {
-          "semantic_score": 21.57,
-          "keyword_score": 14,
-          "intent_score": 0,
-          "content_boost": 1.1,
-          "content_type": "comparison"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:saw",
-            "fuzzy_tfidf:time(75.0)",
-            "product:saw",
-            "product:chainsaw"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "uh0r1PTv0c8",
-        "title": "Chainsaw Chain Always Loose? Here’s What To Do!",
-        "channel": "partselect",
-        "description_snippet": "Is your chainsaw chain constantly coming loose or falling off? This video explains how to properly maintain your chainsaw by checking the chainsaw bar, chain, and much more! For more chainsaw...",
-        "relevance_score": 36.22,
-        "scoring_breakdown": {
-          "semantic_score": 14.19,
-          "keyword_score": 14,
-          "intent_score": 2.0,
-          "content_boost": 1.2,
-          "content_type": "review"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:saw",
-            "fuzzy_tfidf:instant(85.71428571428572)",
-            "product:saw",
-            "product:chainsaw"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "0A2xOvuOYF4",
-        "title": "Spring Engine Startup: Get Your Outdoor Power Equipment Ready for the Season | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Whether you're looking at a Lawn Mower, Chainsaw, Leaf Blower or Trimmer, it's important to take the proper steps to get them started up every spring. Knowing the right way to deal with old...",
-        "relevance_score": 46.8,
-        "scoring_breakdown": {
-          "semantic_score": 16.8,
+          "semantic_score": 18.6,
           "keyword_score": 30,
           "intent_score": 0,
           "content_boost": 1.0,
@@ -1676,11 +1577,107 @@
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:trimmer",
-            "tfidf:saw",
-            "tfidf:blower",
-            "fuzzy_tfidf:strimmer(87.5)",
-            "fuzzy_tfidf:time(75.0)"
+            "tfidf:pressure",
+            "tfidf:washer",
+            "tfidf:pressure washer",
+            "tfidf:ryobi",
+            "tfidf:www"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "8QjVbrwKaZM",
+        "title": "Pressure Washer Repair - Replacing the Spray Wand (Ryobi Part # 308494065)",
+        "channel": "fixtechguides",
+        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.ereplacementparts.com/spray-wand-p-1757358.html\n\nThis particular Spray Wand is specific to Ryobi....",
+        "relevance_score": 48.31,
+        "scoring_breakdown": {
+          "semantic_score": 18.31,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:pressure",
+            "tfidf:washer",
+            "tfidf:pressure washer",
+            "tfidf:ryobi",
+            "tfidf:www"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "HZUyQnk_rt8",
+        "title": "Washer Repair: How to Unclog the Drain Hose",
+        "channel": "partselect",
+        "description_snippet": "Need the part you’re trying to replace? Simply enter your model or part number into our website to get started finding the manufacturer-approved part you need! https://www.partselect.com/?utm_sou...",
+        "relevance_score": 43.17,
+        "scoring_breakdown": {
+          "semantic_score": 13.17,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:washer",
+            "tfidf:www",
+            "tfidf:https www",
+            "tfidf:https"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "d14YLcD7Q74",
+        "title": "Washing Machine Repair - Replacing the Drive Pulley (GE Part #WH07X10016)",
+        "channel": "partselect",
+        "description_snippet": "This particular Drive Pulley is specific to GE manufactured brands including General Electric, Hotpoint, and Kenmore. To find a drive pulley specific to your model, visit http://www.PartSelect.com....",
+        "relevance_score": 41.93,
+        "scoring_breakdown": {
+          "semantic_score": 11.93,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:washer(80.0)",
+            "tfidf:www",
+            "fuzzy_tfidf:https www(88.88888888888889)",
+            "fuzzy_tfidf:https(80.0)"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "kWpXLYGsbHI",
+        "title": "Pressure Washer Repair - Replacing the Electrical Cord (Ryobi Part # 290426012)",
+        "channel": "fixtechguides",
+        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.ereplacementparts.com/electrical-cord-p-810480.html\n\nThis particular Electrical Cord is specific...",
+        "relevance_score": 47.9,
+        "scoring_breakdown": {
+          "semantic_score": 17.9,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:pressure",
+            "tfidf:washer",
+            "tfidf:pressure washer",
+            "tfidf:ryobi",
+            "tfidf:www"
           ],
           "intent_matches": []
         }
@@ -1689,22 +1686,46 @@
   },
   {
     "theme": "utility_appliances",
-    "post_count": 3,
-    "avg_engagement": 67.33333333333333,
-    "avg_relevance": 13.461333333333334,
-    "total_comments": 25,
-    "demand_strength": 2719.1893333333333,
+    "post_count": 4,
+    "avg_engagement": 139.75,
+    "avg_relevance": 18.355,
+    "total_comments": 554,
+    "demand_strength": 10260.445,
     "sample_posts": [
       {
-        "subreddit": "HomeImprovement",
-        "title": "Ozone machine vs. dehumidifiers. Can they safely run at the same time?",
-        "selftext": "We recently had a water leak (thankfully fixed now), but part of the repair involved removing drywall,  releasing an old, nasty smoke smell from the previous owners. The house always had a bit of that odor, but now it’s way stronger and pretty unbearable.\n\nOur church offered to let us borrow their ozone generator to help get rid of the smell. At the same time, the restoration crew we hired still has dehumidifiers and a couple of fans running to heat and dry out the area so we don’t end up with mold under the floors.\n\nWe’re not currently living in the house while all this is going on, and the AC system is turned off. So my question is: is it safe to run the ozone generator while those other machines are operating, as long as no one’s inside? I just don’t want to risk damaging the equipment or create any unsafe conditions.\n\nAny info on ozone generators, general advice, or firsthand experience would be super appreciated. We’re first time homeowners and learning as we go here!",
-        "score": 4,
-        "num_comments": 1,
-        "created_utc": 1759973003.0,
-        "url": "https://www.reddit.com/r/HomeImprovement/comments/1o1t5ev/ozone_machine_vs_dehumidifiers_can_they_safely/",
-        "permalink": "https://reddit.com/r/HomeImprovement/comments/1o1t5ev/ozone_machine_vs_dehumidifiers_can_they_safely/",
-        "relevance_score": 27.96,
+        "subreddit": "Makita",
+        "title": "Vacuum Cleaners 18x vs 28x",
+        "selftext": "looking to get a Vacuum Cleaners for camper van. i won't use it often, i am wondering is 180 model is good enouph or shall i go for other brands or 28x series ? 100+ dollars seems to be overkill for my needs\n\nthere is 2x diff in price, i stumbled on all deleted sicussion here, but is not conclusive for me.  \n[https://www.reddit.com/r/Makita/comments/17zutjb/deleted\\_by\\_user/](https://www.reddit.com/r/Makita/comments/17zutjb/deleted_by_user/)\n\n  \nall models are here   \n[https://www.makitauk.com/products/vacuum-cleaners-lxt-18v](https://www.makitauk.com/products/vacuum-cleaners-lxt-18v)",
+        "score": 2,
+        "num_comments": 9,
+        "created_utc": 1760466891.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1o6nqwl/vacuum_cleaners_18x_vs_28x/",
+        "permalink": "https://reddit.com/r/Makita/comments/1o6nqwl/vacuum_cleaners_18x_vs_28x/",
+        "relevance_score": 26.76,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Leaking portable dehumidifier.  Why is it leaking from there?",
+        "selftext": "  \nDoes anybody know why my dehumidifier is leaking. The bucket is fine. It appears condensate is building up on these refrigerant lines near the compressor and then dripping down onto the interior of the appliance. You can see the green build up where it drips from. The insulation around the lines was undisturbed. I pulled them back to try and figure out what was going on, but I have no idea. The machine does its job, but there's always water leaking from the bottom. I'd appreciate any advice. Is it fixable, or do I just order a new one?",
+        "score": 2,
+        "num_comments": 3,
+        "created_utc": 1760630344.0,
+        "url": "https://i.redd.it/zdihmrsuxhvf1.jpeg",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1o8a1il/leaking_portable_dehumidifier_why_is_it_leaking/",
+        "relevance_score": 21.0,
         "matched_brands": [
           "ge"
         ],
@@ -1715,52 +1736,30 @@
         "matched_keywords": [],
         "detected_intents": [
           "troubleshooting",
-          "learning_intent",
-          "learning_intent",
-          "learning_intent",
-          "comparison"
+          "learning_intent"
         ]
       },
       {
-        "subreddit": "HomeImprovement",
-        "title": "NOT DIY - living through renovations while pregnant",
-        "selftext": "My husband and I are not the ones doing work, we hired contractors, but we are having extensive work done in our old house (built in 1940). The biggest part is the kitchen which includes taking down a few walls. They've already gutted the walls down to the studs and today they actually take down the walls. They have put up plastic all around the kitchen and I leave the house during their working hours. I try to keep the windows open, we have an air purifier, they vacuum when theyre done and I do an extra round when they leave just to get the thin layer of dust left behind. What else should I be doing? Should I even sleep here at night? We have a 6 year old as well. Should I be wearing a mask even when they're not here, but when I'm relaxing at night? I just want to keep myself safe but I don't think I can move myself out of the house completely. ",
-        "score": 6,
-        "num_comments": 12,
-        "created_utc": 1759934102.0,
-        "url": "https://www.reddit.com/r/HomeImprovement/comments/1o1c886/not_diy_living_through_renovations_while_pregnant/",
-        "permalink": "https://reddit.com/r/HomeImprovement/comments/1o1c886/not_diy_living_through_renovations_while_pregnant/",
-        "relevance_score": 8.424,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "vacuum",
-          "air purifier"
-        ],
-        "matched_keywords": [
-          "contractor"
-        ],
-        "detected_intents": [
-          "buying_intent"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "3D printed vacuum clamping system for DW Grabo lifters",
-        "selftext": "",
-        "score": 192,
-        "num_comments": 12,
-        "created_utc": 1759919361.0,
-        "url": "https://v.redd.it/gp9qdebq7vtf1",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1o16rql/3d_printed_vacuum_clamping_system_for_dw_grabo/",
-        "relevance_score": 4,
+        "subreddit": "DIY",
+        "title": "I just bought a house from 1930, and it has a capped off 240 volt plate on the floor of the bedroom. What the heck do you think was this used for?",
+        "selftext": "240 volt box, with a blank plate on it.   Asked the former owner why there was a 240 connection on the floor of the master bedroom and she said she had no idea why.   Looks old, mid 50's or earlier would be my guess.   \n\nAnyone have any clue what this could have been used for?\nI don't think it was from a water heater or from an electric space heater.   I can't think of any other 240v device you'd put in your bedroom, and even if you did, I can't think of any reason you'd put the connection in the floor versus the wall.\n\nEdit: I'm in Florida.",
+        "score": 543,
+        "num_comments": 541,
+        "created_utc": 1760252726.0,
+        "url": "https://www.reddit.com/r/DIY/comments/1o4igh0/i_just_bought_a_house_from_1930_and_it_has_a/",
+        "permalink": "https://reddit.com/r/DIY/comments/1o4igh0/i_just_bought_a_house_from_1930_and_it_has_a/",
+        "relevance_score": 14.16,
         "matched_brands": [],
         "matched_products": [
-          "vacuum"
+          "water heater",
+          "space heater"
         ],
-        "matched_keywords": [],
-        "detected_intents": []
+        "matched_keywords": [
+          "volt"
+        ],
+        "detected_intents": [
+          "comparison"
+        ]
       }
     ],
     "content_angle": "Home Utility Equipment Reviews",
@@ -1777,135 +1776,126 @@
     ],
     "matched_videos": [
       {
-        "video_id": "RF-nKshoR0M",
-        "title": "How to Prepare Your Furnace for Winter | PartSelect.com",
+        "video_id": "Ybi3ESjDLD4",
+        "title": "Refrigerator Repair: How Does My Ice Maker Work?",
         "channel": "partselect",
-        "description_snippet": "When the weather gets cold, it's time to fire up your furnace! But what if your furnace won't turn on our your furnace won't work? That can leave you and your family in the cold! Don't worry...",
-        "relevance_score": 51.81,
+        "description_snippet": "Need the part you’re trying to replace? Simply enter your model or part number into our website to get started finding the manufacturer-approved part you need! https://www.partselect.com/?utm_sou...",
+        "relevance_score": 41.12,
         "scoring_breakdown": {
-          "semantic_score": 10.66,
-          "keyword_score": 25,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:time",
-            "tfidf:old",
-            "tfidf:don",
-            "tfidf:leave",
-            "tfidf:work"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "pJW2otpKhXk",
-        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
-        "channel": "partselect",
-        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
-        "relevance_score": 47.55,
-        "scoring_breakdown": {
-          "semantic_score": 4.97,
-          "keyword_score": 27,
-          "intent_score": 4.6,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
+          "semantic_score": 11.12,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "fuzzy_tfidf:walls(75.0)",
-            "tfidf:time",
-            "tfidf:work",
-            "fuzzy_tfidf:doing(80.0)"
+            "tfidf:does",
+            "tfidf:https www",
+            "tfidf:com",
+            "tfidf:www"
           ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:1.1↔1.1"
-          ]
+          "intent_matches": []
         }
       },
       {
-        "video_id": "EnuHMTMhjxE",
-        "title": "How to install a pump rebuild kit on a Ridgid Tri-Stack air compressor model OF50150TS",
+        "video_id": "0hbSIVv4U0Q",
+        "title": "Refrigerator Repair: Why Does my Refrigerator Have a Frost Buildup?",
+        "channel": "partselect",
+        "description_snippet": "Need the part you’re trying to replace? Simply enter your model or part number into our website to get started finding the manufacturer-approved part you need! https://www.partselect.com/?utm_sou...",
+        "relevance_score": 40.64,
+        "scoring_breakdown": {
+          "semantic_score": 10.64,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:does",
+            "tfidf:https www",
+            "tfidf:com",
+            "tfidf:www"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "pJ79elPz2zM",
+        "title": "WASHER REPAIR: Lid Switch Schematics | FIX.com",
         "channel": "fixtechguides",
-        "description_snippet": "If leaking seals and service bills are compressing your expenses, it's time to face the fix. This tutorial will show you how to quickly install a pump rebuild kit on your Ridgid Tri-Stack air...",
-        "relevance_score": 37.42,
+        "description_snippet": "Your schematic is the best way to determine which type of lid switch or lid lock you have in your Washer, regardless of whether it's a top-load or front-load model. In this video we'll show...",
+        "relevance_score": 35.0,
         "scoring_breakdown": {
-          "semantic_score": 8.19,
-          "keyword_score": 16,
-          "intent_score": 4.6,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
+          "semantic_score": 8.82,
+          "keyword_score": 19,
+          "intent_score": 4.0,
+          "content_boost": 1.1,
+          "content_type": "comparison"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:time",
+            "fuzzy_tfidf:does(75.0)",
+            "tfidf:com",
             "brand:model",
             "entity:model"
           ],
           "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:1.1↔3.3000000000000003"
+            "buying_advice:4.0↔2.0"
           ]
         }
       },
       {
-        "video_id": "kgxt8G6i8Do",
-        "title": "Can It Be Saved? How to Remove Rust From a Tile Saw | eRepalcementParts.com",
+        "video_id": "Uo3IwKdOwe8",
+        "title": "How It Works: What's Inside Vacuum and How Does it Work? | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "If you have an old tile saw or other power tool, your first instinct may be that it's time to toss it. Sometimes that's the case, BUT removing rust from your power tools is actually a job you...",
-        "relevance_score": 35.12,
+        "description_snippet": "Ever wondered how your vacuum works? Well, wonder no longer because in this video we're going to show you! We'll take you through the basic parts that run your vacuum, and how they work together...",
+        "relevance_score": 32.43,
         "scoring_breakdown": {
-          "semantic_score": 5.82,
-          "keyword_score": 19,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
+          "semantic_score": 15.43,
+          "keyword_score": 15,
+          "intent_score": 2.0,
+          "content_boost": 1.0,
+          "content_type": "repair"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:time",
-            "tfidf:old",
-            "fuzzy_tfidf:just(75.0)",
-            "fuzzy_tfidf:work(75.0)",
-            "fuzzy_tfidf:doing(80.0)"
+            "tfidf:does",
+            "tfidf:vacuum",
+            "tfidf:com"
           ],
           "intent_matches": [
-            "how_to_guide:1.1↔1.1"
+            "buying_advice:4.0↔1.0"
           ]
         }
       },
       {
-        "video_id": "tWQcdT8b9Bo",
-        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
+        "video_id": "TXIAwE2uMVE",
+        "title": "Refrigerator Repair: Ice Maker Not Working - What Parts Could Cause This Problem?",
         "channel": "partselect",
-        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
-        "relevance_score": 42.09,
+        "description_snippet": "Need the part you’re trying to replace? Simply enter your model or part number into our website to get started finding the manufacturer-approved part you need! https://www.partselect.com/?utm_sou...",
+        "relevance_score": 39.14,
         "scoring_breakdown": {
-          "semantic_score": 3.78,
-          "keyword_score": 24,
-          "intent_score": 4.6,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
+          "semantic_score": 11.14,
+          "keyword_score": 26,
+          "intent_score": 2.0,
+          "content_boost": 1.0,
+          "content_type": "repair"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:time",
-            "tfidf:work",
-            "fuzzy_tfidf:doing(80.0)",
+            "tfidf:https www",
+            "tfidf:com",
+            "tfidf:www",
             "brand:model"
           ],
           "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:1.1↔1.1"
+            "buying_advice:4.0↔1.0"
           ]
         }
       }
