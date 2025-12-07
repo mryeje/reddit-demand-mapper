@@ -1,0 +1,882 @@
+[
+  {
+    "theme": "power_tools",
+    "post_count": 93,
+    "avg_engagement": 188.59139784946237,
+    "avg_relevance": 16.772516129032248,
+    "total_comments": 6265,
+    "demand_strength": 294173.1603870966,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Hands On Review - NEW Ryobi PCL400 4 1/2\" Circular Saw",
+        "selftext": "I grabbed the BF doorbuster kit (PCL400K) yesterday and did some testing, and wrote down some of my thoughts.\n\nTL;DR - I like it a lot, for what it is. I wouldn't want it to be my only circular saw, but I also can see myself grabbing it first quite often. Time will tell whether it holds up, of course. If they make a brushless version, I'd probably buy it too when a good deal comes along.\n\n# Build Quality & First Impressions\n\nThe saw\u2019s build quality is solid for its size and price. Nothing feels flimsy, the guard tracks smoothly, and the base plate sits square.\n\nThe standout attribute for me was that it\u2019s\u00a0**extremely lightweight.**\n\nThis is the kind of saw you can grab with one hand and comfortably make controlled cuts with.\n\n# Cutting Performance\n\nI tested it on a standard 2x4 stud, which are actually 1.5\" thick - just within the capacity of the saw's 1 9/16\" cut capacity (which is not a coincidence).\n\nMy experience:\n\n* cut smoothly\n* stayed stable in the cut\n* didn\u2019t bog down under no",
+        "score": 15,
+        "num_comments": 4,
+        "created_utc": 1764537692.0,
+        "url": "http://tooldecoded.com/learn/hands-on-review-ryobi-4-12-circular-saw-pcl400/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1patuu4/hands_on_review_new_ryobi_pcl400_4_12_circular_saw/",
+        "relevance_score": 72.71999999999998,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw",
+          "jigsaw",
+          "washer"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "battery",
+          "ah",
+          "rpm",
+          "construction",
+          "capacity",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Are Ryobi batteries more susceptible to water damage?",
+        "selftext": "I was using my impact with 4ah lithium battery to clean my shower with a brush attachment. I might have dripped some water on the drill and battery here and there. But nothing to make me worried about water damage. It died after a while so I thought I ran out of power. So I stopped and the next day threw it on the charger and it said it was charging. About 2 weeks later I tried to use the battery and it was broken. \n\nAnd now the battery won\u2019t charge. It flashes the lights when I check the level and the charger stays on error. \n\nMy friend only uses dewalt and he says he\u2019s left them in the rain and nothing happened to them. \n\nSo ryobi batteries have poor water and dust sealing? Considering switching from ryobi if this is true. \n\nOr Is this only an issue with lithium batteries having more components inside?",
+        "score": 5,
+        "num_comments": 12,
+        "created_utc": 1764908812.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1pelqyh/are_ryobi_batteries_more_susceptible_to_water/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pelqyh/are_ryobi_batteries_more_susceptible_to_water/",
+        "relevance_score": 50.4,
+        "matched_brands": [
+          "ryobi",
+          "dewalt",
+          "dewalt",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Will Dewalt make a reasonably sized cordless brad nailer and narrow crown stapler?",
+        "selftext": "I would really like to have a cordless brad nailer and narrow crown stapler, and I am already on the Dewalt platform. No complaints about their other tools. But their current brad nailer is obnoxiously huge, same with their crown stapler. \n\nI have a Ryobi cordless nailer, but I'm not a fan of it. It's got me considering Milwaukee for these two tools. \n\nAm I the only one, who thinks Dewalt's cordless brad nailer is too big? And the delay after pulling the trigger I think is an issue.  \n\nDoes anything think or know if Dewalt will make a smaller one?",
+        "score": 8,
+        "num_comments": 15,
+        "created_utc": 1764908168.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1peljmj/will_dewalt_make_a_reasonably_sized_cordless_brad/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1peljmj/will_dewalt_make_a_reasonably_sized_cordless_brad/",
+        "relevance_score": 49.199999999999996,
+        "matched_brands": [
+          "ryobi",
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "brad nailer"
+        ],
+        "matched_keywords": [
+          "cordless"
+        ],
+        "detected_intents": []
+      }
+    ],
+    "content_angle": "Power Tool Reviews & Professional Tips",
+    "example_videos": [
+      "Best cordless drills 2024",
+      "Miter saw buying guide",
+      "Tool storage solutions"
+    ],
+    "hashtags": [
+      "#powertools",
+      "#cordlesstools",
+      "#dewalt",
+      "#milwaukee",
+      "#contractor"
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 41,
+    "avg_engagement": 213.78048780487805,
+    "avg_relevance": 19.693170731707312,
+    "total_comments": 2791,
+    "demand_strength": 172610.6414634146,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Hands On Review - NEW Ryobi PCL400 4 1/2\" Circular Saw",
+        "selftext": "I grabbed the BF doorbuster kit (PCL400K) yesterday and did some testing, and wrote down some of my thoughts.\n\nTL;DR - I like it a lot, for what it is. I wouldn't want it to be my only circular saw, but I also can see myself grabbing it first quite often. Time will tell whether it holds up, of course. If they make a brushless version, I'd probably buy it too when a good deal comes along.\n\n# Build Quality & First Impressions\n\nThe saw\u2019s build quality is solid for its size and price. Nothing feels flimsy, the guard tracks smoothly, and the base plate sits square.\n\nThe standout attribute for me was that it\u2019s\u00a0**extremely lightweight.**\n\nThis is the kind of saw you can grab with one hand and comfortably make controlled cuts with.\n\n# Cutting Performance\n\nI tested it on a standard 2x4 stud, which are actually 1.5\" thick - just within the capacity of the saw's 1 9/16\" cut capacity (which is not a coincidence).\n\nMy experience:\n\n* cut smoothly\n* stayed stable in the cut\n* didn\u2019t bog down under no",
+        "score": 15,
+        "num_comments": 4,
+        "created_utc": 1764537692.0,
+        "url": "http://tooldecoded.com/learn/hands-on-review-ryobi-4-12-circular-saw-pcl400/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1patuu4/hands_on_review_new_ryobi_pcl400_4_12_circular_saw/",
+        "relevance_score": 72.71999999999998,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw",
+          "jigsaw",
+          "washer"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "battery",
+          "ah",
+          "rpm",
+          "construction",
+          "capacity",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Dishwasher purchasing advice",
+        "selftext": "My whirlpool seems to have bitten the dust. After replacing the circulation pump at the repair technician's advice it has gone back to refusing to drain unless we restart the cycle 4 times. \nMy two options are a used Miele G870 SC for $400 off marketplace that \"has no issues, just hasn't been tested in a while\" or a Bosch SHX5AEM5N from Costco for $800. Obviously Costco has it's benefits and isn't as much as a risk but money is quite tight right now and the less I can spend the better. \n\nWhat are your thoughts?",
+        "score": 10,
+        "num_comments": 31,
+        "created_utc": 1764599394.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1pbe7ch/dishwasher_purchasing_advice/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1pbe7ch/dishwasher_purchasing_advice/",
+        "relevance_score": 41.16,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "LG Front Load Washer Mystery Error Code",
+        "selftext": "I\u2019m a handyman who is not experienced in appliance repair and I\u2019m working on someone\u2019s LG washing machine (WKE100HWA) that\u2019s getting error code UE (imbalanced load) during the spin cycle. I replaced the shocks and cleaned out all filters and screens and am at a bit of a loss for what to do next. There is also a loud click coming from the top of the drum, but only during the spin cycle, which I believe means it only happens during reverse. Any advice would be greatly appreciated.",
+        "score": 2,
+        "num_comments": 1,
+        "created_utc": 1764875150.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1pe8qm9/lg_front_load_washer_mystery_error_code/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1pe8qm9/lg_front_load_washer_mystery_error_code/",
+        "relevance_score": 34.199999999999996,
+        "matched_brands": [
+          "ge",
+          "lg"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "front load"
+        ],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 43,
+    "avg_engagement": 165.95348837209303,
+    "avg_relevance": 24.15795348837209,
+    "total_comments": 2300,
+    "demand_strength": 172391.15609302322,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Hands On Review - NEW Ryobi PCL400 4 1/2\" Circular Saw",
+        "selftext": "I grabbed the BF doorbuster kit (PCL400K) yesterday and did some testing, and wrote down some of my thoughts.\n\nTL;DR - I like it a lot, for what it is. I wouldn't want it to be my only circular saw, but I also can see myself grabbing it first quite often. Time will tell whether it holds up, of course. If they make a brushless version, I'd probably buy it too when a good deal comes along.\n\n# Build Quality & First Impressions\n\nThe saw\u2019s build quality is solid for its size and price. Nothing feels flimsy, the guard tracks smoothly, and the base plate sits square.\n\nThe standout attribute for me was that it\u2019s\u00a0**extremely lightweight.**\n\nThis is the kind of saw you can grab with one hand and comfortably make controlled cuts with.\n\n# Cutting Performance\n\nI tested it on a standard 2x4 stud, which are actually 1.5\" thick - just within the capacity of the saw's 1 9/16\" cut capacity (which is not a coincidence).\n\nMy experience:\n\n* cut smoothly\n* stayed stable in the cut\n* didn\u2019t bog down under no",
+        "score": 15,
+        "num_comments": 4,
+        "created_utc": 1764537692.0,
+        "url": "http://tooldecoded.com/learn/hands-on-review-ryobi-4-12-circular-saw-pcl400/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1patuu4/hands_on_review_new_ryobi_pcl400_4_12_circular_saw/",
+        "relevance_score": 72.71999999999998,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw",
+          "jigsaw",
+          "washer"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "battery",
+          "ah",
+          "rpm",
+          "construction",
+          "capacity",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Trying to decide which toolset to get for home remodel projects. Which should I get?",
+        "selftext": "Hello!\n\nI know it\u2019s probably hard to get unbiased answers, but I\u2019m looking for a new power tool set for home renovations. I\u2019m not a full time contractor, so I don\u2019t need the top of the line brushless heavy duty stuff, but I\u2019d like something decent that will last a while with some use. \n\nI\u2019m trying to decide between these two toolsets pictures because they would both be in my budget, but I\u2019m not sure which would be better overall. I would probably use the drill, impact driver, circular saw, and grinder the most. \n\nWhat would you recommend? Thanks! ",
+        "score": 27,
+        "num_comments": 46,
+        "created_utc": 1764667931.0,
+        "url": "https://www.reddit.com/gallery/1pc47t3",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pc47t3/trying_to_decide_which_toolset_to_get_for_home/",
+        "relevance_score": 48.048,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "contractor",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Will the ONE+ HP 18V Brushless Cordless Compact Drill/Driver handle basic home needs on its own? e.g. hanging blinds, assembling furniture",
+        "selftext": "Hi, please forgive me if this is a silly or repeated question - I'm a total noob about to move into my first house.\n\nI'm trying to find the right tool for really basic jobs like installing blinds, building furniture, etc. and I'm getting very confused whether the ONE+ HP 18V Brushless Cordless Compact Drill/Driver covers that or whether I need specifically an \"impact driver\" that apparently is better for screws? I have no plans at this time to do heavy duty screwing like building a deck!\n\nSpecifically looking at this: https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-Compact-Drill-Driver-Kit-with-18V-2-0-Ah-HIGH-PERFORMANCE-Battery-and-Charger-PSBDD02K/332250132\n\nThank you for any clarity!\n\nFollow-up question, but any recommended basic set of \"bits\" to purchase for aforementioned basic usage?",
+        "score": 6,
+        "num_comments": 34,
+        "created_utc": 1764467978.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1pa68m7/will_the_one_hp_18v_brushless_cordless_compact/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pa68m7/will_the_one_hp_18v_brushless_cordless_compact/",
+        "relevance_score": 47.76,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "brushless",
+          "battery",
+          "ah",
+          "compact",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Buying Guides & Recommendations",
+    "example_videos": [
+      "What to look for when buying...",
+      "Best value tools under $200",
+      "Professional vs homeowner grade"
+    ],
+    "hashtags": [
+      "#buyingguide",
+      "#recommendations",
+      "#bestvalue",
+      "#professional"
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 74,
+    "avg_engagement": 74.06756756756756,
+    "avg_relevance": 16.233837837837836,
+    "total_comments": 3399,
+    "demand_strength": 88977.66518918918,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "Dishwasher purchasing advice",
+        "selftext": "My whirlpool seems to have bitten the dust. After replacing the circulation pump at the repair technician's advice it has gone back to refusing to drain unless we restart the cycle 4 times. \nMy two options are a used Miele G870 SC for $400 off marketplace that \"has no issues, just hasn't been tested in a while\" or a Bosch SHX5AEM5N from Costco for $800. Obviously Costco has it's benefits and isn't as much as a risk but money is quite tight right now and the less I can spend the better. \n\nWhat are your thoughts?",
+        "score": 10,
+        "num_comments": 31,
+        "created_utc": 1764599394.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1pbe7ch/dishwasher_purchasing_advice/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1pbe7ch/dishwasher_purchasing_advice/",
+        "relevance_score": 41.16,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Bosch dishwasher delayed start - SOLUTION to avoid using the app",
+        "selftext": "I was disappointed to find that my new Bosch 300-series dishwasher doesn\u2019t include a physical delayed-start button, since it meant having to log into the app every night just to set a delayed cycle. I started looking for ways to automate the process while still keeping the Extra Dry and Sanitize options enabled.\n\nOne user suggested a Google Home automation, but it didn\u2019t work for me. In my region (Canada), the only available actions are to turn the dishwasher on or off at a specific time; there\u2019s no option to actually start a program.\n\nI also tried Alexa Routines, which *could* start a cycle on a schedule, but it always disabled the Extra Dry and Sanitize settings.\n\nThen I discovered IFTTT. Using the free tier, I created a simple trigger to start the Auto program every night at 1 a.m. I tested it, and it worked, plus it retained the Extra Dry and Sanitize options.\n\nAfter that, I disabled Permanent Remote Start on the dishwasher. Now, if I want a delayed start, all I have to do is press",
+        "score": 22,
+        "num_comments": 13,
+        "created_utc": 1764697245.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1pcexeg/bosch_dishwasher_delayed_start_solution_to_avoid/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1pcexeg/bosch_dishwasher_delayed_start_solution_to_avoid/",
+        "relevance_score": 37.199999999999996,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "LG Front Load Washer Mystery Error Code",
+        "selftext": "I\u2019m a handyman who is not experienced in appliance repair and I\u2019m working on someone\u2019s LG washing machine (WKE100HWA) that\u2019s getting error code UE (imbalanced load) during the spin cycle. I replaced the shocks and cleaned out all filters and screens and am at a bit of a loss for what to do next. There is also a loud click coming from the top of the drum, but only during the spin cycle, which I believe means it only happens during reverse. Any advice would be greatly appreciated.",
+        "score": 2,
+        "num_comments": 1,
+        "created_utc": 1764875150.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1pe8qm9/lg_front_load_washer_mystery_error_code/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1pe8qm9/lg_front_load_washer_mystery_error_code/",
+        "relevance_score": 34.199999999999996,
+        "matched_brands": [
+          "ge",
+          "lg"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "front load"
+        ],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "outdoor_power_equipment",
+    "post_count": 32,
+    "avg_engagement": 89.34375,
+    "avg_relevance": 16.5025,
+    "total_comments": 1194,
+    "demand_strength": 47180.64750000001,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Confused about HD deals",
+        "selftext": "i\u2019m looking to get a leaf blower string trimmer combo today for cyber Monday. HD has two deals that are similar but i\u2019m unsure which is better. both are 40V btw. \n\nDeal 1: \n\nhttps://www.homedepot.com/p/RYOBI-40V-Cordless-Battery-12-in-String-Trimmer-and-450-CFM-120-MPH-Blower-Combo-Kit-2-Tools-with-4-0-Ah-Battery-and-Charger-RY40970VNM/328174266\n\n12\u201d string trimmer with a single string\n- single string seems odd\n- 12\u201d may be too small for me (6\u20192\u201d) \n450 CFM Blower\n- my buddy has this one it\u2019s powerful enough for what i need\n\nHD says this is $400+ value if bought separately \n\nDeal 2:\n\nhttps://www.homedepot.com/p/RYOBI-40V-Cordless-Attachment-Capable-15-String-Trimmer-550-CFM-120-MPH-Blower-Combo-Kit-with-4-0-Ah-Battery-Charger-RY40CK201K/327475111\n\n15\u201d string trimmer with dual strings\n- i have used this before it works well and is long enough for me\n\n550 CFM Blower\n- more powerful is better right?\n\nHD says this is a $275 value if bought separately \n\nok BIG QUESTION time:\n\n1. How is Deal ",
+        "score": 5,
+        "num_comments": 14,
+        "created_utc": 1764609161.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1pbihp0/confused_about_hd_deals/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pbihp0/confused_about_hd_deals/",
+        "relevance_score": 40.559999999999995,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "leaf blower",
+          "string trimmer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Are these worth buying?",
+        "selftext": "I\u2019m planning to get a blower to clean up leaves from the garage carpet floor, artificial turf, mulch, and the concrete driveway. I know it might be tough to get leaves out of the turf with an 18V model, but I\u2019m sticking with Ryobi\u2019s 18V tools, so no plans to upgrade to 36V or 40V. Also, do you think the 18V 50cm hedge trimmer is strong enough for hedges with 1cm thick branches? Thanks!",
+        "score": 22,
+        "num_comments": 58,
+        "created_utc": 1764885015.0,
+        "url": "https://www.reddit.com/gallery/1pecyp5",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pecyp5/are_these_worth_buying/",
+        "relevance_score": 28.2,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "hedge trimmer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "husqvarna 435 vs echo 3410",
+        "selftext": "I have an old husqvarna saw that i am finally giving up on. at least in the sense that i don't have time to fix it right now, and need an operational saw to cut up trees that fall down over my 1/2 mile driveway. i don't do a lot of cutting, so I just went out and bought an echo 3410, [this](https://www.echo-usa.com/chainsaws/cs-3410) saw, which i haven't used yet. i then found what i thought to be a good deal on a husqvarna [435](https://www.tractorsupply.com/tsc/product/husqvarna-435-e-series-409cc-gas-16-in-chainsaw). i am actually fine with this echo, but i wouldn't mind a slightly bigger (and nicer?) saw for nearly the same price. I don't know much about chainsaws and have zero brand loyalty, are either of these saws known to be hit or miss, or have common issues? I am reasonably good and wrenching, and i just want a simple, affordable saw that won't have a lot problems.",
+        "score": 2,
+        "num_comments": 7,
+        "created_utc": 1764654975.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1pc0ru8/husqvarna_435_vs_echo_3410/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1pc0ru8/husqvarna_435_vs_echo_3410/",
+        "relevance_score": 27.96,
+        "matched_brands": [
+          "husqvarna",
+          "echo",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "OPE Reviews, Maintenance & Buying Guides",
+    "example_videos": [
+      "Chainsaw buying guide 2024",
+      "Pressure washer comparison",
+      "Lawn mower maintenance tips"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#lawnmower",
+      "#pressurewasher",
+      "#OPE",
+      "#yardwork"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 40,
+    "avg_engagement": 60.775,
+    "avg_relevance": 19.085700000000003,
+    "total_comments": 1549,
+    "demand_strength": 46397.33670000001,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Are Ryobi batteries more susceptible to water damage?",
+        "selftext": "I was using my impact with 4ah lithium battery to clean my shower with a brush attachment. I might have dripped some water on the drill and battery here and there. But nothing to make me worried about water damage. It died after a while so I thought I ran out of power. So I stopped and the next day threw it on the charger and it said it was charging. About 2 weeks later I tried to use the battery and it was broken. \n\nAnd now the battery won\u2019t charge. It flashes the lights when I check the level and the charger stays on error. \n\nMy friend only uses dewalt and he says he\u2019s left them in the rain and nothing happened to them. \n\nSo ryobi batteries have poor water and dust sealing? Considering switching from ryobi if this is true. \n\nOr Is this only an issue with lithium batteries having more components inside?",
+        "score": 5,
+        "num_comments": 12,
+        "created_utc": 1764908812.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1pelqyh/are_ryobi_batteries_more_susceptible_to_water/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pelqyh/are_ryobi_batteries_more_susceptible_to_water/",
+        "relevance_score": 50.4,
+        "matched_brands": [
+          "ryobi",
+          "dewalt",
+          "dewalt",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Dishwasher purchasing advice",
+        "selftext": "My whirlpool seems to have bitten the dust. After replacing the circulation pump at the repair technician's advice it has gone back to refusing to drain unless we restart the cycle 4 times. \nMy two options are a used Miele G870 SC for $400 off marketplace that \"has no issues, just hasn't been tested in a while\" or a Bosch SHX5AEM5N from Costco for $800. Obviously Costco has it's benefits and isn't as much as a risk but money is quite tight right now and the less I can spend the better. \n\nWhat are your thoughts?",
+        "score": 10,
+        "num_comments": 31,
+        "created_utc": 1764599394.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1pbe7ch/dishwasher_purchasing_advice/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1pbe7ch/dishwasher_purchasing_advice/",
+        "relevance_score": 41.16,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "LG Front Load Washer Mystery Error Code",
+        "selftext": "I\u2019m a handyman who is not experienced in appliance repair and I\u2019m working on someone\u2019s LG washing machine (WKE100HWA) that\u2019s getting error code UE (imbalanced load) during the spin cycle. I replaced the shocks and cleaned out all filters and screens and am at a bit of a loss for what to do next. There is also a loud click coming from the top of the drum, but only during the spin cycle, which I believe means it only happens during reverse. Any advice would be greatly appreciated.",
+        "score": 2,
+        "num_comments": 1,
+        "created_utc": 1764875150.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1pe8qm9/lg_front_load_washer_mystery_error_code/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1pe8qm9/lg_front_load_washer_mystery_error_code/",
+        "relevance_score": 34.199999999999996,
+        "matched_brands": [
+          "ge",
+          "lg"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "front load"
+        ],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 31,
+    "avg_engagement": 26.774193548387096,
+    "avg_relevance": 24.102838709677417,
+    "total_comments": 1143,
+    "demand_strength": 20005.356129032258,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Hands On Review - NEW Ryobi PCL400 4 1/2\" Circular Saw",
+        "selftext": "I grabbed the BF doorbuster kit (PCL400K) yesterday and did some testing, and wrote down some of my thoughts.\n\nTL;DR - I like it a lot, for what it is. I wouldn't want it to be my only circular saw, but I also can see myself grabbing it first quite often. Time will tell whether it holds up, of course. If they make a brushless version, I'd probably buy it too when a good deal comes along.\n\n# Build Quality & First Impressions\n\nThe saw\u2019s build quality is solid for its size and price. Nothing feels flimsy, the guard tracks smoothly, and the base plate sits square.\n\nThe standout attribute for me was that it\u2019s\u00a0**extremely lightweight.**\n\nThis is the kind of saw you can grab with one hand and comfortably make controlled cuts with.\n\n# Cutting Performance\n\nI tested it on a standard 2x4 stud, which are actually 1.5\" thick - just within the capacity of the saw's 1 9/16\" cut capacity (which is not a coincidence).\n\nMy experience:\n\n* cut smoothly\n* stayed stable in the cut\n* didn\u2019t bog down under no",
+        "score": 15,
+        "num_comments": 4,
+        "created_utc": 1764537692.0,
+        "url": "http://tooldecoded.com/learn/hands-on-review-ryobi-4-12-circular-saw-pcl400/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1patuu4/hands_on_review_new_ryobi_pcl400_4_12_circular_saw/",
+        "relevance_score": 72.71999999999998,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw",
+          "jigsaw",
+          "washer"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "battery",
+          "ah",
+          "rpm",
+          "construction",
+          "capacity",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Trying to decide which toolset to get for home remodel projects. Which should I get?",
+        "selftext": "Hello!\n\nI know it\u2019s probably hard to get unbiased answers, but I\u2019m looking for a new power tool set for home renovations. I\u2019m not a full time contractor, so I don\u2019t need the top of the line brushless heavy duty stuff, but I\u2019d like something decent that will last a while with some use. \n\nI\u2019m trying to decide between these two toolsets pictures because they would both be in my budget, but I\u2019m not sure which would be better overall. I would probably use the drill, impact driver, circular saw, and grinder the most. \n\nWhat would you recommend? Thanks! ",
+        "score": 27,
+        "num_comments": 46,
+        "created_utc": 1764667931.0,
+        "url": "https://www.reddit.com/gallery/1pc47t3",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pc47t3/trying_to_decide_which_toolset_to_get_for_home/",
+        "relevance_score": 48.048,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "circular saw"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "contractor",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Will the ONE+ HP 18V Brushless Cordless Compact Drill/Driver handle basic home needs on its own? e.g. hanging blinds, assembling furniture",
+        "selftext": "Hi, please forgive me if this is a silly or repeated question - I'm a total noob about to move into my first house.\n\nI'm trying to find the right tool for really basic jobs like installing blinds, building furniture, etc. and I'm getting very confused whether the ONE+ HP 18V Brushless Cordless Compact Drill/Driver covers that or whether I need specifically an \"impact driver\" that apparently is better for screws? I have no plans at this time to do heavy duty screwing like building a deck!\n\nSpecifically looking at this: https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-Compact-Drill-Driver-Kit-with-18V-2-0-Ah-HIGH-PERFORMANCE-Battery-and-Charger-PSBDD02K/332250132\n\nThank you for any clarity!\n\nFollow-up question, but any recommended basic set of \"bits\" to purchase for aforementioned basic usage?",
+        "score": 6,
+        "num_comments": 34,
+        "created_utc": 1764467978.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1pa68m7/will_the_one_hp_18v_brushless_cordless_compact/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pa68m7/will_the_one_hp_18v_brushless_cordless_compact/",
+        "relevance_score": 47.76,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "brushless",
+          "battery",
+          "ah",
+          "compact",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 14,
+    "avg_engagement": 25.928571428571427,
+    "avg_relevance": 17.555714285714284,
+    "total_comments": 446,
+    "demand_strength": 6372.7242857142855,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "DCV581H at home depot for $135.",
+        "selftext": "Is this tool worth it at this price? Or should I look for another model? I would like this tool because of its compact size and it being corded/ cordless works out well for me with the type of jobs I do. I have limited space so I can't get a full shop vac but the smaller dewalt vacuums aren't doing it for me either. I already own the stick vacuum and the  1/2 gallon vacuum but they dont get the job done most of the time.",
+        "score": 26,
+        "num_comments": 46,
+        "created_utc": 1764570588.0,
+        "url": "https://i.redd.it/k4tzyzebej4g1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1pb5lah/dcv581h_at_home_depot_for_135/",
+        "relevance_score": 36.0,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum",
+          "shop vac"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "switching to cordless vacuum what's the best?",
+        "selftext": "hello, So I\u2019ve been using a pretty old upright vacuum for years and honestly it\u2019s such a pain dragging it around the house, especially up and down stairs. I\u2019ve been thinking about switching to a cordless one because I like the idea of not having to deal with cords and being able to just grab it for a quick clean.\n\nHas anyone made the switch recently? I\u2019m mainly looking for something that\u2019s strong enough for carpets but still light enough to not feel like a workout every time I use it. Also curious about battery life how long does it usually last before needing a recharge?\n\nI\u2019ve read mixed things about attachments too. Like, do you really need all those extra brushes or is it mostly overkill? And how noisy are these compared to old-school vacuums?\n\nWould love to hear your experiences. Any advice on what to watch out for before buying?",
+        "score": 19,
+        "num_comments": 25,
+        "created_utc": 1764864695.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1pe3zus/switching_to_cordless_vacuum_whats_the_best/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1pe3zus/switching_to_cordless_vacuum_whats_the_best/",
+        "relevance_score": 29.16,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Well, This Is A Hassle\u2026",
+        "selftext": "Hey guys, I bought a Ryobi stick vac in June and it has just stopped working (no pets but we do use it daily).\n\nThe warranty process seems like a hassle. It\u2019s requiring that I choose either the vacuum or the beater bar to warranty (why not both, what if I\u2019m wrong about where the problem is). And then it seems to suggest I have to pay for shipping for them to check it out?\n\nIs this normal? Am I missing something?",
+        "score": 7,
+        "num_comments": 12,
+        "created_utc": 1764597078.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1pbdady/well_this_is_a_hassle/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1pbdady/well_this_is_a_hassle/",
+        "relevance_score": 25.8,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ]
+  }
+]
