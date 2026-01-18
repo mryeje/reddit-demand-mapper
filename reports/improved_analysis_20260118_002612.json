@@ -1,0 +1,874 @@
+[
+  {
+    "theme": "power_tools",
+    "post_count": 89,
+    "avg_engagement": 160.80898876404495,
+    "avg_relevance": 17.518606741573034,
+    "total_comments": 3773,
+    "demand_strength": 250726.2996853933,
+    "sample_posts": [
+      {
+        "subreddit": "appliancerepair",
+        "title": "At my wit's end with Whirlpool Dryer w/ no air flow",
+        "selftext": "Whirlpool WGD4800BQ1\n\n\nDryer just hit the 10-year mark, and started taking 2 or 3 cycles to get clothes mostly dry. So I opened her up, replaced the belt, drum rollers, and idler pulley while I was vacuuming up any lint/dirt out of the machine. I also replaced all of the venting between the dryer and the outside wall (only 2.5 feet).\n\n\nDryer still doesn't dry well. Looked through the peephole and saw that gas ignited, so we have flame at least. But the heating cycles were only lasting 2 mins, and I observed a pattern of 2 minutes of flame with about 1 minute no flame. My understanding is that to get the dryer initially hot it would probably be on for around 8 mins and then cycle on/off every couple of minutes from that point onward. \n\nSo I thought it might be the thermal fuse or high limit thermostat malfunctioning telling the burner to quit early, so I ended up replacing those along with the cycling thermostat. Still nothing. \n\nThought it might be the blower fan was cracked or slippin",
+        "score": 5,
+        "num_comments": 20,
+        "created_utc": 1768099299.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "relevance_score": 57.87599999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge"
+        ],
+        "matched_products": [
+          "dryer",
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "First time buying power tools, for myself.",
+        "selftext": "Needed opinions here. I just bought this combo set for myself. Obviously, I'm a female, I have a husband with a workshop/garage full of tools (I mean FULL) but wanted my own. \n\nHe bought me a mechanic and household tool kit and I bought the drill/ driver set. Happy wife, happy husband thinking on tools. Lol.\n\nThings I do that warrants me using tools like this would be working on my motorcycle, working on my autos (I have a mini collection) plus ordinary needs inside the house like small fixes, furniture/grill assembly plus wood working projects. \n\nJust wanted to make sure I bought a good set that won't fail me. I know it has the smaller batteries at 2ah vs 5ah but we have a table of batteries that I can borrow from. I went with Dewalt over the other brands since the house is in the Dewalt and Milwaukee ecosystem. Dewalt just was at a better price point for my needs. \n\nDid I do right? \ud83e\udee3 I've bought several power tools for others, just not myself. I tried to do my homework before buying ",
+        "score": 8,
+        "num_comments": 17,
+        "created_utc": 1768602284.0,
+        "url": "https://i.redd.it/h53thpbmesdg1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qeu7hp/first_time_buying_power_tools_for_myself/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita SDS-Plus: corded vs 40V XGT and which model?",
+        "selftext": "***TL;DR at the end.***\n\nI recently bought a **Makita HR2670 corded SDS-Plus rotary hammer**, but ever since ordering it I\u2019ve been second guessing whether a cordless option would suit me better (it can still be returned).\n\nMy main use is drilling **6\u20138 mm holes in reinforced concrete** for plugs and fixings around the house, plus **occasional larger holes through floors**.  \nI\u2019m also usually the one in my friend group doing **demo, renovations, and general heavy work**, so I expect to use the **chiseling function** fairly often. I always become creative when it comes to renovations and making sure all pipes and wires can be where they need to be :).\n\nLonger term, I plan to buy a **renovation house** and fully strip and rebuild it, so this tool will definitely see real use. I very much have a *\u201cbuy once, cry once\u201d* mentality. I\u2019d rather spend ~~too much~~ some extra now than wish I\u2019d bought something better later.\n\nI chose the HR2670 mainly for the **3 J impact energy** and the fact tha",
+        "score": 3,
+        "num_comments": 20,
+        "created_utc": 1768165188.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "permalink": "https://reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "rotary hammer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Power Tool Reviews & Professional Tips",
+    "example_videos": [
+      "Best cordless drills 2024",
+      "Miter saw buying guide",
+      "Tool storage solutions"
+    ],
+    "hashtags": [
+      "#powertools",
+      "#cordlesstools",
+      "#dewalt",
+      "#milwaukee",
+      "#contractor"
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 52,
+    "avg_engagement": 117.34615384615384,
+    "avg_relevance": 23.277461538461537,
+    "total_comments": 1722,
+    "demand_strength": 142039.0703076923,
+    "sample_posts": [
+      {
+        "subreddit": "appliancerepair",
+        "title": "At my wit's end with Whirlpool Dryer w/ no air flow",
+        "selftext": "Whirlpool WGD4800BQ1\n\n\nDryer just hit the 10-year mark, and started taking 2 or 3 cycles to get clothes mostly dry. So I opened her up, replaced the belt, drum rollers, and idler pulley while I was vacuuming up any lint/dirt out of the machine. I also replaced all of the venting between the dryer and the outside wall (only 2.5 feet).\n\n\nDryer still doesn't dry well. Looked through the peephole and saw that gas ignited, so we have flame at least. But the heating cycles were only lasting 2 mins, and I observed a pattern of 2 minutes of flame with about 1 minute no flame. My understanding is that to get the dryer initially hot it would probably be on for around 8 mins and then cycle on/off every couple of minutes from that point onward. \n\nSo I thought it might be the thermal fuse or high limit thermostat malfunctioning telling the burner to quit early, so I ended up replacing those along with the cycling thermostat. Still nothing. \n\nThought it might be the blower fan was cracked or slippin",
+        "score": 5,
+        "num_comments": 20,
+        "created_utc": 1768099299.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "relevance_score": 57.87599999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge"
+        ],
+        "matched_products": [
+          "dryer",
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "First time buying power tools, for myself.",
+        "selftext": "Needed opinions here. I just bought this combo set for myself. Obviously, I'm a female, I have a husband with a workshop/garage full of tools (I mean FULL) but wanted my own. \n\nHe bought me a mechanic and household tool kit and I bought the drill/ driver set. Happy wife, happy husband thinking on tools. Lol.\n\nThings I do that warrants me using tools like this would be working on my motorcycle, working on my autos (I have a mini collection) plus ordinary needs inside the house like small fixes, furniture/grill assembly plus wood working projects. \n\nJust wanted to make sure I bought a good set that won't fail me. I know it has the smaller batteries at 2ah vs 5ah but we have a table of batteries that I can borrow from. I went with Dewalt over the other brands since the house is in the Dewalt and Milwaukee ecosystem. Dewalt just was at a better price point for my needs. \n\nDid I do right? \ud83e\udee3 I've bought several power tools for others, just not myself. I tried to do my homework before buying ",
+        "score": 8,
+        "num_comments": 17,
+        "created_utc": 1768602284.0,
+        "url": "https://i.redd.it/h53thpbmesdg1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qeu7hp/first_time_buying_power_tools_for_myself/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita SDS-Plus: corded vs 40V XGT and which model?",
+        "selftext": "***TL;DR at the end.***\n\nI recently bought a **Makita HR2670 corded SDS-Plus rotary hammer**, but ever since ordering it I\u2019ve been second guessing whether a cordless option would suit me better (it can still be returned).\n\nMy main use is drilling **6\u20138 mm holes in reinforced concrete** for plugs and fixings around the house, plus **occasional larger holes through floors**.  \nI\u2019m also usually the one in my friend group doing **demo, renovations, and general heavy work**, so I expect to use the **chiseling function** fairly often. I always become creative when it comes to renovations and making sure all pipes and wires can be where they need to be :).\n\nLonger term, I plan to buy a **renovation house** and fully strip and rebuild it, so this tool will definitely see real use. I very much have a *\u201cbuy once, cry once\u201d* mentality. I\u2019d rather spend ~~too much~~ some extra now than wish I\u2019d bought something better later.\n\nI chose the HR2670 mainly for the **3 J impact energy** and the fact tha",
+        "score": 3,
+        "num_comments": 20,
+        "created_utc": 1768165188.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "permalink": "https://reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "rotary hammer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Buying Guides & Recommendations",
+    "example_videos": [
+      "What to look for when buying...",
+      "Best value tools under $200",
+      "Professional vs homeowner grade"
+    ],
+    "hashtags": [
+      "#buyingguide",
+      "#recommendations",
+      "#bestvalue",
+      "#professional"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 46,
+    "avg_engagement": 103.76086956521739,
+    "avg_relevance": 23.262260869565214,
+    "total_comments": 1576,
+    "demand_strength": 111030.77113043476,
+    "sample_posts": [
+      {
+        "subreddit": "appliancerepair",
+        "title": "At my wit's end with Whirlpool Dryer w/ no air flow",
+        "selftext": "Whirlpool WGD4800BQ1\n\n\nDryer just hit the 10-year mark, and started taking 2 or 3 cycles to get clothes mostly dry. So I opened her up, replaced the belt, drum rollers, and idler pulley while I was vacuuming up any lint/dirt out of the machine. I also replaced all of the venting between the dryer and the outside wall (only 2.5 feet).\n\n\nDryer still doesn't dry well. Looked through the peephole and saw that gas ignited, so we have flame at least. But the heating cycles were only lasting 2 mins, and I observed a pattern of 2 minutes of flame with about 1 minute no flame. My understanding is that to get the dryer initially hot it would probably be on for around 8 mins and then cycle on/off every couple of minutes from that point onward. \n\nSo I thought it might be the thermal fuse or high limit thermostat malfunctioning telling the burner to quit early, so I ended up replacing those along with the cycling thermostat. Still nothing. \n\nThought it might be the blower fan was cracked or slippin",
+        "score": 5,
+        "num_comments": 20,
+        "created_utc": 1768099299.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "relevance_score": 57.87599999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge"
+        ],
+        "matched_products": [
+          "dryer",
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "First time buying power tools, for myself.",
+        "selftext": "Needed opinions here. I just bought this combo set for myself. Obviously, I'm a female, I have a husband with a workshop/garage full of tools (I mean FULL) but wanted my own. \n\nHe bought me a mechanic and household tool kit and I bought the drill/ driver set. Happy wife, happy husband thinking on tools. Lol.\n\nThings I do that warrants me using tools like this would be working on my motorcycle, working on my autos (I have a mini collection) plus ordinary needs inside the house like small fixes, furniture/grill assembly plus wood working projects. \n\nJust wanted to make sure I bought a good set that won't fail me. I know it has the smaller batteries at 2ah vs 5ah but we have a table of batteries that I can borrow from. I went with Dewalt over the other brands since the house is in the Dewalt and Milwaukee ecosystem. Dewalt just was at a better price point for my needs. \n\nDid I do right? \ud83e\udee3 I've bought several power tools for others, just not myself. I tried to do my homework before buying ",
+        "score": 8,
+        "num_comments": 17,
+        "created_utc": 1768602284.0,
+        "url": "https://i.redd.it/h53thpbmesdg1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qeu7hp/first_time_buying_power_tools_for_myself/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita SDS-Plus: corded vs 40V XGT and which model?",
+        "selftext": "***TL;DR at the end.***\n\nI recently bought a **Makita HR2670 corded SDS-Plus rotary hammer**, but ever since ordering it I\u2019ve been second guessing whether a cordless option would suit me better (it can still be returned).\n\nMy main use is drilling **6\u20138 mm holes in reinforced concrete** for plugs and fixings around the house, plus **occasional larger holes through floors**.  \nI\u2019m also usually the one in my friend group doing **demo, renovations, and general heavy work**, so I expect to use the **chiseling function** fairly often. I always become creative when it comes to renovations and making sure all pipes and wires can be where they need to be :).\n\nLonger term, I plan to buy a **renovation house** and fully strip and rebuild it, so this tool will definitely see real use. I very much have a *\u201cbuy once, cry once\u201d* mentality. I\u2019d rather spend ~~too much~~ some extra now than wish I\u2019d bought something better later.\n\nI chose the HR2670 mainly for the **3 J impact energy** and the fact tha",
+        "score": 3,
+        "num_comments": 20,
+        "created_utc": 1768165188.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "permalink": "https://reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "rotary hammer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 46,
+    "avg_engagement": 87.52173913043478,
+    "avg_relevance": 23.71695652173913,
+    "total_comments": 1523,
+    "demand_strength": 95484.46695652175,
+    "sample_posts": [
+      {
+        "subreddit": "appliancerepair",
+        "title": "At my wit's end with Whirlpool Dryer w/ no air flow",
+        "selftext": "Whirlpool WGD4800BQ1\n\n\nDryer just hit the 10-year mark, and started taking 2 or 3 cycles to get clothes mostly dry. So I opened her up, replaced the belt, drum rollers, and idler pulley while I was vacuuming up any lint/dirt out of the machine. I also replaced all of the venting between the dryer and the outside wall (only 2.5 feet).\n\n\nDryer still doesn't dry well. Looked through the peephole and saw that gas ignited, so we have flame at least. But the heating cycles were only lasting 2 mins, and I observed a pattern of 2 minutes of flame with about 1 minute no flame. My understanding is that to get the dryer initially hot it would probably be on for around 8 mins and then cycle on/off every couple of minutes from that point onward. \n\nSo I thought it might be the thermal fuse or high limit thermostat malfunctioning telling the burner to quit early, so I ended up replacing those along with the cycling thermostat. Still nothing. \n\nThought it might be the blower fan was cracked or slippin",
+        "score": 5,
+        "num_comments": 20,
+        "created_utc": 1768099299.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "relevance_score": 57.87599999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge"
+        ],
+        "matched_products": [
+          "dryer",
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "First time buying power tools, for myself.",
+        "selftext": "Needed opinions here. I just bought this combo set for myself. Obviously, I'm a female, I have a husband with a workshop/garage full of tools (I mean FULL) but wanted my own. \n\nHe bought me a mechanic and household tool kit and I bought the drill/ driver set. Happy wife, happy husband thinking on tools. Lol.\n\nThings I do that warrants me using tools like this would be working on my motorcycle, working on my autos (I have a mini collection) plus ordinary needs inside the house like small fixes, furniture/grill assembly plus wood working projects. \n\nJust wanted to make sure I bought a good set that won't fail me. I know it has the smaller batteries at 2ah vs 5ah but we have a table of batteries that I can borrow from. I went with Dewalt over the other brands since the house is in the Dewalt and Milwaukee ecosystem. Dewalt just was at a better price point for my needs. \n\nDid I do right? \ud83e\udee3 I've bought several power tools for others, just not myself. I tried to do my homework before buying ",
+        "score": 8,
+        "num_comments": 17,
+        "created_utc": 1768602284.0,
+        "url": "https://i.redd.it/h53thpbmesdg1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qeu7hp/first_time_buying_power_tools_for_myself/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita SDS-Plus: corded vs 40V XGT and which model?",
+        "selftext": "***TL;DR at the end.***\n\nI recently bought a **Makita HR2670 corded SDS-Plus rotary hammer**, but ever since ordering it I\u2019ve been second guessing whether a cordless option would suit me better (it can still be returned).\n\nMy main use is drilling **6\u20138 mm holes in reinforced concrete** for plugs and fixings around the house, plus **occasional larger holes through floors**.  \nI\u2019m also usually the one in my friend group doing **demo, renovations, and general heavy work**, so I expect to use the **chiseling function** fairly often. I always become creative when it comes to renovations and making sure all pipes and wires can be where they need to be :).\n\nLonger term, I plan to buy a **renovation house** and fully strip and rebuild it, so this tool will definitely see real use. I very much have a *\u201cbuy once, cry once\u201d* mentality. I\u2019d rather spend ~~too much~~ some extra now than wish I\u2019d bought something better later.\n\nI chose the HR2670 mainly for the **3 J impact energy** and the fact tha",
+        "score": 3,
+        "num_comments": 20,
+        "created_utc": 1768165188.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "permalink": "https://reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "rotary hammer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 28,
+    "avg_engagement": 112.75,
+    "avg_relevance": 24.270428571428564,
+    "total_comments": 936,
+    "demand_strength": 76621.74299999997,
+    "sample_posts": [
+      {
+        "subreddit": "appliancerepair",
+        "title": "At my wit's end with Whirlpool Dryer w/ no air flow",
+        "selftext": "Whirlpool WGD4800BQ1\n\n\nDryer just hit the 10-year mark, and started taking 2 or 3 cycles to get clothes mostly dry. So I opened her up, replaced the belt, drum rollers, and idler pulley while I was vacuuming up any lint/dirt out of the machine. I also replaced all of the venting between the dryer and the outside wall (only 2.5 feet).\n\n\nDryer still doesn't dry well. Looked through the peephole and saw that gas ignited, so we have flame at least. But the heating cycles were only lasting 2 mins, and I observed a pattern of 2 minutes of flame with about 1 minute no flame. My understanding is that to get the dryer initially hot it would probably be on for around 8 mins and then cycle on/off every couple of minutes from that point onward. \n\nSo I thought it might be the thermal fuse or high limit thermostat malfunctioning telling the burner to quit early, so I ended up replacing those along with the cycling thermostat. Still nothing. \n\nThought it might be the blower fan was cracked or slippin",
+        "score": 5,
+        "num_comments": 20,
+        "created_utc": 1768099299.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1q9nlxc/at_my_wits_end_with_whirlpool_dryer_w_no_air_flow/",
+        "relevance_score": 57.87599999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge"
+        ],
+        "matched_products": [
+          "dryer",
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "First time buying power tools, for myself.",
+        "selftext": "Needed opinions here. I just bought this combo set for myself. Obviously, I'm a female, I have a husband with a workshop/garage full of tools (I mean FULL) but wanted my own. \n\nHe bought me a mechanic and household tool kit and I bought the drill/ driver set. Happy wife, happy husband thinking on tools. Lol.\n\nThings I do that warrants me using tools like this would be working on my motorcycle, working on my autos (I have a mini collection) plus ordinary needs inside the house like small fixes, furniture/grill assembly plus wood working projects. \n\nJust wanted to make sure I bought a good set that won't fail me. I know it has the smaller batteries at 2ah vs 5ah but we have a table of batteries that I can borrow from. I went with Dewalt over the other brands since the house is in the Dewalt and Milwaukee ecosystem. Dewalt just was at a better price point for my needs. \n\nDid I do right? \ud83e\udee3 I've bought several power tools for others, just not myself. I tried to do my homework before buying ",
+        "score": 8,
+        "num_comments": 17,
+        "created_utc": 1768602284.0,
+        "url": "https://i.redd.it/h53thpbmesdg1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qeu7hp/first_time_buying_power_tools_for_myself/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita SDS-Plus: corded vs 40V XGT and which model?",
+        "selftext": "***TL;DR at the end.***\n\nI recently bought a **Makita HR2670 corded SDS-Plus rotary hammer**, but ever since ordering it I\u2019ve been second guessing whether a cordless option would suit me better (it can still be returned).\n\nMy main use is drilling **6\u20138 mm holes in reinforced concrete** for plugs and fixings around the house, plus **occasional larger holes through floors**.  \nI\u2019m also usually the one in my friend group doing **demo, renovations, and general heavy work**, so I expect to use the **chiseling function** fairly often. I always become creative when it comes to renovations and making sure all pipes and wires can be where they need to be :).\n\nLonger term, I plan to buy a **renovation house** and fully strip and rebuild it, so this tool will definitely see real use. I very much have a *\u201cbuy once, cry once\u201d* mentality. I\u2019d rather spend ~~too much~~ some extra now than wish I\u2019d bought something better later.\n\nI chose the HR2670 mainly for the **3 J impact energy** and the fact tha",
+        "score": 3,
+        "num_comments": 20,
+        "created_utc": 1768165188.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "permalink": "https://reddit.com/r/Makita/comments/1qaaw10/makita_sdsplus_corded_vs_40v_xgt_and_which_model/",
+        "relevance_score": 50.51999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "rotary hammer"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 57,
+    "avg_engagement": 30.49122807017544,
+    "avg_relevance": 19.27936842105263,
+    "total_comments": 1095,
+    "demand_strength": 33507.54231578947,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "3rd dishwasher broken in my home since 10 years.",
+        "selftext": "The 1 st dishwasher( whirlpool)  lasted 7 years, the second ( lg expensive model ) lasted 2 years and was advised whirlpool and bosch only are reliable so the third one ( whirl pool) broke exactly after 1 year. Should I check plumbing or something in my house to see why dishwashers give out often ???\n I am worried about getting a expensive again, even a normal model at the rate of giving out this frequently. Should I look into something why this is happening? \n\nEdit: my dishwasher usage is usually between once everyday to 3 times in 2 days. I use blueland dishwasher tablets, no rinse aid. First two motor died and the third waiting for the whirlpool service guy to look at it. ",
+        "score": 6,
+        "num_comments": 82,
+        "created_utc": 1768301247.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qbo8lk/3rd_dishwasher_broken_in_my_home_since_10_years/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qbo8lk/3rd_dishwasher_broken_in_my_home_since_10_years/",
+        "relevance_score": 47.4,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "ge",
+          "lg",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Bosch",
+        "title": "Bosch 800 Series Dishwasher Intermittent Power Loss \u2013 Advice Wanted",
+        "selftext": "I have a Bosch 800 series dishwasher, model SPX68C75UC/44 (serial 00263), installed \\~6 months ago and still under warranty.\n\nTwo weeks ago it stopped mid-cycle and appeared completely dead (no lights, no display, no response to Power button). I\u2019ve tried:\n\n\t\u2022\tCycling the correct circuit breaker on/off\n\n\t\u2022\tLeaving the breaker off for 15+ minutes\n\n\t\u2022\tConfirming the garbage disposal (same circuit) works normally\n\nThe dishwasher is hardwired via a junction box shared with the disposal. A voltage detector confirms power is present at the dishwasher wiring.\n\nStrangely, twice in the last two weeks the dishwasher randomly powered back on for \\~15 minutes:\n\n\t\u2022\tFirst time: I flipped the breaker to reset it, and it never came back on\n\n\t\u2022\tSecond time: I tried starting a cycle; it ran briefly, then died again mid-cycle\n\nSince then, it\u2019s been completely unresponsive.\n\nBosch service can\u2019t come for several weeks. Has anyone experienced this kind of intermittent \u201cdead/no power\u201d behavior on a new Bosch ",
+        "score": 1,
+        "num_comments": 5,
+        "created_utc": 1768681699.0,
+        "url": "https://www.reddit.com/r/bosch/comments/1qfnwlj/bosch_800_series_dishwasher_intermittent_power/",
+        "permalink": "https://reddit.com/r/bosch/comments/1qfnwlj/bosch_800_series_dishwasher_intermittent_power/",
+        "relevance_score": 44.4,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher",
+          "garbage disposal"
+        ],
+        "matched_keywords": [
+          "volt"
+        ],
+        "detected_intents": [
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Repair or Replace? 10yo Bosch dishwasher",
+        "selftext": "My Bosch dishwasher stopped heating and cleaning the dishes. I've been quoted \u00a3160 for repair (including labour and parts) or do I go ahead and replace it with a new one for (Bosch for \u00a3550 or Hotpoint for \u00a3440)? \n\nShop is advising against it as it's 10 years old and they're pushing me to buy one instead. But I see heat pump issues are common for bosch (https://youtube.com/shorts/DWwkkAMfhbw?si=bRVacse9_HZ1f3nv) - wondering if anyone has done a similar repair and regretted it? TIA\n\nModel is smv50c00gb",
+        "score": 5,
+        "num_comments": 15,
+        "created_utc": 1768306517.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qbps3c/repair_or_replace_10yo_bosch_dishwasher/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qbps3c/repair_or_replace_10yo_bosch_dishwasher/",
+        "relevance_score": 37.199999999999996,
+        "matched_brands": [
+          "bosch",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher",
+          "heat pump"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "outdoor_power_equipment",
+    "post_count": 30,
+    "avg_engagement": 23.766666666666666,
+    "avg_relevance": 18.418666666666663,
+    "total_comments": 595,
+    "demand_strength": 13132.509333333332,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "60v powerhead attachments",
+        "selftext": "I bought a attachment capable 60v powerhead with a string trimmer, DCST970X1S. This thing is a beast and I wanted to get several additional attachments and heard it's compatible with other brands. I've heard good things about some Ryobi and even modifying the clip to use Stihl?\n\nI'm looking to get recomendations on:\nPole saw\nSnow thrower\nCultivator ",
+        "score": 4,
+        "num_comments": 17,
+        "created_utc": 1768189858.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1qakjnl/60v_powerhead_attachments/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qakjnl/60v_powerhead_attachments/",
+        "relevance_score": 38.4,
+        "matched_brands": [
+          "stihl",
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer",
+          "cultivator",
+          "pole saw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": []
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Mainly a Ryobi guy",
+        "selftext": "This my wall in my garage! I'm finally organizing some tools and realized I've built uo a decent Ryobi collection. Easily my favorite tool from them has been the barrel grip jigsaw, I also recently got the high torque impact (pblw01) and that thing has broken anything I've needed it to with ease. I also have the leaf blower, and some other stuff from them that I've collected over the years.",
+        "score": 55,
+        "num_comments": 25,
+        "created_utc": 1768276708.0,
+        "url": "https://i.redd.it/0eo0mnhii1dg1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qbh6se/mainly_a_ryobi_guy/",
+        "relevance_score": 33.0,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "leaf blower",
+          "jigsaw"
+        ],
+        "matched_keywords": [
+          "torque"
+        ],
+        "detected_intents": [
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Looking for wall storage options for string trimmer/blower",
+        "selftext": "I have Ryobi 40v lawn equipment.  How do you store yours? I'm considering the 18 piece rail storage system system from Hart. Any ideas or suggestions? ",
+        "score": 3,
+        "num_comments": 5,
+        "created_utc": 1768148549.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1qa3iqv/looking_for_wall_storage_options_for_string/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qa3iqv/looking_for_wall_storage_options_for_string/",
+        "relevance_score": 32.4,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "hart",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      }
+    ],
+    "content_angle": "OPE Reviews, Maintenance & Buying Guides",
+    "example_videos": [
+      "Chainsaw buying guide 2024",
+      "Pressure washer comparison",
+      "Lawn mower maintenance tips"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#lawnmower",
+      "#pressurewasher",
+      "#OPE",
+      "#yardwork"
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 10,
+    "avg_engagement": 61.2,
+    "avg_relevance": 14.195999999999998,
+    "total_comments": 309,
+    "demand_strength": 8687.952,
+    "sample_posts": [
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Plan to warm up my basement",
+        "selftext": "So I work from home and I've been working more in my basement -- and it is cold as shit!  As I sit here right now, I've got a desk warming mat, a mouse/hand warmer and a space heater directly under me.  According to my thermometer, the temp is 63, and the 24 hour temp range is 59-64. The house is set to 72, and the main level (it's a ranch) feels nice.\n\nI'm sitting in one giant room that's got exterior walls on 3 sides, and a concrete floor.  I could build a small area with some foam board around my desk, but the wife isn't really excited about that idea so I'm weighing my options.\n\nWhat I'm thinking is, if I can get myself up off the floor with some insulation, and start to add some foam board to the walls, I should be at least in better shape.\n\nSo here's my plan, and then I've got some questions that I'm hoping you all might have thoughts on. \n\n* DMX air gap over as much of the floor as I can, leaving a slight gap at the walls ^[1]\n* Sika 2'' foam board over the DMX for R-13 on the f",
+        "score": 4,
+        "num_comments": 30,
+        "created_utc": 1768578387.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1qejgjy/plan_to_warm_up_my_basement/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1qejgjy/plan_to_warm_up_my_basement/",
+        "relevance_score": 29.16,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "circular saw",
+          "water heater",
+          "furnace",
+          "space heater"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Where\u2019s the best place to buy the VC013GLZ02 vacuum in the USA?",
+        "selftext": "It\u2019s making me crazy frustrated that Makita USA decided to only carry the non AWS version of this vac. What\u2019s the point of having all these AWS tools if they won\u2019t sell the Vac to adapt them. The other vacuums are too big (and expensive) to buy but this one is ideal.\n\nDo we think they will carry them soon? Or should I just buy it online and where? Shipping for this will kill me with tariffs\u2026\n\nHow much more would the AWS version run than the current non-AWS version?\n\nI can\u2019t even be sure I have the correct model number but I think this is right? Comes with the wheels (which I can get here so doesn\u2019t have to be this version just that\u2019s what I could find as an example and the model number order is different outside the U.S. so I didn\u2019t want to cut the wrong part.\n\nIf the non-AWS had a plug for my AWS adapter that lets me use wired vacs that would be a work-around. But from what I can see it doesn\u2019t have a plug to connect it to power the adapter and trigger the vac to start. ",
+        "score": 11,
+        "num_comments": 26,
+        "created_utc": 1768095340.0,
+        "url": "https://i.redd.it/w3mdlup7jmcg1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1q9m53r/wheres_the_best_place_to_buy_the_vc013glz02/",
+        "relevance_score": 26.4,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Who has one of these? Is it worth it or am I getting hooked by marketing?",
+        "selftext": "I got 3 kids under 3 and 3 dogs. My house is in constant need of both vacuuming and mopping ",
+        "score": 21,
+        "num_comments": 27,
+        "created_utc": 1768455366.0,
+        "url": "https://i.redd.it/1zwko88r9gdg1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qdb65m/who_has_one_of_these_is_it_worth_it_or_am_i/",
+        "relevance_score": 14.399999999999999,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ]
+  }
+]
