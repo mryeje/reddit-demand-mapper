@@ -1,0 +1,866 @@
+[
+  {
+    "theme": "power_tools",
+    "post_count": 99,
+    "avg_engagement": 240.26262626262627,
+    "avg_relevance": 16.667959595959587,
+    "total_comments": 6197,
+    "demand_strength": 396464.0869494947,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "I can't prove it's my bench, but I can show before I switched to DeWalt and after.",
+        "selftext": "Notice the grey part organizers under the window.  Everything else changed.  In the first picture I had one DeWalt 7.2V flex head screwdriver and a bunch of 19V craftsman professional tools.  When all of those NiCad batteries died, I switched to the DeWalt 20V line and now I have my fortress of solitude and I try not to get as cluttered as I used to.  ",
+        "score": 74,
+        "num_comments": 13,
+        "created_utc": 1768832523.0,
+        "url": "https://i.redd.it/3vmpjk2oebeg1.png",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qh5fc9/i_cant_prove_its_my_bench_but_i_can_show_before_i/",
+        "relevance_score": 42.9,
+        "matched_brands": [
+          "craftsman",
+          "dewalt",
+          "dewalt",
+          "craftsman",
+          "ge"
+        ],
+        "matched_products": [],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "I feel stupid for being Milwaukee instead of Dewalt for years",
+        "selftext": "I'm a brickie and I just stuck with Milwaukee because i bought a cheap second hand milwaukee bundle and ended up sticking with the brand cause I liked the color scheme which is a stupid reason but I'm sure a lot of people do the same thing.\n\nI needed a 9 inch battery grinder and everyone clowned online about how bad the Milwaukee one is and the Dewalt one is the best. So i bought the Dewalt one, now I've bought almost everything i need Dewalt and i gotta say the build quality feels better, the batteries last like the double the duration, there's actually really good sales, a couple times i thought there was a store error like I bought a dewalt fan for $129 (AUD) that came with a free charger and battery which is worth $249.\n\nLike that's stupid good value that doesnt even make sense, I bought 3 skin onlys that came with a free charger and battery so I got like $700 in value for free.\n\nTheres all sorts of bundles and the sales guy said he can just call a Dewalt rep to tailor a bundle dea",
+        "score": 96,
+        "num_comments": 46,
+        "created_utc": 1769200352.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1ql23kj/i_feel_stupid_for_being_milwaukee_instead_of/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ql23kj/i_feel_stupid_for_being_milwaukee_instead_of/",
+        "relevance_score": 42.11999999999999,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "troubleshooting",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Dead Batteries Dead Drill?",
+        "selftext": "The other day one of my batteries PBP002 ran out of charge so I took out of my drill PSBDD01. \n\nWhen it finished charging, I put it back in my drill. The LEDs on the battery that indicate charge became unresponsive when inserted into drill. Hmmm that\u2019s weird. Double checked the battery in the charger and it didn\u2019t show any faults. \n\nTroubleshooting : I put the battery into an old Ryobi light I have from a 2011 kit. Worked immediately. Put that same battery into the drill and the light on the drill itself flashed if I hit the trigger and the drill started to smell. \n\nTried the same thing with some other batteries (PBP003s too) and all of them had the same result.\n\nI am now paranoid that I shouldn\u2019t use those batteries on any other tools because I don\u2019t want to brick them!\n\nI\u2019ve been loyal to the Ryobi system for more than  15 years but the constant battery replacement is making me crazy. In those 15 years I\u2019ve gone through AT LEAST 15 batteries. All different kinds and AH. I\u2019ve got a bu",
+        "score": 5,
+        "num_comments": 9,
+        "created_utc": 1768781605.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1qgou1x/dead_batteries_dead_drill/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qgou1x/dead_batteries_dead_drill/",
+        "relevance_score": 40.8,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting"
+        ]
+      }
+    ],
+    "content_angle": "Power Tool Reviews & Professional Tips",
+    "example_videos": [
+      "Best cordless drills 2024",
+      "Miter saw buying guide",
+      "Tool storage solutions"
+    ],
+    "hashtags": [
+      "#powertools",
+      "#cordlesstools",
+      "#dewalt",
+      "#milwaukee",
+      "#contractor"
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 44,
+    "avg_engagement": 156.52272727272728,
+    "avg_relevance": 22.536,
+    "total_comments": 2479,
+    "demand_strength": 155205.432,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
+        "selftext": "Hi r/Appliances,\n\nI\u2019m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t\u2022\tA no\u2011charge replacement (delivery, installation, removal included), or\n\n\t\u2022\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I\u2019m concerned this may be a platform\u2011level issue.\n\nI reviewed higher\u2011end GE Profile models, including PDT795SYVFS, and I\u2019m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a \u201cflagship\u201d replacement.\n\nBecause of that, I\u2019m now cons",
+        "score": 5,
+        "num_comments": 12,
+        "created_utc": 1769219847.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "relevance_score": 56.87999999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Carpentry",
+        "title": "NEW TOOL - Seeking Product Tester in Raleigh/Durham NC Area",
+        "selftext": "Hi All,\n\nI\u2019m an engineer here in the Raleigh-Durham area working on developing a new\u00a0shop vacuum / dust extractor prototype. I\u2019m looking for a few\u00a0local people (Raleigh-Durham NC)\u00a0who would be interested in\u00a0testing it out for about a month or two\u00a0and then filling out a short feedback survey.\n\nThis is\u00a0not a sales pitch\u00a0\u2014 no strings attached; I just need real-world testers to get input before I move into the next round of development.\n\nWhat I\u2019m looking for:\n\n* You use your shop vac on a\u00a0regular / near-daily basis\n* Ideally you\u2019re already using a\u00a0higher-end vacuum\u00a0(Festool, Fein, Makita, Milwaukee, etc.) or at least care about things like:\n   * HEPA filtration\n   * auto tool start / power tool activation\n   * fine dust performance\n* You\u2019re willing to actually use the vac in your normal workflow and provide honest feedback.\n\nIf you\u2019re interested, drop a comment or DM me and I\u2019ll follow up with details.\n\nThanks!",
+        "score": 48,
+        "num_comments": 18,
+        "created_utc": 1768918858.0,
+        "url": "https://i.redd.it/or3tblwojieg1.jpeg",
+        "permalink": "https://reddit.com/r/Carpentry/comments/1qi2ceg/new_tool_seeking_product_tester_in_raleighdurham/",
+        "relevance_score": 53.4,
+        "matched_brands": [
+          "milwaukee",
+          "makita",
+          "makita",
+          "milwaukee",
+          "festool",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum",
+          "shop vac"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "Advice to buy a saw.",
+        "selftext": "Hello guys!   \n  \n  \nUntil this year, a small team cut down the trees from my forest, but the labor costs became very expensive, so I decided to cut the trees myself from now on. I usually need 8-10 m3 firewood/year and i need a petrol chainsaw for that.  In my forest, there is mostly black locust,  thickness is around 25-35 cm or 10\"-14\", sometimes little bit bigger.   \n  \nCurrently i use a Makita UC4051 for cutting firewood, it is 6 or 7 years old and works perfectly fine, but i cannot use that in my forest. I will still use this for cutting wood, because light, cheap, mostly maintanance free option.  \n  \nIm currently cannot choose between the likes of  Oleo Mac GS630 / Stihl MS261 / Husqvarna 550xp vs the much cheaper not professional versions, like the Oleo GS560, Stihl MS231 etc..\n\nWhat would you suggest? \n\n",
+        "score": 2,
+        "num_comments": 18,
+        "created_utc": 1769015677.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
+        "relevance_score": 51.16799999999999,
+        "matched_brands": [
+          "stihl",
+          "husqvarna",
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "learning_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 34,
+    "avg_engagement": 122.1470588235294,
+    "avg_relevance": 25.459411764705884,
+    "total_comments": 1170,
+    "demand_strength": 105732.93705882353,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
+        "selftext": "Hi r/Appliances,\n\nI\u2019m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t\u2022\tA no\u2011charge replacement (delivery, installation, removal included), or\n\n\t\u2022\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I\u2019m concerned this may be a platform\u2011level issue.\n\nI reviewed higher\u2011end GE Profile models, including PDT795SYVFS, and I\u2019m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a \u201cflagship\u201d replacement.\n\nBecause of that, I\u2019m now cons",
+        "score": 5,
+        "num_comments": 12,
+        "created_utc": 1769219847.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "relevance_score": 56.87999999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Is SpeedQueen hype or real? Trying to get good quality without breaking the bank",
+        "selftext": "I\u2019m looking for a new washer and new dryer so I\u2019ve been reading this sub a lot. Shortlisted down to LG laundry center, Bosch 800s and SpeedQueen SF7. They are respectively at approximately $2000, $3500, $5000 for the washer dryer combo.\n\nSay the LG lasts 10 years and SQ lasts 30 years\u2026I could invest the $3000 difference for 10 years, buy the latest model in 10 years and another in 20 years, and still come out ahead.\n\nI\u2019ve had nothing but good experiences with LG and even often hated Samsung washing machines. I\u2019ve never had one fail despite owning several of them. Always still performed like new by the time we sell our place. So I\u2019m hoping to understand whether and why I should spring for the premium ones like SpeedQueen. Thanks yall!",
+        "score": 31,
+        "num_comments": 70,
+        "created_utc": 1768988198.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
+        "relevance_score": 52.559999999999995,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "samsung",
+          "lg",
+          "bosch"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "Advice to buy a saw.",
+        "selftext": "Hello guys!   \n  \n  \nUntil this year, a small team cut down the trees from my forest, but the labor costs became very expensive, so I decided to cut the trees myself from now on. I usually need 8-10 m3 firewood/year and i need a petrol chainsaw for that.  In my forest, there is mostly black locust,  thickness is around 25-35 cm or 10\"-14\", sometimes little bit bigger.   \n  \nCurrently i use a Makita UC4051 for cutting firewood, it is 6 or 7 years old and works perfectly fine, but i cannot use that in my forest. I will still use this for cutting wood, because light, cheap, mostly maintanance free option.  \n  \nIm currently cannot choose between the likes of  Oleo Mac GS630 / Stihl MS261 / Husqvarna 550xp vs the much cheaper not professional versions, like the Oleo GS560, Stihl MS231 etc..\n\nWhat would you suggest? \n\n",
+        "score": 2,
+        "num_comments": 18,
+        "created_utc": 1769015677.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
+        "relevance_score": 51.16799999999999,
+        "matched_brands": [
+          "stihl",
+          "husqvarna",
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "learning_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 71,
+    "avg_engagement": 46.183098591549296,
+    "avg_relevance": 18.618366197183093,
+    "total_comments": 2278,
+    "demand_strength": 61049.62276056336,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
+        "selftext": "Hi r/Appliances,\n\nI\u2019m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t\u2022\tA no\u2011charge replacement (delivery, installation, removal included), or\n\n\t\u2022\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I\u2019m concerned this may be a platform\u2011level issue.\n\nI reviewed higher\u2011end GE Profile models, including PDT795SYVFS, and I\u2019m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a \u201cflagship\u201d replacement.\n\nBecause of that, I\u2019m now cons",
+        "score": 5,
+        "num_comments": 12,
+        "created_utc": 1769219847.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "relevance_score": 56.87999999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Is SpeedQueen hype or real? Trying to get good quality without breaking the bank",
+        "selftext": "I\u2019m looking for a new washer and new dryer so I\u2019ve been reading this sub a lot. Shortlisted down to LG laundry center, Bosch 800s and SpeedQueen SF7. They are respectively at approximately $2000, $3500, $5000 for the washer dryer combo.\n\nSay the LG lasts 10 years and SQ lasts 30 years\u2026I could invest the $3000 difference for 10 years, buy the latest model in 10 years and another in 20 years, and still come out ahead.\n\nI\u2019ve had nothing but good experiences with LG and even often hated Samsung washing machines. I\u2019ve never had one fail despite owning several of them. Always still performed like new by the time we sell our place. So I\u2019m hoping to understand whether and why I should spring for the premium ones like SpeedQueen. Thanks yall!",
+        "score": 31,
+        "num_comments": 70,
+        "created_utc": 1768988198.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
+        "relevance_score": 52.559999999999995,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "samsung",
+          "lg",
+          "bosch"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Bosch",
+        "title": "New Bosch 800 fridge and dishwasher gripes",
+        "selftext": "I can\u2019t be the only one. A few days in and some annoyances far:\n\nFrench door Fridge (b36ct80sns) - left fresh drawer can\u2019t be opened without opening the right side door. However, right fresh drawer can be opened just with right door.\n\nFridge - how do I tell the current temp of the fridge? I tried both in fridge and app and it\u2019s not very straightforward. Old fridge had current and set so easy to tell. Online searches don\u2019t seem to work pressing the buttons.\n\nFridge - the secondary fan that turns on and off is quite loud. Not sure if normal.\n\nFridge - right door takes more push to close than it should. Push it to close and it stops before full close since it needs that extra hook.\n\nFreezer - ice tray is huge. Also didn\u2019t get a scoop. I do like the shape though compared to the old half moons.\n\nDishwasher - can\u2019t set time delay without using the app. My old one I could just set on device. I don\u2019t want to have to use the app.\n\nDishwasher - controls just don\u2019t feel that responsive or clear. ",
+        "score": 1,
+        "num_comments": 13,
+        "created_utc": 1769223127.0,
+        "url": "https://www.reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
+        "permalink": "https://reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
+        "relevance_score": 47.16,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "fridge",
+          "freezer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 10,
+    "avg_engagement": 245.4,
+    "avg_relevance": 19.386000000000003,
+    "total_comments": 517,
+    "demand_strength": 47573.244000000006,
+    "sample_posts": [
+      {
+        "subreddit": "Carpentry",
+        "title": "NEW TOOL - Seeking Product Tester in Raleigh/Durham NC Area",
+        "selftext": "Hi All,\n\nI\u2019m an engineer here in the Raleigh-Durham area working on developing a new\u00a0shop vacuum / dust extractor prototype. I\u2019m looking for a few\u00a0local people (Raleigh-Durham NC)\u00a0who would be interested in\u00a0testing it out for about a month or two\u00a0and then filling out a short feedback survey.\n\nThis is\u00a0not a sales pitch\u00a0\u2014 no strings attached; I just need real-world testers to get input before I move into the next round of development.\n\nWhat I\u2019m looking for:\n\n* You use your shop vac on a\u00a0regular / near-daily basis\n* Ideally you\u2019re already using a\u00a0higher-end vacuum\u00a0(Festool, Fein, Makita, Milwaukee, etc.) or at least care about things like:\n   * HEPA filtration\n   * auto tool start / power tool activation\n   * fine dust performance\n* You\u2019re willing to actually use the vac in your normal workflow and provide honest feedback.\n\nIf you\u2019re interested, drop a comment or DM me and I\u2019ll follow up with details.\n\nThanks!",
+        "score": 48,
+        "num_comments": 18,
+        "created_utc": 1768918858.0,
+        "url": "https://i.redd.it/or3tblwojieg1.jpeg",
+        "permalink": "https://reddit.com/r/Carpentry/comments/1qi2ceg/new_tool_seeking_product_tester_in_raleighdurham/",
+        "relevance_score": 53.4,
+        "matched_brands": [
+          "milwaukee",
+          "makita",
+          "makita",
+          "milwaukee",
+          "festool",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum",
+          "shop vac"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Basement smells musty after recent flooding. is dehumidifier enough or do I need more?",
+        "selftext": "Had about two inches of water in my basement last month after that crazy storm we got. Cleaned it up within 24 hours, ran fans, thought we were good. Now three weeks later there\u2019s this persistent musty smell that won\u2019t go away no matter how much I air it out.\n\nI grabbed a basic dehumidifier from the hardware store and it\u2019s pulling water like crazy, tank fills up twice a day. But the smell is still there, especially near the drywall in the back corner.\n\nMy concern is mold growing inside the walls where I can\u2019t see it. The drywall doesn\u2019t look damaged from the outside but I know water wicks up and sits in there. Do I need to cut out the bottom two feet and replace it or is that overkill?\n\nMy wife wants to get one of those fancy air and purifier systems installed but I feel like that\u2019s just masking the problem if there\u2019s actual mold behind the walls. We need to fix the source first.\n\nI\u2019ve been comparing dehumidifier specs and even checked wholesale pricing on alibaba just to understand wh",
+        "score": 11,
+        "num_comments": 8,
+        "created_utc": 1769090497.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1qjvb3b/basement_smells_musty_after_recent_flooding_is/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1qjvb3b/basement_smells_musty_after_recent_flooding_is/",
+        "relevance_score": 26.16,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "dehumidifier",
+          "humidifier"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Is this a good deal or should I wait for Ryobi days?",
+        "selftext": "Just need a cordless handheld compact vacuum like this one for quick daily cleanup on my car.",
+        "score": 1,
+        "num_comments": 4,
+        "created_utc": 1769293323.0,
+        "url": "https://i.redd.it/x5zz8skfhdfg1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qm0uyv/is_this_a_good_deal_or_should_i_wait_for_ryobi/",
+        "relevance_score": 23.4,
+        "matched_brands": [
+          "ryobi",
+          "ryobi"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "compact"
+        ],
+        "detected_intents": [
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 53,
+    "avg_engagement": 29.547169811320753,
+    "avg_relevance": 24.322641509433957,
+    "total_comments": 1636,
+    "demand_strength": 38089.256603773574,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
+        "selftext": "Hi r/Appliances,\n\nI\u2019m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t\u2022\tA no\u2011charge replacement (delivery, installation, removal included), or\n\n\t\u2022\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I\u2019m concerned this may be a platform\u2011level issue.\n\nI reviewed higher\u2011end GE Profile models, including PDT795SYVFS, and I\u2019m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a \u201cflagship\u201d replacement.\n\nBecause of that, I\u2019m now cons",
+        "score": 5,
+        "num_comments": 12,
+        "created_utc": 1769219847.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "relevance_score": 56.87999999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Bosch",
+        "title": "New Bosch 800 fridge and dishwasher gripes",
+        "selftext": "I can\u2019t be the only one. A few days in and some annoyances far:\n\nFrench door Fridge (b36ct80sns) - left fresh drawer can\u2019t be opened without opening the right side door. However, right fresh drawer can be opened just with right door.\n\nFridge - how do I tell the current temp of the fridge? I tried both in fridge and app and it\u2019s not very straightforward. Old fridge had current and set so easy to tell. Online searches don\u2019t seem to work pressing the buttons.\n\nFridge - the secondary fan that turns on and off is quite loud. Not sure if normal.\n\nFridge - right door takes more push to close than it should. Push it to close and it stops before full close since it needs that extra hook.\n\nFreezer - ice tray is huge. Also didn\u2019t get a scoop. I do like the shape though compared to the old half moons.\n\nDishwasher - can\u2019t set time delay without using the app. My old one I could just set on device. I don\u2019t want to have to use the app.\n\nDishwasher - controls just don\u2019t feel that responsive or clear. ",
+        "score": 1,
+        "num_comments": 13,
+        "created_utc": 1769223127.0,
+        "url": "https://www.reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
+        "permalink": "https://reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
+        "relevance_score": 47.16,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "fridge",
+          "freezer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Maytag Dryer cycle selector issue",
+        "selftext": "Hey all, looking for some advice on how to diagnose/fix my Maytag Epic Z Gas Dryer Model# MEDZ600TW2 cycle selector not changing/skipping cycles.\n\nAs per video, turning the cycle selector knob will sometimes do nothing and sometimes will jump to another cycle (sometime the next one, other times it'll jump a few/several ahead).\n\nWhat I've tried:\nDisconnected power, power drained the dryer by pressing the power button and waiting several minutes -- no effect.\nPulled the knob off and turned the D-shaft manually by hand -- same issue (not the knob itself)\nReseated the ribbon cable on the control board from the front display area -- no effect.\n\nIs there any way to confirm what the issue is? Ideally before ordering parts... Or even know what parts to order?\n\nThanks!\n\nUpdate 1 of #?: Tried using a vacuum to suck dust out from the gap from the D-shaft and the front panel. Also tried compressed air (didn't have electronic cleaner spray on hand). Took the front plate off and removed the security",
+        "score": 7,
+        "num_comments": 4,
+        "created_utc": 1769115981.0,
+        "url": "https://v.redd.it/vh6biyf3uyeg1",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1qk6skr/maytag_dryer_cycle_selector_issue/",
+        "relevance_score": 45.6,
+        "matched_brands": [
+          "ge",
+          "maytag"
+        ],
+        "matched_products": [
+          "dryer",
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "volt",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 44,
+    "avg_engagement": 16.522727272727273,
+    "avg_relevance": 24.40490909090909,
+    "total_comments": 1105,
+    "demand_strength": 17742.36890909091,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
+        "selftext": "Hi r/Appliances,\n\nI\u2019m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t\u2022\tA no\u2011charge replacement (delivery, installation, removal included), or\n\n\t\u2022\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I\u2019m concerned this may be a platform\u2011level issue.\n\nI reviewed higher\u2011end GE Profile models, including PDT795SYVFS, and I\u2019m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a \u201cflagship\u201d replacement.\n\nBecause of that, I\u2019m now cons",
+        "score": 5,
+        "num_comments": 12,
+        "created_utc": 1769219847.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
+        "relevance_score": 56.87999999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Carpentry",
+        "title": "NEW TOOL - Seeking Product Tester in Raleigh/Durham NC Area",
+        "selftext": "Hi All,\n\nI\u2019m an engineer here in the Raleigh-Durham area working on developing a new\u00a0shop vacuum / dust extractor prototype. I\u2019m looking for a few\u00a0local people (Raleigh-Durham NC)\u00a0who would be interested in\u00a0testing it out for about a month or two\u00a0and then filling out a short feedback survey.\n\nThis is\u00a0not a sales pitch\u00a0\u2014 no strings attached; I just need real-world testers to get input before I move into the next round of development.\n\nWhat I\u2019m looking for:\n\n* You use your shop vac on a\u00a0regular / near-daily basis\n* Ideally you\u2019re already using a\u00a0higher-end vacuum\u00a0(Festool, Fein, Makita, Milwaukee, etc.) or at least care about things like:\n   * HEPA filtration\n   * auto tool start / power tool activation\n   * fine dust performance\n* You\u2019re willing to actually use the vac in your normal workflow and provide honest feedback.\n\nIf you\u2019re interested, drop a comment or DM me and I\u2019ll follow up with details.\n\nThanks!",
+        "score": 48,
+        "num_comments": 18,
+        "created_utc": 1768918858.0,
+        "url": "https://i.redd.it/or3tblwojieg1.jpeg",
+        "permalink": "https://reddit.com/r/Carpentry/comments/1qi2ceg/new_tool_seeking_product_tester_in_raleighdurham/",
+        "relevance_score": 53.4,
+        "matched_brands": [
+          "milwaukee",
+          "makita",
+          "makita",
+          "milwaukee",
+          "festool",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum",
+          "shop vac"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Is SpeedQueen hype or real? Trying to get good quality without breaking the bank",
+        "selftext": "I\u2019m looking for a new washer and new dryer so I\u2019ve been reading this sub a lot. Shortlisted down to LG laundry center, Bosch 800s and SpeedQueen SF7. They are respectively at approximately $2000, $3500, $5000 for the washer dryer combo.\n\nSay the LG lasts 10 years and SQ lasts 30 years\u2026I could invest the $3000 difference for 10 years, buy the latest model in 10 years and another in 20 years, and still come out ahead.\n\nI\u2019ve had nothing but good experiences with LG and even often hated Samsung washing machines. I\u2019ve never had one fail despite owning several of them. Always still performed like new by the time we sell our place. So I\u2019m hoping to understand whether and why I should spring for the premium ones like SpeedQueen. Thanks yall!",
+        "score": 31,
+        "num_comments": 70,
+        "created_utc": 1768988198.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
+        "relevance_score": 52.559999999999995,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "samsung",
+          "lg",
+          "bosch"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Buying Guides & Recommendations",
+    "example_videos": [
+      "What to look for when buying...",
+      "Best value tools under $200",
+      "Professional vs homeowner grade"
+    ],
+    "hashtags": [
+      "#buyingguide",
+      "#recommendations",
+      "#bestvalue",
+      "#professional"
+    ]
+  },
+  {
+    "theme": "outdoor_power_equipment",
+    "post_count": 32,
+    "avg_engagement": 12.84375,
+    "avg_relevance": 18.479000000000003,
+    "total_comments": 668,
+    "demand_strength": 7594.8690000000015,
+    "sample_posts": [
+      {
+        "subreddit": "Chainsaw",
+        "title": "Advice to buy a saw.",
+        "selftext": "Hello guys!   \n  \n  \nUntil this year, a small team cut down the trees from my forest, but the labor costs became very expensive, so I decided to cut the trees myself from now on. I usually need 8-10 m3 firewood/year and i need a petrol chainsaw for that.  In my forest, there is mostly black locust,  thickness is around 25-35 cm or 10\"-14\", sometimes little bit bigger.   \n  \nCurrently i use a Makita UC4051 for cutting firewood, it is 6 or 7 years old and works perfectly fine, but i cannot use that in my forest. I will still use this for cutting wood, because light, cheap, mostly maintanance free option.  \n  \nIm currently cannot choose between the likes of  Oleo Mac GS630 / Stihl MS261 / Husqvarna 550xp vs the much cheaper not professional versions, like the Oleo GS560, Stihl MS231 etc..\n\nWhat would you suggest? \n\n",
+        "score": 2,
+        "num_comments": 18,
+        "created_utc": 1769015677.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
+        "relevance_score": 51.16799999999999,
+        "matched_brands": [
+          "stihl",
+          "husqvarna",
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Leaf Blower 18v 450 or 510CFM?",
+        "selftext": "First purchase on a leaf blower and I couldn\u2019t decide which to get from my local Home Depot. Debating on getting either of the ones below. I do have a few batteries (4ah x2 and 2ah x2). I\u2019m aware that these run the batteries out quick, but I\u2019m wondering if the difference in CFM is big enough to choose the other? The fact that the other includes a battery & charger makes it quite a deal.\n\n[RYOBI ONE+ HP 18V Brushless Cordless 130 MPH 510 CFM Leaf Blower (Tool Only) ($169)](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-130-MPH-510-CFM-Leaf-Blower-Tool-Only-PBLLB01B/327353593) Model # PBLLB01B\n\n[RYOBI ONE+ HP 18V Brushless Whisper Series 130 MPH 450 CFM Cordless Battery Leaf Blower with 4.0 Ah Battery and Charger ($179)](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Whisper-Series-130-MPH-450-CFM-Cordless-Battery-Leaf-Blower-with-4-0-Ah-Battery-and-Charger-P21140/317311217) Model # P21140\n\nUPDATE: Included Model# and Links, Ty for feedback.",
+        "score": 1,
+        "num_comments": 3,
+        "created_utc": 1768830928.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1qh4rfs/leaf_blower_18v_450_or_510cfm/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qh4rfs/leaf_blower_18v_450_or_510cfm/",
+        "relevance_score": 34.56,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "leaf blower"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "brushless",
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Need some assistance with finding a replacement Motor.",
+        "selftext": "Good day everyone, the motor on my uncle's 40V string trimmer is shot and he's asking me to find a replacement, but all I can see online are [replacements for the circular saw](https://www.amazon.com/Ridgid-Ryobi-Replacement-2303328-ASSEMBLY/dp/B000P8QZ8I). Are these interchangeable or is some other approach going to be necessary?",
+        "score": 1,
+        "num_comments": 3,
+        "created_utc": 1768936918.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1qiao0j/need_some_assistance_with_finding_a_replacement/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qiao0j/need_some_assistance_with_finding_a_replacement/",
+        "relevance_score": 33.6,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ridgid",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer",
+          "circular saw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": []
+      }
+    ],
+    "content_angle": "OPE Reviews, Maintenance & Buying Guides",
+    "example_videos": [
+      "Chainsaw buying guide 2024",
+      "Pressure washer comparison",
+      "Lawn mower maintenance tips"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#lawnmower",
+      "#pressurewasher",
+      "#OPE",
+      "#yardwork"
+    ]
+  }
+]
