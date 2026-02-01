@@ -1,90 +1,97 @@
 [
   {
     "theme": "power_tools",
-    "post_count": 99,
-    "avg_engagement": 240.26262626262627,
-    "avg_relevance": 16.667959595959587,
-    "total_comments": 6197,
-    "demand_strength": 396464.0869494947,
+    "post_count": 91,
+    "avg_engagement": 224.94505494505495,
+    "avg_relevance": 15.831692307692302,
+    "total_comments": 3882,
+    "demand_strength": 324074.7415384614,
     "sample_posts": [
       {
-        "subreddit": "Dewalt",
-        "title": "I can't prove it's my bench, but I can show before I switched to DeWalt and after.",
-        "selftext": "Notice the grey part organizers under the window.  Everything else changed.  In the first picture I had one DeWalt 7.2V flex head screwdriver and a bunch of 19V craftsman professional tools.  When all of those NiCad batteries died, I switched to the DeWalt 20V line and now I have my fortress of solitude and I try not to get as cluttered as I used to.  ",
-        "score": 74,
-        "num_comments": 13,
-        "created_utc": 1768832523.0,
-        "url": "https://i.redd.it/3vmpjk2oebeg1.png",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1qh5fc9/i_cant_prove_its_my_bench_but_i_can_show_before_i/",
-        "relevance_score": 42.9,
+        "subreddit": "woodworking",
+        "title": "My Second Commissioned Woodworking Project, and first Commercial project",
+        "selftext": "Before, During, and After\n\n30 foot L shaped White oak top, pine frame, base framing, and side paneling\n\n$12.2k for the base, countertop, and running 8 outlets and their wiring up through the last minute pillar we built to solve that issue \n\nWe had 14 days to complete the full project start to finish, due to the restaurant owner contacting us late in the process and me being an insane person who seized the opportunity to get my foot in the commercial door\n\nFor context, I have harbor freight milling tools, like a Bauer Jointer, Hercules Planer, Hercules track with circ saw, and Milwaukee battery tools, and I have myself and 2 relatively inexperienced men on my team (I started as a handyman and carpenter 3-4 years ago to allow funding tools and skill development for my woodworking hobby) \n\nThe top is finished with Hardwax oil, and then Carbon Nanocoat. \n\nIt is attached with figure 8 fasteners sunk with a Forstner bit, and nothing to prevent tangential movement \n\nMy one mistake was that du",
+        "score": 595,
+        "num_comments": 27,
+        "created_utc": 1769752191.0,
+        "url": "https://www.reddit.com/gallery/1qqx4sv",
+        "permalink": "https://reddit.com/r/woodworking/comments/1qqx4sv/my_second_commissioned_woodworking_project_and/",
+        "relevance_score": 67.54799999999999,
         "matched_brands": [
-          "craftsman",
-          "dewalt",
-          "dewalt",
-          "craftsman",
-          "ge"
-        ],
-        "matched_products": [],
-        "matched_keywords": [],
-        "detected_intents": [
-          "troubleshooting"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "I feel stupid for being Milwaukee instead of Dewalt for years",
-        "selftext": "I'm a brickie and I just stuck with Milwaukee because i bought a cheap second hand milwaukee bundle and ended up sticking with the brand cause I liked the color scheme which is a stupid reason but I'm sure a lot of people do the same thing.\n\nI needed a 9 inch battery grinder and everyone clowned online about how bad the Milwaukee one is and the Dewalt one is the best. So i bought the Dewalt one, now I've bought almost everything i need Dewalt and i gotta say the build quality feels better, the batteries last like the double the duration, there's actually really good sales, a couple times i thought there was a store error like I bought a dewalt fan for $129 (AUD) that came with a free charger and battery which is worth $249.\n\nLike that's stupid good value that doesnt even make sense, I bought 3 skin onlys that came with a free charger and battery so I got like $700 in value for free.\n\nTheres all sorts of bundles and the sales guy said he can just call a Dewalt rep to tailor a bundle dea",
-        "score": 96,
-        "num_comments": 46,
-        "created_utc": 1769200352.0,
-        "url": "https://www.reddit.com/r/Dewalt/comments/1ql23kj/i_feel_stupid_for_being_milwaukee_instead_of/",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1ql23kj/i_feel_stupid_for_being_milwaukee_instead_of/",
-        "relevance_score": 42.11999999999999,
-        "matched_brands": [
-          "dewalt",
           "milwaukee",
-          "dewalt",
           "milwaukee",
-          "ge"
-        ],
-        "matched_products": [],
-        "matched_keywords": [
-          "battery",
-          "ah"
-        ],
-        "detected_intents": [
-          "troubleshooting",
-          "comparison",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Ryobi",
-        "title": "Dead Batteries Dead Drill?",
-        "selftext": "The other day one of my batteries PBP002 ran out of charge so I took out of my drill PSBDD01. \n\nWhen it finished charging, I put it back in my drill. The LEDs on the battery that indicate charge became unresponsive when inserted into drill. Hmmm that’s weird. Double checked the battery in the charger and it didn’t show any faults. \n\nTroubleshooting : I put the battery into an old Ryobi light I have from a 2011 kit. Worked immediately. Put that same battery into the drill and the light on the drill itself flashed if I hit the trigger and the drill started to smell. \n\nTried the same thing with some other batteries (PBP003s too) and all of them had the same result.\n\nI am now paranoid that I shouldn’t use those batteries on any other tools because I don’t want to brick them!\n\nI’ve been loyal to the Ryobi system for more than  15 years but the constant battery replacement is making me crazy. In those 15 years I’ve gone through AT LEAST 15 batteries. All different kinds and AH. I’ve got a bu",
-        "score": 5,
-        "num_comments": 9,
-        "created_utc": 1768781605.0,
-        "url": "https://www.reddit.com/r/ryobi/comments/1qgou1x/dead_batteries_dead_drill/",
-        "permalink": "https://reddit.com/r/ryobi/comments/1qgou1x/dead_batteries_dead_drill/",
-        "relevance_score": 40.8,
-        "matched_brands": [
-          "ryobi",
-          "ryobi",
+          "bauer",
+          "hercules",
+          "skil",
           "ge"
         ],
         "matched_products": [
-          "drill"
+          "planer"
         ],
         "matched_keywords": [
           "battery",
-          "ah"
+          "woodworking"
         ],
+        "detected_intents": [
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita Maktrak Medium Toolboxes",
+        "selftext": "A couple details and thoughts on these medium Maktrak boxes. Haven’t seen any pictures previously on how these tools fit these.\n\nDon’t think I’ll be keeping them. I’m impressed with the quality. Super heavy duty. My use-case just isn’t there. Having these tools in them actually makes them quite heavy and tough to access from that bottom shelf in my workbench. I’m just an average dude looking for nice tool storage at my home.\n\nWhat got me looking into these is that I didn’t have a case for that reciprocating saw nor the sander. The standard case that originally came with the drills is actually quite functional and way smaller and lighter. Of course not as heavy duty. At the price of these two boxes, $160, I could probably hunt down a brushless Makita saw with a case included somewhere. I do love that saw I already have though, it kicks ass. One of my most prized possessions.\n\nTo get everything loaded into these two boxes I had to take most of the organizers out of them. The organizer I ",
+        "score": 54,
+        "num_comments": 33,
+        "created_utc": 1769751049.0,
+        "url": "https://www.reddit.com/gallery/1qqws3j",
+        "permalink": "https://reddit.com/r/Makita/comments/1qqws3j/makita_maktrak_medium_toolboxes/",
+        "relevance_score": 49.92,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "reciprocating saw"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "contractor",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "What's the best place to buy Makita tools in Canada?",
+        "selftext": "I've been slowly building up my Makita collection over the past year (LXT platform - drill, impact, circular saw, and just grabbed the angle grinder). Love the tools but getting frustrated with availability and pricing.\n\nHome Depot near me is constantly out of stock on batteries and specific tools I want. When they do have stuff, it's full price. Canadian Tire selection is pretty limited. Amazon worries me because of all the counterfeit stories I keep seeing.\n\nI'm at the point where I want to stock up on a few more batteries and grab a couple more tools (oscillating tool and maybe the track saw), but I'm tired of hunting around or waiting weeks for restocks. \n\nI'm curious to know what's y'all go-to place for Makita tools in Canada, any insights would be appreciate. I'm looking for somewhere with actual inventory, decent pricing, and ships reasonably fast. Bonus if they have good selection on the LXT accessories too.\n\nDo you guys just deal with the big box stores or is there somewhere b",
+        "score": 8,
+        "num_comments": 22,
+        "created_utc": 1769544715.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1qop399/whats_the_best_place_to_buy_makita_tools_in_canada/",
+        "permalink": "https://reddit.com/r/Makita/comments/1qop399/whats_the_best_place_to_buy_makita_tools_in_canada/",
+        "relevance_score": 46.559999999999995,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "circular saw",
+          "angle grinder",
+          "oscillating tool"
+        ],
+        "matched_keywords": [],
         "detected_intents": [
           "buying_intent",
           "buying_intent",
-          "troubleshooting",
-          "troubleshooting"
+          "comparison"
         ]
       }
     ],
@@ -103,55 +110,51 @@
     ],
     "matched_videos": [
       {
-        "video_id": "vZwollxOtdU",
-        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
+        "video_id": "giZaqrz09JM",
+        "title": "Workshop DIY Project | How to Build a Custom Miter Saw Work Bench | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
-        "relevance_score": 62.58,
+        "description_snippet": "One of our DIY Experts, Aaron, recently purchased a property, and in the process of setting up a brand new workshop, he decided he needed a new, permanent Miter Saw bench. The old, temporary...",
+        "relevance_score": 53.42,
         "scoring_breakdown": {
-          "semantic_score": 19.34,
-          "keyword_score": 27,
-          "intent_score": 1.8,
+          "semantic_score": 17.09,
+          "keyword_score": 24,
+          "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:model",
-            "tfidf:drill",
-            "tfidf:milwaukee",
-            "brand:model",
-            "product:drill"
+            "fuzzy_tfidf:case(75.0)",
+            "tfidf:saw",
+            "fuzzy_tfidf:just(75.0)",
+            "tfidf:project",
+            "tfidf:place"
           ],
-          "intent_matches": [
-            "comparison:3.6↔0.9"
-          ]
+          "intent_matches": []
         }
       },
       {
-        "video_id": "6YKI9gcRIhc",
-        "title": "How to Replace the Brushes on a DeWalt DW718 Miter Saw--A Quick Fix (Part # 381028-08)",
+        "video_id": "tfTDQKakVnU",
+        "title": "How to Replace the Starter Assembly on a Makita Cut Off Saw",
         "channel": "fixtechguides",
-        "description_snippet": "Replacing the brushes on your DeWalt DW718 miter saw can help improve the saw's performance. Mark is here to guide you through the brush-replacing steps in this video. \n\nGet replacement brushes...",
-        "relevance_score": 57.59,
+        "description_snippet": "LET’S GET (YOUR SAW) STARTED: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. Replacing the starter assembly in a Makita DPC7311 cut-off...",
+        "relevance_score": 52.97,
         "scoring_breakdown": {
-          "semantic_score": 21.7,
-          "keyword_score": 16,
-          "intent_score": 6.6,
+          "semantic_score": 16.75,
+          "keyword_score": 24,
+          "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:dewalt",
-            "fuzzy_tfidf:bought(83.33333333333334)",
-            "tfidf:ve",
-            "product:dewalt"
+            "tfidf:makita",
+            "fuzzy_tfidf:case(75.0)",
+            "tfidf:saw",
+            "tfidf:place",
+            "product:saw"
           ],
-          "intent_matches": [
-            "troubleshooting:2.4↔2.4",
-            "comparison:3.6↔0.9"
-          ]
+          "intent_matches": []
         }
       },
       {
@@ -159,261 +162,47 @@
         "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
         "channel": "partselect",
         "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
-        "relevance_score": 38.09,
+        "relevance_score": 50.24,
         "scoring_breakdown": {
-          "semantic_score": 13.9,
-          "keyword_score": 11,
+          "semantic_score": 19.24,
+          "keyword_score": 15,
           "intent_score": 4.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:drill(75.0)",
-            "tfidf:ve",
-            "fuzzy_tfidf:years(80.0)"
+            "tfidf:tools",
+            "tfidf:project",
+            "tfidf:looking"
           ],
           "intent_matches": [
-            "buying_advice:6.0↔1.0",
-            "troubleshooting:2.4↔1.2"
+            "buying_advice:8.0↔1.0",
+            "troubleshooting:1.2↔1.2"
           ]
         }
       },
       {
-        "video_id": "cOGiC-LwPow",
-        "title": "PartSelect Celebrates 10 Million Views!",
+        "video_id": "ilj1uAnVang",
+        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
         "channel": "partselect",
-        "description_snippet": "We're celebrating our ten millionth video view, here on YouTube! Thank you, PartSelect customers and viewers, ten million times over!\n\nGet model-specific repair help from PartSelect.com. Learn...",
-        "relevance_score": 37.9,
+        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
+        "relevance_score": 46.46,
         "scoring_breakdown": {
-          "semantic_score": 10.75,
-          "keyword_score": 16,
-          "intent_score": 2.4,
+          "semantic_score": 18.74,
+          "keyword_score": 15,
+          "intent_score": 2.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ve",
-            "brand:model",
-            "entity:model"
+            "tfidf:tools",
+            "tfidf:just",
+            "tfidf:project"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "DCcWBi7Zdiw",
-        "title": "How to Put Your DeWalt Drill's Transmission in Place",
-        "channel": "fixtechguides",
-        "description_snippet": "Visit http://eReplacementParts.com for power tool replacement parts.\n\nSUBSCRIBE AND NEVER MISS ANOTHER VIDEO!\nhttp://www.youtube.com/subscription_center?add_user=ereplacementparts\n\nCONNECT...",
-        "relevance_score": 56.51,
-        "scoring_breakdown": {
-          "semantic_score": 17.67,
-          "keyword_score": 24,
-          "intent_score": 1.8,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:dewalt",
-            "tfidf:drill",
-            "fuzzy_tfidf:dewalt model(75.0)",
-            "tfidf:ve",
-            "product:drill"
-          ],
-          "intent_matches": [
-            "comparison:3.6↔0.9"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "how_to_guides",
-    "post_count": 44,
-    "avg_engagement": 156.52272727272728,
-    "avg_relevance": 22.536,
-    "total_comments": 2479,
-    "demand_strength": 155205.432,
-    "sample_posts": [
-      {
-        "subreddit": "appliances",
-        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
-        "selftext": "Hi r/Appliances,\n\nI’m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t•\tA no‑charge replacement (delivery, installation, removal included), or\n\n\t•\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I’m concerned this may be a platform‑level issue.\n\nI reviewed higher‑end GE Profile models, including PDT795SYVFS, and I’m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a “flagship” replacement.\n\nBecause of that, I’m now cons",
-        "score": 5,
-        "num_comments": 12,
-        "created_utc": 1769219847.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "relevance_score": 56.87999999999999,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch",
-          "miele"
-        ],
-        "matched_products": [
-          "washer",
-          "dishwasher"
-        ],
-        "matched_keywords": [
-          "reliability"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Carpentry",
-        "title": "NEW TOOL - Seeking Product Tester in Raleigh/Durham NC Area",
-        "selftext": "Hi All,\n\nI’m an engineer here in the Raleigh-Durham area working on developing a new shop vacuum / dust extractor prototype. I’m looking for a few local people (Raleigh-Durham NC) who would be interested in testing it out for about a month or two and then filling out a short feedback survey.\n\nThis is not a sales pitch — no strings attached; I just need real-world testers to get input before I move into the next round of development.\n\nWhat I’m looking for:\n\n* You use your shop vac on a regular / near-daily basis\n* Ideally you’re already using a higher-end vacuum (Festool, Fein, Makita, Milwaukee, etc.) or at least care about things like:\n   * HEPA filtration\n   * auto tool start / power tool activation\n   * fine dust performance\n* You’re willing to actually use the vac in your normal workflow and provide honest feedback.\n\nIf you’re interested, drop a comment or DM me and I’ll follow up with details.\n\nThanks!",
-        "score": 48,
-        "num_comments": 18,
-        "created_utc": 1768918858.0,
-        "url": "https://i.redd.it/or3tblwojieg1.jpeg",
-        "permalink": "https://reddit.com/r/Carpentry/comments/1qi2ceg/new_tool_seeking_product_tester_in_raleighdurham/",
-        "relevance_score": 53.4,
-        "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "festool",
-          "ge"
-        ],
-        "matched_products": [
-          "vacuum",
-          "shop vac"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "learning_intent",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Chainsaw",
-        "title": "Advice to buy a saw.",
-        "selftext": "Hello guys!   \n  \n  \nUntil this year, a small team cut down the trees from my forest, but the labor costs became very expensive, so I decided to cut the trees myself from now on. I usually need 8-10 m3 firewood/year and i need a petrol chainsaw for that.  In my forest, there is mostly black locust,  thickness is around 25-35 cm or 10\"-14\", sometimes little bit bigger.   \n  \nCurrently i use a Makita UC4051 for cutting firewood, it is 6 or 7 years old and works perfectly fine, but i cannot use that in my forest. I will still use this for cutting wood, because light, cheap, mostly maintanance free option.  \n  \nIm currently cannot choose between the likes of  Oleo Mac GS630 / Stihl MS261 / Husqvarna 550xp vs the much cheaper not professional versions, like the Oleo GS560, Stihl MS231 etc..\n\nWhat would you suggest? \n\n",
-        "score": 2,
-        "num_comments": 18,
-        "created_utc": 1769015677.0,
-        "url": "https://www.reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
-        "permalink": "https://reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
-        "relevance_score": 51.16799999999999,
-        "matched_brands": [
-          "stihl",
-          "husqvarna",
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "chainsaw"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "learning_intent",
-          "comparison"
-        ]
-      }
-    ],
-    "content_angle": "How To Guides Content",
-    "example_videos": [
-      "Custom content needed"
-    ],
-    "hashtags": [
-      "#how_to_guides"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "UerVcdQXJ_Y",
-        "title": "Refrigerator Maintenance - Changing Ice & Water Filter (GE Part# MWF)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 67.52,
-        "scoring_breakdown": {
-          "semantic_score": 17.94,
-          "keyword_score": 30,
-          "intent_score": 4.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ge",
-            "tfidf:use",
-            "fuzzy_tfidf:shop(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:3.5999999999999996↔1.2",
-            "maintenance:1.6↔0.8"
-          ]
-        }
-      },
-      {
-        "video_id": "T5uR8m8S-kg",
-        "title": "Range / Stove / Oven Repair - Replacing the 8\" Surface Element/Burner (GE Part# WB30M2)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 66.25,
-        "scoring_breakdown": {
-          "semantic_score": 18.56,
-          "keyword_score": 30,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ge",
-            "tfidf:use",
-            "fuzzy_tfidf:shop(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:3.5999999999999996↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "U7EbQrUqhro",
-        "title": "How to Replace the Armature on a Dremel 395 Moto-Tool",
-        "channel": "fixtechguides",
-        "description_snippet": "This video tutorial will show you how to replace the armature on a Dremel 395 Moto-Tool in no time. Helpful items include a screwdriver.\n\nGet a replacement armature for your Dremel 395 Moto-Tool...",
-        "relevance_score": 52.04,
-        "scoring_breakdown": {
-          "semantic_score": 9.23,
-          "keyword_score": 29,
-          "intent_score": 1.8,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:tool",
-            "tfidf:arm",
-            "tfidf:replacement",
-            "fuzzy_tfidf:shop(75.0)"
-          ],
-          "intent_matches": [
-            "comparison:5.4↔0.9"
+            "buying_advice:8.0↔1.0"
           ]
         }
       },
@@ -422,51 +211,25 @@
         "title": "How to Maintain Your Tools | eReplacementParts.com",
         "channel": "fixtechguides",
         "description_snippet": "A nice set of tools can be a huge investment, so it makes sense that you would want them to look and perform their best. Unfortunately, improper storage and neglect can cause them to break...",
-        "relevance_score": 51.92,
+        "relevance_score": 49.69,
         "scoring_breakdown": {
-          "semantic_score": 10.34,
-          "keyword_score": 26,
+          "semantic_score": 15.62,
+          "keyword_score": 19,
           "intent_score": 3.6,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:tool",
-            "tfidf:use",
-            "tfidf:replacement",
-            "brand:ge"
+            "tfidf:tools",
+            "fuzzy_tfidf:makita(83.33333333333334)",
+            "fuzzy_tfidf:case(75.0)",
+            "tfidf:place",
+            "fuzzy_tfidf:tools canada(75.0)"
           ],
           "intent_matches": [
-            "buying_advice:10.0↔1.0",
-            "maintenance:1.6↔0.8"
-          ]
-        }
-      },
-      {
-        "video_id": "ijeiqK-JJxg",
-        "title": "Range / Stove / Oven Repair - Replacing the 8\" Drip Bowl (GE Part# WB31T10015)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 65.15,
-        "scoring_breakdown": {
-          "semantic_score": 17.72,
-          "keyword_score": 30,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:ge",
-            "tfidf:use",
-            "fuzzy_tfidf:shop(75.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:3.5999999999999996↔1.2"
+            "buying_advice:8.0↔1.0",
+            "maintenance:0.8↔0.8"
           ]
         }
       }
@@ -474,22 +237,87 @@
   },
   {
     "theme": "product_comparisons",
-    "post_count": 34,
-    "avg_engagement": 122.1470588235294,
-    "avg_relevance": 25.459411764705884,
-    "total_comments": 1170,
-    "demand_strength": 105732.93705882353,
+    "post_count": 38,
+    "avg_engagement": 252.42105263157896,
+    "avg_relevance": 26.924842105263156,
+    "total_comments": 1221,
+    "demand_strength": 258263.0854736842,
     "sample_posts": [
       {
+        "subreddit": "Dewalt",
+        "title": "Why doesn't Dewalt make power broom attachments?",
+        "selftext": "I love Dewalt tools, and am heavily invested in their platform with mostly all XR or FlexVolt tools. They're able to handle the abuse that I give them daily with ease. The only things I have had die on me are batteries, and that was only 2 out of the 30+ I have. Last spring I jumped on the BOGO deal for the FlexVolt DCST972 kit with a free 9Ah battery from Home Depot for $329. It seemed like a no-brainer since I planned on getting the pole saw at some point in the future, and with a 2-pack of 9Ah batteries selling for $399 (or $349 on sale), I thought why not get a \"free\" string trimmer to go with it. After a season of use, I love it so far. Tons of power and great battery life. I have 320 feet of privacy fence and I can easily trim the grass on both sides and around the rest of my yard/house on a single battery.\n\nThe one attachment that I wish I had is not made by anyone that uses the universal attachment system. With the most recent snow storm that has passed through and dumped 10\" i",
+        "score": 15,
+        "num_comments": 23,
+        "created_utc": 1769518959.0,
+        "url": "https://i.redd.it/ctg5ty3d4wfg1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qod8kl/why_doesnt_dewalt_make_power_broom_attachments/",
+        "relevance_score": 71.75999999999999,
+        "matched_brands": [
+          "ego",
+          "ryobi",
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer",
+          "snow blower",
+          "pole saw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "volt",
+          "ah"
+        ],
+        "detected_intents": [
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "woodworking",
+        "title": "My Second Commissioned Woodworking Project, and first Commercial project",
+        "selftext": "Before, During, and After\n\n30 foot L shaped White oak top, pine frame, base framing, and side paneling\n\n$12.2k for the base, countertop, and running 8 outlets and their wiring up through the last minute pillar we built to solve that issue \n\nWe had 14 days to complete the full project start to finish, due to the restaurant owner contacting us late in the process and me being an insane person who seized the opportunity to get my foot in the commercial door\n\nFor context, I have harbor freight milling tools, like a Bauer Jointer, Hercules Planer, Hercules track with circ saw, and Milwaukee battery tools, and I have myself and 2 relatively inexperienced men on my team (I started as a handyman and carpenter 3-4 years ago to allow funding tools and skill development for my woodworking hobby) \n\nThe top is finished with Hardwax oil, and then Carbon Nanocoat. \n\nIt is attached with figure 8 fasteners sunk with a Forstner bit, and nothing to prevent tangential movement \n\nMy one mistake was that du",
+        "score": 595,
+        "num_comments": 27,
+        "created_utc": 1769752191.0,
+        "url": "https://www.reddit.com/gallery/1qqx4sv",
+        "permalink": "https://reddit.com/r/woodworking/comments/1qqx4sv/my_second_commissioned_woodworking_project_and/",
+        "relevance_score": 67.54799999999999,
+        "matched_brands": [
+          "milwaukee",
+          "milwaukee",
+          "bauer",
+          "hercules",
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "planer"
+        ],
+        "matched_keywords": [
+          "battery",
+          "woodworking"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
         "subreddit": "appliances",
-        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
-        "selftext": "Hi r/Appliances,\n\nI’m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t•\tA no‑charge replacement (delivery, installation, removal included), or\n\n\t•\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I’m concerned this may be a platform‑level issue.\n\nI reviewed higher‑end GE Profile models, including PDT795SYVFS, and I’m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a “flagship” replacement.\n\nBecause of that, I’m now cons",
-        "score": 5,
-        "num_comments": 12,
-        "created_utc": 1769219847.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "relevance_score": 56.87999999999999,
+        "title": "Upgraded to a Bosch Benchmark Dishwasher from 500 Series",
+        "selftext": "We've been using the dishwasher that was in our house when we bought it about 5 years ago. It was a ca. 2012/2013 Bosch 500 dishwasher, had a few parts that were going bad but I replaced them (looking at your rinse aid dispenser and pocket handle!).\n\nOur double wall ovens needed replacement, so we went with Bosch, and decided to tackle the dishwasher at the same time. We went with the Bosch Benchmark with a bar handle over the Miele G 7186, taking advantage of a bundle discount. The handle exactly matches the handles on the oven. \n\nNo complaints, wish we would have done this 3 years ago when our original fridge died and we replaced it with a Bosch 800 (the french door with separate bins for fruits and veggies, highly recommended). Our standard cycle is Auto w/Sanitize. That was 2:47 in our previous dishwasher. It is now 2:18 and the dishes come out cleaner and dryer, and not even using CrystalDry. Whisper quiet, 39 dBa actually makes a difference because you have to be right on top of ",
+        "score": 17,
+        "num_comments": 17,
+        "created_utc": 1769714612.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "relevance_score": 57.35999999999999,
         "matched_brands": [
           "bosch",
           "ge",
@@ -498,76 +326,17 @@
         ],
         "matched_products": [
           "washer",
+          "dryer",
+          "fridge",
           "dishwasher"
         ],
-        "matched_keywords": [
-          "reliability"
-        ],
+        "matched_keywords": [],
         "detected_intents": [
           "buying_intent",
           "buying_intent",
           "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
           "comparison",
           "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Is SpeedQueen hype or real? Trying to get good quality without breaking the bank",
-        "selftext": "I’m looking for a new washer and new dryer so I’ve been reading this sub a lot. Shortlisted down to LG laundry center, Bosch 800s and SpeedQueen SF7. They are respectively at approximately $2000, $3500, $5000 for the washer dryer combo.\n\nSay the LG lasts 10 years and SQ lasts 30 years…I could invest the $3000 difference for 10 years, buy the latest model in 10 years and another in 20 years, and still come out ahead.\n\nI’ve had nothing but good experiences with LG and even often hated Samsung washing machines. I’ve never had one fail despite owning several of them. Always still performed like new by the time we sell our place. So I’m hoping to understand whether and why I should spring for the premium ones like SpeedQueen. Thanks yall!",
-        "score": 31,
-        "num_comments": 70,
-        "created_utc": 1768988198.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
-        "relevance_score": 52.559999999999995,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "samsung",
-          "lg",
-          "bosch"
-        ],
-        "matched_products": [
-          "washing machine",
-          "washer",
-          "dryer"
-        ],
-        "matched_keywords": [
-          "ah"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Chainsaw",
-        "title": "Advice to buy a saw.",
-        "selftext": "Hello guys!   \n  \n  \nUntil this year, a small team cut down the trees from my forest, but the labor costs became very expensive, so I decided to cut the trees myself from now on. I usually need 8-10 m3 firewood/year and i need a petrol chainsaw for that.  In my forest, there is mostly black locust,  thickness is around 25-35 cm or 10\"-14\", sometimes little bit bigger.   \n  \nCurrently i use a Makita UC4051 for cutting firewood, it is 6 or 7 years old and works perfectly fine, but i cannot use that in my forest. I will still use this for cutting wood, because light, cheap, mostly maintanance free option.  \n  \nIm currently cannot choose between the likes of  Oleo Mac GS630 / Stihl MS261 / Husqvarna 550xp vs the much cheaper not professional versions, like the Oleo GS560, Stihl MS231 etc..\n\nWhat would you suggest? \n\n",
-        "score": 2,
-        "num_comments": 18,
-        "created_utc": 1769015677.0,
-        "url": "https://www.reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
-        "permalink": "https://reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
-        "relevance_score": 51.16799999999999,
-        "matched_brands": [
-          "stihl",
-          "husqvarna",
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "chainsaw"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "learning_intent",
-          "comparison"
         ]
       }
     ],
@@ -580,599 +349,121 @@
     ],
     "matched_videos": [
       {
-        "video_id": "8-zpqWH9TIQ",
-        "title": "GE Dishwasher Repair - How to Replace the Lower Spray Arm (GE Part # WG04F01008)",
-        "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.partselect.com/PS10055477-GE-WG04F01008-SPRAY-ARM-LOWER.htm?SourceCode=3&SearchTerm=WG04F01008...",
-        "relevance_score": 66.46,
-        "scoring_breakdown": {
-          "semantic_score": 22.12,
-          "keyword_score": 29,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:spray arm",
-            "tfidf:arm",
-            "tfidf:spray",
-            "brand:ge"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "AJUk34IO1ig",
-        "title": "Dishwasher Repair- Replacing the Lower Spray Arm & Support Assembly (GE Part # WD22X10008)",
-        "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS260529-GE-WD22X10008-Lower-Spray-Arm-and-Support-Assembly.htm?SourceCode=15  Click here for more information on this part, installation instructions and more.\n\nThis...",
-        "relevance_score": 63.45,
-        "scoring_breakdown": {
-          "semantic_score": 19.8,
-          "keyword_score": 29,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:spray arm",
-            "tfidf:arm",
-            "tfidf:spray",
-            "brand:ge"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "6YKI9gcRIhc",
-        "title": "How to Replace the Brushes on a DeWalt DW718 Miter Saw--A Quick Fix (Part # 381028-08)",
+        "video_id": "nUkEZZzipvM",
+        "title": "How to Properly Dispose of Power Tool Batteries",
         "channel": "fixtechguides",
-        "description_snippet": "Replacing the brushes on your DeWalt DW718 miter saw can help improve the saw's performance. Mark is here to guide you through the brush-replacing steps in this video. \n\nGet replacement brushes...",
-        "relevance_score": 54.74,
+        "description_snippet": "Learn how you can reduce your carbon footprint and help the environment for free by recycling your used batteries. Recycling batteries helps the environment, lowers manufacturing costs, and...",
+        "relevance_score": 55.08,
         "scoring_breakdown": {
-          "semantic_score": 11.51,
+          "semantic_score": 15.97,
           "keyword_score": 24,
-          "intent_score": 6.6,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:replacement",
-            "tfidf:ve",
-            "brand:ge",
-            "product:saw"
+            "fuzzy_tfidf:tools(80.0)",
+            "fuzzy_tfidf:battery(85.71428571428572)",
+            "tfidf:foot",
+            "tfidf:power",
+            "fuzzy_tfidf:love(75.0)"
           ],
           "intent_matches": [
-            "troubleshooting:3.5999999999999996↔2.4",
-            "comparison:5.4↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "q2c2uUlP13s",
-        "title": "How to Fix a Pressure Washer (Part 2 of 2)",
-        "channel": "fixtechguides",
-        "description_snippet": "After diagnosing the pressure washer pump and replacing its unloader valve, Mark demonstrates how to reassemble and lubricate the pump with step by step instructions.\n\nGet replacement parts...",
-        "relevance_score": 54.47,
-        "scoring_breakdown": {
-          "semantic_score": 13.7,
-          "keyword_score": 24,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:replacement",
-            "tfidf:ve",
-            "brand:ge",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:3.5999999999999996↔1.2",
-            "comparison:5.4↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "IcANzqOTgHY",
-        "title": "Dishwasher Repair - Replacing the Upper Spray Arm (GE Part # WD22X10045)",
-        "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS1020115-GE-WD22X10045-Upper-Spray-Arm.htm?SourceCode=15 Click here for more information on this part, installation instructions and more. \n\nThis particular Upper...",
-        "relevance_score": 62.56,
-        "scoring_breakdown": {
-          "semantic_score": 19.12,
-          "keyword_score": 29,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:spray arm",
-            "tfidf:arm",
-            "tfidf:spray",
-            "brand:ge"
-          ],
-          "intent_matches": []
-        }
-      }
-    ]
-  },
-  {
-    "theme": "major_appliances",
-    "post_count": 71,
-    "avg_engagement": 46.183098591549296,
-    "avg_relevance": 18.618366197183093,
-    "total_comments": 2278,
-    "demand_strength": 61049.62276056336,
-    "sample_posts": [
-      {
-        "subreddit": "appliances",
-        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
-        "selftext": "Hi r/Appliances,\n\nI’m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t•\tA no‑charge replacement (delivery, installation, removal included), or\n\n\t•\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I’m concerned this may be a platform‑level issue.\n\nI reviewed higher‑end GE Profile models, including PDT795SYVFS, and I’m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a “flagship” replacement.\n\nBecause of that, I’m now cons",
-        "score": 5,
-        "num_comments": 12,
-        "created_utc": 1769219847.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "relevance_score": 56.87999999999999,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch",
-          "miele"
-        ],
-        "matched_products": [
-          "washer",
-          "dishwasher"
-        ],
-        "matched_keywords": [
-          "reliability"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Is SpeedQueen hype or real? Trying to get good quality without breaking the bank",
-        "selftext": "I’m looking for a new washer and new dryer so I’ve been reading this sub a lot. Shortlisted down to LG laundry center, Bosch 800s and SpeedQueen SF7. They are respectively at approximately $2000, $3500, $5000 for the washer dryer combo.\n\nSay the LG lasts 10 years and SQ lasts 30 years…I could invest the $3000 difference for 10 years, buy the latest model in 10 years and another in 20 years, and still come out ahead.\n\nI’ve had nothing but good experiences with LG and even often hated Samsung washing machines. I’ve never had one fail despite owning several of them. Always still performed like new by the time we sell our place. So I’m hoping to understand whether and why I should spring for the premium ones like SpeedQueen. Thanks yall!",
-        "score": 31,
-        "num_comments": 70,
-        "created_utc": 1768988198.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
-        "relevance_score": 52.559999999999995,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "samsung",
-          "lg",
-          "bosch"
-        ],
-        "matched_products": [
-          "washing machine",
-          "washer",
-          "dryer"
-        ],
-        "matched_keywords": [
-          "ah"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Bosch",
-        "title": "New Bosch 800 fridge and dishwasher gripes",
-        "selftext": "I can’t be the only one. A few days in and some annoyances far:\n\nFrench door Fridge (b36ct80sns) - left fresh drawer can’t be opened without opening the right side door. However, right fresh drawer can be opened just with right door.\n\nFridge - how do I tell the current temp of the fridge? I tried both in fridge and app and it’s not very straightforward. Old fridge had current and set so easy to tell. Online searches don’t seem to work pressing the buttons.\n\nFridge - the secondary fan that turns on and off is quite loud. Not sure if normal.\n\nFridge - right door takes more push to close than it should. Push it to close and it stops before full close since it needs that extra hook.\n\nFreezer - ice tray is huge. Also didn’t get a scoop. I do like the shape though compared to the old half moons.\n\nDishwasher - can’t set time delay without using the app. My old one I could just set on device. I don’t want to have to use the app.\n\nDishwasher - controls just don’t feel that responsive or clear. ",
-        "score": 1,
-        "num_comments": 13,
-        "created_utc": 1769223127.0,
-        "url": "https://www.reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
-        "permalink": "https://reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
-        "relevance_score": 47.16,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch"
-        ],
-        "matched_products": [
-          "washer",
-          "fridge",
-          "freezer",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "troubleshooting",
-          "learning_intent",
-          "learning_intent",
-          "comparison"
-        ]
-      }
-    ],
-    "content_angle": "Appliance Buying Guides & Maintenance",
-    "example_videos": [
-      "Washer and dryer buying guide",
-      "HVAC maintenance tips",
-      "Refrigerator troubleshooting"
-    ],
-    "hashtags": [
-      "#appliances",
-      "#HVAC",
-      "#homeappliances",
-      "#maintenance"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "8-zpqWH9TIQ",
-        "title": "GE Dishwasher Repair - How to Replace the Lower Spray Arm (GE Part # WG04F01008)",
-        "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.partselect.com/PS10055477-GE-WG04F01008-SPRAY-ARM-LOWER.htm?SourceCode=3&SearchTerm=WG04F01008...",
-        "relevance_score": 70.62,
-        "scoring_breakdown": {
-          "semantic_score": 22.12,
-          "keyword_score": 30,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:arm",
-            "tfidf:spray arm",
-            "tfidf:spray",
-            "tfidf:dishwasher"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔2.2"
-          ]
-        }
-      },
-      {
-        "video_id": "AJUk34IO1ig",
-        "title": "Dishwasher Repair- Replacing the Lower Spray Arm & Support Assembly (GE Part # WD22X10008)",
-        "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS260529-GE-WD22X10008-Lower-Spray-Arm-and-Support-Assembly.htm?SourceCode=15  Click here for more information on this part, installation instructions and more.\n\nThis...",
-        "relevance_score": 67.61,
-        "scoring_breakdown": {
-          "semantic_score": 19.8,
-          "keyword_score": 30,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:arm",
-            "tfidf:spray arm",
-            "tfidf:spray",
-            "tfidf:dishwasher"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "q2c2uUlP13s",
-        "title": "How to Fix a Pressure Washer (Part 2 of 2)",
-        "channel": "fixtechguides",
-        "description_snippet": "After diagnosing the pressure washer pump and replacing its unloader valve, Mark demonstrates how to reassemble and lubricate the pump with step by step instructions.\n\nGet replacement parts...",
-        "relevance_score": 57.33,
-        "scoring_breakdown": {
-          "semantic_score": 13.7,
-          "keyword_score": 24,
-          "intent_score": 6.3999999999999995,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:replacement",
-            "tfidf:ve",
-            "brand:ge",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:3.5999999999999996↔1.2",
-            "how_to_guide:1.1↔3.3000000000000003",
-            "comparison:4.5↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "PedioYy2H8M",
-        "title": "How to Replace the Condenser Fan Motor on a GE Refrigerator",
-        "channel": "fixtechguides",
-        "description_snippet": "Get a replacement condenser fan motor for your GE refrigerator here: http://www.ereplacementparts.com/refrigerator-parts-c-174222_174338.html\n\nThis tutorial will show you how to remove and...",
-        "relevance_score": 54.37,
-        "scoring_breakdown": {
-          "semantic_score": 10.83,
-          "keyword_score": 27,
-          "intent_score": 4.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:fridge(83.33333333333334)",
-            "tfidf:ge",
-            "fuzzy_tfidf:door(75.0)",
-            "tfidf:replacement",
-            "tfidf:ve"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔3.3000000000000003",
-            "comparison:4.5↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "IcANzqOTgHY",
-        "title": "Dishwasher Repair - Replacing the Upper Spray Arm (GE Part # WD22X10045)",
-        "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS1020115-GE-WD22X10045-Upper-Spray-Arm.htm?SourceCode=15 Click here for more information on this part, installation instructions and more. \n\nThis particular Upper...",
-        "relevance_score": 66.72,
-        "scoring_breakdown": {
-          "semantic_score": 19.12,
-          "keyword_score": 30,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:arm",
-            "tfidf:spray arm",
-            "tfidf:spray",
-            "tfidf:dishwasher"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "utility_appliances",
-    "post_count": 10,
-    "avg_engagement": 245.4,
-    "avg_relevance": 19.386000000000003,
-    "total_comments": 517,
-    "demand_strength": 47573.244000000006,
-    "sample_posts": [
-      {
-        "subreddit": "Carpentry",
-        "title": "NEW TOOL - Seeking Product Tester in Raleigh/Durham NC Area",
-        "selftext": "Hi All,\n\nI’m an engineer here in the Raleigh-Durham area working on developing a new shop vacuum / dust extractor prototype. I’m looking for a few local people (Raleigh-Durham NC) who would be interested in testing it out for about a month or two and then filling out a short feedback survey.\n\nThis is not a sales pitch — no strings attached; I just need real-world testers to get input before I move into the next round of development.\n\nWhat I’m looking for:\n\n* You use your shop vac on a regular / near-daily basis\n* Ideally you’re already using a higher-end vacuum (Festool, Fein, Makita, Milwaukee, etc.) or at least care about things like:\n   * HEPA filtration\n   * auto tool start / power tool activation\n   * fine dust performance\n* You’re willing to actually use the vac in your normal workflow and provide honest feedback.\n\nIf you’re interested, drop a comment or DM me and I’ll follow up with details.\n\nThanks!",
-        "score": 48,
-        "num_comments": 18,
-        "created_utc": 1768918858.0,
-        "url": "https://i.redd.it/or3tblwojieg1.jpeg",
-        "permalink": "https://reddit.com/r/Carpentry/comments/1qi2ceg/new_tool_seeking_product_tester_in_raleighdurham/",
-        "relevance_score": 53.4,
-        "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "festool",
-          "ge"
-        ],
-        "matched_products": [
-          "vacuum",
-          "shop vac"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "learning_intent",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "HomeImprovement",
-        "title": "Basement smells musty after recent flooding. is dehumidifier enough or do I need more?",
-        "selftext": "Had about two inches of water in my basement last month after that crazy storm we got. Cleaned it up within 24 hours, ran fans, thought we were good. Now three weeks later there’s this persistent musty smell that won’t go away no matter how much I air it out.\n\nI grabbed a basic dehumidifier from the hardware store and it’s pulling water like crazy, tank fills up twice a day. But the smell is still there, especially near the drywall in the back corner.\n\nMy concern is mold growing inside the walls where I can’t see it. The drywall doesn’t look damaged from the outside but I know water wicks up and sits in there. Do I need to cut out the bottom two feet and replace it or is that overkill?\n\nMy wife wants to get one of those fancy air and purifier systems installed but I feel like that’s just masking the problem if there’s actual mold behind the walls. We need to fix the source first.\n\nI’ve been comparing dehumidifier specs and even checked wholesale pricing on alibaba just to understand wh",
-        "score": 11,
-        "num_comments": 8,
-        "created_utc": 1769090497.0,
-        "url": "https://www.reddit.com/r/HomeImprovement/comments/1qjvb3b/basement_smells_musty_after_recent_flooding_is/",
-        "permalink": "https://reddit.com/r/HomeImprovement/comments/1qjvb3b/basement_smells_musty_after_recent_flooding_is/",
-        "relevance_score": 26.16,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "dehumidifier",
-          "humidifier"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Ryobi",
-        "title": "Is this a good deal or should I wait for Ryobi days?",
-        "selftext": "Just need a cordless handheld compact vacuum like this one for quick daily cleanup on my car.",
-        "score": 1,
-        "num_comments": 4,
-        "created_utc": 1769293323.0,
-        "url": "https://i.redd.it/x5zz8skfhdfg1.jpeg",
-        "permalink": "https://reddit.com/r/ryobi/comments/1qm0uyv/is_this_a_good_deal_or_should_i_wait_for_ryobi/",
-        "relevance_score": 23.4,
-        "matched_brands": [
-          "ryobi",
-          "ryobi"
-        ],
-        "matched_products": [
-          "vacuum"
-        ],
-        "matched_keywords": [
-          "cordless",
-          "compact"
-        ],
-        "detected_intents": [
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Home Utility Equipment Reviews",
-    "example_videos": [
-      "Best shop vacuums 2024",
-      "Air purifier comparison",
-      "Dehumidifier buying guide"
-    ],
-    "hashtags": [
-      "#shopvac",
-      "#airpurifier",
-      "#homeimprovement",
-      "#utility"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "ilj1uAnVang",
-        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
-        "relevance_score": 43.22,
-        "scoring_breakdown": {
-          "semantic_score": 16.24,
-          "keyword_score": 15,
-          "intent_score": 2.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:need",
-            "tfidf:just",
-            "tfidf:tool"
-          ],
-          "intent_matches": [
-            "buying_advice:3.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "2d46qh8cH9g",
-        "title": "5 Essential Power Tools Every DIYer Should Have | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Power Tools can certainly make life easier in the workshop. But if you're new to the game, you may be wondering what tools you'll need to get things started. In this video, we'll cover 5 tools...",
-        "relevance_score": 39.23,
-        "scoring_breakdown": {
-          "semantic_score": 15.18,
-          "keyword_score": 13,
-          "intent_score": 2.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:need",
-            "fuzzy_tfidf:like(75.0)",
-            "tfidf:tool"
-          ],
-          "intent_matches": [
-            "buying_advice:3.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "hrzhqkJIvTE",
-        "title": "Dirt Devil Vacuum Repair - Replacing the Dust Bag (Dirt Devil Part # RO-010347)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Dust Bag for your Vacuum? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 38.24,
-        "scoring_breakdown": {
-          "semantic_score": 18.24,
-          "keyword_score": 18,
-          "intent_score": 2.0,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:need",
-            "tfidf:vacuum",
-            "fuzzy_tfidf:just(75.0)",
-            "tfidf:tool"
-          ],
-          "intent_matches": [
-            "buying_advice:3.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "v5bgEvFV_4U",
-        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
-        "relevance_score": 36.01,
-        "scoring_breakdown": {
-          "semantic_score": 13.3,
-          "keyword_score": 10,
-          "intent_score": 4.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:need",
-            "tfidf:tool"
-          ],
-          "intent_matches": [
-            "buying_advice:3.0↔1.0",
             "troubleshooting:2.4↔1.2"
           ]
         }
       },
       {
-        "video_id": "T11KkkFspos",
-        "title": "How to Replace a Vacuum Belt",
+        "video_id": "HqVEdc7xCRM",
+        "title": "Tool Tear Down: Cordless Batteries | What's Inside and How to Replace Them | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "Simple vacuum repairs like this one can be done right at home. Watch our vacuum belt replacement demonstration to learn these money-saving repair steps!\n\nGet vacuum belts and other vacuum replaceme...",
-        "relevance_score": 38.04,
+        "description_snippet": "When it comes to power tools, lots of folks like to go old-school and stick with their plug-in, corded tools. However, more and more people these days find themselves turning to another option:...",
+        "relevance_score": 52.5,
         "scoring_breakdown": {
-          "semantic_score": 16.26,
-          "keyword_score": 13,
+          "semantic_score": 19.38,
+          "keyword_score": 21,
           "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:vacuum",
-            "tfidf:like",
-            "fuzzy_tfidf:tool(75.0)"
+            "tfidf:tools",
+            "fuzzy_tfidf:battery(85.71428571428572)",
+            "tfidf:power",
+            "fuzzy_tfidf:love(75.0)",
+            "tfidf:batteries"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "ilj1uAnVang",
+        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
+        "relevance_score": 43.09,
+        "scoring_breakdown": {
+          "semantic_score": 18.15,
+          "keyword_score": 15,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:tools",
+            "tfidf:project",
+            "tfidf:power"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "HiYvgvVM890",
+        "title": "Complete Guide To Basic Trimmer Maintenance | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "Like any piece of Outdoor Power Equipment, it's important to perform routine maintenance on your trimmer, if it's going to perform its best. Fortunately, the maintenance of your trimmer is...",
+        "relevance_score": 39.38,
+        "scoring_breakdown": {
+          "semantic_score": 17.69,
+          "keyword_score": 11,
+          "intent_score": 1.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:base(75.0)",
+            "fuzzy_tfidf:foot(75.0)",
+            "tfidf:power"
+          ],
+          "intent_matches": [
+            "maintenance:0.8↔3.2"
+          ]
+        }
+      },
+      {
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 48.64,
+        "scoring_breakdown": {
+          "semantic_score": 10.42,
+          "keyword_score": 27,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:bosch",
+            "tfidf:power",
+            "brand:model",
+            "product:saw"
           ],
           "intent_matches": []
         }
@@ -1181,22 +472,22 @@
   },
   {
     "theme": "repair_help",
-    "post_count": 53,
-    "avg_engagement": 29.547169811320753,
-    "avg_relevance": 24.322641509433957,
-    "total_comments": 1636,
-    "demand_strength": 38089.256603773574,
+    "post_count": 59,
+    "avg_engagement": 159.94915254237287,
+    "avg_relevance": 22.1906440677966,
+    "total_comments": 2202,
+    "demand_strength": 209413.10806779654,
     "sample_posts": [
       {
         "subreddit": "appliances",
-        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
-        "selftext": "Hi r/Appliances,\n\nI’m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t•\tA no‑charge replacement (delivery, installation, removal included), or\n\n\t•\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I’m concerned this may be a platform‑level issue.\n\nI reviewed higher‑end GE Profile models, including PDT795SYVFS, and I’m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a “flagship” replacement.\n\nBecause of that, I’m now cons",
-        "score": 5,
-        "num_comments": 12,
-        "created_utc": 1769219847.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "relevance_score": 56.87999999999999,
+        "title": "Upgraded to a Bosch Benchmark Dishwasher from 500 Series",
+        "selftext": "We've been using the dishwasher that was in our house when we bought it about 5 years ago. It was a ca. 2012/2013 Bosch 500 dishwasher, had a few parts that were going bad but I replaced them (looking at your rinse aid dispenser and pocket handle!).\n\nOur double wall ovens needed replacement, so we went with Bosch, and decided to tackle the dishwasher at the same time. We went with the Bosch Benchmark with a bar handle over the Miele G 7186, taking advantage of a bundle discount. The handle exactly matches the handles on the oven. \n\nNo complaints, wish we would have done this 3 years ago when our original fridge died and we replaced it with a Bosch 800 (the french door with separate bins for fruits and veggies, highly recommended). Our standard cycle is Auto w/Sanitize. That was 2:47 in our previous dishwasher. It is now 2:18 and the dishes come out cleaner and dryer, and not even using CrystalDry. Whisper quiet, 39 dBa actually makes a difference because you have to be right on top of ",
+        "score": 17,
+        "num_comments": 17,
+        "created_utc": 1769714612.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "relevance_score": 57.35999999999999,
         "matched_brands": [
           "bosch",
           "ge",
@@ -1205,32 +496,60 @@
         ],
         "matched_products": [
           "washer",
+          "dryer",
+          "fridge",
           "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Still avoiding Samsung and LG Refrigerators?",
+        "selftext": "Our 6 year old GE fridge died (seems pretty typical these days) and I’ve been trying to decide what to replace it with. Wife really wants a quad door, and the options I see are some reasonably price Samsungs and LGs, and a much more expensive Frigidaire.\n\nWhen I google fridge advice, I see lots of posts from people saying to avoid Samsung and LG like the plague, and that the electronics and water systems tend to die within 2-3 years right when the warranty expires. A lot of that advice is from posts 2-5 years old.\n\nOf course I also find posts saying to avoid Frigidaires and GEs too… seems like every fridge brand has problems these days unless you go for the high end brands. Is there really that much difference between a Samsung/LG and a Frigidaire? Is there just more stuff in the former that can break which causes the unreliability perception? \n\nHas the advice to avoid LG and Samsung changed in recent years? Has their reliability improved, or does it just take a few years for people to",
+        "score": 18,
+        "num_comments": 51,
+        "created_utc": 1769708446.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "relevance_score": 49.31999999999999,
+        "matched_brands": [
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire"
+        ],
+        "matched_products": [
+          "refrigerator",
+          "fridge"
         ],
         "matched_keywords": [
           "reliability"
         ],
         "detected_intents": [
           "buying_intent",
-          "buying_intent",
           "troubleshooting",
           "learning_intent",
           "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
+          "comparison"
         ]
       },
       {
-        "subreddit": "Bosch",
-        "title": "New Bosch 800 fridge and dishwasher gripes",
-        "selftext": "I can’t be the only one. A few days in and some annoyances far:\n\nFrench door Fridge (b36ct80sns) - left fresh drawer can’t be opened without opening the right side door. However, right fresh drawer can be opened just with right door.\n\nFridge - how do I tell the current temp of the fridge? I tried both in fridge and app and it’s not very straightforward. Old fridge had current and set so easy to tell. Online searches don’t seem to work pressing the buttons.\n\nFridge - the secondary fan that turns on and off is quite loud. Not sure if normal.\n\nFridge - right door takes more push to close than it should. Push it to close and it stops before full close since it needs that extra hook.\n\nFreezer - ice tray is huge. Also didn’t get a scoop. I do like the shape though compared to the old half moons.\n\nDishwasher - can’t set time delay without using the app. My old one I could just set on device. I don’t want to have to use the app.\n\nDishwasher - controls just don’t feel that responsive or clear. ",
-        "score": 1,
-        "num_comments": 13,
-        "created_utc": 1769223127.0,
-        "url": "https://www.reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
-        "permalink": "https://reddit.com/r/bosch/comments/1qlb823/new_bosch_800_fridge_and_dishwasher_gripes/",
-        "relevance_score": 47.16,
+        "subreddit": "appliances",
+        "title": "Anyway… house fire, so need all new appliances",
+        "selftext": "Over the last 15 years I’ve went through 6 oven motherboards. (Down draft Jenn Air’s with over  10k in replacement and repairs) \n\nLooking for a premium-ish dual fuel gas range with zero electronics. \n\nAlso need a quality fridge (also sans ridiculous wifi etc) in a non counter depth with external crushed ice and water. Ideally a  high volume icemaker. \n\nI’ll probably replace our brilliant Bosch dishwasher and I guess buy a stupid microwave drawer. \n\nAny brand suggestions for these that have had a good track record in the last 10 years? \n\n",
+        "score": 32,
+        "num_comments": 51,
+        "created_utc": 1769396834.0,
+        "url": "https://i.redd.it/9zuq8lv71mfg1.jpeg",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qn4aci/anyway_house_fire_so_need_all_new_appliances/",
+        "relevance_score": 42.6,
         "matched_brands": [
           "bosch",
           "ge",
@@ -1239,47 +558,13 @@
         "matched_products": [
           "washer",
           "fridge",
-          "freezer",
           "dishwasher"
         ],
         "matched_keywords": [],
         "detected_intents": [
-          "troubleshooting",
-          "learning_intent",
-          "learning_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "appliancerepair",
-        "title": "Maytag Dryer cycle selector issue",
-        "selftext": "Hey all, looking for some advice on how to diagnose/fix my Maytag Epic Z Gas Dryer Model# MEDZ600TW2 cycle selector not changing/skipping cycles.\n\nAs per video, turning the cycle selector knob will sometimes do nothing and sometimes will jump to another cycle (sometime the next one, other times it'll jump a few/several ahead).\n\nWhat I've tried:\nDisconnected power, power drained the dryer by pressing the power button and waiting several minutes -- no effect.\nPulled the knob off and turned the D-shaft manually by hand -- same issue (not the knob itself)\nReseated the ribbon cable on the control board from the front display area -- no effect.\n\nIs there any way to confirm what the issue is? Ideally before ordering parts... Or even know what parts to order?\n\nThanks!\n\nUpdate 1 of #?: Tried using a vacuum to suck dust out from the gap from the D-shaft and the front panel. Also tried compressed air (didn't have electronic cleaner spray on hand). Took the front plate off and removed the security",
-        "score": 7,
-        "num_comments": 4,
-        "created_utc": 1769115981.0,
-        "url": "https://v.redd.it/vh6biyf3uyeg1",
-        "permalink": "https://reddit.com/r/appliancerepair/comments/1qk6skr/maytag_dryer_cycle_selector_issue/",
-        "relevance_score": 45.6,
-        "matched_brands": [
-          "ge",
-          "maytag"
-        ],
-        "matched_products": [
-          "dryer",
-          "vacuum"
-        ],
-        "matched_keywords": [
-          "volt",
-          "ah"
-        ],
-        "detected_intents": [
           "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent",
-          "learning_intent",
-          "maintenance"
+          "buying_intent",
+          "troubleshooting"
         ]
       }
     ],
@@ -1297,29 +582,28 @@
     ],
     "matched_videos": [
       {
-        "video_id": "RCJ87xZhiMg",
-        "title": "Refrigerator Repair - Replacing the Right-Hand Drawer Slide Assembly (GE Part# WR72X240)",
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
         "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 73.62,
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 60.36,
         "scoring_breakdown": {
-          "semantic_score": 19.83,
-          "keyword_score": 30,
-          "intent_score": 6.800000000000001,
+          "semantic_score": 19.03,
+          "keyword_score": 25,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:fridge(83.33333333333334)",
-            "tfidf:ge",
             "tfidf:model",
-            "fuzzy_tfidf:selector(75.0)",
-            "tfidf:right"
+            "tfidf:dishwasher",
+            "fuzzy_tfidf:went(75.0)",
+            "brand:model",
+            "brand:ge"
           ],
           "intent_matches": [
-            "troubleshooting:8.4↔1.2",
-            "how_to_guide:2.2↔3.3000000000000003"
+            "troubleshooting:2.4↔1.2"
           ]
         }
       },
@@ -1328,52 +612,24 @@
         "title": "Refrigerator Repair - Replacing the Door Closing Cam (GE Part# WR2X4901)",
         "channel": "partselect",
         "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 72.94,
+        "relevance_score": 56.68,
         "scoring_breakdown": {
-          "semantic_score": 19.31,
-          "keyword_score": 30,
-          "intent_score": 6.800000000000001,
+          "semantic_score": 18.2,
+          "keyword_score": 23,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:fridge(83.33333333333334)",
-            "tfidf:ge",
             "tfidf:model",
-            "fuzzy_tfidf:selector(75.0)",
-            "tfidf:door"
+            "fuzzy_tfidf:fridge(83.33333333333334)",
+            "fuzzy_tfidf:replace(85.71428571428572)",
+            "brand:model",
+            "brand:ge"
           ],
           "intent_matches": [
-            "troubleshooting:8.4↔1.2",
-            "how_to_guide:2.2↔3.3000000000000003"
-          ]
-        }
-      },
-      {
-        "video_id": "L91n9Y3asbI",
-        "title": "Expensive vs. Cheap Multimeters: Which One is Right For You? | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Owning a multimeter can be extremely helpful for diagnosing issues with your power tools, power equipment and appliances. But knowing which type of multimeter to buy, when you should splurge,...",
-        "relevance_score": 54.05,
-        "scoring_breakdown": {
-          "semantic_score": 10.34,
-          "keyword_score": 29,
-          "intent_score": 9.8,
-          "content_boost": 1.1,
-          "content_type": "comparison"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:issue",
-            "tfidf:power",
-            "fuzzy_tfidf:knob(75.0)",
-            "tfidf:right"
-          ],
-          "intent_matches": [
-            "buying_advice:8.0↔4.0",
-            "comparison:4.5↔0.9"
+            "troubleshooting:2.4↔1.2"
           ]
         }
       },
@@ -1382,74 +638,341 @@
         "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
         "channel": "fixtechguides",
         "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
-        "relevance_score": 52.27,
+        "relevance_score": 46.44,
         "scoring_breakdown": {
-          "semantic_score": 5.81,
+          "semantic_score": 5.72,
           "keyword_score": 30,
-          "intent_score": 4.4,
+          "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:ge",
             "tfidf:model",
-            "tfidf:power",
-            "brand:model",
-            "brand:ge"
+            "tfidf:bosch",
+            "fuzzy_tfidf:went(75.0)",
+            "tfidf:replace",
+            "brand:model"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "6YKI9gcRIhc",
+        "title": "How to Replace the Brushes on a DeWalt DW718 Miter Saw--A Quick Fix (Part # 381028-08)",
+        "channel": "fixtechguides",
+        "description_snippet": "Replacing the brushes on your DeWalt DW718 miter saw can help improve the saw's performance. Mark is here to guide you through the brush-replacing steps in this video. \n\nGet replacement brushes...",
+        "relevance_score": 43.32,
+        "scoring_breakdown": {
+          "semantic_score": 12.73,
+          "keyword_score": 14,
+          "intent_score": 6.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:went(75.0)",
+            "tfidf:replace",
+            "brand:ge",
+            "entity:ge"
           ],
           "intent_matches": [
-            "how_to_guide:2.2↔2.2"
+            "troubleshooting:2.4↔2.4",
+            "comparison:2.7↔0.9"
           ]
         }
       },
       {
-        "video_id": "INM-5C-dU6c",
-        "title": "Refrigerator Repair - Installing the Right-Hand Drawer Slide Assembly (GE Part # WR72X242)",
+        "video_id": "jivKTK44sAo",
+        "title": "Refrigerator Repair - Replacing the Fridge Door Shelf End Cap (Frigidaire Part# 215267701)",
         "channel": "partselect",
         "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 72.74,
+        "relevance_score": 56.09,
         "scoring_breakdown": {
-          "semantic_score": 19.16,
-          "keyword_score": 30,
-          "intent_score": 6.800000000000001,
+          "semantic_score": 15.75,
+          "keyword_score": 25,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:fridge(83.33333333333334)",
-            "tfidf:ge",
             "tfidf:model",
-            "fuzzy_tfidf:selector(75.0)",
-            "tfidf:right"
+            "tfidf:fridge",
+            "fuzzy_tfidf:replace(85.71428571428572)",
+            "brand:model",
+            "brand:ge"
           ],
           "intent_matches": [
-            "troubleshooting:8.4↔1.2",
-            "how_to_guide:2.2↔3.3000000000000003"
+            "troubleshooting:2.4↔1.2"
           ]
         }
       }
     ]
   },
   {
-    "theme": "buying_advice",
-    "post_count": 44,
-    "avg_engagement": 16.522727272727273,
-    "avg_relevance": 24.40490909090909,
-    "total_comments": 1105,
-    "demand_strength": 17742.36890909091,
+    "theme": "how_to_guides",
+    "post_count": 51,
+    "avg_engagement": 154.72549019607843,
+    "avg_relevance": 23.215999999999994,
+    "total_comments": 1767,
+    "demand_strength": 183197.45599999995,
+    "sample_posts": [
+      {
+        "subreddit": "woodworking",
+        "title": "My Second Commissioned Woodworking Project, and first Commercial project",
+        "selftext": "Before, During, and After\n\n30 foot L shaped White oak top, pine frame, base framing, and side paneling\n\n$12.2k for the base, countertop, and running 8 outlets and their wiring up through the last minute pillar we built to solve that issue \n\nWe had 14 days to complete the full project start to finish, due to the restaurant owner contacting us late in the process and me being an insane person who seized the opportunity to get my foot in the commercial door\n\nFor context, I have harbor freight milling tools, like a Bauer Jointer, Hercules Planer, Hercules track with circ saw, and Milwaukee battery tools, and I have myself and 2 relatively inexperienced men on my team (I started as a handyman and carpenter 3-4 years ago to allow funding tools and skill development for my woodworking hobby) \n\nThe top is finished with Hardwax oil, and then Carbon Nanocoat. \n\nIt is attached with figure 8 fasteners sunk with a Forstner bit, and nothing to prevent tangential movement \n\nMy one mistake was that du",
+        "score": 595,
+        "num_comments": 27,
+        "created_utc": 1769752191.0,
+        "url": "https://www.reddit.com/gallery/1qqx4sv",
+        "permalink": "https://reddit.com/r/woodworking/comments/1qqx4sv/my_second_commissioned_woodworking_project_and/",
+        "relevance_score": 67.54799999999999,
+        "matched_brands": [
+          "milwaukee",
+          "milwaukee",
+          "bauer",
+          "hercules",
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "planer"
+        ],
+        "matched_keywords": [
+          "battery",
+          "woodworking"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Still avoiding Samsung and LG Refrigerators?",
+        "selftext": "Our 6 year old GE fridge died (seems pretty typical these days) and I’ve been trying to decide what to replace it with. Wife really wants a quad door, and the options I see are some reasonably price Samsungs and LGs, and a much more expensive Frigidaire.\n\nWhen I google fridge advice, I see lots of posts from people saying to avoid Samsung and LG like the plague, and that the electronics and water systems tend to die within 2-3 years right when the warranty expires. A lot of that advice is from posts 2-5 years old.\n\nOf course I also find posts saying to avoid Frigidaires and GEs too… seems like every fridge brand has problems these days unless you go for the high end brands. Is there really that much difference between a Samsung/LG and a Frigidaire? Is there just more stuff in the former that can break which causes the unreliability perception? \n\nHas the advice to avoid LG and Samsung changed in recent years? Has their reliability improved, or does it just take a few years for people to",
+        "score": 18,
+        "num_comments": 51,
+        "created_utc": 1769708446.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "relevance_score": 49.31999999999999,
+        "matched_brands": [
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire"
+        ],
+        "matched_products": [
+          "refrigerator",
+          "fridge"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "lawncare",
+        "title": "Help, any ideas?",
+        "selftext": "I’m located in Aiken SC and I’m wondering what’s the best way to clear this out. I have a Gravely zero turn mower and a Stihl weed eater, edger and long extended range chainsaw.  I also have a Huskvarna chain saw.  I also have a Champion wood chipper and a champion tiler.  I’m willing to do the work over time.  Looking for suggestions on how to attack this.  It’s about an acre of land to clear.  What do you think? Any suggestions are welcome. Thanks 😊 ",
+        "score": 4,
+        "num_comments": 27,
+        "created_utc": 1769743023.0,
+        "url": "https://www.reddit.com/gallery/1qqu0t8",
+        "permalink": "https://reddit.com/r/lawncare/comments/1qqu0t8/help_any_ideas/",
+        "relevance_score": 42.0,
+        "matched_brands": [
+          "stihl",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "weed eater",
+          "edger",
+          "zero turn",
+          "chipper"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "4018FnLXUD0",
+        "title": "How to Clear the Samsung Range C-F2 Error Code | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "The C-F2 error on your Samsung oven is an indication that there is a communication problem between the touchpad and the main control board. You may notice that the touch controls are either...",
+        "relevance_score": 60.28,
+        "scoring_breakdown": {
+          "semantic_score": 8.97,
+          "keyword_score": 28,
+          "intent_score": 9.399999999999999,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:clear",
+            "tfidf:samsung",
+            "fuzzy_tfidf:tools(80.0)",
+            "fuzzy_tfidf:samsung lg(80.0)",
+            "brand:samsung"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔3.5999999999999996",
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 54.27,
+        "scoring_breakdown": {
+          "semantic_score": 18.35,
+          "keyword_score": 19,
+          "intent_score": 4.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:years(80.0)",
+            "tfidf:tools",
+            "tfidf:project",
+            "brand:ge",
+            "entity:ge"
+          ],
+          "intent_matches": [
+            "buying_advice:8.0↔1.0",
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "4pCN-BDBG6I",
+        "title": "How to Change the Blade Clamp on the Milwaukee Sawzall",
+        "channel": "fixtechguides",
+        "description_snippet": "Visit http://eReplacementParts.com for power tool replacement parts.\n\nSUBSCRIBE AND NEVER MISS ANOTHER VIDEO!\nhttp://www.youtube.com/subscription_center?add_user=ereplacementparts\n\nCONNECT...",
+        "relevance_score": 47.94,
+        "scoring_breakdown": {
+          "semantic_score": 9.88,
+          "keyword_score": 23,
+          "intent_score": 4.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:champion(75.0)",
+            "fuzzy_tfidf:tools(80.0)",
+            "tfidf:saw",
+            "brand:ge",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔1.1",
+            "comparison:0.9↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "nSU_ary56dA",
+        "title": "How to Replace a Chainsaw Chain",
+        "channel": "fixtechguides",
+        "description_snippet": "Fast demonstration for how to replace a chainsaw chain, a common chainsaw maintenance item.\n\nGet a replacement chainsaw chain for your saw here: http://www.ereplacementparts.com/chainsaw-chains-c-7...",
+        "relevance_score": 46.68,
+        "scoring_breakdown": {
+          "semantic_score": 13.31,
+          "keyword_score": 17,
+          "intent_score": 5.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "brand:ge",
+            "product:saw",
+            "product:chainsaw",
+            "entity:ge"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔2.2",
+            "comparison:0.9↔0.9",
+            "maintenance:0.8↔0.8"
+          ]
+        }
+      },
+      {
+        "video_id": "7u28aG7NfLk",
+        "title": "Chainsaw Troubleshooting: How to Properly Clean Your Chainsaw | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "Maintaining yours chainsaw can be a little extra work, but can have HUGE rewards. A clean chainsaw is an efficient chainsaw, and in this video, we'll show you how to properly clean yours, so...",
+        "relevance_score": 51.05,
+        "scoring_breakdown": {
+          "semantic_score": 12.47,
+          "keyword_score": 23,
+          "intent_score": 3.8000000000000003,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:clear(80.0)",
+            "fuzzy_tfidf:champion(76.92307692307692)",
+            "tfidf:saw",
+            "brand:ge",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔2.2",
+            "maintenance:0.8↔2.4000000000000004"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 82,
+    "avg_engagement": 90.78048780487805,
+    "avg_relevance": 19.966097560975594,
+    "total_comments": 3394,
+    "demand_strength": 148627.63024390233,
     "sample_posts": [
       {
         "subreddit": "appliances",
-        "title": "GE Profile dishwasher spray arm melting (5 failures) replacement vs Bosch Miele?",
-        "selftext": "Hi r/Appliances,\n\nI’m looking for some advice from people with firsthand appliance experience.\n\nI have a GE Profile dishwasher (model PDP715SYVFS) and have now experienced five separate spray arm melting failures. GE replaced parts multiple times, but the same issue kept recurring. The case was escalated to engineering and product quality, and GE has now offered either:\n\n\t•\tA no‑charge replacement (delivery, installation, removal included), or\n\n\t•\tA cash buyout equal to the purchase price of the unit (not including install or tax)\n\nI initially planned to stay with GE for simplicity, but after researching replacement options, I’m concerned this may be a platform‑level issue.\n\nI reviewed higher‑end GE Profile models, including PDT795SYVFS, and I’m seeing reports of the same spray arm melting issue. The spray arm and heater layout appear very similar across multiple GE Profile models, which makes me uneasy about recurrence even with a “flagship” replacement.\n\nBecause of that, I’m now cons",
-        "score": 5,
-        "num_comments": 12,
-        "created_utc": 1769219847.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qla0kg/ge_profile_dishwasher_spray_arm_melting_5/",
-        "relevance_score": 56.87999999999999,
+        "title": "Upgraded to a Bosch Benchmark Dishwasher from 500 Series",
+        "selftext": "We've been using the dishwasher that was in our house when we bought it about 5 years ago. It was a ca. 2012/2013 Bosch 500 dishwasher, had a few parts that were going bad but I replaced them (looking at your rinse aid dispenser and pocket handle!).\n\nOur double wall ovens needed replacement, so we went with Bosch, and decided to tackle the dishwasher at the same time. We went with the Bosch Benchmark with a bar handle over the Miele G 7186, taking advantage of a bundle discount. The handle exactly matches the handles on the oven. \n\nNo complaints, wish we would have done this 3 years ago when our original fridge died and we replaced it with a Bosch 800 (the french door with separate bins for fruits and veggies, highly recommended). Our standard cycle is Auto w/Sanitize. That was 2:47 in our previous dishwasher. It is now 2:18 and the dishes come out cleaner and dryer, and not even using CrystalDry. Whisper quiet, 39 dBa actually makes a difference because you have to be right on top of ",
+        "score": 17,
+        "num_comments": 17,
+        "created_utc": 1769714612.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "relevance_score": 57.35999999999999,
         "matched_brands": [
           "bosch",
           "ge",
@@ -1458,78 +981,316 @@
         ],
         "matched_products": [
           "washer",
+          "dryer",
+          "fridge",
           "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Still avoiding Samsung and LG Refrigerators?",
+        "selftext": "Our 6 year old GE fridge died (seems pretty typical these days) and I’ve been trying to decide what to replace it with. Wife really wants a quad door, and the options I see are some reasonably price Samsungs and LGs, and a much more expensive Frigidaire.\n\nWhen I google fridge advice, I see lots of posts from people saying to avoid Samsung and LG like the plague, and that the electronics and water systems tend to die within 2-3 years right when the warranty expires. A lot of that advice is from posts 2-5 years old.\n\nOf course I also find posts saying to avoid Frigidaires and GEs too… seems like every fridge brand has problems these days unless you go for the high end brands. Is there really that much difference between a Samsung/LG and a Frigidaire? Is there just more stuff in the former that can break which causes the unreliability perception? \n\nHas the advice to avoid LG and Samsung changed in recent years? Has their reliability improved, or does it just take a few years for people to",
+        "score": 18,
+        "num_comments": 51,
+        "created_utc": 1769708446.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "relevance_score": 49.31999999999999,
+        "matched_brands": [
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire"
+        ],
+        "matched_products": [
+          "refrigerator",
+          "fridge"
         ],
         "matched_keywords": [
           "reliability"
         ],
         "detected_intents": [
           "buying_intent",
-          "buying_intent",
           "troubleshooting",
           "learning_intent",
           "comparison",
-          "comparison",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Carpentry",
-        "title": "NEW TOOL - Seeking Product Tester in Raleigh/Durham NC Area",
-        "selftext": "Hi All,\n\nI’m an engineer here in the Raleigh-Durham area working on developing a new shop vacuum / dust extractor prototype. I’m looking for a few local people (Raleigh-Durham NC) who would be interested in testing it out for about a month or two and then filling out a short feedback survey.\n\nThis is not a sales pitch — no strings attached; I just need real-world testers to get input before I move into the next round of development.\n\nWhat I’m looking for:\n\n* You use your shop vac on a regular / near-daily basis\n* Ideally you’re already using a higher-end vacuum (Festool, Fein, Makita, Milwaukee, etc.) or at least care about things like:\n   * HEPA filtration\n   * auto tool start / power tool activation\n   * fine dust performance\n* You’re willing to actually use the vac in your normal workflow and provide honest feedback.\n\nIf you’re interested, drop a comment or DM me and I’ll follow up with details.\n\nThanks!",
-        "score": 48,
-        "num_comments": 18,
-        "created_utc": 1768918858.0,
-        "url": "https://i.redd.it/or3tblwojieg1.jpeg",
-        "permalink": "https://reddit.com/r/Carpentry/comments/1qi2ceg/new_tool_seeking_product_tester_in_raleighdurham/",
-        "relevance_score": 53.4,
-        "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "festool",
-          "ge"
-        ],
-        "matched_products": [
-          "vacuum",
-          "shop vac"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "learning_intent",
-          "maintenance"
+          "comparison"
         ]
       },
       {
         "subreddit": "appliances",
-        "title": "Is SpeedQueen hype or real? Trying to get good quality without breaking the bank",
-        "selftext": "I’m looking for a new washer and new dryer so I’ve been reading this sub a lot. Shortlisted down to LG laundry center, Bosch 800s and SpeedQueen SF7. They are respectively at approximately $2000, $3500, $5000 for the washer dryer combo.\n\nSay the LG lasts 10 years and SQ lasts 30 years…I could invest the $3000 difference for 10 years, buy the latest model in 10 years and another in 20 years, and still come out ahead.\n\nI’ve had nothing but good experiences with LG and even often hated Samsung washing machines. I’ve never had one fail despite owning several of them. Always still performed like new by the time we sell our place. So I’m hoping to understand whether and why I should spring for the premium ones like SpeedQueen. Thanks yall!",
-        "score": 31,
-        "num_comments": 70,
-        "created_utc": 1768988198.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qitk03/is_speedqueen_hype_or_real_trying_to_get_good/",
-        "relevance_score": 52.559999999999995,
+        "title": "Anyway… house fire, so need all new appliances",
+        "selftext": "Over the last 15 years I’ve went through 6 oven motherboards. (Down draft Jenn Air’s with over  10k in replacement and repairs) \n\nLooking for a premium-ish dual fuel gas range with zero electronics. \n\nAlso need a quality fridge (also sans ridiculous wifi etc) in a non counter depth with external crushed ice and water. Ideally a  high volume icemaker. \n\nI’ll probably replace our brilliant Bosch dishwasher and I guess buy a stupid microwave drawer. \n\nAny brand suggestions for these that have had a good track record in the last 10 years? \n\n",
+        "score": 32,
+        "num_comments": 51,
+        "created_utc": 1769396834.0,
+        "url": "https://i.redd.it/9zuq8lv71mfg1.jpeg",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qn4aci/anyway_house_fire_so_need_all_new_appliances/",
+        "relevance_score": 42.6,
         "matched_brands": [
           "bosch",
           "ge",
-          "samsung",
-          "lg",
           "bosch"
         ],
         "matched_products": [
-          "washing machine",
           "washer",
-          "dryer"
+          "fridge",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 60.36,
+        "scoring_breakdown": {
+          "semantic_score": 19.03,
+          "keyword_score": 25,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:dishwasher",
+            "fuzzy_tfidf:went(75.0)",
+            "brand:model",
+            "brand:ge"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "fwCHyaIVsq8",
+        "title": "Refrigerator Repair - Replacing the Door Closing Cam (GE Part# WR2X4901)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 56.68,
+        "scoring_breakdown": {
+          "semantic_score": 18.2,
+          "keyword_score": 23,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:fridge(83.33333333333334)",
+            "fuzzy_tfidf:replace(85.71428571428572)",
+            "brand:model",
+            "brand:ge"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 46.44,
+        "scoring_breakdown": {
+          "semantic_score": 5.72,
+          "keyword_score": 30,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:bosch",
+            "fuzzy_tfidf:went(75.0)",
+            "tfidf:replace",
+            "brand:model"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "6YKI9gcRIhc",
+        "title": "How to Replace the Brushes on a DeWalt DW718 Miter Saw--A Quick Fix (Part # 381028-08)",
+        "channel": "fixtechguides",
+        "description_snippet": "Replacing the brushes on your DeWalt DW718 miter saw can help improve the saw's performance. Mark is here to guide you through the brush-replacing steps in this video. \n\nGet replacement brushes...",
+        "relevance_score": 43.32,
+        "scoring_breakdown": {
+          "semantic_score": 12.73,
+          "keyword_score": 14,
+          "intent_score": 6.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:went(75.0)",
+            "tfidf:replace",
+            "brand:ge",
+            "entity:ge"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔2.4",
+            "comparison:2.7↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "jivKTK44sAo",
+        "title": "Refrigerator Repair - Replacing the Fridge Door Shelf End Cap (Frigidaire Part# 215267701)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 56.09,
+        "scoring_breakdown": {
+          "semantic_score": 15.75,
+          "keyword_score": 25,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:fridge",
+            "fuzzy_tfidf:replace(85.71428571428572)",
+            "brand:model",
+            "brand:ge"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 57,
+    "avg_engagement": 46.0,
+    "avg_relevance": 26.515789473684208,
+    "total_comments": 2255,
+    "demand_strength": 69524.4,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "Upgraded to a Bosch Benchmark Dishwasher from 500 Series",
+        "selftext": "We've been using the dishwasher that was in our house when we bought it about 5 years ago. It was a ca. 2012/2013 Bosch 500 dishwasher, had a few parts that were going bad but I replaced them (looking at your rinse aid dispenser and pocket handle!).\n\nOur double wall ovens needed replacement, so we went with Bosch, and decided to tackle the dishwasher at the same time. We went with the Bosch Benchmark with a bar handle over the Miele G 7186, taking advantage of a bundle discount. The handle exactly matches the handles on the oven. \n\nNo complaints, wish we would have done this 3 years ago when our original fridge died and we replaced it with a Bosch 800 (the french door with separate bins for fruits and veggies, highly recommended). Our standard cycle is Auto w/Sanitize. That was 2:47 in our previous dishwasher. It is now 2:18 and the dishes come out cleaner and dryer, and not even using CrystalDry. Whisper quiet, 39 dBa actually makes a difference because you have to be right on top of ",
+        "score": 17,
+        "num_comments": 17,
+        "created_utc": 1769714612.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqi9qv/upgraded_to_a_bosch_benchmark_dishwasher_from_500/",
+        "relevance_score": 57.35999999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer",
+          "fridge",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita Maktrak Medium Toolboxes",
+        "selftext": "A couple details and thoughts on these medium Maktrak boxes. Haven’t seen any pictures previously on how these tools fit these.\n\nDon’t think I’ll be keeping them. I’m impressed with the quality. Super heavy duty. My use-case just isn’t there. Having these tools in them actually makes them quite heavy and tough to access from that bottom shelf in my workbench. I’m just an average dude looking for nice tool storage at my home.\n\nWhat got me looking into these is that I didn’t have a case for that reciprocating saw nor the sander. The standard case that originally came with the drills is actually quite functional and way smaller and lighter. Of course not as heavy duty. At the price of these two boxes, $160, I could probably hunt down a brushless Makita saw with a case included somewhere. I do love that saw I already have though, it kicks ass. One of my most prized possessions.\n\nTo get everything loaded into these two boxes I had to take most of the organizers out of them. The organizer I ",
+        "score": 54,
+        "num_comments": 33,
+        "created_utc": 1769751049.0,
+        "url": "https://www.reddit.com/gallery/1qqws3j",
+        "permalink": "https://reddit.com/r/Makita/comments/1qqws3j/makita_maktrak_medium_toolboxes/",
+        "relevance_score": 49.92,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "reciprocating saw"
         ],
         "matched_keywords": [
-          "ah"
+          "brushless",
+          "contractor",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Still avoiding Samsung and LG Refrigerators?",
+        "selftext": "Our 6 year old GE fridge died (seems pretty typical these days) and I’ve been trying to decide what to replace it with. Wife really wants a quad door, and the options I see are some reasonably price Samsungs and LGs, and a much more expensive Frigidaire.\n\nWhen I google fridge advice, I see lots of posts from people saying to avoid Samsung and LG like the plague, and that the electronics and water systems tend to die within 2-3 years right when the warranty expires. A lot of that advice is from posts 2-5 years old.\n\nOf course I also find posts saying to avoid Frigidaires and GEs too… seems like every fridge brand has problems these days unless you go for the high end brands. Is there really that much difference between a Samsung/LG and a Frigidaire? Is there just more stuff in the former that can break which causes the unreliability perception? \n\nHas the advice to avoid LG and Samsung changed in recent years? Has their reliability improved, or does it just take a few years for people to",
+        "score": 18,
+        "num_comments": 51,
+        "created_utc": 1769708446.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1qqfc8v/still_avoiding_samsung_and_lg_refrigerators/",
+        "relevance_score": 49.31999999999999,
+        "matched_brands": [
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire"
+        ],
+        "matched_products": [
+          "refrigerator",
+          "fridge"
+        ],
+        "matched_keywords": [
+          "reliability"
         ],
         "detected_intents": [
           "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
           "comparison"
         ]
       }
@@ -1548,125 +1309,124 @@
     ],
     "matched_videos": [
       {
-        "video_id": "8-zpqWH9TIQ",
-        "title": "GE Dishwasher Repair - How to Replace the Lower Spray Arm (GE Part # WG04F01008)",
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
         "channel": "partselect",
-        "description_snippet": "Click here for more information on this part, installation instructions and more. https://www.partselect.com/PS10055477-GE-WG04F01008-SPRAY-ARM-LOWER.htm?SourceCode=3&SearchTerm=WG04F01008...",
-        "relevance_score": 63.89,
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 58.72,
         "scoring_breakdown": {
-          "semantic_score": 20.15,
-          "keyword_score": 29,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:spray",
-            "tfidf:spray arm",
-            "tfidf:arm",
-            "brand:ge"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "AJUk34IO1ig",
-        "title": "Dishwasher Repair- Replacing the Lower Spray Arm & Support Assembly (GE Part # WD22X10008)",
-        "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS260529-GE-WD22X10008-Lower-Spray-Arm-and-Support-Assembly.htm?SourceCode=15  Click here for more information on this part, installation instructions and more.\n\nThis...",
-        "relevance_score": 61.3,
-        "scoring_breakdown": {
-          "semantic_score": 18.15,
-          "keyword_score": 29,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:spray",
-            "tfidf:spray arm",
-            "tfidf:arm",
-            "brand:ge"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "2d46qh8cH9g",
-        "title": "5 Essential Power Tools Every DIYer Should Have | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Power Tools can certainly make life easier in the workshop. But if you're new to the game, you may be wondering what tools you'll need to get things started. In this video, we'll cover 5 tools...",
-        "relevance_score": 53.91,
-        "scoring_breakdown": {
-          "semantic_score": 10.47,
-          "keyword_score": 29,
-          "intent_score": 2.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:tool",
-            "fuzzy_tfidf:years(80.0)",
-            "tfidf:new",
-            "tfidf:replacement"
-          ],
-          "intent_matches": [
-            "buying_advice:8.0↔1.0"
-          ]
-        }
-      },
-      {
-        "video_id": "vZwollxOtdU",
-        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
-        "channel": "fixtechguides",
-        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
-        "relevance_score": 50.28,
-        "scoring_breakdown": {
-          "semantic_score": 6.88,
-          "keyword_score": 30,
-          "intent_score": 1.8,
+          "semantic_score": 17.77,
+          "keyword_score": 25,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:ge",
-            "tfidf:replacement",
+            "fuzzy_tfidf:case(75.0)",
+            "tfidf:dishwasher",
             "brand:model",
             "brand:ge"
           ],
           "intent_matches": [
-            "comparison:4.5↔0.9"
+            "troubleshooting:2.4↔1.2"
           ]
         }
       },
       {
-        "video_id": "IcANzqOTgHY",
-        "title": "Dishwasher Repair - Replacing the Upper Spray Arm (GE Part # WD22X10045)",
+        "video_id": "MPGIHx_xy_M",
+        "title": "Is This The Best Dishwasher of 2025?? This Dishwasher is the Best Bang for Your Buck!",
         "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS1020115-GE-WD22X10045-Upper-Spray-Arm.htm?SourceCode=15 Click here for more information on this part, installation instructions and more. \n\nThis particular Upper...",
-        "relevance_score": 60.72,
+        "description_snippet": "What's the Best Dishwasher to Buy in 2025? We've scoured through hundreds of reviews from four of the top dishwasher retailers, and the Bosch 500 Series Dishwasher is the best bang for your...",
+        "relevance_score": 57.31,
         "scoring_breakdown": {
-          "semantic_score": 17.7,
-          "keyword_score": 29,
+          "semantic_score": 26.1,
+          "keyword_score": 16,
+          "intent_score": 10.0,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:case(75.0)",
+            "tfidf:dishwasher",
+            "tfidf:bosch",
+            "product:bosch"
+          ],
+          "intent_matches": [
+            "buying_advice:7.0↔5.0"
+          ]
+        }
+      },
+      {
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 48.51,
+        "scoring_breakdown": {
+          "semantic_score": 7.32,
+          "keyword_score": 30,
           "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:ge",
-            "tfidf:spray",
-            "tfidf:spray arm",
-            "tfidf:arm",
+            "tfidf:model",
+            "tfidf:bosch",
+            "tfidf:saw",
+            "brand:model",
             "brand:ge"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "tfTDQKakVnU",
+        "title": "How to Replace the Starter Assembly on a Makita Cut Off Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "LET’S GET (YOUR SAW) STARTED: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. Replacing the starter assembly in a Makita DPC7311 cut-off...",
+        "relevance_score": 44.47,
+        "scoring_breakdown": {
+          "semantic_score": 11.21,
+          "keyword_score": 23,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:case(75.0)",
+            "tfidf:saw",
+            "fuzzy_tfidf:posts(80.0)",
+            "brand:ge",
+            "product:makita"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "hpX_qWYBeME",
+        "title": "Dryer Troubleshooting: How to Disassemble a Front Control Samsung Dryer | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "We've already showed you how to disassemble two Whirlpool Dryer models, and this week, we're going to take you through a Front-Control Samsung Dryer disassembly! We'll show you how to gain...",
+        "relevance_score": 54.46,
+        "scoring_breakdown": {
+          "semantic_score": 13.89,
+          "keyword_score": 28,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:case(75.0)",
+            "tfidf:samsung",
+            "fuzzy_tfidf:samsung lg(80.0)",
+            "brand:model"
           ],
           "intent_matches": []
         }
@@ -1675,60 +1435,40 @@
   },
   {
     "theme": "outdoor_power_equipment",
-    "post_count": 32,
-    "avg_engagement": 12.84375,
-    "avg_relevance": 18.479000000000003,
-    "total_comments": 668,
-    "demand_strength": 7594.8690000000015,
+    "post_count": 30,
+    "avg_engagement": 30.066666666666666,
+    "avg_relevance": 25.889999999999997,
+    "total_comments": 883,
+    "demand_strength": 23352.78,
     "sample_posts": [
       {
-        "subreddit": "Chainsaw",
-        "title": "Advice to buy a saw.",
-        "selftext": "Hello guys!   \n  \n  \nUntil this year, a small team cut down the trees from my forest, but the labor costs became very expensive, so I decided to cut the trees myself from now on. I usually need 8-10 m3 firewood/year and i need a petrol chainsaw for that.  In my forest, there is mostly black locust,  thickness is around 25-35 cm or 10\"-14\", sometimes little bit bigger.   \n  \nCurrently i use a Makita UC4051 for cutting firewood, it is 6 or 7 years old and works perfectly fine, but i cannot use that in my forest. I will still use this for cutting wood, because light, cheap, mostly maintanance free option.  \n  \nIm currently cannot choose between the likes of  Oleo Mac GS630 / Stihl MS261 / Husqvarna 550xp vs the much cheaper not professional versions, like the Oleo GS560, Stihl MS231 etc..\n\nWhat would you suggest? \n\n",
-        "score": 2,
-        "num_comments": 18,
-        "created_utc": 1769015677.0,
-        "url": "https://www.reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
-        "permalink": "https://reddit.com/r/Chainsaw/comments/1qj3uf0/advice_to_buy_a_saw/",
-        "relevance_score": 51.16799999999999,
+        "subreddit": "Dewalt",
+        "title": "Why doesn't Dewalt make power broom attachments?",
+        "selftext": "I love Dewalt tools, and am heavily invested in their platform with mostly all XR or FlexVolt tools. They're able to handle the abuse that I give them daily with ease. The only things I have had die on me are batteries, and that was only 2 out of the 30+ I have. Last spring I jumped on the BOGO deal for the FlexVolt DCST972 kit with a free 9Ah battery from Home Depot for $329. It seemed like a no-brainer since I planned on getting the pole saw at some point in the future, and with a 2-pack of 9Ah batteries selling for $399 (or $349 on sale), I thought why not get a \"free\" string trimmer to go with it. After a season of use, I love it so far. Tons of power and great battery life. I have 320 feet of privacy fence and I can easily trim the grass on both sides and around the rest of my yard/house on a single battery.\n\nThe one attachment that I wish I had is not made by anyone that uses the universal attachment system. With the most recent snow storm that has passed through and dumped 10\" i",
+        "score": 15,
+        "num_comments": 23,
+        "created_utc": 1769518959.0,
+        "url": "https://i.redd.it/ctg5ty3d4wfg1.jpeg",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1qod8kl/why_doesnt_dewalt_make_power_broom_attachments/",
+        "relevance_score": 71.75999999999999,
         "matched_brands": [
-          "stihl",
-          "husqvarna",
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "chainsaw"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "learning_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Ryobi",
-        "title": "Leaf Blower 18v 450 or 510CFM?",
-        "selftext": "First purchase on a leaf blower and I couldn’t decide which to get from my local Home Depot. Debating on getting either of the ones below. I do have a few batteries (4ah x2 and 2ah x2). I’m aware that these run the batteries out quick, but I’m wondering if the difference in CFM is big enough to choose the other? The fact that the other includes a battery & charger makes it quite a deal.\n\n[RYOBI ONE+ HP 18V Brushless Cordless 130 MPH 510 CFM Leaf Blower (Tool Only) ($169)](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-130-MPH-510-CFM-Leaf-Blower-Tool-Only-PBLLB01B/327353593) Model # PBLLB01B\n\n[RYOBI ONE+ HP 18V Brushless Whisper Series 130 MPH 450 CFM Cordless Battery Leaf Blower with 4.0 Ah Battery and Charger ($179)](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Whisper-Series-130-MPH-450-CFM-Cordless-Battery-Leaf-Blower-with-4-0-Ah-Battery-and-Charger-P21140/317311217) Model # P21140\n\nUPDATE: Included Model# and Links, Ty for feedback.",
-        "score": 1,
-        "num_comments": 3,
-        "created_utc": 1768830928.0,
-        "url": "https://www.reddit.com/r/ryobi/comments/1qh4rfs/leaf_blower_18v_450_or_510cfm/",
-        "permalink": "https://reddit.com/r/ryobi/comments/1qh4rfs/leaf_blower_18v_450_or_510cfm/",
-        "relevance_score": 34.56,
-        "matched_brands": [
+          "ego",
           "ryobi",
+          "dewalt",
+          "milwaukee",
+          "dewalt",
+          "milwaukee",
           "ryobi",
           "ge"
         ],
         "matched_products": [
-          "leaf blower"
+          "string trimmer",
+          "snow blower",
+          "pole saw"
         ],
         "matched_keywords": [
-          "cordless",
-          "brushless",
           "battery",
+          "volt",
           "ah"
         ],
         "detected_intents": [
@@ -1736,27 +1476,57 @@
         ]
       },
       {
-        "subreddit": "Ryobi",
-        "title": "Need some assistance with finding a replacement Motor.",
-        "selftext": "Good day everyone, the motor on my uncle's 40V string trimmer is shot and he's asking me to find a replacement, but all I can see online are [replacements for the circular saw](https://www.amazon.com/Ridgid-Ryobi-Replacement-2303328-ASSEMBLY/dp/B000P8QZ8I). Are these interchangeable or is some other approach going to be necessary?",
-        "score": 1,
-        "num_comments": 3,
-        "created_utc": 1768936918.0,
-        "url": "https://www.reddit.com/r/ryobi/comments/1qiao0j/need_some_assistance_with_finding_a_replacement/",
-        "permalink": "https://reddit.com/r/ryobi/comments/1qiao0j/need_some_assistance_with_finding_a_replacement/",
-        "relevance_score": 33.6,
+        "subreddit": "Tools",
+        "title": "I give up on battery brand loyalty. If there's a system out there, I'm in",
+        "selftext": "I have a thing about my tools, they need to be really good or really cheap. I was on team Makita and wanted a leaf blower, but their's was neither good or cheap. So I bit the bullet and went to team DeWalt. All was good and I added a couple of DeWalt tools to the arsenal. Now I need to caulk at least a million miles of trim and never being any good with a hand squeeze gun I wanted to get a battery model.  The big teams all want a small fortune, so I just joined Team Cheap, Harbor Freight. All in tool, battery and charger was less than half what the other teams wanted for the tool alone. I've put a couple of tubes through it and the cheap Harbor Freight caulk gun is my new favorite tool.  I can run 20 feet of near perfect bead as quickly as I can walk.\n\nNow that I’ve joined team Bauer there’s a whole new world of tools I had never considered before. Proprietary batteries suck but it’s the world I live in. ",
+        "score": 169,
+        "num_comments": 141,
+        "created_utc": 1769371383.0,
+        "url": "https://www.reddit.com/r/Tools/comments/1qmtp4t/i_give_up_on_battery_brand_loyalty_if_theres_a/",
+        "permalink": "https://reddit.com/r/Tools/comments/1qmtp4t/i_give_up_on_battery_brand_loyalty_if_theres_a/",
+        "relevance_score": 43.199999999999996,
         "matched_brands": [
-          "ryobi",
-          "ryobi",
-          "ridgid",
+          "dewalt",
+          "makita",
+          "dewalt",
+          "makita",
+          "bauer",
           "ge"
         ],
         "matched_products": [
-          "string trimmer",
-          "circular saw"
+          "leaf blower"
+        ],
+        "matched_keywords": [
+          "battery"
+        ],
+        "detected_intents": []
+      },
+      {
+        "subreddit": "lawncare",
+        "title": "Help, any ideas?",
+        "selftext": "I’m located in Aiken SC and I’m wondering what’s the best way to clear this out. I have a Gravely zero turn mower and a Stihl weed eater, edger and long extended range chainsaw.  I also have a Huskvarna chain saw.  I also have a Champion wood chipper and a champion tiler.  I’m willing to do the work over time.  Looking for suggestions on how to attack this.  It’s about an acre of land to clear.  What do you think? Any suggestions are welcome. Thanks 😊 ",
+        "score": 4,
+        "num_comments": 27,
+        "created_utc": 1769743023.0,
+        "url": "https://www.reddit.com/gallery/1qqu0t8",
+        "permalink": "https://reddit.com/r/lawncare/comments/1qqu0t8/help_any_ideas/",
+        "relevance_score": 42.0,
+        "matched_brands": [
+          "stihl",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "weed eater",
+          "edger",
+          "zero turn",
+          "chipper"
         ],
         "matched_keywords": [],
-        "detected_intents": []
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent"
+        ]
       }
     ],
     "content_angle": "OPE Reviews, Maintenance & Buying Guides",
@@ -1774,132 +1544,357 @@
     ],
     "matched_videos": [
       {
-        "video_id": "YkFqrESU39g",
-        "title": "Gas Powered Leaf Blower or Battery Powered Leaf Blower? Which One Is Better? | eReplacementParts.com",
+        "video_id": "HqVEdc7xCRM",
+        "title": "Tool Tear Down: Cordless Batteries | What's Inside and How to Replace Them | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "We're back this week with another buyer's guide! We've taken you through Gas Powered vs Battery Powered Lawn Mowers (https://www.youtube.com/watch?v=FVhkavCI7h4) and Chainsaws (https://www.youtube....",
-        "relevance_score": 59.45,
+        "description_snippet": "When it comes to power tools, lots of folks like to go old-school and stick with their plug-in, corded tools. However, more and more people these days find themselves turning to another option:...",
+        "relevance_score": 63.57,
         "scoring_breakdown": {
-          "semantic_score": 23.85,
-          "keyword_score": 30,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
+          "semantic_score": 20.7,
+          "keyword_score": 24,
+          "intent_score": 4.2,
+          "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:replacement",
-            "fuzzy_tfidf:need(75.0)",
-            "tfidf:www",
-            "tfidf:https",
-            "tfidf:https www"
+            "fuzzy_tfidf:battery(85.71428571428572)",
+            "fuzzy_tfidf:good(75.0)",
+            "fuzzy_tfidf:team(75.0)",
+            "tfidf:tools",
+            "tfidf:tool"
           ],
           "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:3.6↔1.8"
+            "buying_advice:9.0↔1.0",
+            "how_to_guide:1.1↔1.1"
           ]
         }
       },
       {
-        "video_id": "h0LW6pBr0Yk",
-        "title": "Gas Powered Chainsaw or Battery Powered Chainsaw? Which One Is Better? | eReplacementParts.com",
+        "video_id": "nUkEZZzipvM",
+        "title": "How to Properly Dispose of Power Tool Batteries",
         "channel": "fixtechguides",
-        "description_snippet": "We're back with another video in our Gas vs. Battery Power Equipment Series! This time, we're taking a look at Gas-Powered Chainsaws vs. Electric or Battery-Powered Chainsaws!\n\nIn this video...",
-        "relevance_score": 54.93,
+        "description_snippet": "Learn how you can reduce your carbon footprint and help the environment for free by recycling your used batteries. Recycling batteries helps the environment, lowers manufacturing costs, and...",
+        "relevance_score": 58.74,
         "scoring_breakdown": {
-          "semantic_score": 23.54,
-          "keyword_score": 19,
-          "intent_score": 7.4,
-          "content_boost": 1.1,
-          "content_type": "comparison"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:replacement",
-            "fuzzy_tfidf:need(75.0)",
-            "tfidf:com",
-            "product:saw",
-            "product:chainsaw"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:3.6↔2.7"
-          ]
-        }
-      },
-      {
-        "video_id": "n-_0f50GJmI",
-        "title": "Leaf Blower Troubleshooting:  Top 6 Reasons Your Leaf Blower Won't Start | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "It goes without saying that if your leaf blower won't start, then it can't do its job removing leaves and other debris from your yard.\n\nIn this video we'll go through some of the most common...",
-        "relevance_score": 39.2,
-        "scoring_breakdown": {
-          "semantic_score": 15.64,
-          "keyword_score": 20,
-          "intent_score": 0,
-          "content_boost": 1.1,
-          "content_type": "comparison"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:com",
-            "tfidf:blower",
-            "tfidf:leaf",
-            "tfidf:leaf blower"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "h6PFSj770U4",
-        "title": "Want Your AC Unit to Last? Check Out Our Quick Guide to Maintaining Your Window Air Conditioner",
-        "channel": "partselect",
-        "description_snippet": "Don't forget, if your window air conditioner needs a replacement part, you can get one quickly and easily from PartSelect.com https://www.partselect.com/\n\n00:00 Intro\n00:08 Check the Filter...",
-        "relevance_score": 38.1,
-        "scoring_breakdown": {
-          "semantic_score": 6.3,
-          "keyword_score": 30,
-          "intent_score": 1.8,
-          "content_boost": 1.0,
+          "semantic_score": 16.58,
+          "keyword_score": 24,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:replacement",
-            "tfidf:need",
-            "fuzzy_tfidf:forest(83.33333333333334)",
-            "tfidf:www",
-            "tfidf:https"
+            "fuzzy_tfidf:battery(85.71428571428572)",
+            "fuzzy_tfidf:string(83.33333333333334)",
+            "fuzzy_tfidf:tools(80.0)",
+            "tfidf:tool",
+            "tfidf:batteries"
           ],
           "intent_matches": [
-            "comparison:3.6↔0.9"
+            "troubleshooting:1.2↔1.2",
+            "how_to_guide:1.1↔2.2"
           ]
         }
       },
       {
-        "video_id": "fnwfQvYQqnA",
-        "title": "Makita Jig Saw Repair - Replacing the Leaf Spring (Makita Part # 232208-0)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Leaf Spring for your Jig Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 53.78,
+        "video_id": "ilj1uAnVang",
+        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
+        "relevance_score": 42.95,
         "scoring_breakdown": {
-          "semantic_score": 19.18,
+          "semantic_score": 18.84,
+          "keyword_score": 10,
+          "intent_score": 4.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:tools",
+            "tfidf:tool"
+          ],
+          "intent_matches": [
+            "buying_advice:9.0↔1.0",
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "yM8Pr0F3rpc",
+        "title": "Refrigerator Maintenance - Replacing Ice & Water Filter (Whirlpool Part# 4396508)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 40.96,
+        "scoring_breakdown": {
+          "semantic_score": 9.91,
+          "keyword_score": 17,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:team(75.0)",
+            "fuzzy_tfidf:tool(75.0)",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:1.2↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      },
+      {
+        "video_id": "wBDLOndKnIg",
+        "title": "How to Replace the Guard on a DeWALT DW708 Miter Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "Give your DeWALT DW708 Miter Saw a simple upgrade by replacing your old guard with DeWALT's latest guard kit. \n\nUseful tools include a (torque) screwdriver, a small socket and needle nose pliers....",
+        "relevance_score": 58.23,
+        "scoring_breakdown": {
+          "semantic_score": 16.59,
+          "keyword_score": 26,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "tfidf:tools",
+            "tfidf:dewalt",
+            "tfidf:tool",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 12,
+    "avg_engagement": 69.66666666666667,
+    "avg_relevance": 14.694999999999999,
+    "total_comments": 402,
+    "demand_strength": 12285.019999999999,
+    "sample_posts": [
+      {
+        "subreddit": "appliancerepair",
+        "title": "Whirlpool fridge \"galloping\" noise from compressor",
+        "selftext": "Any idea if this is repairable or am I out of luck? \n\nIt is a Whirlpool model ED5VHEXVO06. I just rolled the fridge out from the wall and made sure that the bolts holding the compressor were snug and they were. \n\nAnd yes... after I took the video and realized how dirty it was, I vacuumed off as much dust as possible off the coils for better efficiency. ",
+        "score": 7,
+        "num_comments": 24,
+        "created_utc": 1769369473.0,
+        "url": "https://v.redd.it/pmao8ayurjfg1",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1qmst7b/whirlpool_fridge_galloping_noise_from_compressor/",
+        "relevance_score": 28.56,
+        "matched_brands": [
+          "whirlpool",
+          "ge"
+        ],
+        "matched_products": [
+          "fridge",
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "4v Lithium Combo Kit worth it?",
+        "selftext": "I only own the 18v Ryobi vacuum. I've been thinking about getting more tools, but I am a new home DIY-er so not sure if this is worth it? ",
+        "score": 14,
+        "num_comments": 31,
+        "created_utc": 1769620490.0,
+        "url": "https://i.redd.it/zaggzrl9i4gg1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qphfb1/4v_lithium_combo_kit_worth_it/",
+        "relevance_score": 26.4,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Miele Complete C3 – Motor won’t start",
+        "selftext": "Hi everyone\n\nI’m looking for help diagnosing an issue on a Miele Complete C3 vacuum cleaner (8 years old)\n\nThanks for your help ",
+        "score": 3,
+        "num_comments": 4,
+        "created_utc": 1769342646.0,
+        "url": "https://v.redd.it/x2muaik1khfg1",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1qmhdwq/miele_complete_c3_motor_wont_start/",
+        "relevance_score": 16.2,
+        "matched_brands": [
+          "miele"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "yqWpzesAc6U",
+        "title": "Refrigerator Repair - Replacing the Crisper Pan (Whirlpool Part# 2188656)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 71.58,
+        "scoring_breakdown": {
+          "semantic_score": 23.66,
           "keyword_score": 29,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:replacement",
-            "tfidf:need",
-            "fuzzy_tfidf:use(80.0)",
-            "tfidf:com",
-            "tfidf:leaf"
+            "tfidf:model",
+            "tfidf:whirlpool",
+            "fuzzy_tfidf:fridge(83.33333333333334)",
+            "tfidf:help",
+            "tfidf:er"
           ],
           "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:3.6↔1.8"
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "vljnLb07wds",
+        "title": "Refrigerator Repair - Replacing the Shelf Support Stud (Whirlpool Part# 2149540)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 70.67,
+        "scoring_breakdown": {
+          "semantic_score": 22.96,
+          "keyword_score": 29,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:whirlpool",
+            "fuzzy_tfidf:fridge(83.33333333333334)",
+            "tfidf:help",
+            "tfidf:er"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "406NetQKE-0",
+        "title": "Makita Air Compressor Repair - Replacing the Pressure Gauge (Makita Part # 411028-E)",
+        "channel": "fixtechguides",
+        "description_snippet": "Need help replacing the Pressure Gauge (Part # 411028-E) in your Makita Air Compressor? Watch this how-to video with simple, step-by-step instructions for a successful DIY repair.\n\nDon’t...",
+        "relevance_score": 59.33,
+        "scoring_breakdown": {
+          "semantic_score": 17.24,
+          "keyword_score": 26,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:compressor",
+            "tfidf:sure",
+            "tfidf:help",
+            "fuzzy_tfidf:complete(75.0)",
+            "fuzzy_tfidf:diy er(83.33333333333334)"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "-fMzvIYDzyg",
+        "title": "Makita Air Compressor Repair - Replacing the Pressure Switch (Makita Part # 412024-E)",
+        "channel": "fixtechguides",
+        "description_snippet": "Need help replacing the Pressure Switch (Part # 412024-E) in your Makita Air Compressor? Watch this how-to video with simple, step-by-step instructions for a successful DIY repair.\n\nDon’t...",
+        "relevance_score": 58.0,
+        "scoring_breakdown": {
+          "semantic_score": 16.21,
+          "keyword_score": 26,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:compressor",
+            "tfidf:sure",
+            "tfidf:help",
+            "fuzzy_tfidf:complete(75.0)",
+            "fuzzy_tfidf:diy er(83.33333333333334)"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "2ncgPH1bq7s",
+        "title": "Refrigerator Repair - Replacing the Ice Guide (Whirlpool Part# 2180224)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 69.9,
+        "scoring_breakdown": {
+          "semantic_score": 22.37,
+          "keyword_score": 29,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:whirlpool",
+            "fuzzy_tfidf:fridge(83.33333333333334)",
+            "tfidf:help",
+            "tfidf:er"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
           ]
         }
       }
