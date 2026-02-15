@@ -1,93 +1,95 @@
 [
   {
     "theme": "power_tools",
-    "post_count": 89,
-    "avg_engagement": 103.46067415730337,
-    "avg_relevance": 15.440764044943826,
-    "total_comments": 2752,
-    "demand_strength": 142178.55532584275,
+    "post_count": 100,
+    "avg_engagement": 164.19,
+    "avg_relevance": 15.566139999999994,
+    "total_comments": 3382,
+    "demand_strength": 255580.4526599999,
     "sample_posts": [
       {
         "subreddit": "Makita",
-        "title": "Bosch GSB 65 vs Makita DHP484 (with metal drill chuck) – any experiences?",
-        "selftext": "Hi,\n\nI would like to compare the GSB 65 with the Makita DHP 484 (with metal drill chuck).\n\nThey are roughly the same price. Both cost around €130 with the box.\n\nThe thing is, I found this video:\n\n[https://www.youtube.com/shorts/dnEKg8MZ94Y](https://www.youtube.com/shorts/dnEKg8MZ94Y)\n\nSo I went to OBI (a hardware store) and found that both Makita and Bosch blue had this problem with the models in store.\n\nBut of course, the two models I'm looking for weren't there.\n\nMy Milwaukee ONEPD2 doesn't do this, and an Einhell they also had there, which also has a hammer function, didn't do it either.\n\nSo, to everyone who has these models, I would be grateful if you could check and give me some feedback on whether yours does this too.\n\nThe GSB 65 is quite new, as is the DHP 484 with metal drill chuck.\n\nIf anyone else has any comparative experience with these two models, I would also appreciate hearing about it.",
-        "score": 6,
-        "num_comments": 7,
-        "created_utc": 1770056002.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "permalink": "https://reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "relevance_score": 49.559999999999995,
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
         "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "bosch",
-          "bosch"
+          "dewalt",
+          "dewalt",
+          "ge"
         ],
         "matched_products": [
           "drill"
         ],
-        "matched_keywords": [],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
         "detected_intents": [
           "buying_intent",
           "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
           "comparison"
         ]
       },
       {
-        "subreddit": "Makita",
-        "title": "Switch from Milwaukee to Makita",
-        "selftext": "My Milwaukee M18 Fuel hammer drill is on its last leg after serving me very well and being abused. So I bought the Makita kit XT297T. The reason I didnt replace the Milwaukee with another Milwaukee drill is because all Milwaukee tools I own have very sudden and unpredictable actuation which causes drill bit runaways and wrist torquing at times. I tried the Makita in at my local Berlands and liked how it actuates consistently and predictably. The store even threw in a bonus battery, so I have three Makita 5.0 batteries now!\n\nAnyone else likes Makita's actuation more? Any other specific outstanding Makita tools that beat Milwaukee that I can use these batteries with?",
-        "score": 37,
-        "num_comments": 22,
-        "created_utc": 1770234741.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1qvyx2q/switch_from_milwaukee_to_makita/",
-        "permalink": "https://reddit.com/r/Makita/comments/1qvyx2q/switch_from_milwaukee_to_makita/",
-        "relevance_score": 39.6,
+        "subreddit": "appliances",
+        "title": "Durable induction range recommendations",
+        "selftext": "Hi. I'm in the market for a an induction range. I bought a Samsung \"Bespoke\" last year and it arrived scratched.  Upon closer inspection I saw that the finish was pretty garbage and it didn't look like the metal colored painted surfaces would last a minute. I sent that back. Getting a refund was a nightmare. Now I'm ready to try again. Looking for a basic model that heats quickly and accurately, nothing fancy but something that won't look like crap in no time. I recently bit the bullet on a Bosch fridge. That thing is crap and repair prices are outrageous so no Bosch (we've had manual ice trays in our ice maker for months because that POS stopped working). Thanks for suggestions",
+        "score": 6,
+        "num_comments": 21,
+        "created_utc": 1770995145.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "relevance_score": 42.0,
         "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee"
+          "bosch",
+          "ge",
+          "samsung",
+          "bosch"
         ],
         "matched_products": [
-          "drill",
-          "hammer drill"
+          "fridge"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Installing wireless tool control (WTC) on North American 60v 12\" Miter Saw (DCS 781)",
+        "selftext": "Ohh boy I have waited for this a long time. I have no clue what Dewalt America is thinking when they differentiate between NA and the UK versions. It was a simple plug and play, took 10 minutes to figure out. Everything was pre wired and ready to slot in. It's beyond me with their thinking, they knew the 20v version was coming out. So why not offer WTC stock in the 60v and omit it in the 20v version. Pros are more likely to opt for the 60v version, and willingly pay to have the feature. Likely wouldn't have cost me the extra C$110 I had to pay to get it shipped over here. Even then, I would have been fine paying for it.\n\nWith how simple this was, I'm tempted to see what else I can throw it in. I do use my little 7 1/4 Miter Saw for small trim jobs and would be real nice to have on there. I doubt it would be as simple as plug and play but I'm sure I could handle splicing 3 wires in. \n\nIt would be greatly appreciated if Dewalt took dust collection more serious in NA, even their cordless ",
+        "score": 6,
+        "num_comments": 14,
+        "created_utc": 1770683771.0,
+        "url": "https://imgur.com/a/FpFI7XI",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1r0lxfn/installing_wireless_tool_control_wtc_on_north/",
+        "relevance_score": 39.6,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "miter saw",
+          "table saw"
         ],
         "matched_keywords": [
-          "battery"
+          "cordless"
         ],
         "detected_intents": [
           "buying_intent"
         ]
-      },
-      {
-        "subreddit": "Ryobi",
-        "title": "I found my 30th Anniversary Edition Ryobi!",
-        "selftext": "I got my 2 30th Anniversary items today. The vacuum that doesn't say brushless on the package, and the compact brushless one+ HP drill kit that includes the black charger and a 4AH limited edition battery. And i found 3 yard foggers on clearance for $7.99 each. It's a good day. \n\nNow, do I open the 30th Anniversary stuff, or just toss them in a shelf and collect them? ",
-        "score": 37,
-        "num_comments": 25,
-        "created_utc": 1770395381.0,
-        "url": "https://i.redd.it/5dnyyuoeiwhg1.jpeg",
-        "permalink": "https://reddit.com/r/ryobi/comments/1qxmbqj/i_found_my_30th_anniversary_edition_ryobi/",
-        "relevance_score": 37.199999999999996,
-        "matched_brands": [
-          "ryobi",
-          "ryobi",
-          "ge"
-        ],
-        "matched_products": [
-          "drill",
-          "vacuum"
-        ],
-        "matched_keywords": [
-          "brushless",
-          "battery",
-          "ah",
-          "compact"
-        ],
-        "detected_intents": []
       }
     ],
     "content_angle": "Power Tool Reviews & Professional Tips",
@@ -105,91 +107,64 @@
     ],
     "matched_videos": [
       {
-        "video_id": "vZwollxOtdU",
-        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
         "channel": "fixtechguides",
-        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
-        "relevance_score": 65.36,
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 54.18,
         "scoring_breakdown": {
-          "semantic_score": 18.48,
+          "semantic_score": 11.68,
           "keyword_score": 30,
-          "intent_score": 1.8,
+          "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:milwaukee",
-            "tfidf:drill",
-            "fuzzy_tfidf:models(83.33333333333334)",
+            "fuzzy_tfidf:range(80.0)",
+            "tfidf:bosch",
+            "tfidf:saw",
             "brand:model"
           ],
-          "intent_matches": [
-            "comparison:1.8↔0.9"
-          ]
+          "intent_matches": []
         }
       },
       {
-        "video_id": "7yygSKYOO_Q",
-        "title": "Makita Hammer Drill Repair - Replacing the Chuck (Makita Part # 766027-7)",
+        "video_id": "qHTjd_jz9Dc",
+        "title": "How to Replace the Base Assembly on a Bosch 1587avs Jigsaw--A Quick Fix",
         "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Chuck for your Hammer Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 57.37,
+        "description_snippet": "In this video, Mark offers a few tips on replacing the Base assembly in a Bosch 1587avs jigsaw. This simpe repair will only take you a few minutes and will help get your saw cutting like new...",
+        "relevance_score": 44.83,
         "scoring_breakdown": {
-          "semantic_score": 25.77,
-          "keyword_score": 26,
-          "intent_score": 5.6,
+          "semantic_score": 13.03,
+          "keyword_score": 27,
+          "intent_score": 4.8,
           "content_boost": 1.0,
           "content_type": "repair"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:drill",
-            "tfidf:tools",
-            "tfidf:chuck",
-            "product:makita"
+            "tfidf:bosch",
+            "tfidf:like",
+            "tfidf:saw",
+            "fuzzy_tfidf:time(75.0)",
+            "fuzzy_tfidf:simple(83.33333333333334)"
           ],
           "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:1.8↔1.8"
+            "troubleshooting:2.4↔2.4"
           ]
         }
       },
       {
-        "video_id": "v5bgEvFV_4U",
-        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "video_id": "pJW2otpKhXk",
+        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
         "channel": "partselect",
-        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
-        "relevance_score": 33.15,
+        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
+        "relevance_score": 43.6,
         "scoring_breakdown": {
-          "semantic_score": 13.1,
-          "keyword_score": 8,
-          "intent_score": 4.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:drill(75.0)",
-            "tfidf:tools"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "troubleshooting:1.2↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "ntDRxb7XLdc",
-        "title": "Dryer Repair - Replacing the Dryer Drum Slide (GE Part# WE1M333)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 32.92,
-        "scoring_breakdown": {
-          "semantic_score": 8.92,
-          "keyword_score": 14,
+          "semantic_score": 7.14,
+          "keyword_score": 24,
           "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
@@ -197,131 +172,155 @@
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "fuzzy_tfidf:models(83.33333333333334)",
-            "brand:model",
-            "entity:model"
+            "fuzzy_tfidf:model batteries(76.92307692307692)",
+            "tfidf:time",
+            "tfidf:simple",
+            "brand:model"
           ],
           "intent_matches": [
-            "troubleshooting:1.2↔1.2"
+            "troubleshooting:2.4↔1.2"
           ]
         }
       },
       {
-        "video_id": "pHXPpHQXzYQ",
-        "title": "Makita Drill Repair - Replacing the Chuck (Makita Part # 193319-5)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Chuck for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase the...",
-        "relevance_score": 56.46,
+        "video_id": "T5uR8m8S-kg",
+        "title": "Range / Stove / Oven Repair - Replacing the 8\" Surface Element/Burner (GE Part# WB30M2)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 40.07,
         "scoring_breakdown": {
-          "semantic_score": 24.86,
-          "keyword_score": 26,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
+          "semantic_score": 12.43,
+          "keyword_score": 16,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:drill",
-            "tfidf:tools",
-            "tfidf:chuck",
-            "product:makita"
+            "tfidf:model",
+            "tfidf:range",
+            "brand:model",
+            "entity:model"
           ],
           "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:1.8↔1.8"
+            "troubleshooting:2.4↔1.2"
           ]
+        }
+      },
+      {
+        "video_id": "7J-9cxjKASY",
+        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
+        "relevance_score": 43.14,
+        "scoring_breakdown": {
+          "semantic_score": 12.18,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "fuzzy_tfidf:recently(76.92307692307692)",
+            "tfidf:time",
+            "tfidf:simple",
+            "product:saw"
+          ],
+          "intent_matches": []
         }
       }
     ]
   },
   {
     "theme": "major_appliances",
-    "post_count": 91,
-    "avg_engagement": 74.94505494505495,
-    "avg_relevance": 16.604879120879122,
-    "total_comments": 3446,
-    "demand_strength": 113245.27560439562,
+    "post_count": 80,
+    "avg_engagement": 64.0375,
+    "avg_relevance": 17.76889999999999,
+    "total_comments": 2471,
+    "demand_strength": 91030.07469999995,
     "sample_posts": [
       {
-        "subreddit": "appliances",
-        "title": "Avoid Samsung Appliances at All Costs",
-        "selftext": "Whether you are looking to get a washer, dryer, dishwasher, or fridge you will do yourself an incredible amount of service to avoid Samsung appliances. \n\nWhile they are absolutely amazing when you first get them, after at most 24 months, you will (I repeat WILL) find yourself in a situation with a useless, dead-weight extremely expensive product. \n\nTheir customer service would be better if it was non-existent. Every single \"text\" will give you a different answer, and when you call in and speak with someone to clarify, the text bots will follow-up with you and tell you the call center was wrong. I wish I was making this up. \n\nLacking any ability to live through the issue from the customer's perspective, they are not helpful at all. It took over 5 days to determine HOW we should be servicing the appliance that just kept showing error messages. I am not talking about actually getting something serviced, it is absolutely expected that scheduling and receiving the service will take time. I ",
-        "score": 206,
-        "num_comments": 88,
-        "created_utc": 1770146275.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "relevance_score": 40.559999999999995,
+        "subreddit": "HVAC",
+        "title": "I’m starting to think my experience means nothing",
+        "selftext": "So I’m about to hit my 4th year in the trade, started doing duct cleaning and replacements, then did some maintenance and now I’ve been a retro fit installer for 2 years. \n\nOut of the 13 guys in my hvac school, I was the only one still in the field after the first year. I figure it’s cause the hours suck and the heat in the desert is brutal, 150-160° attics aren’t for everyone and I get that.\n\nNow I’m looking to make the jump into commercial since my private equity company is only getting worse by the day, but after applying for countless positions and delivering resumes trying to shake hands, it’s been crickets. (Granted it’s our slow season but if there’s new listings daily, they’re hiring people and it’s just not me)\n\nI figure the best move to get into commercial would be to join the union, but even though I have a few years experience, they insist I take the 5 year apprenticeship and start from day 1 and beginner wages which sucks.\n\nOverall it’s been a humbling experience. I sweat ",
+        "score": 355,
+        "num_comments": 126,
+        "created_utc": 1770739020.0,
+        "url": "https://i.redd.it/zi7uh0b8woig1.jpeg",
+        "permalink": "https://reddit.com/r/HVAC/comments/1r14k8g/im_starting_to_think_my_experience_means_nothing/",
+        "relevance_score": 45.239999999999995,
+        "matched_brands": [
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "hvac",
+          "heat pump",
+          "humidifier"
+        ],
+        "matched_keywords": [
+          "trade"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Control board repair vs $1299 new Bosch from Costco - just upgrade?",
+        "selftext": "**Situation:** 4-5 year old Bosch 500 Series, E23 error. Tech said \"definitely the drain pump,\" replaced it. Tested 3 times - third test failed again with same error. Same visit he says \"Oh it's actually the control board - $1100.\"\n\n**The problem:** Control boards are $200-300 online. Should be $400-600 with labor. Quote feels inflated.\n\n**Meanwhile:** Costco has the Bosch 800 Series for $1299 with delivery + install included.\n\n**So I'm looking at:**\n\n* Fix: $1100 (inflated price?)\n* New upgraded dishwasher: $1299\n\n**$200 difference.**\n\n**Questions:**\n\n1. Worth shopping around for better repair quotes or just upgrade?\n2. Is replacing a 4-5 year old appliance wasteful, or does the math make sense here?",
+        "score": 5,
+        "num_comments": 22,
+        "created_utc": 1770916701.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "relevance_score": 38.52,
+        "matched_brands": [
+          "bosch",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Samsung Dishwasher Dispenser Door not opening after paying $500 in repairs",
+        "selftext": "Needs some help/advice. My Samsung Dishwasher, DW80R5060UG, has had an issue with the dispenser door intermittently not opening. I removed the door and ensured that is was clean and not sticking. I also had cleaned it while I had it off just to be sure. After that fix didnt work I decided to call a local repair company. \n\nThe tech came out opened and closed the dispenser door a few times and said the solenoid was bad and I needed a new dispenser door. Paid them $368 for the part, shipping, labor, and inspection fee. The door worked 1 time, and didnt work after that. \n\nI called them back and they said \"Well its got to be the control board\". I expressed my frustration with the original diagnosis seeming to be incorrect, and not wanting to pay any additional as a new dishwasher would be cheaper at this point. They confirmed that they would remove the new dispenser with the old one, and replace the control board for an additional $55. I agreed and when the tech showed up he condemned both ",
+        "score": 3,
+        "num_comments": 13,
+        "created_utc": 1770915205.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1r2ynnm/samsung_dishwasher_dispenser_door_not_opening/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1r2ynnm/samsung_dishwasher_dispenser_door_not_opening/",
+        "relevance_score": 35.4,
         "matched_brands": [
           "ge",
           "samsung"
         ],
         "matched_products": [
           "washer",
-          "dryer",
-          "fridge",
           "dishwasher"
         ],
         "matched_keywords": [],
         "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
           "troubleshooting",
           "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Bosch",
-        "title": "Water leak from side of door - Bosch Serie 6 SMS6ECI15E",
-        "selftext": "Hi everyone, I'm having a problem with my Bosch Series 6 dishwasher (model SMS6ECI15E).\nAlthough there are no error codes currently appearing on the display, I have a constant water leak coming out of the left side of the door (bottom left corner) while the machine is running. The water drips out, wetting the entire surrounding floor.\nI previously displayed an E31/AquaStop error (probably because the water had ended up in the safety tray), but after leaving it idle, the error disappeared. However, the physical leak from the door continues to occur with every cycle.\nDetails found:\nThe leak is located right at the end of the door on the left side.\nThe seals appear clean and in place.\nThere are no obvious blockages in the filters.\nHas anyone with this model had the same problem?\nCould it be the lower seal (the \"brush\" one) or perhaps a micro-crack in the lower spray arm that shoots water sideways?\nBefore calling official support, I'd like to know if it's a component I can easily replace m",
-        "score": 1,
-        "num_comments": 2,
-        "created_utc": 1769906645.0,
-        "url": "https://www.reddit.com/r/bosch/comments/1qsjlw8/water_leak_from_side_of_door_bosch_serie_6/",
-        "permalink": "https://reddit.com/r/bosch/comments/1qsjlw8/water_leak_from_side_of_door_bosch_serie_6/",
-        "relevance_score": 39.0,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch"
-        ],
-        "matched_products": [
-          "washer",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Bosch customer service is so terrible",
-        "selftext": "Bought a 300 series Bosch dishwasher last year. Used it for 4 months. Then it started erroring.\n\nTook more than 2 weeks for repair to come out. Didn't fix it. Again a week and a half to come back again - didn't fix it. They don't even know what's wrong. I complained, escalated, an exchange was approved - same model. I agreed.\n\nThis was 2 days ago: I asked for an update on the replacement - had it shipped?\n\n> Hello,\n\n> We apologize for the delays but the item is on back order with a possible ETA 02/15/26 please check back after this date.\n\nI replied today: \n\n> Why did you approve a replacement machine that you don't have? We will accept an equivalent replacement. Propose a replacement that you actually have. Do you have a list of models that are currently in stock? If so, I can go over them and suggest an appropriate replacement when I call customer service.\n\nAnd their response, would be funny if I wasn't living in this story:\n\n> That is the date that we are expected to have stock. We r",
-        "score": 13,
-        "num_comments": 17,
-        "created_utc": 1770169052.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qvb04e/bosch_customer_service_is_so_terrible/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qvb04e/bosch_customer_service_is_so_terrible/",
-        "relevance_score": 39.0,
-        "matched_brands": [
-          "bosch",
-          "ge",
-          "bosch"
-        ],
-        "matched_products": [
-          "washer",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "troubleshooting",
           "maintenance"
         ]
       }
@@ -340,29 +339,321 @@
     ],
     "matched_videos": [
       {
-        "video_id": "yM8Pr0F3rpc",
-        "title": "Refrigerator Maintenance - Replacing Ice & Water Filter (Whirlpool Part# 4396508)",
+        "video_id": "4018FnLXUD0",
+        "title": "How to Clear the Samsung Range C-F2 Error Code | PartSelect.com",
         "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 58.86,
+        "description_snippet": "The C-F2 error on your Samsung oven is an indication that there is a communication problem between the touchpad and the main control board. You may notice that the touch controls are either...",
+        "relevance_score": 50.6,
         "scoring_breakdown": {
-          "semantic_score": 19.27,
-          "keyword_score": 22,
-          "intent_score": 4.0,
+          "semantic_score": 5.52,
+          "keyword_score": 24,
+          "intent_score": 9.399999999999999,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:year(75.0)",
+            "tfidf:control",
+            "tfidf:control board",
+            "tfidf:board",
+            "brand:samsung"
+          ],
+          "intent_matches": [
+            "troubleshooting:9.6↔3.5999999999999996",
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "J7WGFYNaPvs",
+        "title": "Washer Repair – Replacing the Motor Control Board (Whirlpool Part #WP8183196)",
+        "channel": "partselect",
+        "description_snippet": "Click here for more information on this part, installation instructions and more. http://www.partselect.com/PS11745069-Whirlpool-WP8183196-Motor-Control-Unit.htm?SourceCode=3&SearchTerm=ps11745069...",
+        "relevance_score": 49.09,
+        "scoring_breakdown": {
+          "semantic_score": 11.56,
+          "keyword_score": 24,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:door(75.0)",
+            "fuzzy_tfidf:year(75.0)",
+            "tfidf:control",
+            "fuzzy_tfidf:dishwasher(75.0)",
+            "tfidf:control board"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "EnuHMTMhjxE",
+        "title": "How to install a pump rebuild kit on a Ridgid Tri-Stack air compressor model OF50150TS",
+        "channel": "fixtechguides",
+        "description_snippet": "If leaking seals and service bills are compressing your expenses, it's time to face the fix. This tutorial will show you how to quickly install a pump rebuild kit on your Ridgid Tri-Stack air...",
+        "relevance_score": 36.94,
+        "scoring_breakdown": {
+          "semantic_score": 11.21,
+          "keyword_score": 11,
+          "intent_score": 6.199999999999999,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:water",
-            "fuzzy_tfidf:leak(75.0)",
-            "fuzzy_tfidf:appliances(90.0)",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:9.6↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003",
+            "maintenance:1.6↔0.8"
+          ]
+        }
+      },
+      {
+        "video_id": "t-HlNmeuY7Q",
+        "title": "WASHER REPAIR: How to Test a Motor Control Board in a Front-Load Washer | FIX.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Your Washer has a Motor Control Board that essentially does just that; it controls the motor, and allows you to select different cycles. If the control board isn't working, your Washer won't...",
+        "relevance_score": 36.71,
+        "scoring_breakdown": {
+          "semantic_score": 6.11,
+          "keyword_score": 26,
+          "intent_score": 4.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:door(75.0)",
+            "tfidf:control",
+            "fuzzy_tfidf:dishwasher(75.0)",
+            "tfidf:control board",
+            "tfidf:board"
+          ],
+          "intent_matches": [
+            "troubleshooting:9.6↔1.2",
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "hpX_qWYBeME",
+        "title": "Dryer Troubleshooting: How to Disassemble a Front Control Samsung Dryer | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "We've already showed you how to disassemble two Whirlpool Dryer models, and this week, we're going to take you through a Front-Control Samsung Dryer disassembly! We'll show you how to gain...",
+        "relevance_score": 46.6,
+        "scoring_breakdown": {
+          "semantic_score": 8.65,
+          "keyword_score": 25,
+          "intent_score": 2.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:year(75.0)",
+            "tfidf:control",
+            "brand:model",
+            "brand:samsung"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 42,
+    "avg_engagement": 72.69047619047619,
+    "avg_relevance": 20.596571428571433,
+    "total_comments": 1834,
+    "demand_strength": 62881.33257142859,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "HVAC",
+        "title": "I’m starting to think my experience means nothing",
+        "selftext": "So I’m about to hit my 4th year in the trade, started doing duct cleaning and replacements, then did some maintenance and now I’ve been a retro fit installer for 2 years. \n\nOut of the 13 guys in my hvac school, I was the only one still in the field after the first year. I figure it’s cause the hours suck and the heat in the desert is brutal, 150-160° attics aren’t for everyone and I get that.\n\nNow I’m looking to make the jump into commercial since my private equity company is only getting worse by the day, but after applying for countless positions and delivering resumes trying to shake hands, it’s been crickets. (Granted it’s our slow season but if there’s new listings daily, they’re hiring people and it’s just not me)\n\nI figure the best move to get into commercial would be to join the union, but even though I have a few years experience, they insist I take the 5 year apprenticeship and start from day 1 and beginner wages which sucks.\n\nOverall it’s been a humbling experience. I sweat ",
+        "score": 355,
+        "num_comments": 126,
+        "created_utc": 1770739020.0,
+        "url": "https://i.redd.it/zi7uh0b8woig1.jpeg",
+        "permalink": "https://reddit.com/r/HVAC/comments/1r14k8g/im_starting_to_think_my_experience_means_nothing/",
+        "relevance_score": 45.239999999999995,
+        "matched_brands": [
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "hvac",
+          "heat pump",
+          "humidifier"
+        ],
+        "matched_keywords": [
+          "trade"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "BuyItForLife",
+        "title": "Why does no one on YouTube talking about Miele vacuums?",
+        "selftext": "This is how I heard about Miele the first time: back in 2017, I came across the [vacuum repair guy AMA](https://www.reddit.com/r/IAmA/comments/7gmsoe/iama_reddits_own_vacuum_repair_tech_with_a_very/) where I learned about how fantastic Miele is and how important it is to buy a bagged corded vacuum. I read OP's comments, explanations, and answers and I believed everything he was saying about vacuums. Keep in mind, this was back in 2017 when astroturfing/guerrilla marketing and bots wasn't a huge issue on Reddit.\n\nFast forward to now where recently I've been watching a lot of the most viewed YouTube videos on the topic of vacuuming. Not just vacuum product reviews but vacuuming in general.  Some videos are from small creators and some are big creators like Melissa from Clean My Space, Brandon from Clean That Up, Vacuum Wars, and Project Farm.\n\nNone of these videos ever mention Miele. Dyson is easily the most popular vacuum brand on YouTube. Some of these videos go back to 10+ years, way ",
+        "score": 208,
+        "num_comments": 167,
+        "created_utc": 1770653432.0,
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "permalink": "https://reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "relevance_score": 36.36,
+        "matched_brands": [
+          "ge",
+          "miele"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "cOGiC-LwPow",
+        "title": "PartSelect Celebrates 10 Million Views!",
+        "channel": "partselect",
+        "description_snippet": "We're celebrating our ten millionth video view, here on YouTube! Thank you, PartSelect customers and viewers, ten million times over!\n\nGet model-specific repair help from PartSelect.com. Learn...",
+        "relevance_score": 53.01,
+        "scoring_breakdown": {
+          "semantic_score": 14.17,
+          "keyword_score": 22,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:videos(83.33333333333334)",
+            "fuzzy_tfidf:year(75.0)",
+            "tfidf:youtube",
             "brand:model"
           ],
           "intent_matches": [
-            "troubleshooting:10.799999999999999↔1.2",
-            "maintenance:4.800000000000001↔0.8"
+            "troubleshooting:2.4↔1.2",
+            "how_to_guide:2.2↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "vZwollxOtdU",
+        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
+        "relevance_score": 51.47,
+        "scoring_breakdown": {
+          "semantic_score": 16.39,
+          "keyword_score": 17,
+          "intent_score": 6.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:year(75.0)",
+            "brand:model",
+            "product:drill",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "how_to_guide:2.2↔3.3000000000000003",
+            "comparison:0.9↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "L14hdT915aA",
+        "title": "How to Install a Driver Maintenance Kit on a Porter Cable Nail Gun",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark guides you through a driver maintenance kit installation on a Porter Cable finishing nail gun. With the right maintenance kit, you can use these steps on most nail gun models....",
+        "relevance_score": 47.94,
+        "scoring_breakdown": {
+          "semantic_score": 13.68,
+          "keyword_score": 14,
+          "intent_score": 9.200000000000001,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:videos(83.33333333333334)",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "how_to_guide:2.2↔2.2",
+            "maintenance:2.4000000000000004↔2.4000000000000004"
           ]
         }
       },
@@ -371,103 +662,290 @@
         "title": "Refrigerator Maintenance - Changing Ice & Water Filter (GE Part# MWF)",
         "channel": "partselect",
         "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 58.46,
+        "relevance_score": 46.73,
         "scoring_breakdown": {
-          "semantic_score": 18.97,
-          "keyword_score": 22,
-          "intent_score": 4.0,
+          "semantic_score": 13.54,
+          "keyword_score": 14,
+          "intent_score": 8.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:water",
-            "fuzzy_tfidf:leak(75.0)",
-            "fuzzy_tfidf:appliances(90.0)",
-            "brand:model"
+            "fuzzy_tfidf:year(75.0)",
+            "brand:model",
+            "entity:model"
           ],
           "intent_matches": [
-            "troubleshooting:10.799999999999999↔1.2",
-            "maintenance:4.800000000000001↔0.8"
+            "troubleshooting:2.4↔1.2",
+            "how_to_guide:2.2↔3.3000000000000003",
+            "maintenance:2.4000000000000004↔0.8"
           ]
         }
       },
       {
-        "video_id": "k7haNy0mPe0",
-        "title": "Karcher Pressure Washer Repair - Replacing the Male Adapter (Karcher Part # 9.134-019.0)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Male Adapter for your Pressure Washer? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances....",
-        "relevance_score": 42.32,
+        "video_id": "yM8Pr0F3rpc",
+        "title": "Refrigerator Maintenance - Replacing Ice & Water Filter (Whirlpool Part# 4396508)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 46.0,
         "scoring_breakdown": {
-          "semantic_score": 11.72,
-          "keyword_score": 27,
+          "semantic_score": 12.98,
+          "keyword_score": 14,
+          "intent_score": 8.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:year(75.0)",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2",
+            "how_to_guide:2.2↔3.3000000000000003",
+            "maintenance:2.4000000000000004↔0.8"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 40,
+    "avg_engagement": 51.7,
+    "avg_relevance": 24.4215,
+    "total_comments": 1462,
+    "demand_strength": 50503.662000000004,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Home Depot USA",
+        "selftext": "In my area of the United States Home Depot has way more dewalt & Milwaukee products for sale but the rental section has all makita because they know it’s a longer lasting better commercial grade product. They even rent my 12 inch corded saw , cordless chainsaws etc . This made me angry at first. Especially when I had to settle & buy a 1&9/16” sds max Milwaukee roto hammer only to walk into the rental section to see the better makita version for rent . I’ve realized that we can use this as an opportunity to see the makita products in person & then order them online . My local Home Depot’s don’t rent any Milwaukee or dewalt only makita . Home Depot buys makita products to rent because they last longer . They sell the other stuff because they make more $ selling products that need to be replaced more often. Check the rental section next time you’re at Home Depot. That’s where they keep the good stuff .",
+        "score": 34,
+        "num_comments": 40,
+        "created_utc": 1771087953.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "permalink": "https://reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "relevance_score": 75.348,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [
+          "commercial grade",
+          "cordless",
+          "commercial grade"
+        ],
+        "detected_intents": [
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Am I crazy for buying refurb track saw?",
+        "selftext": "I mostly run 20v (plus 60v chainsaw & angle grinder)  Dewalt & 12v Mke. But bought the rear handle 36v Makita circ saw a while back & love it. Decided to add the 36v track saw to the roster. I think I’ll get more use out the track saw than sinking money into a marginally better job-site table saw than the Hitachi I have now. I don’t have the space or need for a heavy-duty cabinet saw. \n\nRecently bought 36v Makita blower kit on clearance at HD. And still use a 19 year old 14” Makita 2-cycle concrete saw & corded grinder & 1 1/8 hammer drill, so I guess I’m a Makita guy after all.",
+        "score": 53,
+        "num_comments": 51,
+        "created_utc": 1770951455.0,
+        "url": "https://www.reddit.com/gallery/1r3dr31",
+        "permalink": "https://reddit.com/r/Makita/comments/1r3dr31/am_i_crazy_for_buying_refurb_track_saw/",
+        "relevance_score": 59.75999999999999,
+        "matched_brands": [
+          "dewalt",
+          "makita",
+          "dewalt",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "hammer drill",
+          "table saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "vZwollxOtdU",
+        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
+        "relevance_score": 52.37,
+        "scoring_breakdown": {
+          "semantic_score": 13.48,
+          "keyword_score": 25,
+          "intent_score": 1.8,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:rent(75.0)",
+            "tfidf:milwaukee",
+            "brand:model",
+            "product:milwaukee"
+          ],
+          "intent_matches": [
+            "comparison:3.6↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "7J-9cxjKASY",
+        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
+        "relevance_score": 50.93,
+        "scoring_breakdown": {
+          "semantic_score": 17.18,
+          "keyword_score": 22,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:makita",
+            "tfidf:saw",
+            "fuzzy_tfidf:depot(80.0)",
+            "fuzzy_tfidf:rent(75.0)",
+            "product:makita"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "vEUugYzsI3g",
+        "title": "A Complete Guide to Basic Chainsaw Maintenance | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're a seasonal chainsaw user, meaning that you use the chainsaw for specific jobs here and there around the house, it's important that you conduct some routine maintenance, if your saw...",
+        "relevance_score": 43.64,
+        "scoring_breakdown": {
+          "semantic_score": 14.97,
+          "keyword_score": 17,
+          "intent_score": 1.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "fuzzy_tfidf:home(75.0)",
+            "fuzzy_tfidf:products(75.0)",
+            "product:chainsaw",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "maintenance:0.8↔2.4000000000000004"
+          ]
+        }
+      },
+      {
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 42.37,
+        "scoring_breakdown": {
+          "semantic_score": 17.19,
+          "keyword_score": 11,
+          "intent_score": 4.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:home",
+            "fuzzy_tfidf:rent(75.0)",
+            "fuzzy_tfidf:products(75.0)"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0",
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "ot0mOPv_VDc",
+        "title": "Makita Reciprocating Saw Repair - Replacing the Shoe (Makita Part # 163453-5)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Shoe for your Reciprocating Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To...",
+        "relevance_score": 50.49,
+        "scoring_breakdown": {
+          "semantic_score": 21.89,
+          "keyword_score": 25,
           "intent_score": 3.6,
           "content_boost": 1.0,
           "content_type": "repair"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:replacement",
-            "fuzzy_tfidf:water(80.0)",
-            "tfidf:door",
-            "fuzzy_tfidf:leak(75.0)",
-            "tfidf:appliances"
+            "tfidf:makita",
+            "tfidf:saw",
+            "fuzzy_tfidf:home(75.0)",
+            "fuzzy_tfidf:rent(75.0)",
+            "fuzzy_tfidf:model makita(75.0)"
           ],
           "intent_matches": [
-            "comparison:5.4↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "q2c2uUlP13s",
-        "title": "How to Fix a Pressure Washer (Part 2 of 2)",
-        "channel": "fixtechguides",
-        "description_snippet": "After diagnosing the pressure washer pump and replacing its unloader valve, Mark demonstrates how to reassemble and lubricate the pump with step by step instructions.\n\nGet replacement parts...",
-        "relevance_score": 42.01,
-        "scoring_breakdown": {
-          "semantic_score": 14.11,
-          "keyword_score": 14,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:replacement",
-            "fuzzy_tfidf:water(80.0)",
-            "fuzzy_tfidf:leak(75.0)",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:10.799999999999999↔1.2",
-            "comparison:5.4↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "-liWNAFJDsw",
-        "title": "Refrigerator Repair - Replacing the Door Closing Cam Kit (Whirlpool Part # 4318165)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 56.7,
-        "scoring_breakdown": {
-          "semantic_score": 19.21,
-          "keyword_score": 22,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:door",
-            "fuzzy_tfidf:leak(75.0)",
-            "fuzzy_tfidf:appliances(90.0)",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:10.799999999999999↔1.2"
+            "comparison:3.6↔1.8"
           ]
         }
       }
@@ -475,95 +953,102 @@
   },
   {
     "theme": "buying_advice",
-    "post_count": 49,
-    "avg_engagement": 66.06122448979592,
-    "avg_relevance": 21.832408163265303,
-    "total_comments": 1575,
-    "demand_strength": 70671.50522448978,
+    "post_count": 52,
+    "avg_engagement": 39.71153846153846,
+    "avg_relevance": 22.994000000000003,
+    "total_comments": 1479,
+    "demand_strength": 47482.61000000001,
     "sample_posts": [
       {
         "subreddit": "Makita",
-        "title": "Bosch GSB 65 vs Makita DHP484 (with metal drill chuck) – any experiences?",
-        "selftext": "Hi,\n\nI would like to compare the GSB 65 with the Makita DHP 484 (with metal drill chuck).\n\nThey are roughly the same price. Both cost around €130 with the box.\n\nThe thing is, I found this video:\n\n[https://www.youtube.com/shorts/dnEKg8MZ94Y](https://www.youtube.com/shorts/dnEKg8MZ94Y)\n\nSo I went to OBI (a hardware store) and found that both Makita and Bosch blue had this problem with the models in store.\n\nBut of course, the two models I'm looking for weren't there.\n\nMy Milwaukee ONEPD2 doesn't do this, and an Einhell they also had there, which also has a hammer function, didn't do it either.\n\nSo, to everyone who has these models, I would be grateful if you could check and give me some feedback on whether yours does this too.\n\nThe GSB 65 is quite new, as is the DHP 484 with metal drill chuck.\n\nIf anyone else has any comparative experience with these two models, I would also appreciate hearing about it.",
-        "score": 6,
-        "num_comments": 7,
-        "created_utc": 1770056002.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "permalink": "https://reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "relevance_score": 49.559999999999995,
+        "title": "Am I crazy for buying refurb track saw?",
+        "selftext": "I mostly run 20v (plus 60v chainsaw & angle grinder)  Dewalt & 12v Mke. But bought the rear handle 36v Makita circ saw a while back & love it. Decided to add the 36v track saw to the roster. I think I’ll get more use out the track saw than sinking money into a marginally better job-site table saw than the Hitachi I have now. I don’t have the space or need for a heavy-duty cabinet saw. \n\nRecently bought 36v Makita blower kit on clearance at HD. And still use a 19 year old 14” Makita 2-cycle concrete saw & corded grinder & 1 1/8 hammer drill, so I guess I’m a Makita guy after all.",
+        "score": 53,
+        "num_comments": 51,
+        "created_utc": 1770951455.0,
+        "url": "https://www.reddit.com/gallery/1r3dr31",
+        "permalink": "https://reddit.com/r/Makita/comments/1r3dr31/am_i_crazy_for_buying_refurb_track_saw/",
+        "relevance_score": 59.75999999999999,
         "matched_brands": [
-          "milwaukee",
+          "dewalt",
           "makita",
+          "dewalt",
           "makita",
-          "milwaukee",
-          "bosch",
-          "bosch"
+          "ge"
         ],
         "matched_products": [
-          "drill"
+          "chainsaw",
+          "drill",
+          "hammer drill",
+          "table saw",
+          "angle grinder"
         ],
         "matched_keywords": [],
         "detected_intents": [
           "buying_intent",
-          "troubleshooting",
           "comparison"
         ]
       },
       {
         "subreddit": "Makita",
-        "title": "New to Makita - are the outdoor power tools good (specifically XNU02Z)?",
-        "selftext": "Hi! As the title states, are Makita outdoor power tools good? I currently own Milwaukee M12/M18 power tools around the house work. I am looking into getting into outdoor power tools (specifically hedge trimmer - XNU02Z);I dont mind buying into the Makita Ecosystem if they are better than the Milwaukee stuff. I am looking to start out with the 24” LXT Pole hedge trimmer. Would appreciate insight on the hedge trimmer! Thanks in advance!",
-        "score": 22,
-        "num_comments": 30,
-        "created_utc": 1770298865.0,
-        "url": "https://i.redd.it/2xgolfafjohg1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1qwlkp1/new_to_makita_are_the_outdoor_power_tools_good/",
-        "relevance_score": 48.959999999999994,
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
         "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
+          "dewalt",
+          "dewalt",
           "ge"
         ],
         "matched_products": [
-          "hedge trimmer"
+          "drill"
         ],
         "matched_keywords": [
-          "outdoor"
+          "ah",
+          "contractor"
         ],
         "detected_intents": [
           "buying_intent",
-          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
           "learning_intent",
           "comparison"
         ]
       },
       {
-        "subreddit": "Makita",
-        "title": "Switch from Milwaukee to Makita",
-        "selftext": "My Milwaukee M18 Fuel hammer drill is on its last leg after serving me very well and being abused. So I bought the Makita kit XT297T. The reason I didnt replace the Milwaukee with another Milwaukee drill is because all Milwaukee tools I own have very sudden and unpredictable actuation which causes drill bit runaways and wrist torquing at times. I tried the Makita in at my local Berlands and liked how it actuates consistently and predictably. The store even threw in a bonus battery, so I have three Makita 5.0 batteries now!\n\nAnyone else likes Makita's actuation more? Any other specific outstanding Makita tools that beat Milwaukee that I can use these batteries with?",
-        "score": 37,
-        "num_comments": 22,
-        "created_utc": 1770234741.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1qvyx2q/switch_from_milwaukee_to_makita/",
-        "permalink": "https://reddit.com/r/Makita/comments/1qvyx2q/switch_from_milwaukee_to_makita/",
-        "relevance_score": 39.6,
+        "subreddit": "Ryobi",
+        "title": "Any good comparison of the 18V vacuums?",
+        "selftext": "Looking at the 18V Ryobi vacuums for a medium sized house (4 bedroom, 2 story + basement) that has 2 dogs (LOTS of dog hair, sand/dirt tracked in).\n\nIs there a good comparison of the seemingly dozens of almost-identical-but-different models that Home Depot offers?\n\n  \nMy initial look came up with these two that sound potentially good, but I wonder if they'd suffer some of the same \"fills fast, clogs easy, fragile\" issues as the Dyson we hate?\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233)\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV719K/327657350#overlay](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-an",
+        "score": 7,
+        "num_comments": 16,
+        "created_utc": 1770755466.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "relevance_score": 53.76,
         "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee"
+          "ryobi",
+          "ryobi",
+          "ge",
+          "kenmore"
         ],
         "matched_products": [
-          "drill",
-          "hammer drill"
+          "circular saw",
+          "angle grinder",
+          "vacuum"
         ],
         "matched_keywords": [
-          "battery"
+          "cordless",
+          "battery",
+          "ah",
+          "capacity"
         ],
         "detected_intents": [
-          "buying_intent"
+          "buying_intent",
+          "comparison"
         ]
       }
     ],
@@ -581,216 +1066,206 @@
     ],
     "matched_videos": [
       {
-        "video_id": "vZwollxOtdU",
-        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
+        "video_id": "tfTDQKakVnU",
+        "title": "How to Replace the Starter Assembly on a Makita Cut Off Saw",
         "channel": "fixtechguides",
-        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
-        "relevance_score": 65.45,
+        "description_snippet": "LET’S GET (YOUR SAW) STARTED: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. Replacing the starter assembly in a Makita DPC7311 cut-off...",
+        "relevance_score": 53.6,
         "scoring_breakdown": {
-          "semantic_score": 16.35,
-          "keyword_score": 30,
-          "intent_score": 4.0,
+          "semantic_score": 20.23,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "tfidf:makita",
+            "tfidf:kit",
+            "product:makita",
+            "product:saw"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "FJ1Wo2xufzI",
+        "title": "How to Install a Switch Kit on a DeWALT DW705 Miter Saw (Part # 5140112-17)",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement switch kit for your DeWALT DW705 miter saw here: http://www.ereplacementparts.com/switch-kit-p-1458653.html\n\nThis tutorial will show you how to install a switch kit on a DeWALT...",
+        "relevance_score": 52.95,
+        "scoring_breakdown": {
+          "semantic_score": 17.93,
+          "keyword_score": 21,
+          "intent_score": 1.8,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "tfidf:kit",
+            "tfidf:www",
+            "product:dewalt",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "comparison:3.6↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "7u28aG7NfLk",
+        "title": "Chainsaw Troubleshooting: How to Properly Clean Your Chainsaw | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "Maintaining yours chainsaw can be a little extra work, but can have HUGE rewards. A clean chainsaw is an efficient chainsaw, and in this video, we'll show you how to properly clean yours, so...",
+        "relevance_score": 37.83,
+        "scoring_breakdown": {
+          "semantic_score": 15.1,
+          "keyword_score": 14,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:saw",
+            "fuzzy_tfidf:makita(83.33333333333334)",
+            "product:chainsaw",
+            "product:saw"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "_jxDdMpwE6c",
+        "title": "Dryer Repair - Replacing the Rear Drum Bearing Kit - Part 2 (GE Part# WE25M40)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 37.82,
+        "scoring_breakdown": {
+          "semantic_score": 10.69,
+          "keyword_score": 16,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:milwaukee",
-            "tfidf:drill",
-            "fuzzy_tfidf:models(83.33333333333334)",
-            "fuzzy_tfidf:hedge(80.0)"
+            "tfidf:kit",
+            "brand:model",
+            "entity:model"
           ],
           "intent_matches": [
-            "how_to_guide:1.1↔3.3000000000000003",
-            "comparison:2.7↔0.9"
+            "troubleshooting:1.2↔1.2"
           ]
         }
       },
       {
-        "video_id": "7yygSKYOO_Q",
-        "title": "Makita Hammer Drill Repair - Replacing the Chuck (Makita Part # 766027-7)",
+        "video_id": "-8oTHAroi7M",
+        "title": "How to Replace the V-Belt on a Makita Cut Off Saw",
         "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Chuck for your Hammer Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 62.61,
+        "description_snippet": "SAVE YOUR SAW. SEE MORE SAVINGS.\nCutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. Replacing the V-belt on a Makita DPC7311 cut-off saw is...",
+        "relevance_score": 50.69,
         "scoring_breakdown": {
-          "semantic_score": 27.01,
-          "keyword_score": 30,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:drill",
-            "tfidf:tools",
-            "tfidf:power tools",
-            "tfidf:power"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:2.7↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "ilj1uAnVang",
-        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
-        "relevance_score": 46.47,
-        "scoring_breakdown": {
-          "semantic_score": 16.55,
-          "keyword_score": 15,
-          "intent_score": 4.2,
+          "semantic_score": 17.99,
+          "keyword_score": 21,
+          "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:tools",
-            "tfidf:power tools",
-            "tfidf:power"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "HiYvgvVM890",
-        "title": "Complete Guide To Basic Trimmer Maintenance | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "Like any piece of Outdoor Power Equipment, it's important to perform routine maintenance on your trimmer, if it's going to perform its best. Fortunately, the maintenance of your trimmer is...",
-        "relevance_score": 41.34,
-        "scoring_breakdown": {
-          "semantic_score": 7.6,
-          "keyword_score": 20,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:power",
-            "tfidf:outdoor",
-            "tfidf:trimmer",
-            "tfidf:outdoor power"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "pHXPpHQXzYQ",
-        "title": "Makita Drill Repair - Replacing the Chuck (Makita Part # 193319-5)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Chuck for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase the...",
-        "relevance_score": 61.79,
-        "scoring_breakdown": {
-          "semantic_score": 26.19,
-          "keyword_score": 30,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
+            "tfidf:saw",
             "tfidf:makita",
-            "tfidf:drill",
-            "tfidf:tools",
-            "tfidf:power tools",
-            "tfidf:power"
+            "tfidf:kit",
+            "product:makita",
+            "product:saw"
           ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:2.7↔1.8"
-          ]
+          "intent_matches": []
         }
       }
     ]
   },
   {
     "theme": "repair_help",
-    "post_count": 51,
-    "avg_engagement": 57.333333333333336,
-    "avg_relevance": 20.49380392156863,
-    "total_comments": 1491,
-    "demand_strength": 59923.88266666668,
+    "post_count": 45,
+    "avg_engagement": 32.355555555555554,
+    "avg_relevance": 21.81391111111111,
+    "total_comments": 942,
+    "demand_strength": 31761.054577777777,
     "sample_posts": [
       {
         "subreddit": "Makita",
-        "title": "Bosch GSB 65 vs Makita DHP484 (with metal drill chuck) – any experiences?",
-        "selftext": "Hi,\n\nI would like to compare the GSB 65 with the Makita DHP 484 (with metal drill chuck).\n\nThey are roughly the same price. Both cost around €130 with the box.\n\nThe thing is, I found this video:\n\n[https://www.youtube.com/shorts/dnEKg8MZ94Y](https://www.youtube.com/shorts/dnEKg8MZ94Y)\n\nSo I went to OBI (a hardware store) and found that both Makita and Bosch blue had this problem with the models in store.\n\nBut of course, the two models I'm looking for weren't there.\n\nMy Milwaukee ONEPD2 doesn't do this, and an Einhell they also had there, which also has a hammer function, didn't do it either.\n\nSo, to everyone who has these models, I would be grateful if you could check and give me some feedback on whether yours does this too.\n\nThe GSB 65 is quite new, as is the DHP 484 with metal drill chuck.\n\nIf anyone else has any comparative experience with these two models, I would also appreciate hearing about it.",
-        "score": 6,
-        "num_comments": 7,
-        "created_utc": 1770056002.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "permalink": "https://reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "relevance_score": 49.559999999999995,
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
         "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "bosch",
-          "bosch"
+          "dewalt",
+          "dewalt",
+          "ge"
         ],
         "matched_products": [
           "drill"
         ],
-        "matched_keywords": [],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
         "detected_intents": [
           "buying_intent",
           "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
           "comparison"
         ]
       },
       {
         "subreddit": "appliances",
-        "title": "Avoid Samsung Appliances at All Costs",
-        "selftext": "Whether you are looking to get a washer, dryer, dishwasher, or fridge you will do yourself an incredible amount of service to avoid Samsung appliances. \n\nWhile they are absolutely amazing when you first get them, after at most 24 months, you will (I repeat WILL) find yourself in a situation with a useless, dead-weight extremely expensive product. \n\nTheir customer service would be better if it was non-existent. Every single \"text\" will give you a different answer, and when you call in and speak with someone to clarify, the text bots will follow-up with you and tell you the call center was wrong. I wish I was making this up. \n\nLacking any ability to live through the issue from the customer's perspective, they are not helpful at all. It took over 5 days to determine HOW we should be servicing the appliance that just kept showing error messages. I am not talking about actually getting something serviced, it is absolutely expected that scheduling and receiving the service will take time. I ",
-        "score": 206,
-        "num_comments": 88,
-        "created_utc": 1770146275.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "relevance_score": 40.559999999999995,
-        "matched_brands": [
-          "ge",
-          "samsung"
-        ],
-        "matched_products": [
-          "washer",
-          "dryer",
-          "fridge",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Bosch",
-        "title": "Water leak from side of door - Bosch Serie 6 SMS6ECI15E",
-        "selftext": "Hi everyone, I'm having a problem with my Bosch Series 6 dishwasher (model SMS6ECI15E).\nAlthough there are no error codes currently appearing on the display, I have a constant water leak coming out of the left side of the door (bottom left corner) while the machine is running. The water drips out, wetting the entire surrounding floor.\nI previously displayed an E31/AquaStop error (probably because the water had ended up in the safety tray), but after leaving it idle, the error disappeared. However, the physical leak from the door continues to occur with every cycle.\nDetails found:\nThe leak is located right at the end of the door on the left side.\nThe seals appear clean and in place.\nThere are no obvious blockages in the filters.\nHas anyone with this model had the same problem?\nCould it be the lower seal (the \"brush\" one) or perhaps a micro-crack in the lower spray arm that shoots water sideways?\nBefore calling official support, I'd like to know if it's a component I can easily replace m",
-        "score": 1,
-        "num_comments": 2,
-        "created_utc": 1769906645.0,
-        "url": "https://www.reddit.com/r/bosch/comments/1qsjlw8/water_leak_from_side_of_door_bosch_serie_6/",
-        "permalink": "https://reddit.com/r/bosch/comments/1qsjlw8/water_leak_from_side_of_door_bosch_serie_6/",
-        "relevance_score": 39.0,
+        "title": "Durable induction range recommendations",
+        "selftext": "Hi. I'm in the market for a an induction range. I bought a Samsung \"Bespoke\" last year and it arrived scratched.  Upon closer inspection I saw that the finish was pretty garbage and it didn't look like the metal colored painted surfaces would last a minute. I sent that back. Getting a refund was a nightmare. Now I'm ready to try again. Looking for a basic model that heats quickly and accurately, nothing fancy but something that won't look like crap in no time. I recently bit the bullet on a Bosch fridge. That thing is crap and repair prices are outrageous so no Bosch (we've had manual ice trays in our ice maker for months because that POS stopped working). Thanks for suggestions",
+        "score": 6,
+        "num_comments": 21,
+        "created_utc": 1770995145.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "relevance_score": 42.0,
         "matched_brands": [
           "bosch",
           "ge",
+          "samsung",
+          "bosch"
+        ],
+        "matched_products": [
+          "fridge"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Control board repair vs $1299 new Bosch from Costco - just upgrade?",
+        "selftext": "**Situation:** 4-5 year old Bosch 500 Series, E23 error. Tech said \"definitely the drain pump,\" replaced it. Tested 3 times - third test failed again with same error. Same visit he says \"Oh it's actually the control board - $1100.\"\n\n**The problem:** Control boards are $200-300 online. Should be $400-600 with labor. Quote feels inflated.\n\n**Meanwhile:** Costco has the Bosch 800 Series for $1299 with delivery + install included.\n\n**So I'm looking at:**\n\n* Fix: $1100 (inflated price?)\n* New upgraded dishwasher: $1299\n\n**$200 difference.**\n\n**Questions:**\n\n1. Worth shopping around for better repair quotes or just upgrade?\n2. Is replacing a 4-5 year old appliance wasteful, or does the math make sense here?",
+        "score": 5,
+        "num_comments": 22,
+        "created_utc": 1770916701.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "relevance_score": 38.52,
+        "matched_brands": [
+          "bosch",
           "bosch"
         ],
         "matched_products": [
@@ -802,7 +1277,9 @@
           "buying_intent",
           "troubleshooting",
           "troubleshooting",
-          "maintenance"
+          "troubleshooting",
+          "comparison",
+          "comparison"
         ]
       }
     ],
@@ -820,610 +1297,366 @@
     ],
     "matched_videos": [
       {
-        "video_id": "UerVcdQXJ_Y",
-        "title": "Refrigerator Maintenance - Changing Ice & Water Filter (GE Part# MWF)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 53.76,
-        "scoring_breakdown": {
-          "semantic_score": 9.35,
-          "keyword_score": 28,
-          "intent_score": 4.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:water",
-            "fuzzy_tfidf:leak(75.0)",
-            "fuzzy_tfidf:models(83.33333333333334)",
-            "fuzzy_tfidf:left(75.0)"
-          ],
-          "intent_matches": [
-            "troubleshooting:9.6↔1.2",
-            "maintenance:3.2↔0.8"
-          ]
-        }
-      },
-      {
-        "video_id": "AVBYkedhaZA",
-        "title": "Refrigerator & IceMaker Repair - Replacing the Double Outlet Water Valve (GE Part# WR57X10032)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 53.18,
-        "scoring_breakdown": {
-          "semantic_score": 8.51,
-          "keyword_score": 30,
-          "intent_score": 2.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:water",
-            "fuzzy_tfidf:leak(75.0)",
-            "fuzzy_tfidf:text(75.0)",
-            "fuzzy_tfidf:models(83.33333333333334)"
-          ],
-          "intent_matches": [
-            "troubleshooting:9.6↔1.2"
-          ]
-        }
-      },
-      {
-        "video_id": "vZwollxOtdU",
-        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
+        "video_id": "HqVEdc7xCRM",
+        "title": "Tool Tear Down: Cordless Batteries | What's Inside and How to Replace Them | eReplacementParts.com",
         "channel": "fixtechguides",
-        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
-        "relevance_score": 49.83,
+        "description_snippet": "When it comes to power tools, lots of folks like to go old-school and stick with their plug-in, corded tools. However, more and more people these days find themselves turning to another option:...",
+        "relevance_score": 47.68,
         "scoring_breakdown": {
-          "semantic_score": 16.53,
-          "keyword_score": 20,
-          "intent_score": 1.8,
+          "semantic_score": 15.68,
+          "keyword_score": 19,
+          "intent_score": 2.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:model",
-            "fuzzy_tfidf:models(83.33333333333334)",
-            "brand:model",
-            "product:milwaukee",
-            "product:drill"
+            "tfidf:like",
+            "tfidf:batteries",
+            "fuzzy_tfidf:model batteries(80.0)",
+            "fuzzy_tfidf:year(75.0)",
+            "fuzzy_tfidf:shows(80.0)"
           ],
           "intent_matches": [
-            "comparison:2.7↔0.9"
+            "buying_advice:3.0↔1.0"
           ]
         }
       },
       {
-        "video_id": "L14hdT915aA",
-        "title": "How to Install a Driver Maintenance Kit on a Porter Cable Nail Gun",
-        "channel": "fixtechguides",
-        "description_snippet": "In this video, Mark guides you through a driver maintenance kit installation on a Porter Cable finishing nail gun. With the right maintenance kit, you can use these steps on most nail gun models....",
-        "relevance_score": 48.42,
+        "video_id": "4018FnLXUD0",
+        "title": "How to Clear the Samsung Range C-F2 Error Code | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "The C-F2 error on your Samsung oven is an indication that there is a communication problem between the touchpad and the main control board. You may notice that the touch controls are either...",
+        "relevance_score": 44.54,
         "scoring_breakdown": {
-          "semantic_score": 10.45,
+          "semantic_score": 11.06,
+          "keyword_score": 16,
+          "intent_score": 7.199999999999999,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:range",
+            "fuzzy_tfidf:year(75.0)",
+            "tfidf:control",
+            "fuzzy_tfidf:shows(75.0)"
+          ],
+          "intent_matches": [
+            "troubleshooting:8.4↔3.5999999999999996"
+          ]
+        }
+      },
+      {
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 43.78,
+        "scoring_breakdown": {
+          "semantic_score": 11.68,
           "keyword_score": 22,
-          "intent_score": 4.800000000000001,
+          "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:models",
-            "fuzzy_tfidf:left(75.0)",
-            "fuzzy_tfidf:gsb model(77.77777777777779)",
-            "brand:model"
+            "tfidf:bosch",
+            "fuzzy_tfidf:range(80.0)",
+            "fuzzy_tfidf:shows(80.0)",
+            "product:saw"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "Iiozm-ZzeRw",
+        "title": "Range Repair - Replacing the Infinite Control Switch (Whirlpool Part # 3149404)",
+        "channel": "partselect",
+        "description_snippet": "http://www.partselect.com/PS336993-Whirlpool-3149404-Infinite-Control-Switch-6.htm?SourceCode=15 Click here for more information on this part, installation instructions and more. \n\nThis particular...",
+        "relevance_score": 43.19,
+        "scoring_breakdown": {
+          "semantic_score": 12.23,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:look(75.0)",
+            "tfidf:range",
+            "fuzzy_tfidf:like(75.0)",
+            "tfidf:repair",
+            "tfidf:control"
+          ],
+          "intent_matches": []
+        }
+      },
+      {
+        "video_id": "iUBMViME_oY",
+        "title": "How to Change the Blade Clamp on the Bosch RS15 and RS20 saws",
+        "channel": "fixtechguides",
+        "description_snippet": "Learn how to change the blade clamp on the Bosch RS15 and RS2 reciprocating saw with this helpful video from Dale, one of eReplacementParts.com's professional tool repair technicians.\n\nFor...",
+        "relevance_score": 43.74,
+        "scoring_breakdown": {
+          "semantic_score": 8.65,
+          "keyword_score": 25,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:bosch",
+            "fuzzy_tfidf:range(80.0)",
+            "tfidf:repair",
+            "fuzzy_tfidf:year(75.0)",
+            "fuzzy_tfidf:shows(75.0)"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 19,
+    "avg_engagement": 52.8421052631579,
+    "avg_relevance": 18.126315789473686,
+    "total_comments": 925,
+    "demand_strength": 18198.82105263158,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Any good comparison of the 18V vacuums?",
+        "selftext": "Looking at the 18V Ryobi vacuums for a medium sized house (4 bedroom, 2 story + basement) that has 2 dogs (LOTS of dog hair, sand/dirt tracked in).\n\nIs there a good comparison of the seemingly dozens of almost-identical-but-different models that Home Depot offers?\n\n  \nMy initial look came up with these two that sound potentially good, but I wonder if they'd suffer some of the same \"fills fast, clogs easy, fragile\" issues as the Dyson we hate?\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233)\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV719K/327657350#overlay](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-an",
+        "score": 7,
+        "num_comments": 16,
+        "created_utc": 1770755466.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "relevance_score": 53.76,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge",
+          "kenmore"
+        ],
+        "matched_products": [
+          "circular saw",
+          "angle grinder",
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "capacity"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "BuyItForLife",
+        "title": "Why does no one on YouTube talking about Miele vacuums?",
+        "selftext": "This is how I heard about Miele the first time: back in 2017, I came across the [vacuum repair guy AMA](https://www.reddit.com/r/IAmA/comments/7gmsoe/iama_reddits_own_vacuum_repair_tech_with_a_very/) where I learned about how fantastic Miele is and how important it is to buy a bagged corded vacuum. I read OP's comments, explanations, and answers and I believed everything he was saying about vacuums. Keep in mind, this was back in 2017 when astroturfing/guerrilla marketing and bots wasn't a huge issue on Reddit.\n\nFast forward to now where recently I've been watching a lot of the most viewed YouTube videos on the topic of vacuuming. Not just vacuum product reviews but vacuuming in general.  Some videos are from small creators and some are big creators like Melissa from Clean My Space, Brandon from Clean That Up, Vacuum Wars, and Project Farm.\n\nNone of these videos ever mention Miele. Dyson is easily the most popular vacuum brand on YouTube. Some of these videos go back to 10+ years, way ",
+        "score": 208,
+        "num_comments": 167,
+        "created_utc": 1770653432.0,
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "permalink": "https://reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "relevance_score": 36.36,
+        "matched_brands": [
+          "ge",
+          "miele"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Tool only coming with a battery?",
+        "selftext": "Hi everyone! I recently bought the Ryobi 18V ONE+ Cordless Pet Stick Vacuum  that was listed as tool only on the shelf and in the box. When I opened it it had both a charger and 4ah battery in the box. there was a previous deal for this vacuum with a battery but it seems like they loaded the vacuum into the wrong box or something. has this happened to anyone else?",
+        "score": 34,
+        "num_comments": 23,
+        "created_utc": 1770564892.0,
+        "url": "https://www.reddit.com/gallery/1qzbylc",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qzbylc/tool_only_coming_with_a_battery/",
+        "relevance_score": 30.0,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah"
+        ],
+        "detected_intents": []
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "YkFqrESU39g",
+        "title": "Gas Powered Leaf Blower or Battery Powered Leaf Blower? Which One Is Better? | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "We're back this week with another buyer's guide! We've taken you through Gas Powered vs Battery Powered Lawn Mowers (https://www.youtube.com/watch?v=FVhkavCI7h4) and Chainsaws (https://www.youtube....",
+        "relevance_score": 45.22,
+        "scoring_breakdown": {
+          "semantic_score": 13.98,
+          "keyword_score": 15,
+          "intent_score": 5.800000000000001,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:battery",
+            "tfidf:www",
+            "tfidf:https"
           ],
           "intent_matches": [
-            "maintenance:3.2↔2.4000000000000004"
+            "how_to_guide:1.1↔1.1",
+            "comparison:1.8↔1.8"
           ]
         }
       },
       {
-        "video_id": "yM8Pr0F3rpc",
-        "title": "Refrigerator Maintenance - Replacing Ice & Water Filter (Whirlpool Part# 4396508)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 51.28,
+        "video_id": "FVSBVk4BIbI",
+        "title": "How to Replace the Starter Rope on a Ryobi Handheld Gas Blower",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement starter rope for your Ryobi handheld gas blower here: http://www.ereplacementparts.com/ryobi-blower-vacuum-parts-c-7931_15636.html\n\nThis tutorial will show you how to remove...",
+        "relevance_score": 44.25,
         "scoring_breakdown": {
-          "semantic_score": 7.44,
-          "keyword_score": 28,
+          "semantic_score": 9.04,
+          "keyword_score": 21,
           "intent_score": 4.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
+            "tfidf:vacuum",
+            "tfidf:ryobi",
+            "tfidf:www",
+            "fuzzy_tfidf:https(80.0)",
+            "product:ryobi"
+          ],
+          "intent_matches": [
+            "how_to_guide:1.1↔3.3000000000000003",
+            "comparison:1.8↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "bJ5TNlzHKhA",
+        "title": "Dryer Repair  - Replacing the Drum Support Roller (Whirlpool Part# 37001042)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 34.15,
+        "scoring_breakdown": {
+          "semantic_score": 10.67,
+          "keyword_score": 11,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
             "tfidf:model",
-            "tfidf:water",
-            "fuzzy_tfidf:leak(75.0)",
-            "fuzzy_tfidf:models(83.33333333333334)",
-            "fuzzy_tfidf:left(75.0)"
+            "brand:model",
+            "entity:model"
           ],
           "intent_matches": [
-            "troubleshooting:9.6↔1.2",
-            "maintenance:3.2↔0.8"
+            "troubleshooting:1.2↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003"
           ]
         }
-      }
-    ]
-  },
-  {
-    "theme": "how_to_guides",
-    "post_count": 33,
-    "avg_engagement": 71.21212121212122,
-    "avg_relevance": 18.89236363636364,
-    "total_comments": 877,
-    "demand_strength": 44397.05454545456,
-    "sample_posts": [
-      {
-        "subreddit": "Makita",
-        "title": "New to Makita - are the outdoor power tools good (specifically XNU02Z)?",
-        "selftext": "Hi! As the title states, are Makita outdoor power tools good? I currently own Milwaukee M12/M18 power tools around the house work. I am looking into getting into outdoor power tools (specifically hedge trimmer - XNU02Z);I dont mind buying into the Makita Ecosystem if they are better than the Milwaukee stuff. I am looking to start out with the 24” LXT Pole hedge trimmer. Would appreciate insight on the hedge trimmer! Thanks in advance!",
-        "score": 22,
-        "num_comments": 30,
-        "created_utc": 1770298865.0,
-        "url": "https://i.redd.it/2xgolfafjohg1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1qwlkp1/new_to_makita_are_the_outdoor_power_tools_good/",
-        "relevance_score": 48.959999999999994,
-        "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "ge"
-        ],
-        "matched_products": [
-          "hedge trimmer"
-        ],
-        "matched_keywords": [
-          "outdoor"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "learning_intent",
-          "comparison"
-        ]
       },
       {
-        "subreddit": "appliances",
-        "title": "Avoid Samsung Appliances at All Costs",
-        "selftext": "Whether you are looking to get a washer, dryer, dishwasher, or fridge you will do yourself an incredible amount of service to avoid Samsung appliances. \n\nWhile they are absolutely amazing when you first get them, after at most 24 months, you will (I repeat WILL) find yourself in a situation with a useless, dead-weight extremely expensive product. \n\nTheir customer service would be better if it was non-existent. Every single \"text\" will give you a different answer, and when you call in and speak with someone to clarify, the text bots will follow-up with you and tell you the call center was wrong. I wish I was making this up. \n\nLacking any ability to live through the issue from the customer's perspective, they are not helpful at all. It took over 5 days to determine HOW we should be servicing the appliance that just kept showing error messages. I am not talking about actually getting something serviced, it is absolutely expected that scheduling and receiving the service will take time. I ",
-        "score": 206,
-        "num_comments": 88,
-        "created_utc": 1770146275.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "relevance_score": 40.559999999999995,
-        "matched_brands": [
-          "ge",
-          "samsung"
-        ],
-        "matched_products": [
-          "washer",
-          "dryer",
-          "fridge",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "I need to change my Samsung washing machine",
-        "selftext": "Hi everyone ! \n\n6 years ago I got a Samsung Ecobubble. Worked really great until last weekend. I was happy about it but it just failed. I’d need to spend 350$ to repair it. So I’m considering just changing it 🤷‍♂️\n\nIf I’m changing, it’s for a washing machine that is also a dryer. But there’s so many, I don’t know how to pick. I just want something reliable, no need for fancy features : just washing and drying for at least 10 years. \n\nIs Samsung a good brand, except this one time, I’m usually happy with their products. \n\nI’ve heard good things about LG but they’re very expensive. Hisense are kinda cheap, but should I bet on them on the long term? \n\nI was eyeing a $700 washing machine. Can go up to $1000 if it’s really neeeded and if it’s gonna last loooong. \n\nCould you help?",
-        "score": 9,
-        "num_comments": 13,
-        "created_utc": 1770062213.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qu5qny/i_need_to_change_my_samsung_washing_machine/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qu5qny/i_need_to_change_my_samsung_washing_machine/",
-        "relevance_score": 36.0,
-        "matched_brands": [
-          "ge",
-          "samsung",
-          "lg"
-        ],
-        "matched_products": [
-          "washing machine",
-          "dryer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "troubleshooting",
-          "troubleshooting",
-          "learning_intent"
-        ]
-      }
-    ],
-    "content_angle": "How To Guides Content",
-    "example_videos": [
-      "Custom content needed"
-    ],
-    "hashtags": [
-      "#how_to_guides"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "ilj1uAnVang",
-        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
+        "video_id": "cOGiC-LwPow",
+        "title": "PartSelect Celebrates 10 Million Views!",
         "channel": "partselect",
-        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
-        "relevance_score": 68.37,
+        "description_snippet": "We're celebrating our ten millionth video view, here on YouTube! Thank you, PartSelect customers and viewers, ten million times over!\n\nGet model-specific repair help from PartSelect.com. Learn...",
+        "relevance_score": 34.04,
         "scoring_breakdown": {
-          "semantic_score": 20.39,
-          "keyword_score": 28,
-          "intent_score": 4.2,
+          "semantic_score": 7.58,
+          "keyword_score": 14,
+          "intent_score": 4.6,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:just",
-            "fuzzy_tfidf:text(75.0)",
-            "tfidf:tools",
-            "tfidf:power",
-            "tfidf:power tools"
+            "tfidf:model",
+            "fuzzy_tfidf:videos(83.33333333333334)",
+            "brand:model",
+            "entity:model"
           ],
           "intent_matches": [
-            "buying_advice:3.0↔1.0",
-            "how_to_guide:2.2↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "2d46qh8cH9g",
-        "title": "5 Essential Power Tools Every DIYer Should Have | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Power Tools can certainly make life easier in the workshop. But if you're new to the game, you may be wondering what tools you'll need to get things started. In this video, we'll cover 5 tools...",
-        "relevance_score": 57.08,
-        "scoring_breakdown": {
-          "semantic_score": 19.71,
-          "keyword_score": 20,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:tools",
-            "tfidf:power",
-            "tfidf:power tools",
-            "tfidf:need"
-          ],
-          "intent_matches": [
-            "buying_advice:3.0↔1.0",
-            "how_to_guide:2.2↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "Kjw3rEx1bAI",
-        "title": "Makita Rotary Hammer Repair - Replacing the Guide Washer (Makita Part # 345187-4)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Guide Washer for your Rotary Hammer? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances....",
-        "relevance_score": 56.99,
-        "scoring_breakdown": {
-          "semantic_score": 19.99,
-          "keyword_score": 29,
-          "intent_score": 8.0,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:samsung appliances(81.25)",
-            "tfidf:tools",
-            "tfidf:power",
-            "tfidf:power tools",
-            "tfidf:need"
-          ],
-          "intent_matches": [
-            "how_to_guide:2.2↔2.2",
-            "comparison:1.8↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "HcpXcB7wYi8",
-        "title": "Quickly Fix the Maytag and Whirlpool Washer F5 Error Code!",
-        "channel": "partselect",
-        "description_snippet": "Newer Maytag and Whirlpool washing machines use a digital display system to help you maintain, care for, and repair your appliances. There are a system of error or fault codes which are used...",
-        "relevance_score": 46.24,
-        "scoring_breakdown": {
-          "semantic_score": 10.44,
-          "keyword_score": 21,
-          "intent_score": 14.8,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:washing",
-            "tfidf:washing machine",
-            "tfidf:machine",
-            "fuzzy_tfidf:need(75.0)",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "buying_advice:3.0↔1.0",
-            "troubleshooting:4.8↔6.0",
-            "maintenance:2.4000000000000004↔1.6"
-          ]
-        }
-      },
-      {
-        "video_id": "xf43mn7Inq8",
-        "title": "Makita Power Scraper Repair - Replacing the Cord Protector (Makita Part # 682503-2)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Cord Protector for your Power Scraper? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances....",
-        "relevance_score": 54.17,
-        "scoring_breakdown": {
-          "semantic_score": 21.57,
-          "keyword_score": 29,
-          "intent_score": 3.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:samsung appliances(81.25)",
-            "fuzzy_tfidf:text(75.0)",
-            "tfidf:tools",
-            "tfidf:power",
-            "tfidf:power tools"
-          ],
-          "intent_matches": [
-            "comparison:1.8↔1.8"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "product_comparisons",
-    "post_count": 34,
-    "avg_engagement": 37.38235294117647,
-    "avg_relevance": 20.828235294117643,
-    "total_comments": 1183,
-    "demand_strength": 26472.687058823525,
-    "sample_posts": [
-      {
-        "subreddit": "Makita",
-        "title": "Bosch GSB 65 vs Makita DHP484 (with metal drill chuck) – any experiences?",
-        "selftext": "Hi,\n\nI would like to compare the GSB 65 with the Makita DHP 484 (with metal drill chuck).\n\nThey are roughly the same price. Both cost around €130 with the box.\n\nThe thing is, I found this video:\n\n[https://www.youtube.com/shorts/dnEKg8MZ94Y](https://www.youtube.com/shorts/dnEKg8MZ94Y)\n\nSo I went to OBI (a hardware store) and found that both Makita and Bosch blue had this problem with the models in store.\n\nBut of course, the two models I'm looking for weren't there.\n\nMy Milwaukee ONEPD2 doesn't do this, and an Einhell they also had there, which also has a hammer function, didn't do it either.\n\nSo, to everyone who has these models, I would be grateful if you could check and give me some feedback on whether yours does this too.\n\nThe GSB 65 is quite new, as is the DHP 484 with metal drill chuck.\n\nIf anyone else has any comparative experience with these two models, I would also appreciate hearing about it.",
-        "score": 6,
-        "num_comments": 7,
-        "created_utc": 1770056002.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "permalink": "https://reddit.com/r/Makita/comments/1qu2rzw/bosch_gsb_65_vs_makita_dhp484_with_metal_drill/",
-        "relevance_score": 49.559999999999995,
-        "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "bosch",
-          "bosch"
-        ],
-        "matched_products": [
-          "drill"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "New to Makita - are the outdoor power tools good (specifically XNU02Z)?",
-        "selftext": "Hi! As the title states, are Makita outdoor power tools good? I currently own Milwaukee M12/M18 power tools around the house work. I am looking into getting into outdoor power tools (specifically hedge trimmer - XNU02Z);I dont mind buying into the Makita Ecosystem if they are better than the Milwaukee stuff. I am looking to start out with the 24” LXT Pole hedge trimmer. Would appreciate insight on the hedge trimmer! Thanks in advance!",
-        "score": 22,
-        "num_comments": 30,
-        "created_utc": 1770298865.0,
-        "url": "https://i.redd.it/2xgolfafjohg1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1qwlkp1/new_to_makita_are_the_outdoor_power_tools_good/",
-        "relevance_score": 48.959999999999994,
-        "matched_brands": [
-          "milwaukee",
-          "makita",
-          "makita",
-          "milwaukee",
-          "ge"
-        ],
-        "matched_products": [
-          "hedge trimmer"
-        ],
-        "matched_keywords": [
-          "outdoor"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "learning_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Avoid Samsung Appliances at All Costs",
-        "selftext": "Whether you are looking to get a washer, dryer, dishwasher, or fridge you will do yourself an incredible amount of service to avoid Samsung appliances. \n\nWhile they are absolutely amazing when you first get them, after at most 24 months, you will (I repeat WILL) find yourself in a situation with a useless, dead-weight extremely expensive product. \n\nTheir customer service would be better if it was non-existent. Every single \"text\" will give you a different answer, and when you call in and speak with someone to clarify, the text bots will follow-up with you and tell you the call center was wrong. I wish I was making this up. \n\nLacking any ability to live through the issue from the customer's perspective, they are not helpful at all. It took over 5 days to determine HOW we should be servicing the appliance that just kept showing error messages. I am not talking about actually getting something serviced, it is absolutely expected that scheduling and receiving the service will take time. I ",
-        "score": 206,
-        "num_comments": 88,
-        "created_utc": 1770146275.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1qv1b8v/avoid_samsung_appliances_at_all_costs/",
-        "relevance_score": 40.559999999999995,
-        "matched_brands": [
-          "ge",
-          "samsung"
-        ],
-        "matched_products": [
-          "washer",
-          "dryer",
-          "fridge",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Product Comparisons Content",
-    "example_videos": [
-      "Custom content needed"
-    ],
-    "hashtags": [
-      "#product_comparisons"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "7yygSKYOO_Q",
-        "title": "Makita Hammer Drill Repair - Replacing the Chuck (Makita Part # 766027-7)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Chuck for your Hammer Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 62.61,
-        "scoring_breakdown": {
-          "semantic_score": 27.01,
-          "keyword_score": 30,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:power tools",
-            "tfidf:power",
-            "tfidf:tools",
-            "tfidf:outdoor power"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:3.6↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "pHXPpHQXzYQ",
-        "title": "Makita Drill Repair - Replacing the Chuck (Makita Part # 193319-5)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Chuck for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase the...",
-        "relevance_score": 61.79,
-        "scoring_breakdown": {
-          "semantic_score": 26.19,
-          "keyword_score": 30,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:power tools",
-            "tfidf:power",
-            "tfidf:tools",
-            "tfidf:outdoor power"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:3.6↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "ilj1uAnVang",
-        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
-        "relevance_score": 50.37,
-        "scoring_breakdown": {
-          "semantic_score": 16.55,
-          "keyword_score": 18,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:text(75.0)",
-            "tfidf:power tools",
-            "tfidf:power",
-            "tfidf:tools"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
+            "troubleshooting:1.2↔1.2",
             "how_to_guide:1.1↔1.1"
           ]
         }
       },
       {
-        "video_id": "HiYvgvVM890",
-        "title": "Complete Guide To Basic Trimmer Maintenance | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "Like any piece of Outdoor Power Equipment, it's important to perform routine maintenance on your trimmer, if it's going to perform its best. Fortunately, the maintenance of your trimmer is...",
-        "relevance_score": 47.58,
+        "video_id": "UEtxb35sDiQ",
+        "title": "How to Replace the Ignition Module on a Ryobi Handheld Gas Blower",
+        "channel": "fixtechguides",
+        "description_snippet": "Get a replacement ignition module for your Ryobi handheld gas blower here: http://www.ereplacementparts.com/ryobi-blower-vacuum-parts-c-7931_15636.html\n\nThis tutorial will show you how to remove...",
+        "relevance_score": 43.49,
         "scoring_breakdown": {
-          "semantic_score": 7.6,
-          "keyword_score": 20,
-          "intent_score": 9.0,
+          "semantic_score": 5.45,
+          "keyword_score": 24,
+          "intent_score": 4.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:power",
-            "tfidf:outdoor power",
-            "tfidf:trimmer",
-            "tfidf:outdoor"
+            "fuzzy_tfidf:model(80.0)",
+            "tfidf:vacuum",
+            "tfidf:ryobi",
+            "tfidf:www",
+            "fuzzy_tfidf:https(80.0)"
           ],
           "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "how_to_guide:1.1↔1.1",
-            "maintenance:2.4000000000000004↔3.2"
-          ]
-        }
-      },
-      {
-        "video_id": "imlFcViY4mw",
-        "title": "Makita Hammer Drill Repair - Replacing the Housing (Makita Part # 187714-9)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Housing for your Hammer Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 60.59,
-        "scoring_breakdown": {
-          "semantic_score": 24.99,
-          "keyword_score": 30,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:makita",
-            "tfidf:power tools",
-            "tfidf:power",
-            "tfidf:tools",
-            "tfidf:outdoor power"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔1.0",
-            "comparison:3.6↔1.8"
+            "how_to_guide:1.1↔3.3000000000000003",
+            "comparison:1.8↔0.9"
           ]
         }
       }
@@ -1431,96 +1664,103 @@
   },
   {
     "theme": "outdoor_power_equipment",
-    "post_count": 28,
-    "avg_engagement": 23.0,
-    "avg_relevance": 16.509285714285717,
-    "total_comments": 905,
-    "demand_strength": 10631.980000000001,
+    "post_count": 21,
+    "avg_engagement": 11.0,
+    "avg_relevance": 21.162285714285716,
+    "total_comments": 302,
+    "demand_strength": 4888.488,
     "sample_posts": [
       {
         "subreddit": "Makita",
-        "title": "New to Makita - are the outdoor power tools good (specifically XNU02Z)?",
-        "selftext": "Hi! As the title states, are Makita outdoor power tools good? I currently own Milwaukee M12/M18 power tools around the house work. I am looking into getting into outdoor power tools (specifically hedge trimmer - XNU02Z);I dont mind buying into the Makita Ecosystem if they are better than the Milwaukee stuff. I am looking to start out with the 24” LXT Pole hedge trimmer. Would appreciate insight on the hedge trimmer! Thanks in advance!",
-        "score": 22,
-        "num_comments": 30,
-        "created_utc": 1770298865.0,
-        "url": "https://i.redd.it/2xgolfafjohg1.jpeg",
-        "permalink": "https://reddit.com/r/Makita/comments/1qwlkp1/new_to_makita_are_the_outdoor_power_tools_good/",
-        "relevance_score": 48.959999999999994,
+        "title": "Home Depot USA",
+        "selftext": "In my area of the United States Home Depot has way more dewalt & Milwaukee products for sale but the rental section has all makita because they know it’s a longer lasting better commercial grade product. They even rent my 12 inch corded saw , cordless chainsaws etc . This made me angry at first. Especially when I had to settle & buy a 1&9/16” sds max Milwaukee roto hammer only to walk into the rental section to see the better makita version for rent . I’ve realized that we can use this as an opportunity to see the makita products in person & then order them online . My local Home Depot’s don’t rent any Milwaukee or dewalt only makita . Home Depot buys makita products to rent because they last longer . They sell the other stuff because they make more $ selling products that need to be replaced more often. Check the rental section next time you’re at Home Depot. That’s where they keep the good stuff .",
+        "score": 34,
+        "num_comments": 40,
+        "created_utc": 1771087953.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "permalink": "https://reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "relevance_score": 75.348,
         "matched_brands": [
+          "dewalt",
           "milwaukee",
           "makita",
+          "dewalt",
           "makita",
           "milwaukee",
-          "ge"
-        ],
-        "matched_products": [
-          "hedge trimmer"
-        ],
-        "matched_keywords": [
-          "outdoor"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "learning_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "EGO vs 60V Dewalt for yard tools?",
-        "selftext": "I have a ton of Dewalt 20V tools and batteries, along with three Flexvolt batteries (two 6Ah and a 9Ah), and only one 60V tool so far, the air compressor. I'm considering going with EGO for yard tools over Dewalt 60V, although I'd still have the Dewalt batteries and could always buy any individual tool if Dewalt makes a better one, like the pole pruning shears that I've got my eye on. I'm mostly interested in the LBX1000 leaf blower (my 20V DCBL722 isn't really up to par for actual yard work), PHX1600 attachment-capable weed whacker, probably a chainsaw, and maybe a snowblower and mower at some point. Has anyone else here done the same? Any regrets on either side?",
-        "score": 13,
-        "num_comments": 37,
-        "created_utc": 1770064003.0,
-        "url": "https://www.reddit.com/r/Dewalt/comments/1qu6l1l/ego_vs_60v_dewalt_for_yard_tools/",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1qu6l1l/ego_vs_60v_dewalt_for_yard_tools/",
-        "relevance_score": 39.12,
-        "matched_brands": [
-          "ego",
-          "dewalt",
-          "dewalt"
-        ],
-        "matched_products": [
-          "chainsaw",
-          "leaf blower"
-        ],
-        "matched_keywords": [
-          "yard work",
-          "volt",
-          "ah"
-        ],
-        "detected_intents": [
-          "comparison",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "New to Dewalt 60v - is this a good price?",
-        "selftext": "I have the Dewalt snowblower that came with two 12 ah Flexvolts and ordered the recent Woot deal on the 60v chainsaw that comes with one 9ah Flexvolt. \n\nSo I was considering buying another 9ah so I would have a back up set of the snowblower (which I haven’t needed yet) but then I saw this sale at HD for two 6ah at $199 (I would get another 10% as a veteran). \n\nBut I don’t know the market for these batteries. Is this a good deal or should I wait? I don’t need it now, but would prefer to have a back up set. \n\nThanks!",
-        "score": 24,
-        "num_comments": 15,
-        "created_utc": 1770475651.0,
-        "url": "https://i.redd.it/belwr0p353ig1.jpeg",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1qyfmq0/new_to_dewalt_60v_is_this_a_good_price/",
-        "relevance_score": 33.6,
-        "matched_brands": [
-          "dewalt",
-          "dewalt",
           "ge"
         ],
         "matched_products": [
           "chainsaw"
         ],
         "matched_keywords": [
-          "volt",
-          "ah"
+          "commercial grade",
+          "cordless",
+          "commercial grade"
         ],
         "detected_intents": [
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Am I crazy for buying refurb track saw?",
+        "selftext": "I mostly run 20v (plus 60v chainsaw & angle grinder)  Dewalt & 12v Mke. But bought the rear handle 36v Makita circ saw a while back & love it. Decided to add the 36v track saw to the roster. I think I’ll get more use out the track saw than sinking money into a marginally better job-site table saw than the Hitachi I have now. I don’t have the space or need for a heavy-duty cabinet saw. \n\nRecently bought 36v Makita blower kit on clearance at HD. And still use a 19 year old 14” Makita 2-cycle concrete saw & corded grinder & 1 1/8 hammer drill, so I guess I’m a Makita guy after all.",
+        "score": 53,
+        "num_comments": 51,
+        "created_utc": 1770951455.0,
+        "url": "https://www.reddit.com/gallery/1r3dr31",
+        "permalink": "https://reddit.com/r/Makita/comments/1r3dr31/am_i_crazy_for_buying_refurb_track_saw/",
+        "relevance_score": 59.75999999999999,
+        "matched_brands": [
+          "dewalt",
+          "makita",
+          "dewalt",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "hammer drill",
+          "table saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
           "buying_intent",
-          "learning_intent"
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "XT297t or GT200d",
+        "selftext": "I've been slowly swapping over my battery powered tools from rigid to Makita and I'm looking to get a drill driver set. I currently have tools in both the 40v and 18v platform. I have the track saw and the sub compact recip saw in 18v. I have the string trimmer, 24in hedge trimmer, and circular saw in 40v. Looks like I can get the gt200d for $469 with an extra 2.5ah battery or I can get the xt297t for 349 with no extras. Is the performance that much greater in the 40v to justify the price difference? Also to note I already have an M12 drill and driver that I use for smaller tasks so this set would be mostly for heavy duty applications. ",
+        "score": 1,
+        "num_comments": 2,
+        "created_utc": 1770737714.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1r13yrt/xt297t_or_gt200d/",
+        "permalink": "https://reddit.com/r/Makita/comments/1r13yrt/xt297t_or_gt200d/",
+        "relevance_score": 48.959999999999994,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "hedge trimmer",
+          "string trimmer",
+          "drill",
+          "circular saw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah",
+          "compact",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "comparison"
         ]
       }
     ],
@@ -1539,350 +1779,129 @@
     ],
     "matched_videos": [
       {
-        "video_id": "HqVEdc7xCRM",
-        "title": "Tool Tear Down: Cordless Batteries | What's Inside and How to Replace Them | eReplacementParts.com",
+        "video_id": "vZwollxOtdU",
+        "title": "How to Replace the Gear Case Assembly on a Milwaukee Cordless Hammer Drill Model 2602-20",
         "channel": "fixtechguides",
-        "description_snippet": "When it comes to power tools, lots of folks like to go old-school and stick with their plug-in, corded tools. However, more and more people these days find themselves turning to another option:...",
-        "relevance_score": 67.65,
+        "description_snippet": "Get a replacement gear case assembly for your Milwaukee hammer drill here: http://www.ereplacementparts.com/milwaukee-hammer-drill-parts-c-131_14946.html\n\nThis tutorial will show you how to...",
+        "relevance_score": 52.37,
         "scoring_breakdown": {
-          "semantic_score": 17.84,
-          "keyword_score": 30,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:tools",
-            "tfidf:batteries",
-            "fuzzy_tfidf:good(75.0)",
-            "tfidf:power tools",
-            "tfidf:power"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0",
-            "how_to_guide:2.2↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "ilj1uAnVang",
-        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
-        "relevance_score": 59.93,
-        "scoring_breakdown": {
-          "semantic_score": 21.9,
-          "keyword_score": 20,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:tools",
-            "tfidf:power tools",
-            "tfidf:power",
-            "tfidf:don"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0",
-            "how_to_guide:2.2↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "DCcWBi7Zdiw",
-        "title": "How to Put Your DeWalt Drill's Transmission in Place",
-        "channel": "fixtechguides",
-        "description_snippet": "Visit http://eReplacementParts.com for power tool replacement parts.\n\nSUBSCRIBE AND NEVER MISS ANOTHER VIDEO!\nhttp://www.youtube.com/subscription_center?add_user=ereplacementparts\n\nCONNECT...",
-        "relevance_score": 57.61,
-        "scoring_breakdown": {
-          "semantic_score": 15.32,
+          "semantic_score": 13.48,
           "keyword_score": 25,
-          "intent_score": 4.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:dewalt",
-            "fuzzy_tfidf:tools(80.0)",
-            "fuzzy_tfidf:power tools(90.9090909090909)",
-            "tfidf:power",
-            "fuzzy_tfidf:deal(75.0)"
-          ],
-          "intent_matches": [
-            "how_to_guide:2.2↔1.1",
-            "comparison:2.7↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "sid2K9W_ums",
-        "title": "Refrigerator Repair - Replacing the Defrost Timer Kit (Whirlpool Part # 482493)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 39.42,
-        "scoring_breakdown": {
-          "semantic_score": 8.92,
-          "keyword_score": 17,
-          "intent_score": 4.4,
+          "intent_score": 1.8,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "fuzzy_tfidf:deal(75.0)",
-            "fuzzy_tfidf:hedge(80.0)",
+            "fuzzy_tfidf:rent(75.0)",
+            "tfidf:milwaukee",
             "brand:model",
-            "entity:model"
+            "product:milwaukee"
           ],
           "intent_matches": [
-            "how_to_guide:2.2↔3.3000000000000003"
+            "comparison:2.7↔0.9"
           ]
         }
       },
       {
-        "video_id": "DOChiHfpVEM",
-        "title": "DeWALT Drill Repair - Replacing the Motor Brushes (DeWALT Part # 450374-12)",
+        "video_id": "7J-9cxjKASY",
+        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
         "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Motor Brush for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 56.0,
+        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
+        "relevance_score": 50.93,
         "scoring_breakdown": {
-          "semantic_score": 20.4,
-          "keyword_score": 30,
-          "intent_score": 5.6,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:dewalt",
-            "tfidf:tools",
-            "tfidf:power tools",
-            "tfidf:power",
-            "fuzzy_tfidf:deal(75.0)"
-          ],
-          "intent_matches": [
-            "buying_advice:2.0↔1.0",
-            "comparison:2.7↔1.8"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "utility_appliances",
-    "post_count": 11,
-    "avg_engagement": 43.90909090909091,
-    "avg_relevance": 13.684363636363639,
-    "total_comments": 516,
-    "demand_strength": 6609.547636363637,
-    "sample_posts": [
-      {
-        "subreddit": "Makita",
-        "title": "Best Stick Vac?",
-        "selftext": "I currently have a Tineco vacuum and I hate it.  I have laminate wood floors downstairs and carpet up stairs.  It's terrible on the wood.  I have a ton of Makita batteries, so thought why not get a stick vac.  Are they worth it?  Which is the best?  I see run time on most are 7 minutes, then on XLC03ZBX4, it's 33 minutes...seems like a big jump.\n\n  \nI have enough batteries and don't mind change them, I just want something have has great suction.  Thoughts? ",
-        "score": 5,
-        "num_comments": 11,
-        "created_utc": 1770227529.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1qvvika/best_stick_vac/",
-        "permalink": "https://reddit.com/r/Makita/comments/1qvvika/best_stick_vac/",
-        "relevance_score": 26.4,
-        "matched_brands": [
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "vacuum"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "New 20v XR Vacuum Pump DCE510",
-        "selftext": "Someone leaked a picture of this a while ago, DeWalt just officially announced it today at the AHR Expo in Las Vegas.  Going to be available with the 8Ah PP battery in the WW1 kit configuration.",
-        "score": 55,
-        "num_comments": 25,
-        "created_utc": 1770044981.0,
-        "url": "https://www.reddit.com/gallery/1qtxku3",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1qtxku3/new_20v_xr_vacuum_pump_dce510/",
-        "relevance_score": 21.599999999999998,
-        "matched_brands": [
-          "dewalt",
-          "dewalt"
-        ],
-        "matched_products": [
-          "vacuum"
-        ],
-        "matched_keywords": [
-          "battery",
-          "ah"
-        ],
-        "detected_intents": []
-      },
-      {
-        "subreddit": "Ryobi",
-        "title": "Best Hand Vacuum?",
-        "selftext": "Hi all, looking for a small 18v hand vacuum for cleaning out the truck and garage occasionally. Yes I know a shop vac would be best, but I’ve already got a corded one. \n\nLooks like there are 2 options in production.. PCL704 and PCL705. \n\nThe 704 is a little more expensive but has “2x more suction power” and comes with accessories. I see it also has a wet/dry version, the 702.\n\nSo should I just go with the 704? Is it really as no-brainer as it seems or are there any advantages the 705 has besides price? \n\nAny experiences appreciated. Thanks!",
-        "score": 3,
-        "num_comments": 13,
-        "created_utc": 1770410653.0,
-        "url": "https://www.reddit.com/r/ryobi/comments/1qxtcjk/best_hand_vacuum/",
-        "permalink": "https://reddit.com/r/ryobi/comments/1qxtcjk/best_hand_vacuum/",
-        "relevance_score": 21.0,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "vacuum",
-          "shop vac"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Home Utility Equipment Reviews",
-    "example_videos": [
-      "Best shop vacuums 2024",
-      "Air purifier comparison",
-      "Dehumidifier buying guide"
-    ],
-    "hashtags": [
-      "#shopvac",
-      "#airpurifier",
-      "#homeimprovement",
-      "#utility"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "hrzhqkJIvTE",
-        "title": "Dirt Devil Vacuum Repair - Replacing the Dust Bag (Dirt Devil Part # RO-010347)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Dust Bag for your Vacuum? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 36.02,
-        "scoring_breakdown": {
-          "semantic_score": 16.22,
-          "keyword_score": 16,
-          "intent_score": 3.8,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:best(75.0)",
-            "tfidf:vacuum",
-            "tfidf:vac",
-            "fuzzy_tfidf:just(75.0)"
-          ],
-          "intent_matches": [
-            "buying_advice:9.0↔1.0",
-            "comparison:0.9↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "YA0iSW3_YAQ",
-        "title": "Vacuum Troubleshooting: 6 Things You SHOULD NOT Vacuum! | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "When it comes time to bust out the vacuum to give your home a proper cleaning, it can be tempting to just use the vacuum as a catch-all, and attempt to scoop everything up with it. BUT, there...",
-        "relevance_score": 35.32,
-        "scoring_breakdown": {
-          "semantic_score": 17.32,
-          "keyword_score": 18,
+          "semantic_score": 17.18,
+          "keyword_score": 22,
           "intent_score": 0,
-          "content_boost": 1.0,
-          "content_type": "repair"
+          "content_boost": 1.3,
+          "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:best(75.0)",
-            "tfidf:vacuum",
-            "tfidf:vac",
-            "tfidf:just"
+            "tfidf:saw",
+            "tfidf:makita",
+            "fuzzy_tfidf:depot(80.0)",
+            "fuzzy_tfidf:rent(75.0)",
+            "product:makita"
           ],
           "intent_matches": []
         }
       },
       {
-        "video_id": "FVhkavCI7h4",
-        "title": "Gas Powered Lawn Mower or Battery Powered Lawn Mower? Which One Is Better? | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "When it comes to buying a new lawn mower there are a lot of factors to consider:\n\nHow much power do I need? \nHow much money do I want to spend? \nHow long does it need to last?\nHow easy is it...",
-        "relevance_score": 32.84,
-        "scoring_breakdown": {
-          "semantic_score": 12.57,
-          "keyword_score": 11,
-          "intent_score": 3.8,
-          "content_boost": 1.2,
-          "content_type": "review"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:best(75.0)",
-            "tfidf:battery",
-            "fuzzy_tfidf:battery model(76.92307692307692)"
-          ],
-          "intent_matches": [
-            "buying_advice:9.0↔1.0",
-            "comparison:0.9↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "devrIevFu4I",
-        "title": "2025 REFRIGERATOR BUYING GUIDE: Is This The Best Refrigerator of 2025?  [WATCH Before Buying!]",
+        "video_id": "vEUugYzsI3g",
+        "title": "A Complete Guide to Basic Chainsaw Maintenance | PartSelect.com",
         "channel": "partselect",
-        "description_snippet": "Are you looking for a new refrigerator, but find yourself overwhelmed trying to compare countless options to find the best one? Well, look no further than PartSelect's 2025 Refrigerator buying...",
-        "relevance_score": 32.11,
+        "description_snippet": "If you're a seasonal chainsaw user, meaning that you use the chainsaw for specific jobs here and there around the house, it's important that you conduct some routine maintenance, if your saw...",
+        "relevance_score": 43.64,
         "scoring_breakdown": {
-          "semantic_score": 14.39,
-          "keyword_score": 5,
-          "intent_score": 9.8,
-          "content_boost": 1.1,
-          "content_type": "comparison"
+          "semantic_score": 14.97,
+          "keyword_score": 17,
+          "intent_score": 1.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:best"
+            "tfidf:saw",
+            "fuzzy_tfidf:home(75.0)",
+            "fuzzy_tfidf:products(75.0)",
+            "product:chainsaw",
+            "product:saw"
           ],
           "intent_matches": [
-            "buying_advice:9.0↔4.0",
-            "comparison:0.9↔0.9"
+            "maintenance:0.8↔2.4000000000000004"
           ]
         }
       },
       {
-        "video_id": "KsGNkHfnn3I",
-        "title": "Shark Vacuum Repair - Replacing the Pre-Filter (Shark Part # EU-18026)",
-        "channel": "fixtechguides",
-        "description_snippet": "Do you need a replacement Pre-Filter for your Vacuum? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
-        "relevance_score": 32.8,
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 43.15,
         "scoring_breakdown": {
-          "semantic_score": 16.0,
-          "keyword_score": 13,
-          "intent_score": 3.8,
+          "semantic_score": 17.19,
+          "keyword_score": 14,
+          "intent_score": 2.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:home",
+            "fuzzy_tfidf:products(75.0)",
+            "fuzzy_tfidf:rent(75.0)",
+            "fuzzy_tfidf:rental(83.33333333333334)"
+          ],
+          "intent_matches": [
+            "buying_advice:1.0↔1.0"
+          ]
+        }
+      },
+      {
+        "video_id": "ot0mOPv_VDc",
+        "title": "Makita Reciprocating Saw Repair - Replacing the Shoe (Makita Part # 163453-5)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Shoe for your Reciprocating Saw? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To...",
+        "relevance_score": 50.49,
+        "scoring_breakdown": {
+          "semantic_score": 21.89,
+          "keyword_score": 25,
+          "intent_score": 3.6,
           "content_boost": 1.0,
           "content_type": "repair"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:best(75.0)",
-            "tfidf:vacuum",
-            "tfidf:vac"
+            "tfidf:saw",
+            "tfidf:makita",
+            "fuzzy_tfidf:home(75.0)",
+            "fuzzy_tfidf:rent(75.0)",
+            "fuzzy_tfidf:model makita(75.0)"
           ],
           "intent_matches": [
-            "buying_advice:9.0↔1.0",
-            "comparison:0.9↔1.8"
+            "comparison:2.7↔1.8"
           ]
         }
       }
