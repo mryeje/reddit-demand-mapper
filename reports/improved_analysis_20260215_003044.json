@@ -1,0 +1,874 @@
+[
+  {
+    "theme": "power_tools",
+    "post_count": 100,
+    "avg_engagement": 164.19,
+    "avg_relevance": 15.566139999999994,
+    "total_comments": 3382,
+    "demand_strength": 255580.4526599999,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Durable induction range recommendations",
+        "selftext": "Hi. I'm in the market for a an induction range. I bought a Samsung \"Bespoke\" last year and it arrived scratched.  Upon closer inspection I saw that the finish was pretty garbage and it didn't look like the metal colored painted surfaces would last a minute. I sent that back. Getting a refund was a nightmare. Now I'm ready to try again. Looking for a basic model that heats quickly and accurately, nothing fancy but something that won't look like crap in no time. I recently bit the bullet on a Bosch fridge. That thing is crap and repair prices are outrageous so no Bosch (we've had manual ice trays in our ice maker for months because that POS stopped working). Thanks for suggestions",
+        "score": 6,
+        "num_comments": 21,
+        "created_utc": 1770995145.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "relevance_score": 42.0,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "samsung",
+          "bosch"
+        ],
+        "matched_products": [
+          "fridge"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Installing wireless tool control (WTC) on North American 60v 12\" Miter Saw (DCS 781)",
+        "selftext": "Ohh boy I have waited for this a long time. I have no clue what Dewalt America is thinking when they differentiate between NA and the UK versions. It was a simple plug and play, took 10 minutes to figure out. Everything was pre wired and ready to slot in. It's beyond me with their thinking, they knew the 20v version was coming out. So why not offer WTC stock in the 60v and omit it in the 20v version. Pros are more likely to opt for the 60v version, and willingly pay to have the feature. Likely wouldn't have cost me the extra C$110 I had to pay to get it shipped over here. Even then, I would have been fine paying for it.\n\nWith how simple this was, I'm tempted to see what else I can throw it in. I do use my little 7 1/4 Miter Saw for small trim jobs and would be real nice to have on there. I doubt it would be as simple as plug and play but I'm sure I could handle splicing 3 wires in. \n\nIt would be greatly appreciated if Dewalt took dust collection more serious in NA, even their cordless ",
+        "score": 6,
+        "num_comments": 14,
+        "created_utc": 1770683771.0,
+        "url": "https://imgur.com/a/FpFI7XI",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1r0lxfn/installing_wireless_tool_control_wtc_on_north/",
+        "relevance_score": 39.6,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "miter saw",
+          "table saw"
+        ],
+        "matched_keywords": [
+          "cordless"
+        ],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      }
+    ],
+    "content_angle": "Power Tool Reviews & Professional Tips",
+    "example_videos": [
+      "Best cordless drills 2024",
+      "Miter saw buying guide",
+      "Tool storage solutions"
+    ],
+    "hashtags": [
+      "#powertools",
+      "#cordlesstools",
+      "#dewalt",
+      "#milwaukee",
+      "#contractor"
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 80,
+    "avg_engagement": 64.0375,
+    "avg_relevance": 17.76889999999999,
+    "total_comments": 2471,
+    "demand_strength": 91030.07469999995,
+    "sample_posts": [
+      {
+        "subreddit": "HVAC",
+        "title": "I\u2019m starting to think my experience means nothing",
+        "selftext": "So I\u2019m about to hit my 4th year in the trade, started doing duct cleaning and replacements, then did some maintenance and now I\u2019ve been a retro fit installer for 2 years. \n\nOut of the 13 guys in my hvac school, I was the only one still in the field after the first year. I figure it\u2019s cause the hours suck and the heat in the desert is brutal, 150-160\u00b0 attics aren\u2019t for everyone and I get that.\n\nNow I\u2019m looking to make the jump into commercial since my private equity company is only getting worse by the day, but after applying for countless positions and delivering resumes trying to shake hands, it\u2019s been crickets. (Granted it\u2019s our slow season but if there\u2019s new listings daily, they\u2019re hiring people and it\u2019s just not me)\n\nI figure the best move to get into commercial would be to join the union, but even though I have a few years experience, they insist I take the 5 year apprenticeship and start from day 1 and beginner wages which sucks.\n\nOverall it\u2019s been a humbling experience. I sweat ",
+        "score": 355,
+        "num_comments": 126,
+        "created_utc": 1770739020.0,
+        "url": "https://i.redd.it/zi7uh0b8woig1.jpeg",
+        "permalink": "https://reddit.com/r/HVAC/comments/1r14k8g/im_starting_to_think_my_experience_means_nothing/",
+        "relevance_score": 45.239999999999995,
+        "matched_brands": [
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "hvac",
+          "heat pump",
+          "humidifier"
+        ],
+        "matched_keywords": [
+          "trade"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Control board repair vs $1299 new Bosch from Costco - just upgrade?",
+        "selftext": "**Situation:**\u00a04-5 year old Bosch 500 Series, E23 error. Tech said \"definitely the drain pump,\" replaced it. Tested 3 times - third test failed again with same error. Same visit he says \"Oh it's actually the control board - $1100.\"\n\n**The problem:**\u00a0Control boards are $200-300 online. Should be $400-600 with labor. Quote feels inflated.\n\n**Meanwhile:**\u00a0Costco has the Bosch 800 Series for $1299 with delivery + install included.\n\n**So I'm looking at:**\n\n* Fix: $1100 (inflated price?)\n* New upgraded dishwasher: $1299\n\n**$200 difference.**\n\n**Questions:**\n\n1. Worth shopping around for better repair quotes or just upgrade?\n2. Is replacing a 4-5 year old appliance wasteful, or does the math make sense here?",
+        "score": 5,
+        "num_comments": 22,
+        "created_utc": 1770916701.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "relevance_score": 38.52,
+        "matched_brands": [
+          "bosch",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Samsung Dishwasher Dispenser Door not opening after paying $500 in repairs",
+        "selftext": "Needs some help/advice. My Samsung Dishwasher, DW80R5060UG, has had an issue with the dispenser door intermittently not opening. I removed the door and ensured that is was clean and not sticking. I also had cleaned it while I had it off just to be sure. After that fix didnt work I decided to call a local repair company. \n\nThe tech came out opened and closed the dispenser door a few times and said the solenoid was bad and I needed a new dispenser door. Paid them $368 for the part, shipping, labor, and inspection fee. The door worked 1 time, and didnt work after that. \n\nI called them back and they said \"Well its got to be the control board\". I expressed my frustration with the original diagnosis seeming to be incorrect, and not wanting to pay any additional as a new dishwasher would be cheaper at this point. They confirmed that they would remove the new dispenser with the old one, and replace the control board for an additional $55. I agreed and when the tech showed up he condemned both ",
+        "score": 3,
+        "num_comments": 13,
+        "created_utc": 1770915205.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1r2ynnm/samsung_dishwasher_dispenser_door_not_opening/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1r2ynnm/samsung_dishwasher_dispenser_door_not_opening/",
+        "relevance_score": 35.4,
+        "matched_brands": [
+          "ge",
+          "samsung"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 42,
+    "avg_engagement": 72.69047619047619,
+    "avg_relevance": 20.596571428571433,
+    "total_comments": 1834,
+    "demand_strength": 62881.33257142859,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "HVAC",
+        "title": "I\u2019m starting to think my experience means nothing",
+        "selftext": "So I\u2019m about to hit my 4th year in the trade, started doing duct cleaning and replacements, then did some maintenance and now I\u2019ve been a retro fit installer for 2 years. \n\nOut of the 13 guys in my hvac school, I was the only one still in the field after the first year. I figure it\u2019s cause the hours suck and the heat in the desert is brutal, 150-160\u00b0 attics aren\u2019t for everyone and I get that.\n\nNow I\u2019m looking to make the jump into commercial since my private equity company is only getting worse by the day, but after applying for countless positions and delivering resumes trying to shake hands, it\u2019s been crickets. (Granted it\u2019s our slow season but if there\u2019s new listings daily, they\u2019re hiring people and it\u2019s just not me)\n\nI figure the best move to get into commercial would be to join the union, but even though I have a few years experience, they insist I take the 5 year apprenticeship and start from day 1 and beginner wages which sucks.\n\nOverall it\u2019s been a humbling experience. I sweat ",
+        "score": 355,
+        "num_comments": 126,
+        "created_utc": 1770739020.0,
+        "url": "https://i.redd.it/zi7uh0b8woig1.jpeg",
+        "permalink": "https://reddit.com/r/HVAC/comments/1r14k8g/im_starting_to_think_my_experience_means_nothing/",
+        "relevance_score": 45.239999999999995,
+        "matched_brands": [
+          "skil",
+          "ge"
+        ],
+        "matched_products": [
+          "hvac",
+          "heat pump",
+          "humidifier"
+        ],
+        "matched_keywords": [
+          "trade"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "BuyItForLife",
+        "title": "Why does no one on YouTube talking about Miele vacuums?",
+        "selftext": "This is how I heard about Miele the first time: back in 2017, I came across the [vacuum repair guy AMA](https://www.reddit.com/r/IAmA/comments/7gmsoe/iama_reddits_own_vacuum_repair_tech_with_a_very/) where I learned about how fantastic Miele is and how important it is to buy a bagged corded vacuum. I read OP's comments, explanations, and answers and I believed everything he was saying about vacuums. Keep in mind, this was back in 2017 when astroturfing/guerrilla marketing and bots wasn't a huge issue on Reddit.\n\nFast forward to now where recently I've been watching a lot of the most viewed YouTube videos on the topic of vacuuming. Not just vacuum product reviews but vacuuming in general.  Some videos are from small creators and some are big creators like Melissa from Clean My Space, Brandon from Clean That Up, Vacuum Wars, and Project Farm.\n\nNone of these videos ever mention Miele. Dyson is easily the most popular vacuum brand on YouTube. Some of these videos go back to 10+ years, way ",
+        "score": 208,
+        "num_comments": 167,
+        "created_utc": 1770653432.0,
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "permalink": "https://reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "relevance_score": 36.36,
+        "matched_brands": [
+          "ge",
+          "miele"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 40,
+    "avg_engagement": 51.7,
+    "avg_relevance": 24.4215,
+    "total_comments": 1462,
+    "demand_strength": 50503.662000000004,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Home Depot USA",
+        "selftext": "In my area of the United States Home Depot has way more dewalt & Milwaukee products for sale but the rental section has all makita because they know it\u2019s a longer lasting better commercial grade product. They even rent my 12 inch corded saw , cordless chainsaws etc . This made me angry at first. Especially when I had to settle & buy a 1&9/16\u201d sds max Milwaukee roto hammer only to walk into the rental section to see the better makita version for rent . I\u2019ve realized that we can use this as an opportunity to see the makita products in person & then order them online . My local Home Depot\u2019s don\u2019t rent any Milwaukee or dewalt only makita . Home Depot buys makita products to rent because they last longer . They sell the other stuff because they make more $ selling products that need to be replaced more often. Check the rental section next time you\u2019re at Home Depot. That\u2019s where they keep the good stuff .",
+        "score": 34,
+        "num_comments": 40,
+        "created_utc": 1771087953.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "permalink": "https://reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "relevance_score": 75.348,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [
+          "commercial grade",
+          "cordless",
+          "commercial grade"
+        ],
+        "detected_intents": [
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Am I crazy for buying refurb track saw?",
+        "selftext": "I mostly run 20v (plus 60v chainsaw & angle grinder)  Dewalt & 12v Mke. But bought the rear handle 36v Makita circ saw a while back & love it. Decided to add the 36v track saw to the roster. I think I\u2019ll get more use out the track saw than sinking money into a marginally better job-site table saw than the Hitachi I have now. I don\u2019t have the space or need for a heavy-duty cabinet saw. \n\nRecently bought 36v Makita blower kit on clearance at HD. And still use a 19 year old 14\u201d Makita 2-cycle concrete saw & corded grinder & 1 1/8 hammer drill, so I guess I\u2019m a Makita guy after all.",
+        "score": 53,
+        "num_comments": 51,
+        "created_utc": 1770951455.0,
+        "url": "https://www.reddit.com/gallery/1r3dr31",
+        "permalink": "https://reddit.com/r/Makita/comments/1r3dr31/am_i_crazy_for_buying_refurb_track_saw/",
+        "relevance_score": 59.75999999999999,
+        "matched_brands": [
+          "dewalt",
+          "makita",
+          "dewalt",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "hammer drill",
+          "table saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 52,
+    "avg_engagement": 39.71153846153846,
+    "avg_relevance": 22.994000000000003,
+    "total_comments": 1479,
+    "demand_strength": 47482.61000000001,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Am I crazy for buying refurb track saw?",
+        "selftext": "I mostly run 20v (plus 60v chainsaw & angle grinder)  Dewalt & 12v Mke. But bought the rear handle 36v Makita circ saw a while back & love it. Decided to add the 36v track saw to the roster. I think I\u2019ll get more use out the track saw than sinking money into a marginally better job-site table saw than the Hitachi I have now. I don\u2019t have the space or need for a heavy-duty cabinet saw. \n\nRecently bought 36v Makita blower kit on clearance at HD. And still use a 19 year old 14\u201d Makita 2-cycle concrete saw & corded grinder & 1 1/8 hammer drill, so I guess I\u2019m a Makita guy after all.",
+        "score": 53,
+        "num_comments": 51,
+        "created_utc": 1770951455.0,
+        "url": "https://www.reddit.com/gallery/1r3dr31",
+        "permalink": "https://reddit.com/r/Makita/comments/1r3dr31/am_i_crazy_for_buying_refurb_track_saw/",
+        "relevance_score": 59.75999999999999,
+        "matched_brands": [
+          "dewalt",
+          "makita",
+          "dewalt",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "hammer drill",
+          "table saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Any good comparison of the 18V vacuums?",
+        "selftext": "Looking at the 18V Ryobi vacuums for a medium sized house (4 bedroom, 2 story + basement) that has 2 dogs (LOTS of dog hair, sand/dirt tracked in).\n\nIs there a good comparison of the seemingly dozens of almost-identical-but-different models that Home Depot offers?\n\n  \nMy initial look came up with these two that sound potentially good, but I wonder if they'd suffer some of the same \"fills fast, clogs easy, fragile\" issues as the Dyson we hate?\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233)\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV719K/327657350#overlay](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-an",
+        "score": 7,
+        "num_comments": 16,
+        "created_utc": 1770755466.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "relevance_score": 53.76,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge",
+          "kenmore"
+        ],
+        "matched_products": [
+          "circular saw",
+          "angle grinder",
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "capacity"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Buying Guides & Recommendations",
+    "example_videos": [
+      "What to look for when buying...",
+      "Best value tools under $200",
+      "Professional vs homeowner grade"
+    ],
+    "hashtags": [
+      "#buyingguide",
+      "#recommendations",
+      "#bestvalue",
+      "#professional"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 45,
+    "avg_engagement": 32.355555555555554,
+    "avg_relevance": 21.81391111111111,
+    "total_comments": 942,
+    "demand_strength": 31761.054577777777,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Update: FB marketplace kit",
+        "selftext": "Earlier I made a post about a FB marketplace set I was buying. Picked it up today and got an even better deal. Guy is moving out of state and inherited the tools from his dad who passed away recently. Guy is a contractor who runs only Dewalt so he has no use for them. Ended up getting two drills, two impacts, 4 3ah batteries, 4 2ah batteries, 3 18v chargers, and a Sawzall for $100. Serial numbers and model numbers aren't scratched out at all and there were no initials on anything until I added mine.\n\nMy estimate is that the overall value is around $350-$500. Unfortunately the Sawzall is not working, made some adjustments and it sounded like it might be locked up and wanted to go but then after a few tries it started smoking a bit so if you have any tips on repairing it that would be great. All the batteries work (so far) although one of the 3ah batteries is labeled \"bad\" with tape and when I put it on the charger it shows a red dot, green never shows up, yet it still charged up and tur",
+        "score": 31,
+        "num_comments": 21,
+        "created_utc": 1770862955.0,
+        "url": "https://i.redd.it/cjl6kp1r4zig1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1r2h99q/update_fb_marketplace_kit/",
+        "relevance_score": 54.288,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "ah",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Durable induction range recommendations",
+        "selftext": "Hi. I'm in the market for a an induction range. I bought a Samsung \"Bespoke\" last year and it arrived scratched.  Upon closer inspection I saw that the finish was pretty garbage and it didn't look like the metal colored painted surfaces would last a minute. I sent that back. Getting a refund was a nightmare. Now I'm ready to try again. Looking for a basic model that heats quickly and accurately, nothing fancy but something that won't look like crap in no time. I recently bit the bullet on a Bosch fridge. That thing is crap and repair prices are outrageous so no Bosch (we've had manual ice trays in our ice maker for months because that POS stopped working). Thanks for suggestions",
+        "score": 6,
+        "num_comments": 21,
+        "created_utc": 1770995145.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1r3rjmi/durable_induction_range_recommendations/",
+        "relevance_score": 42.0,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "samsung",
+          "bosch"
+        ],
+        "matched_products": [
+          "fridge"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "appliancerepair",
+        "title": "Control board repair vs $1299 new Bosch from Costco - just upgrade?",
+        "selftext": "**Situation:**\u00a04-5 year old Bosch 500 Series, E23 error. Tech said \"definitely the drain pump,\" replaced it. Tested 3 times - third test failed again with same error. Same visit he says \"Oh it's actually the control board - $1100.\"\n\n**The problem:**\u00a0Control boards are $200-300 online. Should be $400-600 with labor. Quote feels inflated.\n\n**Meanwhile:**\u00a0Costco has the Bosch 800 Series for $1299 with delivery + install included.\n\n**So I'm looking at:**\n\n* Fix: $1100 (inflated price?)\n* New upgraded dishwasher: $1299\n\n**$200 difference.**\n\n**Questions:**\n\n1. Worth shopping around for better repair quotes or just upgrade?\n2. Is replacing a 4-5 year old appliance wasteful, or does the math make sense here?",
+        "score": 5,
+        "num_comments": 22,
+        "created_utc": 1770916701.0,
+        "url": "https://www.reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "permalink": "https://reddit.com/r/appliancerepair/comments/1r2zcar/control_board_repair_vs_1299_new_bosch_from/",
+        "relevance_score": 38.52,
+        "matched_brands": [
+          "bosch",
+          "bosch"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 19,
+    "avg_engagement": 52.8421052631579,
+    "avg_relevance": 18.126315789473686,
+    "total_comments": 925,
+    "demand_strength": 18198.82105263158,
+    "sample_posts": [
+      {
+        "subreddit": "Ryobi",
+        "title": "Any good comparison of the 18V vacuums?",
+        "selftext": "Looking at the 18V Ryobi vacuums for a medium sized house (4 bedroom, 2 story + basement) that has 2 dogs (LOTS of dog hair, sand/dirt tracked in).\n\nIs there a good comparison of the seemingly dozens of almost-identical-but-different models that Home Depot offers?\n\n  \nMy initial look came up with these two that sound potentially good, but I wonder if they'd suffer some of the same \"fills fast, clogs easy, fragile\" issues as the Dyson we hate?\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-High-Capacity-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV718K/327699233)\n\n[https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-and-Charger-PBLSV719K/327657350#overlay](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Cordless-Advanced-WHISPER-Series-Stick-Vacuum-Kit-with-4-0-Ah-Battery-an",
+        "score": 7,
+        "num_comments": 16,
+        "created_utc": 1770755466.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1r1c8ll/any_good_comparison_of_the_18v_vacuums/",
+        "relevance_score": 53.76,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge",
+          "kenmore"
+        ],
+        "matched_products": [
+          "circular saw",
+          "angle grinder",
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah",
+          "capacity"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "BuyItForLife",
+        "title": "Why does no one on YouTube talking about Miele vacuums?",
+        "selftext": "This is how I heard about Miele the first time: back in 2017, I came across the [vacuum repair guy AMA](https://www.reddit.com/r/IAmA/comments/7gmsoe/iama_reddits_own_vacuum_repair_tech_with_a_very/) where I learned about how fantastic Miele is and how important it is to buy a bagged corded vacuum. I read OP's comments, explanations, and answers and I believed everything he was saying about vacuums. Keep in mind, this was back in 2017 when astroturfing/guerrilla marketing and bots wasn't a huge issue on Reddit.\n\nFast forward to now where recently I've been watching a lot of the most viewed YouTube videos on the topic of vacuuming. Not just vacuum product reviews but vacuuming in general.  Some videos are from small creators and some are big creators like Melissa from Clean My Space, Brandon from Clean That Up, Vacuum Wars, and Project Farm.\n\nNone of these videos ever mention Miele. Dyson is easily the most popular vacuum brand on YouTube. Some of these videos go back to 10+ years, way ",
+        "score": 208,
+        "num_comments": 167,
+        "created_utc": 1770653432.0,
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "permalink": "https://reddit.com/r/BuyItForLife/comments/1r08azr/why_does_no_one_on_youtube_talking_about_miele/",
+        "relevance_score": 36.36,
+        "matched_brands": [
+          "ge",
+          "miele"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Tool only coming with a battery?",
+        "selftext": "Hi everyone! I recently bought the Ryobi 18V ONE+ Cordless Pet Stick Vacuum  that was listed as tool only on the shelf and in the box. When I opened it it had both a charger and 4ah battery in the box. there was a previous deal for this vacuum with a battery but it seems like they loaded the vacuum into the wrong box or something. has this happened to anyone else?",
+        "score": 34,
+        "num_comments": 23,
+        "created_utc": 1770564892.0,
+        "url": "https://www.reddit.com/gallery/1qzbylc",
+        "permalink": "https://reddit.com/r/ryobi/comments/1qzbylc/tool_only_coming_with_a_battery/",
+        "relevance_score": 30.0,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "ah"
+        ],
+        "detected_intents": []
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ]
+  },
+  {
+    "theme": "outdoor_power_equipment",
+    "post_count": 21,
+    "avg_engagement": 11.0,
+    "avg_relevance": 21.162285714285716,
+    "total_comments": 302,
+    "demand_strength": 4888.488,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Home Depot USA",
+        "selftext": "In my area of the United States Home Depot has way more dewalt & Milwaukee products for sale but the rental section has all makita because they know it\u2019s a longer lasting better commercial grade product. They even rent my 12 inch corded saw , cordless chainsaws etc . This made me angry at first. Especially when I had to settle & buy a 1&9/16\u201d sds max Milwaukee roto hammer only to walk into the rental section to see the better makita version for rent . I\u2019ve realized that we can use this as an opportunity to see the makita products in person & then order them online . My local Home Depot\u2019s don\u2019t rent any Milwaukee or dewalt only makita . Home Depot buys makita products to rent because they last longer . They sell the other stuff because they make more $ selling products that need to be replaced more often. Check the rental section next time you\u2019re at Home Depot. That\u2019s where they keep the good stuff .",
+        "score": 34,
+        "num_comments": 40,
+        "created_utc": 1771087953.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "permalink": "https://reddit.com/r/Makita/comments/1r4pjn4/home_depot_usa/",
+        "relevance_score": 75.348,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [
+          "commercial grade",
+          "cordless",
+          "commercial grade"
+        ],
+        "detected_intents": [
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Am I crazy for buying refurb track saw?",
+        "selftext": "I mostly run 20v (plus 60v chainsaw & angle grinder)  Dewalt & 12v Mke. But bought the rear handle 36v Makita circ saw a while back & love it. Decided to add the 36v track saw to the roster. I think I\u2019ll get more use out the track saw than sinking money into a marginally better job-site table saw than the Hitachi I have now. I don\u2019t have the space or need for a heavy-duty cabinet saw. \n\nRecently bought 36v Makita blower kit on clearance at HD. And still use a 19 year old 14\u201d Makita 2-cycle concrete saw & corded grinder & 1 1/8 hammer drill, so I guess I\u2019m a Makita guy after all.",
+        "score": 53,
+        "num_comments": 51,
+        "created_utc": 1770951455.0,
+        "url": "https://www.reddit.com/gallery/1r3dr31",
+        "permalink": "https://reddit.com/r/Makita/comments/1r3dr31/am_i_crazy_for_buying_refurb_track_saw/",
+        "relevance_score": 59.75999999999999,
+        "matched_brands": [
+          "dewalt",
+          "makita",
+          "dewalt",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "hammer drill",
+          "table saw",
+          "angle grinder"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "XT297t or GT200d",
+        "selftext": "I've been slowly swapping over my battery powered tools from rigid to Makita and I'm looking to get a drill driver set. I currently have tools in both the 40v and 18v platform. I have the track saw and the sub compact recip saw in 18v. I have the string trimmer, 24in hedge trimmer, and circular saw in 40v. Looks like I can get the gt200d for $469 with an extra 2.5ah battery or I can get the xt297t for 349 with no extras. Is the performance that much greater in the 40v to justify the price difference? Also to note I already have an M12 drill and driver that I use for smaller tasks so this set would be mostly for heavy duty applications. ",
+        "score": 1,
+        "num_comments": 2,
+        "created_utc": 1770737714.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1r13yrt/xt297t_or_gt200d/",
+        "permalink": "https://reddit.com/r/Makita/comments/1r13yrt/xt297t_or_gt200d/",
+        "relevance_score": 48.959999999999994,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "hedge trimmer",
+          "string trimmer",
+          "drill",
+          "circular saw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah",
+          "compact",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "OPE Reviews, Maintenance & Buying Guides",
+    "example_videos": [
+      "Chainsaw buying guide 2024",
+      "Pressure washer comparison",
+      "Lawn mower maintenance tips"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#lawnmower",
+      "#pressurewasher",
+      "#OPE",
+      "#yardwork"
+    ]
+  }
+]
