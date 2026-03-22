@@ -1,0 +1,866 @@
+[
+  {
+    "theme": "power_tools",
+    "post_count": 91,
+    "avg_engagement": 213.1868131868132,
+    "avg_relevance": 14.518329670329663,
+    "total_comments": 8029,
+    "demand_strength": 281655.5956043955,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "Looking for some recommendations for replacements of my corded tools",
+        "selftext": "I'm a homeowner that prefers to do all my own work, be it maintenance or remodeling. I've built a shed, paver patio with natural stone seatwall, do all my own auto repairs, and am undertaking a deck teardown and screen porch build in a few months. I have a bunch of corded tools that have served me well over the years, but they are incredibly heavy and obviously cumbersome. Looking for some opinions on what I should replace the following with:\n\n* DW364 7 1/4\" Circular saw\n* DW311 Reciprocating saw\n* DW331 Jigsaw\n* D28402 4 1/2\" angle grinder\n* Rockwell Sonicrafter oscillating tool\n\nI'd like to prioritize weight and power over price.\n\nI already have a DCD806, DCF850, DCF923, DCF891, 10\" table saw, and 12\" sliding miter saw. \n\nThanks in advance.",
+        "score": 9,
+        "num_comments": 8,
+        "created_utc": 1773597725.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
+        "relevance_score": 49.199999999999996,
+        "matched_brands": [],
+        "matched_products": [
+          "circular saw",
+          "miter saw",
+          "table saw",
+          "jigsaw",
+          "reciprocating saw",
+          "angle grinder",
+          "oscillating tool"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita 6ah battery bricked",
+        "selftext": "UK based\n\nApologies if this has been raised before as I\u2019m new to the group \n\nI\u2019ve been using the Makita 18v system for over 15 years now and have built up a collection of batteries from 3ah up to my most recent 6ah. \n\nNow during normal (impact driver) use my most recent 6ah battery \u2018bricked\u2019 ie double alternate flashing lights. \n\nThis is the first battery to ever let me down and is also my newest battery (just over 2 years old)\n\nIt was purchased from a reputable online dealer so I have no reason to suspect that it isn\u2019t genuine. \n\nSo, a couple of questions!\n\nAre the newer 6ah batteries less reliable than the older 4ah, 5ah etc?\n\nAlso what do I replace it with? Do I go back to the 5ah and take the slight hit on the battery capacity or buy another 6ah?\n\nAny thoughts would be greatly appreciated ",
+        "score": 3,
+        "num_comments": 13,
+        "created_utc": 1773660612.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
+        "permalink": "https://reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
+        "relevance_score": 36.0,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "impact driver"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah",
+          "capacity"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Do deals get better than this?",
+        "selftext": "2 atomic tools, 2 XR tools, 1 brushless max tool, 2 batteries, charger, and tough system box for $469. \n\nAll of my tools are brushed craftsman stuff and I was thinking about upgrading them. I also do not have an angle grinder or cordless sander. Should I jump on this?",
+        "score": 43,
+        "num_comments": 31,
+        "created_utc": 1773694103.0,
+        "url": "https://www.reddit.com/gallery/1rvlrbw",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1rvlrbw/do_deals_get_better_than_this/",
+        "relevance_score": 33.36,
+        "matched_brands": [
+          "craftsman",
+          "craftsman",
+          "ge"
+        ],
+        "matched_products": [
+          "angle grinder"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "brushless"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Power Tool Reviews & Professional Tips",
+    "example_videos": [
+      "Best cordless drills 2024",
+      "Miter saw buying guide",
+      "Tool storage solutions"
+    ],
+    "hashtags": [
+      "#powertools",
+      "#cordlesstools",
+      "#dewalt",
+      "#milwaukee",
+      "#contractor"
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 53,
+    "avg_engagement": 108.79245283018868,
+    "avg_relevance": 22.755245283018866,
+    "total_comments": 3421,
+    "demand_strength": 131206.7443018868,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "This is how to fix issues with Lawn mower DLM330",
+        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn\u2019t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it\u2019s like a brand new machine now.\n\nPS: If yo",
+        "score": 5,
+        "num_comments": 1,
+        "created_utc": 1773846678.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "relevance_score": 57.71999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "pressure washer",
+          "lawn mower",
+          "angle grinder",
+          "washer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Looking for some recommendations for replacements of my corded tools",
+        "selftext": "I'm a homeowner that prefers to do all my own work, be it maintenance or remodeling. I've built a shed, paver patio with natural stone seatwall, do all my own auto repairs, and am undertaking a deck teardown and screen porch build in a few months. I have a bunch of corded tools that have served me well over the years, but they are incredibly heavy and obviously cumbersome. Looking for some opinions on what I should replace the following with:\n\n* DW364 7 1/4\" Circular saw\n* DW311 Reciprocating saw\n* DW331 Jigsaw\n* D28402 4 1/2\" angle grinder\n* Rockwell Sonicrafter oscillating tool\n\nI'd like to prioritize weight and power over price.\n\nI already have a DCD806, DCF850, DCF923, DCF891, 10\" table saw, and 12\" sliding miter saw. \n\nThanks in advance.",
+        "score": 9,
+        "num_comments": 8,
+        "created_utc": 1773597725.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
+        "relevance_score": 49.199999999999996,
+        "matched_brands": [],
+        "matched_products": [
+          "circular saw",
+          "miter saw",
+          "table saw",
+          "jigsaw",
+          "reciprocating saw",
+          "angle grinder",
+          "oscillating tool"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "All Washer Brands Seem to Get Hate - Help Me Decide!",
+        "selftext": "I need to buy a new washer and dryer ASAP, but the reviews have turned me into an indecisive lump who is ready to stop wearing clothes altogether just to avoid the purchase. We currently have a Whirlpool top load washer (5.3 cu. ft.) and electric dryer (8.8 cu. ft.) that are failing after 8.5 years. I don't need something that will last a lifetime, just something to clean our clothes for at least the next 5 years with minimal repairs. My wants in order of importance:\n\n1. No/minimal mold - I'm open to a top or front loader and willing to leave door open/clean occasionally, just don't want mold issues.\n2. Quiet - My husband would like something quiet, so I would like to accommodate his one request.\n3. Large capacity - I've been washing a king comforter, sheets, and mattress pad all in one load for the past 12 years and would like to keep doing so. Most Dryers seem to be under 8 cu. ft. now, which is fine.\n4. Decent design - Definitely prefer something sleek and modern but will take funct",
+        "score": 5,
+        "num_comments": 31,
+        "created_utc": 1773754388.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
+        "relevance_score": 43.199999999999996,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "capacity",
+          "front load",
+          "top load"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Product Buying Guides & Recommendations",
+    "example_videos": [
+      "What to look for when buying...",
+      "Best value tools under $200",
+      "Professional vs homeowner grade"
+    ],
+    "hashtags": [
+      "#buyingguide",
+      "#recommendations",
+      "#bestvalue",
+      "#professional"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 47,
+    "avg_engagement": 120.8936170212766,
+    "avg_relevance": 21.418723404255317,
+    "total_comments": 2447,
+    "demand_strength": 121701.18638297872,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "This is how to fix issues with Lawn mower DLM330",
+        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn\u2019t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it\u2019s like a brand new machine now.\n\nPS: If yo",
+        "score": 5,
+        "num_comments": 1,
+        "created_utc": 1773846678.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "relevance_score": 57.71999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "pressure washer",
+          "lawn mower",
+          "angle grinder",
+          "washer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Looking for some recommendations for replacements of my corded tools",
+        "selftext": "I'm a homeowner that prefers to do all my own work, be it maintenance or remodeling. I've built a shed, paver patio with natural stone seatwall, do all my own auto repairs, and am undertaking a deck teardown and screen porch build in a few months. I have a bunch of corded tools that have served me well over the years, but they are incredibly heavy and obviously cumbersome. Looking for some opinions on what I should replace the following with:\n\n* DW364 7 1/4\" Circular saw\n* DW311 Reciprocating saw\n* DW331 Jigsaw\n* D28402 4 1/2\" angle grinder\n* Rockwell Sonicrafter oscillating tool\n\nI'd like to prioritize weight and power over price.\n\nI already have a DCD806, DCF850, DCF923, DCF891, 10\" table saw, and 12\" sliding miter saw. \n\nThanks in advance.",
+        "score": 9,
+        "num_comments": 8,
+        "created_utc": 1773597725.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
+        "relevance_score": 49.199999999999996,
+        "matched_brands": [],
+        "matched_products": [
+          "circular saw",
+          "miter saw",
+          "table saw",
+          "jigsaw",
+          "reciprocating saw",
+          "angle grinder",
+          "oscillating tool"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "All Washer Brands Seem to Get Hate - Help Me Decide!",
+        "selftext": "I need to buy a new washer and dryer ASAP, but the reviews have turned me into an indecisive lump who is ready to stop wearing clothes altogether just to avoid the purchase. We currently have a Whirlpool top load washer (5.3 cu. ft.) and electric dryer (8.8 cu. ft.) that are failing after 8.5 years. I don't need something that will last a lifetime, just something to clean our clothes for at least the next 5 years with minimal repairs. My wants in order of importance:\n\n1. No/minimal mold - I'm open to a top or front loader and willing to leave door open/clean occasionally, just don't want mold issues.\n2. Quiet - My husband would like something quiet, so I would like to accommodate his one request.\n3. Large capacity - I've been washing a king comforter, sheets, and mattress pad all in one load for the past 12 years and would like to keep doing so. Most Dryers seem to be under 8 cu. ft. now, which is fine.\n4. Decent design - Definitely prefer something sleek and modern but will take funct",
+        "score": 5,
+        "num_comments": 31,
+        "created_utc": 1773754388.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
+        "relevance_score": 43.199999999999996,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "capacity",
+          "front load",
+          "top load"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 54,
+    "avg_engagement": 92.92592592592592,
+    "avg_relevance": 20.35866666666666,
+    "total_comments": 3646,
+    "demand_strength": 102159.7893333333,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "This is how to fix issues with Lawn mower DLM330",
+        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn\u2019t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it\u2019s like a brand new machine now.\n\nPS: If yo",
+        "score": 5,
+        "num_comments": 1,
+        "created_utc": 1773846678.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "relevance_score": 57.71999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "pressure washer",
+          "lawn mower",
+          "angle grinder",
+          "washer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Looking for a washing machine that isn't \"Smart\" or crippled by Energy Star requirements like my LG top loader",
+        "selftext": "As the title says. That's not to say I object to the Energy Star rating on principle - in fact I usually prefer it. But my LG washer doesn't allow the use of hot water thanks in large part to the \"Smart\" sensors and the Energy Star settings (at least according to their customer support). \n\nI need hot water straight from the tap for sanitizing towels, reducing allergens on bedding, and deep cleaning dirty teen boy socks. But this washer always adds cold water to the wash load, regardless of the setting. It ends up lukewarm at best, even on the \"heavy duty\" and \"hot water\" cycle. \n\nI'd also like a soak cycle, or at least the option to soak manually. This model automatically drains the tub after a few minutes if you try to stop the load and let it soak. But having an actual cycle would be ideal since I'm easily distracted, and chances are low that I'd consistently remember I have a load soaking that I need to convert to a wash cycle. \n\nSpeaking of sensors, I'm totally skeptical of claims ",
+        "score": 12,
+        "num_comments": 64,
+        "created_utc": 1773696477.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
+        "relevance_score": 39.959999999999994,
+        "matched_brands": [
+          "ge",
+          "lg"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "top load",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita 6ah battery bricked",
+        "selftext": "UK based\n\nApologies if this has been raised before as I\u2019m new to the group \n\nI\u2019ve been using the Makita 18v system for over 15 years now and have built up a collection of batteries from 3ah up to my most recent 6ah. \n\nNow during normal (impact driver) use my most recent 6ah battery \u2018bricked\u2019 ie double alternate flashing lights. \n\nThis is the first battery to ever let me down and is also my newest battery (just over 2 years old)\n\nIt was purchased from a reputable online dealer so I have no reason to suspect that it isn\u2019t genuine. \n\nSo, a couple of questions!\n\nAre the newer 6ah batteries less reliable than the older 4ah, 5ah etc?\n\nAlso what do I replace it with? Do I go back to the 5ah and take the slight hit on the battery capacity or buy another 6ah?\n\nAny thoughts would be greatly appreciated ",
+        "score": 3,
+        "num_comments": 13,
+        "created_utc": 1773660612.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
+        "permalink": "https://reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
+        "relevance_score": 36.0,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "impact driver"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah",
+          "capacity"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 29,
+    "avg_engagement": 117.86206896551724,
+    "avg_relevance": 24.97779310344828,
+    "total_comments": 2270,
+    "demand_strength": 85374.09682758623,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "This is how to fix issues with Lawn mower DLM330",
+        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn\u2019t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it\u2019s like a brand new machine now.\n\nPS: If yo",
+        "score": 5,
+        "num_comments": 1,
+        "created_utc": 1773846678.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "relevance_score": 57.71999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "pressure washer",
+          "lawn mower",
+          "angle grinder",
+          "washer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Dishwasher Straw Holder",
+        "selftext": "To those looking for something to hold their straws securely in the dishwasher- I started using the obscure \u201cChopstick Holder\u201d accessory from Whirlpool. Part no W11643641\n\nI wanted the official Miele \u201cStraw Clean\u201d accessory but they don\u2019t sell it separately currently. I was able to get this for like $8 so figured I\u2019d try it. \n\nPlaced it in the middle of the rack so it would be in a very direct water stream from below. So far seems to work better than throwing them in a silverware-basket style thing. Hold them much more securely and no risk of hitting each other I think. \n\nOnly time they\u2019ve come out dirty was when a piece of cauliflower rice fell into the holder and got stuck to the outside of one. \n\nAn incredible pain to find a spot for in my Miele, this is virtually the only non-corner spot it would fit in (the corner would have less water flow and wanted to avoid that). In a normal dishwasher this should be easier to find a place for. It has a bracket that clips onto the rack, and th",
+        "score": 43,
+        "num_comments": 49,
+        "created_utc": 1773791410.0,
+        "url": "https://www.reddit.com/gallery/1rwntg6",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rwntg6/dishwasher_straw_holder/",
+        "relevance_score": 42.35999999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Looking for a washing machine that isn't \"Smart\" or crippled by Energy Star requirements like my LG top loader",
+        "selftext": "As the title says. That's not to say I object to the Energy Star rating on principle - in fact I usually prefer it. But my LG washer doesn't allow the use of hot water thanks in large part to the \"Smart\" sensors and the Energy Star settings (at least according to their customer support). \n\nI need hot water straight from the tap for sanitizing towels, reducing allergens on bedding, and deep cleaning dirty teen boy socks. But this washer always adds cold water to the wash load, regardless of the setting. It ends up lukewarm at best, even on the \"heavy duty\" and \"hot water\" cycle. \n\nI'd also like a soak cycle, or at least the option to soak manually. This model automatically drains the tub after a few minutes if you try to stop the load and let it soak. But having an actual cycle would be ideal since I'm easily distracted, and chances are low that I'd consistently remember I have a load soaking that I need to convert to a wash cycle. \n\nSpeaking of sensors, I'm totally skeptical of claims ",
+        "score": 12,
+        "num_comments": 64,
+        "created_utc": 1773696477.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
+        "relevance_score": 39.959999999999994,
+        "matched_brands": [
+          "ge",
+          "lg"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "top load",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 88,
+    "avg_engagement": 51.29545454545455,
+    "avg_relevance": 17.445772727272722,
+    "total_comments": 3156,
+    "demand_strength": 78750.21809090907,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "All Washer Brands Seem to Get Hate - Help Me Decide!",
+        "selftext": "I need to buy a new washer and dryer ASAP, but the reviews have turned me into an indecisive lump who is ready to stop wearing clothes altogether just to avoid the purchase. We currently have a Whirlpool top load washer (5.3 cu. ft.) and electric dryer (8.8 cu. ft.) that are failing after 8.5 years. I don't need something that will last a lifetime, just something to clean our clothes for at least the next 5 years with minimal repairs. My wants in order of importance:\n\n1. No/minimal mold - I'm open to a top or front loader and willing to leave door open/clean occasionally, just don't want mold issues.\n2. Quiet - My husband would like something quiet, so I would like to accommodate his one request.\n3. Large capacity - I've been washing a king comforter, sheets, and mattress pad all in one load for the past 12 years and would like to keep doing so. Most Dryers seem to be under 8 cu. ft. now, which is fine.\n4. Decent design - Definitely prefer something sleek and modern but will take funct",
+        "score": 5,
+        "num_comments": 31,
+        "created_utc": 1773754388.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
+        "relevance_score": 43.199999999999996,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "capacity",
+          "front load",
+          "top load"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Dishwasher Straw Holder",
+        "selftext": "To those looking for something to hold their straws securely in the dishwasher- I started using the obscure \u201cChopstick Holder\u201d accessory from Whirlpool. Part no W11643641\n\nI wanted the official Miele \u201cStraw Clean\u201d accessory but they don\u2019t sell it separately currently. I was able to get this for like $8 so figured I\u2019d try it. \n\nPlaced it in the middle of the rack so it would be in a very direct water stream from below. So far seems to work better than throwing them in a silverware-basket style thing. Hold them much more securely and no risk of hitting each other I think. \n\nOnly time they\u2019ve come out dirty was when a piece of cauliflower rice fell into the holder and got stuck to the outside of one. \n\nAn incredible pain to find a spot for in my Miele, this is virtually the only non-corner spot it would fit in (the corner would have less water flow and wanted to avoid that). In a normal dishwasher this should be easier to find a place for. It has a bracket that clips onto the rack, and th",
+        "score": 43,
+        "num_comments": 49,
+        "created_utc": 1773791410.0,
+        "url": "https://www.reddit.com/gallery/1rwntg6",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rwntg6/dishwasher_straw_holder/",
+        "relevance_score": 42.35999999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Looking for a washing machine that isn't \"Smart\" or crippled by Energy Star requirements like my LG top loader",
+        "selftext": "As the title says. That's not to say I object to the Energy Star rating on principle - in fact I usually prefer it. But my LG washer doesn't allow the use of hot water thanks in large part to the \"Smart\" sensors and the Energy Star settings (at least according to their customer support). \n\nI need hot water straight from the tap for sanitizing towels, reducing allergens on bedding, and deep cleaning dirty teen boy socks. But this washer always adds cold water to the wash load, regardless of the setting. It ends up lukewarm at best, even on the \"heavy duty\" and \"hot water\" cycle. \n\nI'd also like a soak cycle, or at least the option to soak manually. This model automatically drains the tub after a few minutes if you try to stop the load and let it soak. But having an actual cycle would be ideal since I'm easily distracted, and chances are low that I'd consistently remember I have a load soaking that I need to convert to a wash cycle. \n\nSpeaking of sensors, I'm totally skeptical of claims ",
+        "score": 12,
+        "num_comments": 64,
+        "created_utc": 1773696477.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
+        "relevance_score": 39.959999999999994,
+        "matched_brands": [
+          "ge",
+          "lg"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "top load",
+          "heavy duty"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 10,
+    "avg_engagement": 221.1,
+    "avg_relevance": 14.262,
+    "total_comments": 554,
+    "demand_strength": 31533.282,
+    "sample_posts": [
+      {
+        "subreddit": "HomeImprovement",
+        "title": "best air purifier for odor - what actually works?",
+        "selftext": "We finished the basement last year and it's been fine mostly, but there's this musty smell that just won't go away no matter how much we clean or run a dehumidifier. The humidity levels are normal now, no visible mold, but it still smells like an old gym bag down there. My wife refuses to use the space and honestly I don't blame her.\n\nI've been looking into getting an air purifier and went down a rabbit hole trying to find the best air purifier for odor specifically. Not just dust or allergens, like actually targeting smell. I looked at some HEPA-only ones but from what I read those don't do much for odors without an activated carbon filter too. There's also a few of the larger tower style ones in the $150-250 range I've been eyeing but I genuinely can't tell if I'm overpaying for features I don't need or if the cheaper ones are just a waste of money.\n\nThe basement is probably around 700 sq ft if that helps. I'd like to keep it under $200 if possible but could stretch to $250 for somet",
+        "score": 10,
+        "num_comments": 4,
+        "created_utc": 1774025392.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1rz1k2u/best_air_purifier_for_odor_what_actually_works/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1rz1k2u/best_air_purifier_for_odor_what_actually_works/",
+        "relevance_score": 27.96,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "air purifier",
+          "dehumidifier",
+          "humidifier"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Best washable filter air purifier?",
+        "selftext": "I am trying to find the best washable filter air purifier for my house. Buying replacement HEPA filters every few months gets expensive, so I started looking for models that use reusable or washable filters.\n\nWhile researching I came across a comparison on a site called Airlucent that talks about top rated air purifiers with washable filters and how they actually perform.\n\nSome people say washable filters are convenient but not always as effective as traditional HEPA filters.\n\nHas anyone here used a washable filter air purifier long term? I would really like to know if they are worth it.",
+        "score": 6,
+        "num_comments": 4,
+        "created_utc": 1773718010.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1rvvk8q/best_washable_filter_air_purifier/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1rvvk8q/best_washable_filter_air_purifier/",
+        "relevance_score": 20.16,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "air purifier"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Musty smell driving me insane, crawl space smells cleaner than my living room",
+        "selftext": "I live in South Florida and the humidity and heat are starting to come back around. For the past 5 years, I\u2019ve been dealing with a musty, stagnant smell when it\u2019s humid.\n\nMy crawl space is bare dirt and vented, house built in 1946. There has been virtually no smell during winter, but just recently started back up with the rain and humidity we\u2019ve been having. I have oak flooring throughout the house laid on original slat boards as the subfloor, so there\u2019s plenty of air that leaks up from the crawl space. \n\nWhat are my best options without having to install a dehumidifier in the crawl space and seal the whole thing up? \n\nCan I just add a fan to circulate air? Will this cause more issues as hot air gets sucked in?\n\nShould I vapor barrier the dirt AND add a fan? Or will vapor barrier be enough?  ",
+        "score": 11,
+        "num_comments": 3,
+        "created_utc": 1773765682.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1rwbsr5/musty_smell_driving_me_insane_crawl_space_smells/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1rwbsr5/musty_smell_driving_me_insane_crawl_space_smells/",
+        "relevance_score": 17.4,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "dehumidifier",
+          "humidifier"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ]
+  },
+  {
+    "theme": "outdoor_power_equipment",
+    "post_count": 37,
+    "avg_engagement": 42.4054054054054,
+    "avg_relevance": 19.838918918918917,
+    "total_comments": 1132,
+    "demand_strength": 31127.263783783783,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "This is how to fix issues with Lawn mower DLM330",
+        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn\u2019t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it\u2019s like a brand new machine now.\n\nPS: If yo",
+        "score": 5,
+        "num_comments": 1,
+        "created_utc": 1773846678.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
+        "relevance_score": 57.71999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "pressure washer",
+          "lawn mower",
+          "angle grinder",
+          "washer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Finally went DC.",
+        "selftext": "Finally moved on from my Ryobi 26cc gas trimmer (with 6 attachments) after 15 years of working it hard and keeping it running strong. My toughest use of it was clearing several hundred feet (like 500 feet) of dense lakefront scrub trees with the pruning saw attachent. It was a beast.\nSince I had all these attachments (straight shaft trimmer, straight shaft brush cutter, curved shaft trimmer, pruning saw, edger, and cultivator) the logical choice was the 40v HP \"Whisper Series\" Expand-It trimmer with power exceeding a 32cc gas engine, the Ryobi RY40HPST02K.\nThis 40v, the new beast, has given new life to all my old Expand-It attachments.\nThis thing runs GREAT! \nIf you have been considering it or any of the 40v tools, go for it. You will be glad you did.\nForget the gas, oil, spark plugs, ignition modules, vibration, and noise headaches for good.\n\nI'm just fulfilling my plan that when my gas devices become just too much to keep running, the only replacements will be, and have been battery ",
+        "score": 14,
+        "num_comments": 11,
+        "created_utc": 1773625204.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1ruwcaj/finally_went_dc/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1ruwcaj/finally_went_dc/",
+        "relevance_score": 38.4,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "edger",
+          "cultivator",
+          "brush cutter"
+        ],
+        "matched_keywords": [
+          "battery"
+        ],
+        "detected_intents": [
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Repack failing Makita batteries",
+        "selftext": "I have a bunch of 5.0Ah batteries that still charge ok (so they haven't failed completely and locked themselves), but they are definitely not holding charge well. In my X2 tools, especially the XCU04 chainsaw, I'm constantly tripping some internal mechanism when I use the older batteries (if I use two newer batteries then it runs fine).\n\nSo I'm trying decide between buying all new genuine batteries ($$$), or dismantling, testing, and repacking the batteries. I'm fine with the electrical work, so if that process is reliable and straightforward, I'd love some pointers to useful guides and where to currently buy the best replacement cells (I know I'll need to get a spot welder).\n\nThoughts?",
+        "score": 7,
+        "num_comments": 7,
+        "created_utc": 1773539417.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1ru1i9w/repack_failing_makita_batteries/",
+        "permalink": "https://reddit.com/r/Makita/comments/1ru1i9w/repack_failing_makita_batteries/",
+        "relevance_score": 34.199999999999996,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent"
+        ]
+      }
+    ],
+    "content_angle": "OPE Reviews, Maintenance & Buying Guides",
+    "example_videos": [
+      "Chainsaw buying guide 2024",
+      "Pressure washer comparison",
+      "Lawn mower maintenance tips"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#lawnmower",
+      "#pressurewasher",
+      "#OPE",
+      "#yardwork"
+    ]
+  }
+]
