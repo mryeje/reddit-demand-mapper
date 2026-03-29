@@ -2,93 +2,87 @@
   {
     "theme": "power_tools",
     "post_count": 91,
-    "avg_engagement": 213.1868131868132,
-    "avg_relevance": 14.518329670329663,
-    "total_comments": 8029,
-    "demand_strength": 281655.5956043955,
+    "avg_engagement": 140.12087912087912,
+    "avg_relevance": 13.945934065934065,
+    "total_comments": 3685,
+    "demand_strength": 177824.60527472527,
     "sample_posts": [
       {
-        "subreddit": "Dewalt",
-        "title": "Looking for some recommendations for replacements of my corded tools",
-        "selftext": "I'm a homeowner that prefers to do all my own work, be it maintenance or remodeling. I've built a shed, paver patio with natural stone seatwall, do all my own auto repairs, and am undertaking a deck teardown and screen porch build in a few months. I have a bunch of corded tools that have served me well over the years, but they are incredibly heavy and obviously cumbersome. Looking for some opinions on what I should replace the following with:\n\n* DW364 7 1/4\" Circular saw\n* DW311 Reciprocating saw\n* DW331 Jigsaw\n* D28402 4 1/2\" angle grinder\n* Rockwell Sonicrafter oscillating tool\n\nI'd like to prioritize weight and power over price.\n\nI already have a DCD806, DCF850, DCF923, DCF891, 10\" table saw, and 12\" sliding miter saw. \n\nThanks in advance.",
-        "score": 9,
-        "num_comments": 8,
-        "created_utc": 1773597725.0,
-        "url": "https://www.reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
-        "relevance_score": 49.199999999999996,
-        "matched_brands": [],
+        "subreddit": "Makita",
+        "title": "First time drill owner. What do you guys think about this Makita M8103KX2B set?",
+        "selftext": "I was checking out a Bosch GSB 600 set and made a post on r/Tools earlier. Then stumbled upon this set for the Makita M8100KX2B which is cheaper (the Bosch set was $60 but $35 for just the drill, this one is $50 without the option to get just the drill) and the Makita seems to operate at a higher wattage at 710W compared to the Bosch's 600W (I understand that my intuition could be wrong on this).\n\nCurrently I just need to drill a few holes to mount a shelf at my first place so I figured it's time I got into power tools.\n\nEdit: I made a mistake in the title. The correct model is M8100KX2B, not M8103KX2B.",
+        "score": 15,
+        "num_comments": 18,
+        "created_utc": 1774286065.0,
+        "url": "https://i.redd.it/7hiub4hiutqg1.png",
+        "permalink": "https://reddit.com/r/Makita/comments/1s1n141/first_time_drill_owner_what_do_you_guys_think/",
+        "relevance_score": 39.35999999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "bosch",
+          "ge",
+          "bosch"
+        ],
         "matched_products": [
-          "circular saw",
-          "miter saw",
-          "table saw",
-          "jigsaw",
-          "reciprocating saw",
-          "angle grinder",
-          "oscillating tool"
+          "drill"
         ],
         "matched_keywords": [],
         "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "maintenance"
+          "learning_intent",
+          "comparison"
         ]
       },
       {
         "subreddit": "Makita",
-        "title": "Makita 6ah battery bricked",
-        "selftext": "UK based\n\nApologies if this has been raised before as I’m new to the group \n\nI’ve been using the Makita 18v system for over 15 years now and have built up a collection of batteries from 3ah up to my most recent 6ah. \n\nNow during normal (impact driver) use my most recent 6ah battery ‘bricked’ ie double alternate flashing lights. \n\nThis is the first battery to ever let me down and is also my newest battery (just over 2 years old)\n\nIt was purchased from a reputable online dealer so I have no reason to suspect that it isn’t genuine. \n\nSo, a couple of questions!\n\nAre the newer 6ah batteries less reliable than the older 4ah, 5ah etc?\n\nAlso what do I replace it with? Do I go back to the 5ah and take the slight hit on the battery capacity or buy another 6ah?\n\nAny thoughts would be greatly appreciated ",
+        "title": "New GPH03 Drill replace GPH01?",
+        "selftext": "I plan to get the new GPH03/4AH high output battery bundle (considering Acmes bundle that comes with the high torque GDT04 impact driver and 2ag battery combo for just $100 more)\n\nIs there any reason to keep the GPH01 around aside from redundancy? Unlike the larger impact wrenches and drivers (like the GDT04 in that kit) It’s only marginally larger/heavier, would there ever be a reason to reach for the GPH01 instead?\n\nWould it be worth holding on to either way? Are there times having multiple with different drill bits pre loaded is usefull for someone who isn’t a contractor?",
         "score": 3,
-        "num_comments": 13,
-        "created_utc": 1773660612.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
-        "permalink": "https://reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
-        "relevance_score": 36.0,
+        "num_comments": 10,
+        "created_utc": 1774540554.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1s4bf71/new_gph03_drill_replace_gph01/",
+        "permalink": "https://reddit.com/r/Makita/comments/1s4bf71/new_gph03_drill_replace_gph01/",
+        "relevance_score": 37.44,
         "matched_brands": [
-          "makita",
-          "makita",
           "ge"
         ],
         "matched_products": [
+          "drill",
           "impact driver"
         ],
         "matched_keywords": [
           "battery",
           "ah",
-          "capacity"
+          "torque",
+          "contractor"
         ],
         "detected_intents": [
-          "buying_intent",
-          "learning_intent"
+          "buying_intent"
         ]
       },
       {
-        "subreddit": "Dewalt",
-        "title": "Do deals get better than this?",
-        "selftext": "2 atomic tools, 2 XR tools, 1 brushless max tool, 2 batteries, charger, and tough system box for $469. \n\nAll of my tools are brushed craftsman stuff and I was thinking about upgrading them. I also do not have an angle grinder or cordless sander. Should I jump on this?",
-        "score": 43,
-        "num_comments": 31,
-        "created_utc": 1773694103.0,
-        "url": "https://www.reddit.com/gallery/1rvlrbw",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1rvlrbw/do_deals_get_better_than_this/",
-        "relevance_score": 33.36,
+        "subreddit": "Makita",
+        "title": "XSL02Z saw fence not aligned",
+        "selftext": "I guess this is a fairly common problem with these saws. I bought this saw a couple years ago on Amazon and never registered it was really busy and the saw never seemed to be accurate so I just never used it and kept pulling out my huge 12 inch dewalt miter saw instead. I’m finally looking closely at it and realize the fence is not aligned at all and it gets worse the higher up you go. What do you guys recommend I do? Order a replacement fence for about 30-40$ or try and fix this one somehow? ",
+        "score": 5,
+        "num_comments": 11,
+        "created_utc": 1774574431.0,
+        "url": "https://www.reddit.com/gallery/1s4q6yh",
+        "permalink": "https://reddit.com/r/Makita/comments/1s4q6yh/xsl02z_saw_fence_not_aligned/",
+        "relevance_score": 32.4,
         "matched_brands": [
-          "craftsman",
-          "craftsman",
+          "dewalt",
+          "dewalt",
           "ge"
         ],
         "matched_products": [
-          "angle grinder"
+          "miter saw"
         ],
-        "matched_keywords": [
-          "cordless",
-          "brushless"
-        ],
+        "matched_keywords": [],
         "detected_intents": [
           "buying_intent",
-          "comparison"
+          "troubleshooting",
+          "troubleshooting"
         ]
       }
     ],
@@ -107,117 +101,14 @@
     ],
     "matched_videos": [
       {
-        "video_id": "HqVEdc7xCRM",
-        "title": "Tool Tear Down: Cordless Batteries | What's Inside and How to Replace Them | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "When it comes to power tools, lots of folks like to go old-school and stick with their plug-in, corded tools. However, more and more people these days find themselves turning to another option:...",
-        "relevance_score": 60.4,
-        "scoring_breakdown": {
-          "semantic_score": 21.26,
-          "keyword_score": 21,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:tools",
-            "fuzzy_tfidf:battery(85.71428571428572)",
-            "tfidf:batteries",
-            "fuzzy_tfidf:model batteries(80.0)",
-            "tfidf:tool"
-          ],
-          "intent_matches": [
-            "buying_advice:6.0↔1.0",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "V5EblqpxfXw",
-        "title": "Tool Tear Down: Jig Saw Comparison | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "When it comes time to replace or repair your jigsaw, it's handy to know what newer models might be offering that your old one did not. Also, if you're looking to pick up a new to you jigsaw,...",
-        "relevance_score": 55.71,
-        "scoring_breakdown": {
-          "semantic_score": 19.71,
-          "keyword_score": 30,
-          "intent_score": 6.0,
-          "content_boost": 1.0,
-          "content_type": "repair"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "fuzzy_tfidf:tools(88.88888888888889)",
-            "tfidf:saw",
-            "tfidf:tool",
-            "fuzzy_tfidf:saw model(77.77777777777779)"
-          ],
-          "intent_matches": [
-            "buying_advice:6.0↔1.0",
-            "how_to_guide:1.1↔1.1",
-            "comparison:0.9↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "ilj1uAnVang",
-        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
-        "relevance_score": 47.47,
-        "scoring_breakdown": {
-          "semantic_score": 22.31,
-          "keyword_score": 10,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:tools",
-            "tfidf:tool"
-          ],
-          "intent_matches": [
-            "buying_advice:6.0↔1.0",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "v5bgEvFV_4U",
-        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
-        "relevance_score": 46.11,
-        "scoring_breakdown": {
-          "semantic_score": 20.47,
-          "keyword_score": 13,
-          "intent_score": 2.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:tools",
-            "tfidf:tool",
-            "fuzzy_tfidf:years(80.0)"
-          ],
-          "intent_matches": [
-            "buying_advice:6.0↔1.0"
-          ]
-        }
-      },
-      {
         "video_id": "Vxo3BEDyB9g",
         "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
         "channel": "fixtechguides",
         "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
-        "relevance_score": 55.43,
+        "relevance_score": 55.17,
         "scoring_breakdown": {
-          "semantic_score": 13.44,
-          "keyword_score": 27,
+          "semantic_score": 10.24,
+          "keyword_score": 30,
           "intent_score": 2.2,
           "content_boost": 1.3,
           "content_type": "tutorial"
@@ -226,12 +117,121 @@
           "keyword_matches": [
             "tfidf:model",
             "tfidf:saw",
-            "fuzzy_tfidf:angle(80.0)",
-            "tfidf:saw model",
+            "tfidf:bosch",
+            "fuzzy_tfidf:new model(77.77777777777779)",
             "brand:model"
           ],
           "intent_matches": [
             "how_to_guide:1.1↔2.2"
+          ]
+        }
+      },
+      {
+        "video_id": "V5EblqpxfXw",
+        "title": "Tool Tear Down: Jig Saw Comparison | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "When it comes time to replace or repair your jigsaw, it's handy to know what newer models might be offering that your old one did not. Also, if you're looking to pick up a new to you jigsaw,...",
+        "relevance_score": 50.33,
+        "scoring_breakdown": {
+          "semantic_score": 14.33,
+          "keyword_score": 30,
+          "intent_score": 6.0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:saw",
+            "fuzzy_tfidf:new model(77.77777777777779)",
+            "fuzzy_tfidf:high(75.0)",
+            "tfidf:new"
+          ],
+          "intent_matches": [
+            "buying_advice:4.0↔1.0",
+            "how_to_guide:1.1↔1.1",
+            "comparison:1.8↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "cOGiC-LwPow",
+        "title": "PartSelect Celebrates 10 Million Views!",
+        "channel": "partselect",
+        "description_snippet": "We're celebrating our ten millionth video view, here on YouTube! Thank you, PartSelect customers and viewers, ten million times over!\n\nGet model-specific repair help from PartSelect.com. Learn...",
+        "relevance_score": 41.07,
+        "scoring_breakdown": {
+          "semantic_score": 10.0,
+          "keyword_score": 17,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:just(75.0)",
+            "fuzzy_tfidf:new model(77.77777777777779)",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2",
+            "how_to_guide:1.1↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "8mbrnoG5Dnw",
+        "title": "Dryer Repair  - Replacing the High Limit Thermal Fuse (Whirlpool Part# 40113801)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 39.07,
+        "scoring_breakdown": {
+          "semantic_score": 6.45,
+          "keyword_score": 19,
+          "intent_score": 4.6,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:new model(77.77777777777779)",
+            "tfidf:high",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:2.4↔1.2",
+            "how_to_guide:1.1↔3.3000000000000003"
+          ]
+        }
+      },
+      {
+        "video_id": "KbU5WnfEQqM",
+        "title": "Makita Drill Repair - Replacing the Armature (Makita Part # 619263-3)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Armature for your Drill? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 49.09,
+        "scoring_breakdown": {
+          "semantic_score": 24.49,
+          "keyword_score": 19,
+          "intent_score": 5.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:drill",
+            "fuzzy_tfidf:set(80.0)",
+            "tfidf:makita",
+            "product:drill",
+            "product:makita"
+          ],
+          "intent_matches": [
+            "buying_advice:4.0↔1.0",
+            "comparison:1.8↔1.8"
           ]
         }
       }
@@ -239,64 +239,35 @@
   },
   {
     "theme": "buying_advice",
-    "post_count": 53,
-    "avg_engagement": 108.79245283018868,
-    "avg_relevance": 22.755245283018866,
-    "total_comments": 3421,
-    "demand_strength": 131206.7443018868,
+    "post_count": 49,
+    "avg_engagement": 65.14285714285714,
+    "avg_relevance": 26.851836734693876,
+    "total_comments": 2813,
+    "demand_strength": 85711.06285714285,
     "sample_posts": [
       {
-        "subreddit": "Makita",
-        "title": "This is how to fix issues with Lawn mower DLM330",
-        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn’t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it’s like a brand new machine now.\n\nPS: If yo",
-        "score": 5,
-        "num_comments": 1,
-        "created_utc": 1773846678.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "relevance_score": 57.71999999999999,
+        "subreddit": "appliances",
+        "title": "Best Dishwasher UNDER $800 (Max ~$1000 w/ Install & Delivery)",
+        "selftext": "My 11 year old Frigidaire took a crap, and now I am in the market for a new dishwasher. I do not plan to stay in my current house for more than another 5 years, for this was my starter home, and I am tired of not having a yard / having my walls shared with neighbors.\n\nHowever, every post I keep coming across repeats the same suggestions - Miele & Bosch. Miele & Bosch. Miele & Bosch.\n\nUnfortunately, neither of these brands makes a dishwasher within my price range (minus the Bosch 100 series, which everyone seems to warn against).\n\nI know to stay away from Samsung, Frigidaire, and LG, but every other recommendation comes with such mix reviews.\n\nI was looking at the Whirlpool **WDTA50SAKZ**, and thought I had made a good choice, but now I am second guessing myself.\n\nEdit: I ended up not going with a Bosch, for several reasons. \n\n1. All of the reviews seemed to make notes of the lack of drying features in the 100 - 500 series. I don’t want to have to dry my dishes by hand. I’m an attorney ",
+        "score": 13,
+        "num_comments": 85,
+        "created_utc": 1774384730.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "relevance_score": 73.8,
         "matched_brands": [
-          "makita",
-          "makita",
-          "ge"
+          "bosch",
+          "whirlpool",
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire",
+          "bosch",
+          "miele"
         ],
         "matched_products": [
-          "pressure washer",
-          "lawn mower",
-          "angle grinder",
-          "washer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "maintenance",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "Looking for some recommendations for replacements of my corded tools",
-        "selftext": "I'm a homeowner that prefers to do all my own work, be it maintenance or remodeling. I've built a shed, paver patio with natural stone seatwall, do all my own auto repairs, and am undertaking a deck teardown and screen porch build in a few months. I have a bunch of corded tools that have served me well over the years, but they are incredibly heavy and obviously cumbersome. Looking for some opinions on what I should replace the following with:\n\n* DW364 7 1/4\" Circular saw\n* DW311 Reciprocating saw\n* DW331 Jigsaw\n* D28402 4 1/2\" angle grinder\n* Rockwell Sonicrafter oscillating tool\n\nI'd like to prioritize weight and power over price.\n\nI already have a DCD806, DCF850, DCF923, DCF891, 10\" table saw, and 12\" sliding miter saw. \n\nThanks in advance.",
-        "score": 9,
-        "num_comments": 8,
-        "created_utc": 1773597725.0,
-        "url": "https://www.reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
-        "relevance_score": 49.199999999999996,
-        "matched_brands": [],
-        "matched_products": [
-          "circular saw",
-          "miter saw",
-          "table saw",
-          "jigsaw",
-          "reciprocating saw",
-          "angle grinder",
-          "oscillating tool"
+          "washer",
+          "dishwasher"
         ],
         "matched_keywords": [],
         "detected_intents": [
@@ -304,27 +275,28 @@
           "buying_intent",
           "buying_intent",
           "troubleshooting",
-          "maintenance"
+          "learning_intent"
         ]
       },
       {
         "subreddit": "appliances",
-        "title": "All Washer Brands Seem to Get Hate - Help Me Decide!",
-        "selftext": "I need to buy a new washer and dryer ASAP, but the reviews have turned me into an indecisive lump who is ready to stop wearing clothes altogether just to avoid the purchase. We currently have a Whirlpool top load washer (5.3 cu. ft.) and electric dryer (8.8 cu. ft.) that are failing after 8.5 years. I don't need something that will last a lifetime, just something to clean our clothes for at least the next 5 years with minimal repairs. My wants in order of importance:\n\n1. No/minimal mold - I'm open to a top or front loader and willing to leave door open/clean occasionally, just don't want mold issues.\n2. Quiet - My husband would like something quiet, so I would like to accommodate his one request.\n3. Large capacity - I've been washing a king comforter, sheets, and mattress pad all in one load for the past 12 years and would like to keep doing so. Most Dryers seem to be under 8 cu. ft. now, which is fine.\n4. Decent design - Definitely prefer something sleek and modern but will take funct",
-        "score": 5,
-        "num_comments": 31,
-        "created_utc": 1773754388.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
-        "relevance_score": 43.199999999999996,
+        "title": "Need a new Washing Machine, Speed Queens are too expensive and small. (US, $800 budget)",
+        "selftext": "I know everyone is going to say Speed Queen first thing, but that's really not viable for me. They cost 2-3 times the other models I am looking at, while having a much smaller capacity. I could barely fit my blanket in my current washer, and it is much bigger.  \n \nAnyway I have a LG WT7100CW, it's an impeller washer with a 4.5Cu capacity, and the start button no longer responds. The power button and every other button and knob works, but the button to actually START a wash is not responding at all anymore (I hate capacitive buttons on appliances). Trying to look up replacement parts, nearly every part is $300, half of what we paid for the entire thing back in 2020, LG also wants $300 just to look at it. Trying to Google and YouTube information on trying to fix it was fruitless, and pretty much every test or service mode on the stupid thing requires pressing... the start button.  \n \nSo we figured enough is enough, we're going to replace it with a new one. We live in the US and max we ar",
+        "score": 12,
+        "num_comments": 47,
+        "created_utc": 1774334315.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "relevance_score": 66.11999999999999,
         "matched_brands": [
           "whirlpool",
           "ge",
+          "lg",
           "speed queen"
         ],
         "matched_products": [
-          "washer",
-          "dryer"
+          "washing machine",
+          "washer"
         ],
         "matched_keywords": [
           "capacity",
@@ -333,7 +305,44 @@
         ],
         "detected_intents": [
           "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
           "troubleshooting",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "LG Canada Refrigerator Compressor Warranty Experience",
+        "selftext": "I recently had a fridge stop cooling and information was fairly scattered, so I thought I’d share here for others.  For context this happened in March 2026 in the Greater Toronto Area.\n\n**Issue**:  Fridge abruptly stopped cooling in under 6 years, which based on research is likely a failure of the linear compressor.\n\n**Troubleshooting**: Ran smart diagnostics on the app, cleaned the coils, and ran tests from the board.  No errors shown, which is apparently common with a compressor failure.\n\n**Warranty Summary:**  1 year full coverage, 7 years sealed system parts only (basically the cooling system), 10 years compressor parts only\n\n**Flat Rate Repair:**  $500+tax through LG.  This theoretically will get the fridge fixed with no additional surprise fees.  I filled in the form, got a list of available service providers, googled reviews to pick the best one, then scheduled for 2 days away.\n\n**Service Scheduling:**  Got a call from the service company the morning after submitting the form, a",
+        "score": 10,
+        "num_comments": 12,
+        "created_utc": 1774290188.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s1p0ef/lg_canada_refrigerator_compressor_warranty/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s1p0ef/lg_canada_refrigerator_compressor_warranty/",
+        "relevance_score": 52.8,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "lg",
+          "bosch"
+        ],
+        "matched_products": [
+          "refrigerator",
+          "fridge"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "maintenance",
           "maintenance"
         ]
       }
@@ -352,14 +361,281 @@
     ],
     "matched_videos": [
       {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
+        "video_id": "MPGIHx_xy_M",
+        "title": "Is This The Best Dishwasher of 2025?? This Dishwasher is the Best Bang for Your Buck!",
         "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 59.55,
+        "description_snippet": "What's the Best Dishwasher to Buy in 2025? We've scoured through hundreds of reviews from four of the top dishwasher retailers, and the Bosch 500 Series Dishwasher is the best bang for your...",
+        "relevance_score": 60.33,
         "scoring_breakdown": {
-          "semantic_score": 13.21,
-          "keyword_score": 28,
+          "semantic_score": 28.85,
+          "keyword_score": 16,
+          "intent_score": 10.0,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:bosch",
+            "tfidf:dishwasher",
+            "product:bosch",
+            "product:washer"
+          ],
+          "intent_matches": [
+            "buying_advice:10.0↔5.0"
+          ]
+        }
+      },
+      {
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 49.49,
+        "scoring_breakdown": {
+          "semantic_score": 16.67,
+          "keyword_score": 19,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:dishwasher",
+            "brand:model",
+            "product:washer",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "pJ79elPz2zM",
+        "title": "WASHER REPAIR: Lid Switch Schematics | FIX.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Your schematic is the best way to determine which type of lid switch or lid lock you have in your Washer, regardless of whether it's a top-load or front-load model. In this video we'll show...",
+        "relevance_score": 38.15,
+        "scoring_breakdown": {
+          "semantic_score": 11.28,
+          "keyword_score": 17,
+          "intent_score": 6.4,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:dishwasher(75.0)",
+            "brand:model",
+            "product:washer",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "buying_advice:10.0↔2.0",
+            "troubleshooting:3.5999999999999996↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "EnuHMTMhjxE",
+        "title": "How to install a pump rebuild kit on a Ridgid Tri-Stack air compressor model OF50150TS",
+        "channel": "fixtechguides",
+        "description_snippet": "If leaking seals and service bills are compressing your expenses, it's time to face the fix. This tutorial will show you how to quickly install a pump rebuild kit on your Ridgid Tri-Stack air...",
+        "relevance_score": 37.24,
+        "scoring_breakdown": {
+          "semantic_score": 3.65,
+          "keyword_score": 21,
+          "intent_score": 4.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:compressor",
+            "tfidf:service",
+            "brand:model",
+            "entity:model"
+          ],
+          "intent_matches": [
+            "troubleshooting:3.5999999999999996↔1.2",
+            "maintenance:3.2↔0.8"
+          ]
+        }
+      },
+      {
+        "video_id": "hpX_qWYBeME",
+        "title": "Dryer Troubleshooting: How to Disassemble a Front Control Samsung Dryer | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "We've already showed you how to disassemble two Whirlpool Dryer models, and this week, we're going to take you through a Front-Control Samsung Dryer disassembly! We'll show you how to gain...",
+        "relevance_score": 46.0,
+        "scoring_breakdown": {
+          "semantic_score": 15.39,
+          "keyword_score": 20,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:thing(80.0)",
+            "brand:samsung",
+            "brand:model",
+            "entity:samsung"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 46,
+    "avg_engagement": 73.58695652173913,
+    "avg_relevance": 23.850434782608684,
+    "total_comments": 1482,
+    "demand_strength": 80733.7217391304,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "Best Dishwasher UNDER $800 (Max ~$1000 w/ Install & Delivery)",
+        "selftext": "My 11 year old Frigidaire took a crap, and now I am in the market for a new dishwasher. I do not plan to stay in my current house for more than another 5 years, for this was my starter home, and I am tired of not having a yard / having my walls shared with neighbors.\n\nHowever, every post I keep coming across repeats the same suggestions - Miele & Bosch. Miele & Bosch. Miele & Bosch.\n\nUnfortunately, neither of these brands makes a dishwasher within my price range (minus the Bosch 100 series, which everyone seems to warn against).\n\nI know to stay away from Samsung, Frigidaire, and LG, but every other recommendation comes with such mix reviews.\n\nI was looking at the Whirlpool **WDTA50SAKZ**, and thought I had made a good choice, but now I am second guessing myself.\n\nEdit: I ended up not going with a Bosch, for several reasons. \n\n1. All of the reviews seemed to make notes of the lack of drying features in the 100 - 500 series. I don’t want to have to dry my dishes by hand. I’m an attorney ",
+        "score": 13,
+        "num_comments": 85,
+        "created_utc": 1774384730.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "relevance_score": 73.8,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "New \"medium\" saw.",
+        "selftext": "new to the forum but not new to chainsaws.\n\nI am a homeowner, I don't have much property or many trees, but I do have a wife that likes to burn in the fire pit outside.  \n\nI currently own a Stihl MS290, 20\" bar chisel chain & ported muffler, an Echo cs271t, 12\" bar ported muffler, will probably have a 10\" bar soon, and a Pole saw attachment for my Troy Bilt weed eater. The pole saw and the Echo work great for trimming the trees around the house and in my small orchard.  \n\nI've had the MS290 Farm Boss for 20 years. I'll probably have it until it dies, at which point it will likely recieve an MS390 big bore kit. I am, however,  getting older. A motorcycle accident and a diagnosis of a rare type of arthritis isn't helping my back or my hands much, and those 2 or 3 days a year that I go cut a load of wood make for a rough time wielding the MS290 all day.\n\nI think I need an in-between saw, and why not ask Reddit. Probably an 18\" bar, although not opposed to a 16\". I want light weight, high ",
+        "score": 6,
+        "num_comments": 48,
+        "created_utc": 1774273198.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1s1h5t9/new_medium_saw/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1s1h5t9/new_medium_saw/",
+        "relevance_score": 56.16,
+        "matched_brands": [
+          "stihl",
+          "echo",
+          "poulan",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "weed eater",
+          "pole saw"
+        ],
+        "matched_keywords": [
+          "professional grade"
+        ],
+        "detected_intents": [
+          "learning_intent"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "So this happened…now looking for a new washer and dryer set.",
+        "selftext": "Bought a Samsung washer and dryer set 11 years ago, and aside from a couple small repairs i did on the dryer, they have been reliable.  One day before leaving on vacation, my wife may or may not have overloaded the washer with sheets and towels…drum liner pulled loose, sheets got tangled and the motor started burning (glad we were home and another reminder not to run a load and leave!).  I have done a fair bit of research, read reviews on suppliers sites, read many Reddit posts, checked YouTube, etc., and like many others I have found that I have no idea what to get.  I’m looking for a mid priced set, focus on cleaning, general ease of use, and hopefully reliability.  I have learned that we got lucky getting 11 years out of our Samsung and it may not be the best brand to buy again.  Couple notes to help hopefully steer us in the right direction with recommendations:\n\nWe are on well water so water efficiency less important, though while our water is treated (iron remover, filters, softe",
+        "score": 103,
+        "num_comments": 132,
+        "created_utc": 1774562874.0,
+        "url": "https://i.redd.it/rlwsymfiqgrg1.jpeg",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s4ligk/so_this_happenednow_looking_for_a_new_washer_and/",
+        "relevance_score": 52.199999999999996,
+        "matched_brands": [
+          "ge",
+          "samsung",
+          "lg",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent",
+          "maintenance",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "MPGIHx_xy_M",
+        "title": "Is This The Best Dishwasher of 2025?? This Dishwasher is the Best Bang for Your Buck!",
+        "channel": "partselect",
+        "description_snippet": "What's the Best Dishwasher to Buy in 2025? We've scoured through hundreds of reviews from four of the top dishwasher retailers, and the Bosch 500 Series Dishwasher is the best bang for your...",
+        "relevance_score": 66.1,
+        "scoring_breakdown": {
+          "semantic_score": 29.09,
+          "keyword_score": 21,
+          "intent_score": 10.0,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:bosch",
+            "tfidf:washer",
+            "tfidf:dishwasher",
+            "product:bosch",
+            "product:washer"
+          ],
+          "intent_matches": [
+            "buying_advice:8.0↔5.0"
+          ]
+        }
+      },
+      {
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 64.83,
+        "scoring_breakdown": {
+          "semantic_score": 16.27,
+          "keyword_score": 29,
           "intent_score": 4.6,
           "content_boost": 1.3,
           "content_type": "tutorial"
@@ -367,183 +643,129 @@
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "fuzzy_tfidf:just(75.0)",
-            "fuzzy_tfidf:suction(85.71428571428572)",
+            "tfidf:set",
             "tfidf:washer",
-            "fuzzy_tfidf:clean(80.0)"
+            "tfidf:dishwasher",
+            "brand:model"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2",
-            "how_to_guide:1.1↔3.3000000000000003"
+            "troubleshooting:1.2↔1.2",
+            "how_to_guide:2.2↔1.1"
           ]
         }
       },
       {
-        "video_id": "obhThOwXciI",
-        "title": "How to Sharpen Lawn Mower Blades | PartSelect.com",
+        "video_id": "Vxo3BEDyB9g",
+        "title": "How to Replace the Power Switch on a Skil or Bosch Worm Drive Saw",
+        "channel": "fixtechguides",
+        "description_snippet": "In this video, Mark explains how to replace the switch on a Skil or Bosch Worm Drive Saw. On older saw models, the switch's wiring has changed, making it necessary for you to identify the correct...",
+        "relevance_score": 50.77,
+        "scoring_breakdown": {
+          "semantic_score": 7.65,
+          "keyword_score": 27,
+          "intent_score": 4.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:bosch",
+            "tfidf:saw",
+            "brand:model",
+            "product:saw"
+          ],
+          "intent_matches": [
+            "how_to_guide:2.2↔2.2"
+          ]
+        }
+      },
+      {
+        "video_id": "V5EblqpxfXw",
+        "title": "Tool Tear Down: Jig Saw Comparison | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "When it comes time to replace or repair your jigsaw, it's handy to know what newer models might be offering that your old one did not. Also, if you're looking to pick up a new to you jigsaw,...",
+        "relevance_score": 46.65,
+        "scoring_breakdown": {
+          "semantic_score": 13.45,
+          "keyword_score": 29,
+          "intent_score": 4.2,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:saw",
+            "tfidf:new",
+            "tfidf:looking",
+            "brand:model"
+          ],
+          "intent_matches": [
+            "buying_advice:8.0↔1.0",
+            "how_to_guide:2.2↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "trixDyyuemg",
+        "title": "Ultimate Guide to Choosing the Right Washer",
         "channel": "partselect",
-        "description_snippet": "Keeping your lawn mower's blades sharp is one of the best ways to ensure that your lawn looks its best. Dull blades don't cut grass properly, which will leave your lawn uneven, and possibly...",
-        "relevance_score": 56.52,
+        "description_snippet": "If you're looking for a new washer, you might be wondering \"how to I find out what is the best washer?\". Well, there are a number of factors you should consider, from washer capacity, to load...",
+        "relevance_score": 63.95,
         "scoring_breakdown": {
-          "semantic_score": 19.28,
-          "keyword_score": 16,
-          "intent_score": 8.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:don",
-            "fuzzy_tfidf:need(75.0)",
-            "tfidf:cu",
-            "product:mower"
-          ],
-          "intent_matches": [
-            "buying_advice:7.0↔3.0",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "WupKJTKN6so",
-        "title": "How to Replace the Air Filter on a Makita Cut Off Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "FILTER OUT UNNECESSARY COSTS: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. This article will show you how to quickly remove, inspect...",
-        "relevance_score": 55.66,
-        "scoring_breakdown": {
-          "semantic_score": 16.62,
-          "keyword_score": 24,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:don",
-            "fuzzy_tfidf:need(75.0)",
-            "tfidf:saw",
-            "tfidf:cu",
-            "product:makita"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔2.2"
-          ]
-        }
-      },
-      {
-        "video_id": "7J-9cxjKASY",
-        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
-        "relevance_score": 55.03,
-        "scoring_breakdown": {
-          "semantic_score": 14.13,
-          "keyword_score": 26,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:need",
-            "tfidf:saw",
-            "tfidf:ft",
-            "tfidf:cu",
-            "product:makita"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔2.2"
-          ]
-        }
-      },
-      {
-        "video_id": "T11KkkFspos",
-        "title": "How to Replace a Vacuum Belt",
-        "channel": "fixtechguides",
-        "description_snippet": "Simple vacuum repairs like this one can be done right at home. Watch our vacuum belt replacement demonstration to learn these money-saving repair steps!\n\nGet vacuum belts and other vacuum replaceme...",
-        "relevance_score": 53.65,
-        "scoring_breakdown": {
-          "semantic_score": 19.27,
+          "semantic_score": 20.79,
           "keyword_score": 18,
-          "intent_score": 4.0,
+          "intent_score": 10.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:like",
-            "tfidf:don",
-            "fuzzy_tfidf:clean(80.0)",
-            "tfidf:cu"
+            "tfidf:washer",
+            "tfidf:new",
+            "tfidf:looking",
+            "product:washer"
           ],
           "intent_matches": [
-            "how_to_guide:1.1↔3.3000000000000003",
-            "comparison:1.8↔0.9"
+            "buying_advice:8.0↔3.0",
+            "how_to_guide:2.2↔2.2"
           ]
         }
       }
     ]
   },
   {
-    "theme": "repair_help",
-    "post_count": 47,
-    "avg_engagement": 120.8936170212766,
-    "avg_relevance": 21.418723404255317,
-    "total_comments": 2447,
-    "demand_strength": 121701.18638297872,
+    "theme": "major_appliances",
+    "post_count": 69,
+    "avg_engagement": 53.55072463768116,
+    "avg_relevance": 21.24898550724636,
+    "total_comments": 2683,
+    "demand_strength": 78515.0014492753,
     "sample_posts": [
       {
-        "subreddit": "Makita",
-        "title": "This is how to fix issues with Lawn mower DLM330",
-        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn’t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it’s like a brand new machine now.\n\nPS: If yo",
-        "score": 5,
-        "num_comments": 1,
-        "created_utc": 1773846678.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "relevance_score": 57.71999999999999,
+        "subreddit": "appliances",
+        "title": "Best Dishwasher UNDER $800 (Max ~$1000 w/ Install & Delivery)",
+        "selftext": "My 11 year old Frigidaire took a crap, and now I am in the market for a new dishwasher. I do not plan to stay in my current house for more than another 5 years, for this was my starter home, and I am tired of not having a yard / having my walls shared with neighbors.\n\nHowever, every post I keep coming across repeats the same suggestions - Miele & Bosch. Miele & Bosch. Miele & Bosch.\n\nUnfortunately, neither of these brands makes a dishwasher within my price range (minus the Bosch 100 series, which everyone seems to warn against).\n\nI know to stay away from Samsung, Frigidaire, and LG, but every other recommendation comes with such mix reviews.\n\nI was looking at the Whirlpool **WDTA50SAKZ**, and thought I had made a good choice, but now I am second guessing myself.\n\nEdit: I ended up not going with a Bosch, for several reasons. \n\n1. All of the reviews seemed to make notes of the lack of drying features in the 100 - 500 series. I don’t want to have to dry my dishes by hand. I’m an attorney ",
+        "score": 13,
+        "num_comments": 85,
+        "created_utc": 1774384730.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "relevance_score": 73.8,
         "matched_brands": [
-          "makita",
-          "makita",
-          "ge"
+          "bosch",
+          "whirlpool",
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire",
+          "bosch",
+          "miele"
         ],
         "matched_products": [
-          "pressure washer",
-          "lawn mower",
-          "angle grinder",
-          "washer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "maintenance",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Dewalt",
-        "title": "Looking for some recommendations for replacements of my corded tools",
-        "selftext": "I'm a homeowner that prefers to do all my own work, be it maintenance or remodeling. I've built a shed, paver patio with natural stone seatwall, do all my own auto repairs, and am undertaking a deck teardown and screen porch build in a few months. I have a bunch of corded tools that have served me well over the years, but they are incredibly heavy and obviously cumbersome. Looking for some opinions on what I should replace the following with:\n\n* DW364 7 1/4\" Circular saw\n* DW311 Reciprocating saw\n* DW331 Jigsaw\n* D28402 4 1/2\" angle grinder\n* Rockwell Sonicrafter oscillating tool\n\nI'd like to prioritize weight and power over price.\n\nI already have a DCD806, DCF850, DCF923, DCF891, 10\" table saw, and 12\" sliding miter saw. \n\nThanks in advance.",
-        "score": 9,
-        "num_comments": 8,
-        "created_utc": 1773597725.0,
-        "url": "https://www.reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
-        "permalink": "https://reddit.com/r/Dewalt/comments/1ruky4s/looking_for_some_recommendations_for_replacements/",
-        "relevance_score": 49.199999999999996,
-        "matched_brands": [],
-        "matched_products": [
-          "circular saw",
-          "miter saw",
-          "table saw",
-          "jigsaw",
-          "reciprocating saw",
-          "angle grinder",
-          "oscillating tool"
+          "washer",
+          "dishwasher"
         ],
         "matched_keywords": [],
         "detected_intents": [
@@ -551,27 +773,28 @@
           "buying_intent",
           "buying_intent",
           "troubleshooting",
-          "maintenance"
+          "learning_intent"
         ]
       },
       {
         "subreddit": "appliances",
-        "title": "All Washer Brands Seem to Get Hate - Help Me Decide!",
-        "selftext": "I need to buy a new washer and dryer ASAP, but the reviews have turned me into an indecisive lump who is ready to stop wearing clothes altogether just to avoid the purchase. We currently have a Whirlpool top load washer (5.3 cu. ft.) and electric dryer (8.8 cu. ft.) that are failing after 8.5 years. I don't need something that will last a lifetime, just something to clean our clothes for at least the next 5 years with minimal repairs. My wants in order of importance:\n\n1. No/minimal mold - I'm open to a top or front loader and willing to leave door open/clean occasionally, just don't want mold issues.\n2. Quiet - My husband would like something quiet, so I would like to accommodate his one request.\n3. Large capacity - I've been washing a king comforter, sheets, and mattress pad all in one load for the past 12 years and would like to keep doing so. Most Dryers seem to be under 8 cu. ft. now, which is fine.\n4. Decent design - Definitely prefer something sleek and modern but will take funct",
-        "score": 5,
-        "num_comments": 31,
-        "created_utc": 1773754388.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
-        "relevance_score": 43.199999999999996,
+        "title": "Need a new Washing Machine, Speed Queens are too expensive and small. (US, $800 budget)",
+        "selftext": "I know everyone is going to say Speed Queen first thing, but that's really not viable for me. They cost 2-3 times the other models I am looking at, while having a much smaller capacity. I could barely fit my blanket in my current washer, and it is much bigger.  \n \nAnyway I have a LG WT7100CW, it's an impeller washer with a 4.5Cu capacity, and the start button no longer responds. The power button and every other button and knob works, but the button to actually START a wash is not responding at all anymore (I hate capacitive buttons on appliances). Trying to look up replacement parts, nearly every part is $300, half of what we paid for the entire thing back in 2020, LG also wants $300 just to look at it. Trying to Google and YouTube information on trying to fix it was fruitless, and pretty much every test or service mode on the stupid thing requires pressing... the start button.  \n \nSo we figured enough is enough, we're going to replace it with a new one. We live in the US and max we ar",
+        "score": 12,
+        "num_comments": 47,
+        "created_utc": 1774334315.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "relevance_score": 66.11999999999999,
         "matched_brands": [
           "whirlpool",
           "ge",
+          "lg",
           "speed queen"
         ],
         "matched_products": [
-          "washer",
-          "dryer"
+          "washing machine",
+          "washer"
         ],
         "matched_keywords": [
           "capacity",
@@ -580,7 +803,539 @@
         ],
         "detected_intents": [
           "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
           "troubleshooting",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Besides Bosch and Miele, who makes a good dishwasher?",
+        "selftext": "I know Bosch and Miele are the reddit go-to answers, along with avoiding Samsung and LG.   What's the word on GE, Maytag, whirlpool, Frigidaire,armana, sharp, etc?",
+        "score": 32,
+        "num_comments": 139,
+        "created_utc": 1774479620.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s3qcpb/besides_bosch_and_miele_who_makes_a_good/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s3qcpb/besides_bosch_and_miele_who_makes_a_good/",
+        "relevance_score": 63.599999999999994,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire",
+          "maytag",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": []
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "MPGIHx_xy_M",
+        "title": "Is This The Best Dishwasher of 2025?? This Dishwasher is the Best Bang for Your Buck!",
+        "channel": "partselect",
+        "description_snippet": "What's the Best Dishwasher to Buy in 2025? We've scoured through hundreds of reviews from four of the top dishwasher retailers, and the Bosch 500 Series Dishwasher is the best bang for your...",
+        "relevance_score": 60.33,
+        "scoring_breakdown": {
+          "semantic_score": 28.85,
+          "keyword_score": 16,
+          "intent_score": 10.0,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:bosch",
+            "tfidf:dishwasher",
+            "product:bosch",
+            "product:washer"
+          ],
+          "intent_matches": [
+            "buying_advice:8.0↔5.0"
+          ]
+        }
+      },
+      {
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 57.29,
+        "scoring_breakdown": {
+          "semantic_score": 16.67,
+          "keyword_score": 25,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:dishwasher",
+            "brand:ge",
+            "brand:model",
+            "product:washer"
+          ],
+          "intent_matches": [
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "2d46qh8cH9g",
+        "title": "5 Essential Power Tools Every DIYer Should Have | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Power Tools can certainly make life easier in the workshop. But if you're new to the game, you may be wondering what tools you'll need to get things started. In this video, we'll cover 5 tools...",
+        "relevance_score": 39.99,
+        "scoring_breakdown": {
+          "semantic_score": 9.76,
+          "keyword_score": 19,
+          "intent_score": 2.0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:makes(80.0)",
+            "tfidf:start",
+            "tfidf:thing",
+            "brand:ge",
+            "entity:ge"
+          ],
+          "intent_matches": [
+            "buying_advice:8.0↔1.0"
+          ]
+        }
+      },
+      {
+        "video_id": "JlgBi8eqY3k",
+        "title": "How Do You Make Sure Your Trimmer Works its Best? Use Our Troy-Bilt Trimmer Maintenance Checklist! 📝",
+        "channel": "fixtechguides",
+        "description_snippet": "When it comes time to get your string trimmer out of the shed and tackle some edging or trimming work, don't you want to know that it's going to start up quickly and easily and work efficiently?...",
+        "relevance_score": 39.4,
+        "scoring_breakdown": {
+          "semantic_score": 10.22,
+          "keyword_score": 22,
+          "intent_score": 3.6,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:makes(80.0)",
+            "tfidf:know",
+            "tfidf:start",
+            "fuzzy_tfidf:thing(80.0)",
+            "brand:ge"
+          ],
+          "intent_matches": [
+            "buying_advice:8.0↔1.0",
+            "maintenance:0.8↔0.8"
+          ]
+        }
+      },
+      {
+        "video_id": "bH011QopDK8",
+        "title": "Washer Troubleshooting: How to Disassemble A Whirlpool Top Load Washer | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're just getting started with at-home appliance repairs, it's a good idea to learn the basics of how to take your machines apart. Once you're able to do this, you'll be able to access...",
+        "relevance_score": 55.21,
+        "scoring_breakdown": {
+          "semantic_score": 17.47,
+          "keyword_score": 25,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "fuzzy_tfidf:dishwasher(75.0)",
+            "tfidf:good",
+            "tfidf:start",
+            "fuzzy_tfidf:thing(80.0)",
+            "brand:ge"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 29,
+    "avg_engagement": 67.89655172413794,
+    "avg_relevance": 26.482344827586203,
+    "total_comments": 777,
+    "demand_strength": 52143.736965517244,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "Need a new Washing Machine, Speed Queens are too expensive and small. (US, $800 budget)",
+        "selftext": "I know everyone is going to say Speed Queen first thing, but that's really not viable for me. They cost 2-3 times the other models I am looking at, while having a much smaller capacity. I could barely fit my blanket in my current washer, and it is much bigger.  \n \nAnyway I have a LG WT7100CW, it's an impeller washer with a 4.5Cu capacity, and the start button no longer responds. The power button and every other button and knob works, but the button to actually START a wash is not responding at all anymore (I hate capacitive buttons on appliances). Trying to look up replacement parts, nearly every part is $300, half of what we paid for the entire thing back in 2020, LG also wants $300 just to look at it. Trying to Google and YouTube information on trying to fix it was fruitless, and pretty much every test or service mode on the stupid thing requires pressing... the start button.  \n \nSo we figured enough is enough, we're going to replace it with a new one. We live in the US and max we ar",
+        "score": 12,
+        "num_comments": 47,
+        "created_utc": 1774334315.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "relevance_score": 66.11999999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "lg",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "capacity",
+          "front load",
+          "top load"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Talk to me about rotary hammers...",
+        "selftext": "I'm considering a rotary hammer purchase. I'm a lowly home DIY user. However, I live in a region where timber-frame buildings are overwhelmingly the norm. I've only ever had to drill into masonry once, and I then found out there was trick I wasn't aware of that avoided the need to do so entirely.\n\nMy immediate usage will be chipping up \\~55 sq ft of 12\\*12 floor tile, and then it will see recurring use to break up extremely heavy clay/rocky soil. Do I actually want a demolition hammer and not a rotary hammer? Makita's demolition hammers are all SDS-MAX, with a price tag to match. I find it hard to believe I need such a beast for my use and, honestly, if I do, it will likely be better for me to rent. \n\n  \nWill an SDS+ hammer do what I need? Doesn't have to be the fastest since I'm not doing this professionally...\n\nI'm not currently on the XGT platform, but maybe this and a leaf blower is what gets me to take the leap... Also fine to stay with 36V, or even 18V if the only trade-off is re",
+        "score": 5,
+        "num_comments": 9,
+        "created_utc": 1774285578.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1s1msc2/talk_to_me_about_rotary_hammers/",
+        "permalink": "https://reddit.com/r/Makita/comments/1s1msc2/talk_to_me_about_rotary_hammers/",
+        "relevance_score": 59.74799999999999,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "leaf blower",
+          "drill",
+          "rotary hammer",
+          "multitool"
+        ],
+        "matched_keywords": [
+          "battery",
+          "trade"
+        ],
+        "detected_intents": [
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Purchasing Advice",
+        "selftext": "My husband and I just bought our first home. We're working on fixing the inside first, so we have a few months before we start buying new appliances. I wanted to do some research in that time. \n\nI've heard stories of people who spend thousands on a new fridge just to have it display ads while they're getting water. My sister just bought a new washer and dryer that she can start from an app on her phone. And all I can think of, is how are these machines gonna function when one of the hundreds of electrical features malfunctions? \n\nI want something simple. Something that's not gonna break right away. Something that we can buy spare parts for. I don't need something old necessarily, I just need a decent product. \n\nWe're buying a range stove, dishwasher, microwave, refrigerator, and a washer and dryer. Does anyone know what brands are reputable? Or a certain type of machine that functions better than fancier versions? ",
+        "score": 7,
+        "num_comments": 14,
+        "created_utc": 1774221095.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s10e7h/purchasing_advice/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s10e7h/purchasing_advice/",
+        "relevance_score": 47.76,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer",
+          "refrigerator",
+          "fridge",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "pJW2otpKhXk",
+        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
+        "relevance_score": 54.93,
+        "scoring_breakdown": {
+          "semantic_score": 15.85,
+          "keyword_score": 24,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "tfidf:need",
+            "tfidf:washer",
+            "brand:model",
+            "product:washer"
+          ],
+          "intent_matches": [
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "Kjw3rEx1bAI",
+        "title": "Makita Rotary Hammer Repair - Replacing the Guide Washer (Makita Part # 345187-4)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Guide Washer for your Rotary Hammer? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances....",
+        "relevance_score": 54.45,
+        "scoring_breakdown": {
+          "semantic_score": 20.85,
+          "keyword_score": 30,
+          "intent_score": 3.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:hammer",
+            "tfidf:need",
+            "fuzzy_tfidf:start(80.0)",
+            "tfidf:washer",
+            "tfidf:rotary"
+          ],
+          "intent_matches": [
+            "comparison:2.7↔1.8"
+          ]
+        }
+      },
+      {
+        "video_id": "NY6M2PvoBuY",
+        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
+        "channel": "partselect",
+        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
+        "relevance_score": 52.35,
+        "scoring_breakdown": {
+          "semantic_score": 15.87,
+          "keyword_score": 22,
+          "intent_score": 2.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:model",
+            "fuzzy_tfidf:just(75.0)",
+            "tfidf:washer",
+            "brand:model",
+            "product:washer"
+          ],
+          "intent_matches": [
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "a86U9jRh1ig",
+        "title": "Makita Rotary Hammer Repair - Replacing the Ring (Makita Part # 257241-1)",
+        "channel": "fixtechguides",
+        "description_snippet": "Do you need a replacement Ring for your Rotary Hammer? eReplacementParts.com has thousands of replacement parts for a variety of Power Tools, Outdoor Power Equipment, and Appliances. To purchase...",
+        "relevance_score": 50.23,
+        "scoring_breakdown": {
+          "semantic_score": 15.63,
+          "keyword_score": 29,
+          "intent_score": 5.6,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:hammer",
+            "tfidf:need",
+            "fuzzy_tfidf:start(80.0)",
+            "tfidf:rotary",
+            "fuzzy_tfidf:trying(83.33333333333334)"
+          ],
+          "intent_matches": [
+            "buying_advice:9.0↔1.0",
+            "comparison:2.7↔1.8"
+          ]
+        }
+      },
+      {
+        "video_id": "bH011QopDK8",
+        "title": "Washer Troubleshooting: How to Disassemble A Whirlpool Top Load Washer | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're just getting started with at-home appliance repairs, it's a good idea to learn the basics of how to take your machines apart. Once you're able to do this, you'll be able to access...",
+        "relevance_score": 51.01,
+        "scoring_breakdown": {
+          "semantic_score": 18.24,
+          "keyword_score": 21,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:just",
+            "tfidf:start",
+            "tfidf:washer",
+            "fuzzy_tfidf:thing(80.0)",
+            "product:washer"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 42,
+    "avg_engagement": 42.30952380952381,
+    "avg_relevance": 25.59571428571428,
+    "total_comments": 1404,
+    "demand_strength": 45483.58428571428,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "Best Dishwasher UNDER $800 (Max ~$1000 w/ Install & Delivery)",
+        "selftext": "My 11 year old Frigidaire took a crap, and now I am in the market for a new dishwasher. I do not plan to stay in my current house for more than another 5 years, for this was my starter home, and I am tired of not having a yard / having my walls shared with neighbors.\n\nHowever, every post I keep coming across repeats the same suggestions - Miele & Bosch. Miele & Bosch. Miele & Bosch.\n\nUnfortunately, neither of these brands makes a dishwasher within my price range (minus the Bosch 100 series, which everyone seems to warn against).\n\nI know to stay away from Samsung, Frigidaire, and LG, but every other recommendation comes with such mix reviews.\n\nI was looking at the Whirlpool **WDTA50SAKZ**, and thought I had made a good choice, but now I am second guessing myself.\n\nEdit: I ended up not going with a Bosch, for several reasons. \n\n1. All of the reviews seemed to make notes of the lack of drying features in the 100 - 500 series. I don’t want to have to dry my dishes by hand. I’m an attorney ",
+        "score": 13,
+        "num_comments": 85,
+        "created_utc": 1774384730.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s2ppti/best_dishwasher_under_800_max_1000_w_install/",
+        "relevance_score": 73.8,
+        "matched_brands": [
+          "bosch",
+          "whirlpool",
+          "ge",
+          "samsung",
+          "lg",
+          "frigidaire",
+          "bosch",
+          "miele"
+        ],
+        "matched_products": [
+          "washer",
+          "dishwasher"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "learning_intent"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Need a new Washing Machine, Speed Queens are too expensive and small. (US, $800 budget)",
+        "selftext": "I know everyone is going to say Speed Queen first thing, but that's really not viable for me. They cost 2-3 times the other models I am looking at, while having a much smaller capacity. I could barely fit my blanket in my current washer, and it is much bigger.  \n \nAnyway I have a LG WT7100CW, it's an impeller washer with a 4.5Cu capacity, and the start button no longer responds. The power button and every other button and knob works, but the button to actually START a wash is not responding at all anymore (I hate capacitive buttons on appliances). Trying to look up replacement parts, nearly every part is $300, half of what we paid for the entire thing back in 2020, LG also wants $300 just to look at it. Trying to Google and YouTube information on trying to fix it was fruitless, and pretty much every test or service mode on the stupid thing requires pressing... the start button.  \n \nSo we figured enough is enough, we're going to replace it with a new one. We live in the US and max we ar",
+        "score": 12,
+        "num_comments": 47,
+        "created_utc": 1774334315.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s26aov/need_a_new_washing_machine_speed_queens_are_too/",
+        "relevance_score": 66.11999999999999,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "lg",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer"
+        ],
+        "matched_keywords": [
+          "capacity",
+          "front load",
+          "top load"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "comparison",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "LG Canada Refrigerator Compressor Warranty Experience",
+        "selftext": "I recently had a fridge stop cooling and information was fairly scattered, so I thought I’d share here for others.  For context this happened in March 2026 in the Greater Toronto Area.\n\n**Issue**:  Fridge abruptly stopped cooling in under 6 years, which based on research is likely a failure of the linear compressor.\n\n**Troubleshooting**: Ran smart diagnostics on the app, cleaned the coils, and ran tests from the board.  No errors shown, which is apparently common with a compressor failure.\n\n**Warranty Summary:**  1 year full coverage, 7 years sealed system parts only (basically the cooling system), 10 years compressor parts only\n\n**Flat Rate Repair:**  $500+tax through LG.  This theoretically will get the fridge fixed with no additional surprise fees.  I filled in the form, got a list of available service providers, googled reviews to pick the best one, then scheduled for 2 days away.\n\n**Service Scheduling:**  Got a call from the service company the morning after submitting the form, a",
+        "score": 10,
+        "num_comments": 12,
+        "created_utc": 1774290188.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1s1p0ef/lg_canada_refrigerator_compressor_warranty/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1s1p0ef/lg_canada_refrigerator_compressor_warranty/",
+        "relevance_score": 52.8,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "lg",
+          "bosch"
+        ],
+        "matched_products": [
+          "refrigerator",
+          "fridge"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "maintenance",
           "maintenance"
         ]
       }
@@ -599,1182 +1354,231 @@
     ],
     "matched_videos": [
       {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
+        "video_id": "MPGIHx_xy_M",
+        "title": "Is This The Best Dishwasher of 2025?? This Dishwasher is the Best Bang for Your Buck!",
         "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 59.55,
+        "description_snippet": "What's the Best Dishwasher to Buy in 2025? We've scoured through hundreds of reviews from four of the top dishwasher retailers, and the Bosch 500 Series Dishwasher is the best bang for your...",
+        "relevance_score": 60.33,
         "scoring_breakdown": {
-          "semantic_score": 13.21,
-          "keyword_score": 28,
-          "intent_score": 4.6,
+          "semantic_score": 28.85,
+          "keyword_score": 16,
+          "intent_score": 10.0,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:bosch",
+            "tfidf:dishwasher",
+            "product:bosch",
+            "product:washer"
+          ],
+          "intent_matches": [
+            "buying_advice:10.0↔5.0"
+          ]
+        }
+      },
+      {
+        "video_id": "tWQcdT8b9Bo",
+        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
+        "channel": "partselect",
+        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
+        "relevance_score": 49.49,
+        "scoring_breakdown": {
+          "semantic_score": 16.67,
+          "keyword_score": 19,
+          "intent_score": 2.4,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "fuzzy_tfidf:just(75.0)",
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "tfidf:washer",
-            "fuzzy_tfidf:clean(80.0)"
+            "tfidf:dishwasher",
+            "brand:model",
+            "product:washer",
+            "entity:model"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2",
-            "how_to_guide:1.1↔3.3000000000000003"
+            "troubleshooting:3.5999999999999996↔1.2"
           ]
         }
       },
       {
-        "video_id": "obhThOwXciI",
-        "title": "How to Sharpen Lawn Mower Blades | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "Keeping your lawn mower's blades sharp is one of the best ways to ensure that your lawn looks its best. Dull blades don't cut grass properly, which will leave your lawn uneven, and possibly...",
-        "relevance_score": 56.52,
+        "video_id": "pJ79elPz2zM",
+        "title": "WASHER REPAIR: Lid Switch Schematics | FIX.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Your schematic is the best way to determine which type of lid switch or lid lock you have in your Washer, regardless of whether it's a top-load or front-load model. In this video we'll show...",
+        "relevance_score": 38.15,
         "scoring_breakdown": {
-          "semantic_score": 19.28,
-          "keyword_score": 16,
-          "intent_score": 8.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
+          "semantic_score": 11.28,
+          "keyword_score": 17,
+          "intent_score": 6.4,
+          "content_boost": 1.1,
+          "content_type": "comparison"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:don",
-            "fuzzy_tfidf:need(75.0)",
-            "tfidf:cu",
-            "product:mower"
+            "tfidf:model",
+            "fuzzy_tfidf:dishwasher(75.0)",
+            "brand:model",
+            "product:washer",
+            "entity:model"
           ],
           "intent_matches": [
-            "buying_advice:7.0↔3.0",
-            "how_to_guide:1.1↔1.1"
+            "buying_advice:10.0↔2.0",
+            "troubleshooting:3.5999999999999996↔1.2"
           ]
         }
       },
       {
-        "video_id": "WupKJTKN6so",
-        "title": "How to Replace the Air Filter on a Makita Cut Off Saw",
+        "video_id": "EnuHMTMhjxE",
+        "title": "How to install a pump rebuild kit on a Ridgid Tri-Stack air compressor model OF50150TS",
         "channel": "fixtechguides",
-        "description_snippet": "FILTER OUT UNNECESSARY COSTS: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. This article will show you how to quickly remove, inspect...",
-        "relevance_score": 55.66,
+        "description_snippet": "If leaking seals and service bills are compressing your expenses, it's time to face the fix. This tutorial will show you how to quickly install a pump rebuild kit on your Ridgid Tri-Stack air...",
+        "relevance_score": 37.24,
         "scoring_breakdown": {
-          "semantic_score": 16.62,
-          "keyword_score": 24,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:don",
-            "fuzzy_tfidf:need(75.0)",
-            "tfidf:saw",
-            "tfidf:cu",
-            "product:makita"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔2.2"
-          ]
-        }
-      },
-      {
-        "video_id": "7J-9cxjKASY",
-        "title": "How to Replace the Switch on a Makita 5277B Circular Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "This video tutorial will show you how simple it is to replace the switch on a Makita 5277B circular saw. Often times the switch will need to be replaced when your tool turns on intermittently,...",
-        "relevance_score": 55.03,
-        "scoring_breakdown": {
-          "semantic_score": 14.13,
-          "keyword_score": 26,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:need",
-            "tfidf:saw",
-            "tfidf:ft",
-            "tfidf:cu",
-            "product:makita"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔2.2"
-          ]
-        }
-      },
-      {
-        "video_id": "T11KkkFspos",
-        "title": "How to Replace a Vacuum Belt",
-        "channel": "fixtechguides",
-        "description_snippet": "Simple vacuum repairs like this one can be done right at home. Watch our vacuum belt replacement demonstration to learn these money-saving repair steps!\n\nGet vacuum belts and other vacuum replaceme...",
-        "relevance_score": 53.65,
-        "scoring_breakdown": {
-          "semantic_score": 19.27,
-          "keyword_score": 18,
+          "semantic_score": 3.65,
+          "keyword_score": 21,
           "intent_score": 4.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:like",
-            "tfidf:don",
-            "fuzzy_tfidf:clean(80.0)",
-            "tfidf:cu"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔3.3000000000000003",
-            "comparison:1.8↔0.9"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "how_to_guides",
-    "post_count": 54,
-    "avg_engagement": 92.92592592592592,
-    "avg_relevance": 20.35866666666666,
-    "total_comments": 3646,
-    "demand_strength": 102159.7893333333,
-    "sample_posts": [
-      {
-        "subreddit": "Makita",
-        "title": "This is how to fix issues with Lawn mower DLM330",
-        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn’t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it’s like a brand new machine now.\n\nPS: If yo",
-        "score": 5,
-        "num_comments": 1,
-        "created_utc": 1773846678.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "relevance_score": 57.71999999999999,
-        "matched_brands": [
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "pressure washer",
-          "lawn mower",
-          "angle grinder",
-          "washer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "maintenance",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Looking for a washing machine that isn't \"Smart\" or crippled by Energy Star requirements like my LG top loader",
-        "selftext": "As the title says. That's not to say I object to the Energy Star rating on principle - in fact I usually prefer it. But my LG washer doesn't allow the use of hot water thanks in large part to the \"Smart\" sensors and the Energy Star settings (at least according to their customer support). \n\nI need hot water straight from the tap for sanitizing towels, reducing allergens on bedding, and deep cleaning dirty teen boy socks. But this washer always adds cold water to the wash load, regardless of the setting. It ends up lukewarm at best, even on the \"heavy duty\" and \"hot water\" cycle. \n\nI'd also like a soak cycle, or at least the option to soak manually. This model automatically drains the tub after a few minutes if you try to stop the load and let it soak. But having an actual cycle would be ideal since I'm easily distracted, and chances are low that I'd consistently remember I have a load soaking that I need to convert to a wash cycle. \n\nSpeaking of sensors, I'm totally skeptical of claims ",
-        "score": 12,
-        "num_comments": 64,
-        "created_utc": 1773696477.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
-        "relevance_score": 39.959999999999994,
-        "matched_brands": [
-          "ge",
-          "lg"
-        ],
-        "matched_products": [
-          "washing machine",
-          "washer"
-        ],
-        "matched_keywords": [
-          "top load",
-          "heavy duty"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Makita 6ah battery bricked",
-        "selftext": "UK based\n\nApologies if this has been raised before as I’m new to the group \n\nI’ve been using the Makita 18v system for over 15 years now and have built up a collection of batteries from 3ah up to my most recent 6ah. \n\nNow during normal (impact driver) use my most recent 6ah battery ‘bricked’ ie double alternate flashing lights. \n\nThis is the first battery to ever let me down and is also my newest battery (just over 2 years old)\n\nIt was purchased from a reputable online dealer so I have no reason to suspect that it isn’t genuine. \n\nSo, a couple of questions!\n\nAre the newer 6ah batteries less reliable than the older 4ah, 5ah etc?\n\nAlso what do I replace it with? Do I go back to the 5ah and take the slight hit on the battery capacity or buy another 6ah?\n\nAny thoughts would be greatly appreciated ",
-        "score": 3,
-        "num_comments": 13,
-        "created_utc": 1773660612.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
-        "permalink": "https://reddit.com/r/Makita/comments/1rv6vvr/makita_6ah_battery_bricked/",
-        "relevance_score": 36.0,
-        "matched_brands": [
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "impact driver"
-        ],
-        "matched_keywords": [
-          "battery",
-          "ah",
-          "capacity"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "learning_intent"
-        ]
-      }
-    ],
-    "content_angle": "How To Guides Content",
-    "example_videos": [
-      "Custom content needed"
-    ],
-    "hashtags": [
-      "#how_to_guides"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 68.22,
-        "scoring_breakdown": {
-          "semantic_score": 15.68,
-          "keyword_score": 30,
-          "intent_score": 6.800000000000001,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
             "tfidf:model",
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "fuzzy_tfidf:just(75.0)",
-            "tfidf:wash",
-            "tfidf:washer"
+            "tfidf:compressor",
+            "tfidf:service",
+            "brand:model",
+            "entity:model"
           ],
           "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:2.2↔3.3000000000000003"
+            "troubleshooting:3.5999999999999996↔1.2",
+            "maintenance:3.2↔0.8"
           ]
         }
       },
       {
-        "video_id": "pJW2otpKhXk",
-        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
+        "video_id": "hpX_qWYBeME",
+        "title": "Dryer Troubleshooting: How to Disassemble a Front Control Samsung Dryer | PartSelect.com",
         "channel": "partselect",
-        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
-        "relevance_score": 64.28,
+        "description_snippet": "We've already showed you how to disassemble two Whirlpool Dryer models, and this week, we're going to take you through a Front-Control Samsung Dryer disassembly! We'll show you how to gain...",
+        "relevance_score": 46.0,
         "scoring_breakdown": {
-          "semantic_score": 15.85,
-          "keyword_score": 29,
-          "intent_score": 4.6,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:wash",
-            "tfidf:washer",
-            "tfidf:need",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:2.2↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "q2c2uUlP13s",
-        "title": "How to Fix a Pressure Washer (Part 2 of 2)",
-        "channel": "fixtechguides",
-        "description_snippet": "After diagnosing the pressure washer pump and replacing its unloader valve, Mark demonstrates how to reassemble and lubricate the pump with step by step instructions.\n\nGet replacement parts...",
-        "relevance_score": 57.76,
-        "scoring_breakdown": {
-          "semantic_score": 16.83,
-          "keyword_score": 19,
-          "intent_score": 8.600000000000001,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "fuzzy_tfidf:water(80.0)",
-            "tfidf:wash",
-            "tfidf:washer",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:2.2↔3.3000000000000003",
-            "comparison:0.9↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "YkFqrESU39g",
-        "title": "Gas Powered Leaf Blower or Battery Powered Leaf Blower? Which One Is Better? | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "We're back this week with another buyer's guide! We've taken you through Gas Powered vs Battery Powered Lawn Mowers (https://www.youtube.com/watch?v=FVhkavCI7h4) and Chainsaws (https://www.youtube....",
-        "relevance_score": 53.1,
-        "scoring_breakdown": {
-          "semantic_score": 14.84,
+          "semantic_score": 15.39,
           "keyword_score": 20,
-          "intent_score": 6.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:water(80.0)",
-            "tfidf:battery",
-            "fuzzy_tfidf:wash(75.0)",
-            "fuzzy_tfidf:need(75.0)",
-            "fuzzy_tfidf:years(80.0)"
-          ],
-          "intent_matches": [
-            "buying_advice:3.0↔1.0",
-            "how_to_guide:2.2↔1.1",
-            "comparison:0.9↔1.8"
-          ]
-        }
-      },
-      {
-        "video_id": "tWQcdT8b9Bo",
-        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
-        "channel": "partselect",
-        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
-        "relevance_score": 58.2,
-        "scoring_breakdown": {
-          "semantic_score": 11.17,
-          "keyword_score": 29,
-          "intent_score": 4.6,
+          "intent_score": 0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "tfidf:wash",
-            "tfidf:washer",
-            "tfidf:need",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:2.2↔1.1"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "product_comparisons",
-    "post_count": 29,
-    "avg_engagement": 117.86206896551724,
-    "avg_relevance": 24.97779310344828,
-    "total_comments": 2270,
-    "demand_strength": 85374.09682758623,
-    "sample_posts": [
-      {
-        "subreddit": "Makita",
-        "title": "This is how to fix issues with Lawn mower DLM330",
-        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn’t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it’s like a brand new machine now.\n\nPS: If yo",
-        "score": 5,
-        "num_comments": 1,
-        "created_utc": 1773846678.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "relevance_score": 57.71999999999999,
-        "matched_brands": [
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "pressure washer",
-          "lawn mower",
-          "angle grinder",
-          "washer"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "learning_intent",
-          "comparison",
-          "comparison",
-          "maintenance",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Dishwasher Straw Holder",
-        "selftext": "To those looking for something to hold their straws securely in the dishwasher- I started using the obscure “Chopstick Holder” accessory from Whirlpool. Part no W11643641\n\nI wanted the official Miele “Straw Clean” accessory but they don’t sell it separately currently. I was able to get this for like $8 so figured I’d try it. \n\nPlaced it in the middle of the rack so it would be in a very direct water stream from below. So far seems to work better than throwing them in a silverware-basket style thing. Hold them much more securely and no risk of hitting each other I think. \n\nOnly time they’ve come out dirty was when a piece of cauliflower rice fell into the holder and got stuck to the outside of one. \n\nAn incredible pain to find a spot for in my Miele, this is virtually the only non-corner spot it would fit in (the corner would have less water flow and wanted to avoid that). In a normal dishwasher this should be easier to find a place for. It has a bracket that clips onto the rack, and th",
-        "score": 43,
-        "num_comments": 49,
-        "created_utc": 1773791410.0,
-        "url": "https://www.reddit.com/gallery/1rwntg6",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rwntg6/dishwasher_straw_holder/",
-        "relevance_score": 42.35999999999999,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "miele"
-        ],
-        "matched_products": [
-          "washer",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "buying_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Looking for a washing machine that isn't \"Smart\" or crippled by Energy Star requirements like my LG top loader",
-        "selftext": "As the title says. That's not to say I object to the Energy Star rating on principle - in fact I usually prefer it. But my LG washer doesn't allow the use of hot water thanks in large part to the \"Smart\" sensors and the Energy Star settings (at least according to their customer support). \n\nI need hot water straight from the tap for sanitizing towels, reducing allergens on bedding, and deep cleaning dirty teen boy socks. But this washer always adds cold water to the wash load, regardless of the setting. It ends up lukewarm at best, even on the \"heavy duty\" and \"hot water\" cycle. \n\nI'd also like a soak cycle, or at least the option to soak manually. This model automatically drains the tub after a few minutes if you try to stop the load and let it soak. But having an actual cycle would be ideal since I'm easily distracted, and chances are low that I'd consistently remember I have a load soaking that I need to convert to a wash cycle. \n\nSpeaking of sensors, I'm totally skeptical of claims ",
-        "score": 12,
-        "num_comments": 64,
-        "created_utc": 1773696477.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
-        "relevance_score": 39.959999999999994,
-        "matched_brands": [
-          "ge",
-          "lg"
-        ],
-        "matched_products": [
-          "washing machine",
-          "washer"
-        ],
-        "matched_keywords": [
-          "top load",
-          "heavy duty"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Product Comparisons Content",
-    "example_videos": [
-      "Custom content needed"
-    ],
-    "hashtags": [
-      "#product_comparisons"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "tWQcdT8b9Bo",
-        "title": "Dishwasher Not Working? This is How to Reset Your GE Dishwasher!",
-        "channel": "partselect",
-        "description_snippet": "Sometimes, when your Dishwasher isn't working properly, all it needs is a proper reset! But how do you reset your dishwasher? Well, it's a pretty simple process, and depending on your model,...",
-        "relevance_score": 62.28,
-        "scoring_breakdown": {
-          "semantic_score": 13.3,
-          "keyword_score": 30,
-          "intent_score": 4.6,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "tfidf:dishwasher",
-            "tfidf:need",
-            "tfidf:wash",
-            "tfidf:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "pJW2otpKhXk",
-        "title": "Washer Not Working? This is How to Reset Your Whirlpool Washer!",
-        "channel": "partselect",
-        "description_snippet": "Sometimes, when your Washer isn't working properly, all it needs is a proper reset! But how do you reset your washer? Well, it's a pretty simple process, and depending on your model, there...",
-        "relevance_score": 61.41,
-        "scoring_breakdown": {
-          "semantic_score": 12.64,
-          "keyword_score": 30,
-          "intent_score": 4.6,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "fuzzy_tfidf:dishwasher(75.0)",
-            "tfidf:need",
-            "tfidf:wash",
-            "tfidf:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      },
-      {
-        "video_id": "wf5wqOx_d74",
-        "title": "Get Grilling This Summer!  How to Deep Clean Your Grill | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "There's nothing quite like backyard grilling, but before you can fire up your grill, you'll want to make sure it's nice and clean first! If it's been a while since the last time you cleaned...",
-        "relevance_score": 51.15,
-        "scoring_breakdown": {
-          "semantic_score": 12.95,
-          "keyword_score": 21,
-          "intent_score": 5.4,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:wanted(80.0)",
-            "tfidf:like",
-            "fuzzy_tfidf:need(85.71428571428572)",
-            "tfidf:thing",
-            "tfidf:time"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔1.1",
-            "maintenance:2.4000000000000004↔1.6"
-          ]
-        }
-      },
-      {
-        "video_id": "q2c2uUlP13s",
-        "title": "How to Fix a Pressure Washer (Part 2 of 2)",
-        "channel": "fixtechguides",
-        "description_snippet": "After diagnosing the pressure washer pump and replacing its unloader valve, Mark demonstrates how to reassemble and lubricate the pump with step by step instructions.\n\nGet replacement parts...",
-        "relevance_score": 50.99,
-        "scoring_breakdown": {
-          "semantic_score": 13.82,
-          "keyword_score": 19,
-          "intent_score": 6.3999999999999995,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:water(80.0)",
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "tfidf:wash",
-            "tfidf:washer",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "how_to_guide:1.1↔3.3000000000000003",
-            "comparison:1.8↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "MotQuycBcUU",
-        "title": "Dishwasher Repair- Replacing the Long Hinge Pin on the Detergent Door (Whirlpool Part # 6-912678)",
-        "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS2344472-Whirlpool-6-912678-Hinge-Pin.htm?SourceCode=15 Click here for more information on this part, installation instructions and more. \n\nThis particular Long Hinge...",
-        "relevance_score": 59.38,
-        "scoring_breakdown": {
-          "semantic_score": 13.47,
-          "keyword_score": 30,
-          "intent_score": 2.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:angle(75.0)",
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "tfidf:dishwasher",
-            "fuzzy_tfidf:like(75.0)",
-            "tfidf:wash"
-          ],
-          "intent_matches": [
-            "how_to_guide:1.1↔1.1"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "theme": "major_appliances",
-    "post_count": 88,
-    "avg_engagement": 51.29545454545455,
-    "avg_relevance": 17.445772727272722,
-    "total_comments": 3156,
-    "demand_strength": 78750.21809090907,
-    "sample_posts": [
-      {
-        "subreddit": "appliances",
-        "title": "All Washer Brands Seem to Get Hate - Help Me Decide!",
-        "selftext": "I need to buy a new washer and dryer ASAP, but the reviews have turned me into an indecisive lump who is ready to stop wearing clothes altogether just to avoid the purchase. We currently have a Whirlpool top load washer (5.3 cu. ft.) and electric dryer (8.8 cu. ft.) that are failing after 8.5 years. I don't need something that will last a lifetime, just something to clean our clothes for at least the next 5 years with minimal repairs. My wants in order of importance:\n\n1. No/minimal mold - I'm open to a top or front loader and willing to leave door open/clean occasionally, just don't want mold issues.\n2. Quiet - My husband would like something quiet, so I would like to accommodate his one request.\n3. Large capacity - I've been washing a king comforter, sheets, and mattress pad all in one load for the past 12 years and would like to keep doing so. Most Dryers seem to be under 8 cu. ft. now, which is fine.\n4. Decent design - Definitely prefer something sleek and modern but will take funct",
-        "score": 5,
-        "num_comments": 31,
-        "created_utc": 1773754388.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rw6ngc/all_washer_brands_seem_to_get_hate_help_me_decide/",
-        "relevance_score": 43.199999999999996,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "speed queen"
-        ],
-        "matched_products": [
-          "washer",
-          "dryer"
-        ],
-        "matched_keywords": [
-          "capacity",
-          "front load",
-          "top load"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "troubleshooting",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Dishwasher Straw Holder",
-        "selftext": "To those looking for something to hold their straws securely in the dishwasher- I started using the obscure “Chopstick Holder” accessory from Whirlpool. Part no W11643641\n\nI wanted the official Miele “Straw Clean” accessory but they don’t sell it separately currently. I was able to get this for like $8 so figured I’d try it. \n\nPlaced it in the middle of the rack so it would be in a very direct water stream from below. So far seems to work better than throwing them in a silverware-basket style thing. Hold them much more securely and no risk of hitting each other I think. \n\nOnly time they’ve come out dirty was when a piece of cauliflower rice fell into the holder and got stuck to the outside of one. \n\nAn incredible pain to find a spot for in my Miele, this is virtually the only non-corner spot it would fit in (the corner would have less water flow and wanted to avoid that). In a normal dishwasher this should be easier to find a place for. It has a bracket that clips onto the rack, and th",
-        "score": 43,
-        "num_comments": 49,
-        "created_utc": 1773791410.0,
-        "url": "https://www.reddit.com/gallery/1rwntg6",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rwntg6/dishwasher_straw_holder/",
-        "relevance_score": 42.35999999999999,
-        "matched_brands": [
-          "whirlpool",
-          "ge",
-          "miele"
-        ],
-        "matched_products": [
-          "washer",
-          "dishwasher"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "buying_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "appliances",
-        "title": "Looking for a washing machine that isn't \"Smart\" or crippled by Energy Star requirements like my LG top loader",
-        "selftext": "As the title says. That's not to say I object to the Energy Star rating on principle - in fact I usually prefer it. But my LG washer doesn't allow the use of hot water thanks in large part to the \"Smart\" sensors and the Energy Star settings (at least according to their customer support). \n\nI need hot water straight from the tap for sanitizing towels, reducing allergens on bedding, and deep cleaning dirty teen boy socks. But this washer always adds cold water to the wash load, regardless of the setting. It ends up lukewarm at best, even on the \"heavy duty\" and \"hot water\" cycle. \n\nI'd also like a soak cycle, or at least the option to soak manually. This model automatically drains the tub after a few minutes if you try to stop the load and let it soak. But having an actual cycle would be ideal since I'm easily distracted, and chances are low that I'd consistently remember I have a load soaking that I need to convert to a wash cycle. \n\nSpeaking of sensors, I'm totally skeptical of claims ",
-        "score": 12,
-        "num_comments": 64,
-        "created_utc": 1773696477.0,
-        "url": "https://www.reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
-        "permalink": "https://reddit.com/r/Appliances/comments/1rvmuiz/looking_for_a_washing_machine_that_isnt_smart_or/",
-        "relevance_score": 39.959999999999994,
-        "matched_brands": [
-          "ge",
-          "lg"
-        ],
-        "matched_products": [
-          "washing machine",
-          "washer"
-        ],
-        "matched_keywords": [
-          "top load",
-          "heavy duty"
-        ],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "learning_intent",
-          "comparison",
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Appliance Buying Guides & Maintenance",
-    "example_videos": [
-      "Washer and dryer buying guide",
-      "HVAC maintenance tips",
-      "Refrigerator troubleshooting"
-    ],
-    "hashtags": [
-      "#appliances",
-      "#HVAC",
-      "#homeappliances",
-      "#maintenance"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "trixDyyuemg",
-        "title": "Ultimate Guide to Choosing the Right Washer",
-        "channel": "partselect",
-        "description_snippet": "If you're looking for a new washer, you might be wondering \"how to I find out what is the best washer?\". Well, there are a number of factors you should consider, from washer capacity, to load...",
-        "relevance_score": 57.63,
-        "scoring_breakdown": {
-          "semantic_score": 22.33,
-          "keyword_score": 16,
-          "intent_score": 6.0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:load",
-            "tfidf:washer",
-            "fuzzy_tfidf:hot water(77.77777777777779)",
-            "product:washer"
-          ],
-          "intent_matches": [
-            "buying_advice:5.0↔3.0"
-          ]
-        }
-      },
-      {
-        "video_id": "yOZxAuqr26Q",
-        "title": "How to Properly Load and Operate Your Dishwasher | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "If you own a dishwasher, you've probably had a situation where you've run it through a full cycle, and your plates, pots, and pans come out still dirty, or covered in soap residue. There are...",
-        "relevance_score": 56.9,
-        "scoring_breakdown": {
-          "semantic_score": 14.77,
-          "keyword_score": 29,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:dishwasher",
-            "tfidf:cycle",
-            "tfidf:load",
-            "tfidf:washer",
-            "fuzzy_tfidf:hot(80.0)"
+            "fuzzy_tfidf:thing(80.0)",
+            "brand:samsung",
+            "brand:model",
+            "entity:samsung"
           ],
           "intent_matches": []
-        }
-      },
-      {
-        "video_id": "q2c2uUlP13s",
-        "title": "How to Fix a Pressure Washer (Part 2 of 2)",
-        "channel": "fixtechguides",
-        "description_snippet": "After diagnosing the pressure washer pump and replacing its unloader valve, Mark demonstrates how to reassemble and lubricate the pump with step by step instructions.\n\nGet replacement parts...",
-        "relevance_score": 51.37,
-        "scoring_breakdown": {
-          "semantic_score": 13.31,
-          "keyword_score": 22,
-          "intent_score": 4.2,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:water(80.0)",
-            "tfidf:load",
-            "tfidf:washer",
-            "fuzzy_tfidf:hot(80.0)",
-            "fuzzy_tfidf:star(75.0)"
-          ],
-          "intent_matches": [
-            "troubleshooting:1.2↔1.2",
-            "comparison:1.8↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "IXG8u3yCtgk",
-        "title": "How to Replace the Motor Capacitor on a Karcher Electric Pressure Washer",
-        "channel": "fixtechguides",
-        "description_snippet": "Your capacitor acts like a battery and stores energy for your pressure washer. This video will show you how you can replace it yourself saving time and money. \n\nHelpful items include a screwdriver...",
-        "relevance_score": 47.21,
-        "scoring_breakdown": {
-          "semantic_score": 9.32,
-          "keyword_score": 27,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "fuzzy_tfidf:water(80.0)",
-            "tfidf:like",
-            "tfidf:washer",
-            "fuzzy_tfidf:hot(80.0)",
-            "fuzzy_tfidf:star(75.0)"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "kEEwmj0p68g",
-        "title": "Dishwasher Repair- Replacing the Water Deflector (Whirlpool Part # 99001885)",
-        "channel": "partselect",
-        "description_snippet": "http://www.partselect.com/PS2099342-Whirlpool-99001885-Water-Deflector.htm?SourceCode=15 Click here for more information on this part, installation instructions and more. \n\nThis particular...",
-        "relevance_score": 53.67,
-        "scoring_breakdown": {
-          "semantic_score": 14.28,
-          "keyword_score": 27,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:water",
-            "tfidf:dishwasher",
-            "fuzzy_tfidf:like(75.0)",
-            "tfidf:washer",
-            "fuzzy_tfidf:hot water(77.77777777777779)"
-          ],
-          "intent_matches": []
-        }
-      }
-    ]
-  },
-  {
-    "theme": "utility_appliances",
-    "post_count": 10,
-    "avg_engagement": 221.1,
-    "avg_relevance": 14.262,
-    "total_comments": 554,
-    "demand_strength": 31533.282,
-    "sample_posts": [
-      {
-        "subreddit": "HomeImprovement",
-        "title": "best air purifier for odor - what actually works?",
-        "selftext": "We finished the basement last year and it's been fine mostly, but there's this musty smell that just won't go away no matter how much we clean or run a dehumidifier. The humidity levels are normal now, no visible mold, but it still smells like an old gym bag down there. My wife refuses to use the space and honestly I don't blame her.\n\nI've been looking into getting an air purifier and went down a rabbit hole trying to find the best air purifier for odor specifically. Not just dust or allergens, like actually targeting smell. I looked at some HEPA-only ones but from what I read those don't do much for odors without an activated carbon filter too. There's also a few of the larger tower style ones in the $150-250 range I've been eyeing but I genuinely can't tell if I'm overpaying for features I don't need or if the cheaper ones are just a waste of money.\n\nThe basement is probably around 700 sq ft if that helps. I'd like to keep it under $200 if possible but could stretch to $250 for somet",
-        "score": 10,
-        "num_comments": 4,
-        "created_utc": 1774025392.0,
-        "url": "https://www.reddit.com/r/HomeImprovement/comments/1rz1k2u/best_air_purifier_for_odor_what_actually_works/",
-        "permalink": "https://reddit.com/r/HomeImprovement/comments/1rz1k2u/best_air_purifier_for_odor_what_actually_works/",
-        "relevance_score": 27.96,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "air purifier",
-          "dehumidifier",
-          "humidifier"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "comparison",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "HomeImprovement",
-        "title": "Best washable filter air purifier?",
-        "selftext": "I am trying to find the best washable filter air purifier for my house. Buying replacement HEPA filters every few months gets expensive, so I started looking for models that use reusable or washable filters.\n\nWhile researching I came across a comparison on a site called Airlucent that talks about top rated air purifiers with washable filters and how they actually perform.\n\nSome people say washable filters are convenient but not always as effective as traditional HEPA filters.\n\nHas anyone here used a washable filter air purifier long term? I would really like to know if they are worth it.",
-        "score": 6,
-        "num_comments": 4,
-        "created_utc": 1773718010.0,
-        "url": "https://www.reddit.com/r/HomeImprovement/comments/1rvvk8q/best_washable_filter_air_purifier/",
-        "permalink": "https://reddit.com/r/HomeImprovement/comments/1rvvk8q/best_washable_filter_air_purifier/",
-        "relevance_score": 20.16,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "air purifier"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "comparison"
-        ]
-      },
-      {
-        "subreddit": "HomeImprovement",
-        "title": "Musty smell driving me insane, crawl space smells cleaner than my living room",
-        "selftext": "I live in South Florida and the humidity and heat are starting to come back around. For the past 5 years, I’ve been dealing with a musty, stagnant smell when it’s humid.\n\nMy crawl space is bare dirt and vented, house built in 1946. There has been virtually no smell during winter, but just recently started back up with the rain and humidity we’ve been having. I have oak flooring throughout the house laid on original slat boards as the subfloor, so there’s plenty of air that leaks up from the crawl space. \n\nWhat are my best options without having to install a dehumidifier in the crawl space and seal the whole thing up? \n\nCan I just add a fan to circulate air? Will this cause more issues as hot air gets sucked in?\n\nShould I vapor barrier the dirt AND add a fan? Or will vapor barrier be enough?  ",
-        "score": 11,
-        "num_comments": 3,
-        "created_utc": 1773765682.0,
-        "url": "https://www.reddit.com/r/HomeImprovement/comments/1rwbsr5/musty_smell_driving_me_insane_crawl_space_smells/",
-        "permalink": "https://reddit.com/r/HomeImprovement/comments/1rwbsr5/musty_smell_driving_me_insane_crawl_space_smells/",
-        "relevance_score": 17.4,
-        "matched_brands": [
-          "ge"
-        ],
-        "matched_products": [
-          "dehumidifier",
-          "humidifier"
-        ],
-        "matched_keywords": [],
-        "detected_intents": [
-          "maintenance"
-        ]
-      }
-    ],
-    "content_angle": "Home Utility Equipment Reviews",
-    "example_videos": [
-      "Best shop vacuums 2024",
-      "Air purifier comparison",
-      "Dehumidifier buying guide"
-    ],
-    "hashtags": [
-      "#shopvac",
-      "#airpurifier",
-      "#homeimprovement",
-      "#utility"
-    ],
-    "matched_videos": [
-      {
-        "video_id": "9KcL-hiBesI",
-        "title": "How to Get Rid of Air Conditioner Smells",
-        "channel": "partselect",
-        "description_snippet": "Does your air conditioner smell bad? It can really ruin the effect the air conditioner is supposed to have, which is to create a comfortable living environment! Don't worry though because there...",
-        "relevance_score": 61.09,
-        "scoring_breakdown": {
-          "semantic_score": 20.19,
-          "keyword_score": 23,
-          "intent_score": 3.8,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:air",
-            "tfidf:smell",
-            "tfidf:ve",
-            "fuzzy_tfidf:ones(75.0)",
-            "tfidf:don"
-          ],
-          "intent_matches": [
-            "buying_advice:11.0↔1.0",
-            "comparison:1.8↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "h6PFSj770U4",
-        "title": "Want Your AC Unit to Last? Check Out Our Quick Guide to Maintaining Your Window Air Conditioner",
-        "channel": "partselect",
-        "description_snippet": "Don't forget, if your window air conditioner needs a replacement part, you can get one quickly and easily from PartSelect.com https://www.partselect.com/\n\n00:00 Intro\n00:08 Check the Filter...",
-        "relevance_score": 45.95,
-        "scoring_breakdown": {
-          "semantic_score": 14.55,
-          "keyword_score": 19,
-          "intent_score": 1.8,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:air",
-            "fuzzy_tfidf:filters(92.3076923076923)",
-            "fuzzy_tfidf:space(80.0)",
-            "fuzzy_tfidf:ones(75.0)",
-            "tfidf:don"
-          ],
-          "intent_matches": [
-            "comparison:1.8↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "WupKJTKN6so",
-        "title": "How to Replace the Air Filter on a Makita Cut Off Saw",
-        "channel": "fixtechguides",
-        "description_snippet": "FILTER OUT UNNECESSARY COSTS: Cutting costs can be priceless. But you don’t have to be a master mason to cut out the middle-man. This article will show you how to quickly remove, inspect...",
-        "relevance_score": 44.55,
-        "scoring_breakdown": {
-          "semantic_score": 13.27,
-          "keyword_score": 21,
-          "intent_score": 0,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:air",
-            "fuzzy_tfidf:filters(85.71428571428572)",
-            "fuzzy_tfidf:space(80.0)",
-            "tfidf:ve",
-            "tfidf:don"
-          ],
-          "intent_matches": []
-        }
-      },
-      {
-        "video_id": "C0zt05RdgBs",
-        "title": "Air Conditioner Guides: How to Maximize Your Air Conditioner's Efficiency | eReplacementParts.com",
-        "channel": "fixtechguides",
-        "description_snippet": "Choosing the correct Air Conditioning Unit for your space is essential, if you want it to run efficiently. A well-run Air Conditioner will help cool your space better, and can also save you...",
-        "relevance_score": 43.67,
-        "scoring_breakdown": {
-          "semantic_score": 13.79,
-          "keyword_score": 18,
-          "intent_score": 1.8,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:air",
-            "tfidf:space",
-            "tfidf:ve",
-            "fuzzy_tfidf:ones(75.0)"
-          ],
-          "intent_matches": [
-            "comparison:1.8↔0.9"
-          ]
-        }
-      },
-      {
-        "video_id": "mRTPdEa7DuM",
-        "title": "6 Easy Steps to Clean and Maintain Your Frigidaire Food Waste Disposer | HOME DIY | PartSelect.com",
-        "channel": "partselect",
-        "description_snippet": "Cleaning and Maintaining your Food Waste Disposer is essential to keep it running properly not just today, but for weeks, months, and years to come! If you don't want to have to replace it...",
-        "relevance_score": 45.24,
-        "scoring_breakdown": {
-          "semantic_score": 13.1,
-          "keyword_score": 23,
-          "intent_score": 1.6,
-          "content_boost": 1.2,
-          "content_type": "review"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:air",
-            "fuzzy_tfidf:space(80.0)",
-            "tfidf:just",
-            "tfidf:ve",
-            "tfidf:don"
-          ],
-          "intent_matches": [
-            "maintenance:0.8↔1.6"
-          ]
         }
       }
     ]
   },
   {
     "theme": "outdoor_power_equipment",
-    "post_count": 37,
-    "avg_engagement": 42.4054054054054,
-    "avg_relevance": 19.838918918918917,
-    "total_comments": 1132,
-    "demand_strength": 31127.263783783783,
+    "post_count": 44,
+    "avg_engagement": 15.340909090909092,
+    "avg_relevance": 22.035181818181815,
+    "total_comments": 1316,
+    "demand_strength": 14873.747727272725,
     "sample_posts": [
       {
         "subreddit": "Makita",
-        "title": "This is how to fix issues with Lawn mower DLM330",
-        "selftext": "Hello, just wanted to share a quick tip for anyone struggling with their Makita DLM330Z.\n\nI love the size of this thing for my small yard, but lately, the suction was honestly driving me crazy. It was barely picking up anything and I was getting so frustrated I was about to list it on Facebook Marketplace and move on.\n\nGave it one last shot and did a deep dive into some maintenance. Turns out, two simple things made it work better than the day I unboxed it:\n\nFirst. Blast the grass bag**:** Use a garden hose or a pressure washer. I didn’t realize how much dust and dirt actually clogs the fabric pores over time, killing the airflow. I had to wash it several times before the water came out clean, but man, it makes a huge difference for the suction.\n\nSecond. Sharpen the blade**:** My blade was trashed after 3 years. I hit it with an angle grinder to get a fresh edge. You don't need to be a pro, just try to follow the original angle.\n\nSeriously, it’s like a brand new machine now.\n\nPS: If yo",
+        "title": "Talk to me about rotary hammers...",
+        "selftext": "I'm considering a rotary hammer purchase. I'm a lowly home DIY user. However, I live in a region where timber-frame buildings are overwhelmingly the norm. I've only ever had to drill into masonry once, and I then found out there was trick I wasn't aware of that avoided the need to do so entirely.\n\nMy immediate usage will be chipping up \\~55 sq ft of 12\\*12 floor tile, and then it will see recurring use to break up extremely heavy clay/rocky soil. Do I actually want a demolition hammer and not a rotary hammer? Makita's demolition hammers are all SDS-MAX, with a price tag to match. I find it hard to believe I need such a beast for my use and, honestly, if I do, it will likely be better for me to rent. \n\n  \nWill an SDS+ hammer do what I need? Doesn't have to be the fastest since I'm not doing this professionally...\n\nI'm not currently on the XGT platform, but maybe this and a leaf blower is what gets me to take the leap... Also fine to stay with 36V, or even 18V if the only trade-off is re",
         "score": 5,
-        "num_comments": 1,
-        "created_utc": 1773846678.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "permalink": "https://reddit.com/r/Makita/comments/1rx6jjt/this_is_how_to_fix_issues_with_lawn_mower_dlm330/",
-        "relevance_score": 57.71999999999999,
+        "num_comments": 9,
+        "created_utc": 1774285578.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1s1msc2/talk_to_me_about_rotary_hammers/",
+        "permalink": "https://reddit.com/r/Makita/comments/1s1msc2/talk_to_me_about_rotary_hammers/",
+        "relevance_score": 59.74799999999999,
         "matched_brands": [
           "makita",
           "makita",
           "ge"
         ],
         "matched_products": [
-          "pressure washer",
-          "lawn mower",
-          "angle grinder",
-          "washer"
+          "leaf blower",
+          "drill",
+          "rotary hammer",
+          "multitool"
         ],
-        "matched_keywords": [],
+        "matched_keywords": [
+          "battery",
+          "trade"
+        ],
         "detected_intents": [
-          "buying_intent",
-          "buying_intent",
-          "troubleshooting",
-          "learning_intent",
           "comparison",
-          "comparison",
-          "maintenance",
           "maintenance"
         ]
       },
       {
+        "subreddit": "Chainsaw",
+        "title": "New \"medium\" saw.",
+        "selftext": "new to the forum but not new to chainsaws.\n\nI am a homeowner, I don't have much property or many trees, but I do have a wife that likes to burn in the fire pit outside.  \n\nI currently own a Stihl MS290, 20\" bar chisel chain & ported muffler, an Echo cs271t, 12\" bar ported muffler, will probably have a 10\" bar soon, and a Pole saw attachment for my Troy Bilt weed eater. The pole saw and the Echo work great for trimming the trees around the house and in my small orchard.  \n\nI've had the MS290 Farm Boss for 20 years. I'll probably have it until it dies, at which point it will likely recieve an MS390 big bore kit. I am, however,  getting older. A motorcycle accident and a diagnosis of a rare type of arthritis isn't helping my back or my hands much, and those 2 or 3 days a year that I go cut a load of wood make for a rough time wielding the MS290 all day.\n\nI think I need an in-between saw, and why not ask Reddit. Probably an 18\" bar, although not opposed to a 16\". I want light weight, high ",
+        "score": 6,
+        "num_comments": 48,
+        "created_utc": 1774273198.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1s1h5t9/new_medium_saw/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1s1h5t9/new_medium_saw/",
+        "relevance_score": 56.16,
+        "matched_brands": [
+          "stihl",
+          "echo",
+          "poulan",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "weed eater",
+          "pole saw"
+        ],
+        "matched_keywords": [
+          "professional grade"
+        ],
+        "detected_intents": [
+          "learning_intent"
+        ]
+      },
+      {
         "subreddit": "Ryobi",
-        "title": "Finally went DC.",
-        "selftext": "Finally moved on from my Ryobi 26cc gas trimmer (with 6 attachments) after 15 years of working it hard and keeping it running strong. My toughest use of it was clearing several hundred feet (like 500 feet) of dense lakefront scrub trees with the pruning saw attachent. It was a beast.\nSince I had all these attachments (straight shaft trimmer, straight shaft brush cutter, curved shaft trimmer, pruning saw, edger, and cultivator) the logical choice was the 40v HP \"Whisper Series\" Expand-It trimmer with power exceeding a 32cc gas engine, the Ryobi RY40HPST02K.\nThis 40v, the new beast, has given new life to all my old Expand-It attachments.\nThis thing runs GREAT! \nIf you have been considering it or any of the 40v tools, go for it. You will be glad you did.\nForget the gas, oil, spark plugs, ignition modules, vibration, and noise headaches for good.\n\nI'm just fulfilling my plan that when my gas devices become just too much to keep running, the only replacements will be, and have been battery ",
-        "score": 14,
-        "num_comments": 11,
-        "created_utc": 1773625204.0,
-        "url": "https://www.reddit.com/r/ryobi/comments/1ruwcaj/finally_went_dc/",
-        "permalink": "https://reddit.com/r/ryobi/comments/1ruwcaj/finally_went_dc/",
-        "relevance_score": 38.4,
+        "title": "Hard choice - Used 48v ZTR480 zero turn vs new 80v Z3 Zero Turn",
+        "selftext": "Hey all! Sorry if this is the wrong sub, LONG time Ryobi fan (got my first One+ tools way back in 2004 and have a massive collection of 18v and 40v tools now).\n\nI need to buy a mower for my land and torn between two routes:\n\n**Option 1 - Used 48v ZTR480ex**\n\nI've been watching the used market for nearly a year now and have learned a lot about the 48v first-gen zero turns.  The new lithium batteries on the market make this a serious contender.  Problem is I'd be looking to spend around $2000 for the mower used (hopefully less than 50 hours run time from what I've been seeing on most of them), then I'd need to spend $600+ on a lithium battery.  \n\nI'd love to find something lower than $1500, but that just doesn't exist locally, anytime I see anything close to $1500 it gets snatched up in a day (and even then I've only seen it happen two or three times over the past year).  \n\nFactor in the lack of warranty and I'm concerned about lifespan before something major fails like a control board o",
+        "score": 2,
+        "num_comments": 3,
+        "created_utc": 1774476681.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1s3p31w/hard_choice_used_48v_ztr480_zero_turn_vs_new_80v/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1s3p31w/hard_choice_used_48v_ztr480_zero_turn_vs_new_80v/",
+        "relevance_score": 44.51999999999999,
         "matched_brands": [
           "ryobi",
           "ryobi",
           "ge"
         ],
         "matched_products": [
-          "edger",
-          "cultivator",
-          "brush cutter"
+          "zero turn"
         ],
         "matched_keywords": [
           "battery"
         ],
         "detected_intents": [
-          "maintenance",
-          "maintenance"
-        ]
-      },
-      {
-        "subreddit": "Makita",
-        "title": "Repack failing Makita batteries",
-        "selftext": "I have a bunch of 5.0Ah batteries that still charge ok (so they haven't failed completely and locked themselves), but they are definitely not holding charge well. In my X2 tools, especially the XCU04 chainsaw, I'm constantly tripping some internal mechanism when I use the older batteries (if I use two newer batteries then it runs fine).\n\nSo I'm trying decide between buying all new genuine batteries ($$$), or dismantling, testing, and repacking the batteries. I'm fine with the electrical work, so if that process is reliable and straightforward, I'd love some pointers to useful guides and where to currently buy the best replacement cells (I know I'll need to get a spot welder).\n\nThoughts?",
-        "score": 7,
-        "num_comments": 7,
-        "created_utc": 1773539417.0,
-        "url": "https://www.reddit.com/r/Makita/comments/1ru1i9w/repack_failing_makita_batteries/",
-        "permalink": "https://reddit.com/r/Makita/comments/1ru1i9w/repack_failing_makita_batteries/",
-        "relevance_score": 34.199999999999996,
-        "matched_brands": [
-          "makita",
-          "makita",
-          "ge"
-        ],
-        "matched_products": [
-          "chainsaw"
-        ],
-        "matched_keywords": [
-          "ah"
-        ],
-        "detected_intents": [
+          "buying_intent",
           "buying_intent",
           "troubleshooting",
-          "learning_intent"
+          "learning_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
         ]
       }
     ],
@@ -1797,135 +1601,347 @@
         "title": "Gas Powered Leaf Blower or Battery Powered Leaf Blower? Which One Is Better? | eReplacementParts.com",
         "channel": "fixtechguides",
         "description_snippet": "We're back this week with another buyer's guide! We've taken you through Gas Powered vs Battery Powered Lawn Mowers (https://www.youtube.com/watch?v=FVhkavCI7h4) and Chainsaws (https://www.youtube....",
-        "relevance_score": 55.81,
+        "relevance_score": 58.81,
         "scoring_breakdown": {
-          "semantic_score": 15.13,
-          "keyword_score": 20,
+          "semantic_score": 15.44,
+          "keyword_score": 22,
           "intent_score": 7.800000000000001,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "tfidf:gas",
             "fuzzy_tfidf:need(75.0)",
-            "fuzzy_tfidf:love(75.0)",
-            "product:mower",
-            "product:saw"
+            "tfidf:saw",
+            "tfidf:ve",
+            "fuzzy_tfidf:zero(75.0)",
+            "product:mower"
           ],
           "intent_matches": [
-            "buying_advice:1.0↔1.0",
-            "how_to_guide:1.1↔1.1",
+            "buying_advice:6.0↔1.0",
+            "how_to_guide:2.2↔1.1",
             "comparison:1.8↔1.8"
           ]
         }
       },
       {
-        "video_id": "NY6M2PvoBuY",
-        "title": "Dryer Repair - Replacing the Thrust Washer (Whirlpool Part# 233520)",
-        "channel": "partselect",
-        "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 54.91,
-        "scoring_breakdown": {
-          "semantic_score": 12.64,
-          "keyword_score": 25,
-          "intent_score": 4.6,
-          "content_boost": 1.3,
-          "content_type": "tutorial"
-        },
-        "match_evidence": {
-          "keyword_matches": [
-            "tfidf:model",
-            "fuzzy_tfidf:just(75.0)",
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "tfidf:use",
-            "brand:model"
-          ],
-          "intent_matches": [
-            "troubleshooting:2.4↔1.2",
-            "how_to_guide:1.1↔3.3000000000000003"
-          ]
-        }
-      },
-      {
-        "video_id": "HHxUYLkbHIE",
-        "title": "Makita Air Compressor Repair - Replacing the Gasket (Makita Part # 211001-E)",
+        "video_id": "n93MbgWsLAE",
+        "title": "CHAINSAW REPAIR: How to Install a New Drive Sprocket on Your Chainsaw | FIX.com",
         "channel": "fixtechguides",
-        "description_snippet": "Need help replacing the Gasket (Part # 211001-E) in your Makita Air Compressor? Watch this how-to video with simple, step-by-step instructions for a successful DIY repair.\n\nDon’t already...",
-        "relevance_score": 54.7,
+        "description_snippet": "The drive sprocket and the clutch drum of your chainsaw are connected to the saw motor. The sprocket is designed to drive the proper-pitched chain around the guide bar. If your drive sprocket...",
+        "relevance_score": 55.71,
         "scoring_breakdown": {
-          "semantic_score": 16.47,
-          "keyword_score": 21,
-          "intent_score": 4.6,
+          "semantic_score": 10.05,
+          "keyword_score": 26,
+          "intent_score": 6.800000000000001,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "tfidf:gas",
-            "tfidf:makita",
-            "tfidf:need",
-            "product:makita"
+            "fuzzy_tfidf:need(75.0)",
+            "tfidf:saw",
+            "tfidf:bar",
+            "tfidf:new",
+            "tfidf:ve"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2",
-            "how_to_guide:1.1↔1.1"
+            "troubleshooting:1.2↔1.2",
+            "how_to_guide:2.2↔2.2"
           ]
         }
       },
       {
-        "video_id": "ntDRxb7XLdc",
-        "title": "Dryer Repair - Replacing the Dryer Drum Slide (GE Part# WE1M333)",
+        "video_id": "v5bgEvFV_4U",
+        "title": "Top 5 Essential Hand Tools That Every DIYer Should Own! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're looking to get into DIY repairs and projects around your house, you may be wondering what tools you'll need to help you get started. In this video, our home-DIY expert Denika will...",
+        "relevance_score": 45.79,
+        "scoring_breakdown": {
+          "semantic_score": 17.82,
+          "keyword_score": 13,
+          "intent_score": 4.4,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:need",
+            "fuzzy_tfidf:used(75.0)",
+            "tfidf:ve"
+          ],
+          "intent_matches": [
+            "buying_advice:6.0↔1.0",
+            "troubleshooting:1.2↔1.2"
+          ]
+        }
+      },
+      {
+        "video_id": "ilj1uAnVang",
+        "title": "Top 5 Power Tools Every DIYer Needs | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "If you're just getting started in tackling home renovations or DIY projects, you may be curious as to what tools you'll need to complete these jobs. You don't, in fact, need an entire workshop...",
+        "relevance_score": 42.88,
+        "scoring_breakdown": {
+          "semantic_score": 18.78,
+          "keyword_score": 10,
+          "intent_score": 4.2,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:need",
+            "tfidf:ve"
+          ],
+          "intent_matches": [
+            "buying_advice:6.0↔1.0",
+            "how_to_guide:2.2↔1.1"
+          ]
+        }
+      },
+      {
+        "video_id": "VHUbdduhcPA",
+        "title": "EVERYTHING YOU NEED TO KNOW ABOUT HAMMERS! | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "The hammer is an essential tool in an DIYer's Tool Box, but owning a hammer, and knowing the perfect hammer for each job, are entirely different things! When we think of hammers, we all probably...",
+        "relevance_score": 53.52,
+        "scoring_breakdown": {
+          "semantic_score": 21.17,
+          "keyword_score": 20,
+          "intent_score": 0,
+          "content_boost": 1.3,
+          "content_type": "tutorial"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:hammer",
+            "tfidf:need",
+            "tfidf:ve",
+            "tfidf:probably"
+          ],
+          "intent_matches": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 9,
+    "avg_engagement": 41.77777777777778,
+    "avg_relevance": 12.424444444444443,
+    "total_comments": 253,
+    "demand_strength": 4671.591111111111,
+    "sample_posts": [
+      {
+        "subreddit": "BuyItForLife",
+        "title": "Finally bought a proper vacuum",
+        "selftext": "5 years ago I bought a Bissell at Walmart for $70 and it worked fine in apartments and rental homes but I figured being a homeowner also meant it was time to get a real vacuum. And apparently this Sebo E3 premium is the one of the better ones available.\n\nSo far it lives up to the hype. There is a bit of a learning curve transitioning from an upright to a canister, but after a couple of months I will never go back to an upright. I love how quick I can pop off the power head and use a dusting attachment for corners. And the built in extension is something I never knew I needed. No more extension wand attachments.\n\nAnd the consumables aren't crazy overpriced either. Bags/filters/brushes all seem pretty reasonable to buy, and I've been seeing them go on sale frequently.\n\nTwo (albeit minor) complaints  \n  \n1. The hose occasionally gets twisted up during use, and you can untwist it on the handle because it has built in slip rings for the power head. If the hose attachment on the canister had",
+        "score": 141,
+        "num_comments": 27,
+        "created_utc": 1774559266.0,
+        "url": "https://i.redd.it/cda9cldyagrg1.jpeg",
+        "permalink": "https://reddit.com/r/BuyItForLife/comments/1s4jy57/finally_bought_a_proper_vacuum/",
+        "relevance_score": 23.16,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Can anyone recommend the best cleaning tools for daily use that really save time",
+        "selftext": "I’ve been trying to figure out how people keep their homes tidy every day without spending hours cleaning. Mops and vacuums feel like they barely scratch the surface. I live in a moderately sized apartment with a dog, so there’s always hair and dirt showing up in the most random places.\n\nI’m curious about tools that are easy to use, lightweight, and actually motivate you to clean more often. Something that doesn’t feel like a workout every time you just want to pick up a bit of mess. What’s your holy grail for keeping things manageable day-to-day?\n\nAlso, if there’s anything that makes it fun or oddly satisfying to clean, please share your tips, sometimes I need that little extra push to actually use the tools instead of letting clutter pile up.",
+        "score": 28,
+        "num_comments": 45,
+        "created_utc": 1774577264.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1s4r9hx/can_anyone_recommend_the_best_cleaning_tools_for/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1s4r9hx/can_anyone_recommend_the_best_cleaning_tools_for/",
+        "relevance_score": 20.76,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Carpentry",
+        "title": "Dust Extractors",
+        "selftext": "Nz Builder wanting to buy a m class vacuum for work. $1000/$1200 is pretty much it. \n\nAny other recommendations or suggestions?\n\nIs it true that L class vacuums pretty much the same as M class? Heard that before- heard the “wasting your money” part too just buy a cheap vac from the local. Need some help cheers 🫶🏾",
+        "score": 20,
+        "num_comments": 33,
+        "created_utc": 1774429751.0,
+        "url": "https://www.reddit.com/gallery/1s35mt0",
+        "permalink": "https://reddit.com/r/Carpentry/comments/1s35mt0/dust_extractors/",
+        "relevance_score": 14.399999999999999,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ],
+    "matched_videos": [
+      {
+        "video_id": "YUaVHrS5-CQ",
+        "title": "Troubleshooting a Broken Vacuum Cleaner | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "Your vacuum is one of the handiest tools at your disposal when it comes to cleaning up your house. But if it's not working the way its supposed to, it can also be a headache.\n\nThere are a number...",
+        "relevance_score": 49.51,
+        "scoring_breakdown": {
+          "semantic_score": 19.11,
+          "keyword_score": 28,
+          "intent_score": 2.4,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:use",
+            "fuzzy_tfidf:heard(80.0)",
+            "tfidf:tools",
+            "tfidf:vacuum",
+            "tfidf:cleaning"
+          ],
+          "intent_matches": [
+            "troubleshooting:1.2↔2.4"
+          ]
+        }
+      },
+      {
+        "video_id": "UerVcdQXJ_Y",
+        "title": "Refrigerator Maintenance - Changing Ice & Water Filter (GE Part# MWF)",
         "channel": "partselect",
         "description_snippet": "Get model-specific repair help from PartSelect.com. Learn how to troubleshoot, diagnose and repair your appliance with user-generated installation instructions, hundreds of step-by-step repair...",
-        "relevance_score": 49.53,
+        "relevance_score": 48.28,
         "scoring_breakdown": {
-          "semantic_score": 11.5,
+          "semantic_score": 11.14,
           "keyword_score": 22,
-          "intent_score": 4.6,
+          "intent_score": 4.0,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
             "tfidf:model",
-            "fuzzy_tfidf:suction(85.71428571428572)",
             "tfidf:use",
-            "fuzzy_tfidf:like(75.0)",
+            "fuzzy_tfidf:cleaning(75.0)",
+            "fuzzy_tfidf:clean(80.0)",
             "brand:model"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2",
-            "how_to_guide:1.1↔3.3000000000000003"
+            "troubleshooting:1.2↔1.2",
+            "maintenance:1.6↔0.8"
           ]
         }
       },
       {
-        "video_id": "98Zd02En5Og",
-        "title": "Makita Air Compressor Repair - Replacing the Oil Sight Gauge (Makita Part # 321001-E)",
+        "video_id": "T11KkkFspos",
+        "title": "How to Replace a Vacuum Belt",
         "channel": "fixtechguides",
-        "description_snippet": "Need help replacing the Oil Sight Gauge (Part # 321001-E) in your Makita Air Compressor? Watch this how-to video with simple, step-by-step instructions for a successful DIY repair.\n\nDon’t...",
-        "relevance_score": 51.14,
+        "description_snippet": "Simple vacuum repairs like this one can be done right at home. Watch our vacuum belt replacement demonstration to learn these money-saving repair steps!\n\nGet vacuum belts and other vacuum replaceme...",
+        "relevance_score": 45.56,
         "scoring_breakdown": {
-          "semantic_score": 15.54,
-          "keyword_score": 16,
-          "intent_score": 7.8,
+          "semantic_score": 20.25,
+          "keyword_score": 13,
+          "intent_score": 1.8,
           "content_boost": 1.3,
           "content_type": "tutorial"
         },
         "match_evidence": {
           "keyword_matches": [
-            "fuzzy_tfidf:suction(85.71428571428572)",
-            "tfidf:makita",
-            "tfidf:need",
-            "product:makita"
+            "tfidf:vacuum",
+            "tfidf:like",
+            "fuzzy_tfidf:clean(80.0)"
           ],
           "intent_matches": [
-            "troubleshooting:2.4↔1.2",
-            "how_to_guide:1.1↔1.1",
-            "maintenance:2.4000000000000004↔1.6"
+            "comparison:0.9↔0.9"
           ]
+        }
+      },
+      {
+        "video_id": "L91n9Y3asbI",
+        "title": "Expensive vs. Cheap Multimeters: Which One is Right For You? | eReplacementParts.com",
+        "channel": "fixtechguides",
+        "description_snippet": "Owning a multimeter can be extremely helpful for diagnosing issues with your power tools, power equipment and appliances. But knowing which type of multimeter to buy, when you should splurge,...",
+        "relevance_score": 44.64,
+        "scoring_breakdown": {
+          "semantic_score": 12.78,
+          "keyword_score": 18,
+          "intent_score": 9.8,
+          "content_boost": 1.1,
+          "content_type": "comparison"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:buy",
+            "tfidf:tools",
+            "tfidf:time",
+            "fuzzy_tfidf:feel(75.0)"
+          ],
+          "intent_matches": [
+            "buying_advice:4.0↔4.0",
+            "comparison:0.9↔0.9"
+          ]
+        }
+      },
+      {
+        "video_id": "YA0iSW3_YAQ",
+        "title": "Vacuum Troubleshooting: 6 Things You SHOULD NOT Vacuum! | PartSelect.com",
+        "channel": "partselect",
+        "description_snippet": "When it comes time to bust out the vacuum to give your home a proper cleaning, it can be tempting to just use the vacuum as a catch-all, and attempt to scoop everything up with it. BUT, there...",
+        "relevance_score": 47.46,
+        "scoring_breakdown": {
+          "semantic_score": 22.46,
+          "keyword_score": 25,
+          "intent_score": 0,
+          "content_boost": 1.0,
+          "content_type": "repair"
+        },
+        "match_evidence": {
+          "keyword_matches": [
+            "tfidf:use",
+            "tfidf:vacuum",
+            "tfidf:time",
+            "tfidf:cleaning",
+            "tfidf:clean"
+          ],
+          "intent_matches": []
         }
       }
     ]
