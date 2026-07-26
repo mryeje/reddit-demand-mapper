@@ -1,0 +1,858 @@
+[
+  {
+    "theme": "power_tools",
+    "post_count": 121,
+    "avg_engagement": 145.28099173553719,
+    "avg_relevance": 17.523272727272726,
+    "total_comments": 4634,
+    "demand_strength": 308041.61127272726,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Oil Impulse",
+        "selftext": "I would like to see an updated Oil Impulse driver from Makita. I have Milwaukee M18 SURGE Gen 2, and its great, quiet yet very powerful at its max, doesn't transfer much of kicks to the handle, but the trigger is not as smooth as Makita and often feathering is difficult because it speeds up randomly. On the other hand, Makita transfers more of the kick to the handle at each pulse and costs an absurd \\~ $270 for an old tool. My friend's Dewalt hydraulic beats both in my opinion, but I don't feel like buying another battery system driver to add to the mix of battery systems I already have. And now Ridgid released a new one that seems to be kicking Makita's butt in every aspect, compactness, power, smoothness, and price, by far. I wish they would update the Oil Impulse to have less of a kick at the handle so I could get rid of the SURGE and consolidate to having only Makita drills/drivers, at a price that isnt laughable.",
+        "score": 15,
+        "num_comments": 15,
+        "created_utc": 1784737542.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1v3l2i0/oil_impulse/",
+        "permalink": "https://reddit.com/r/Makita/comments/1v3l2i0/oil_impulse/",
+        "relevance_score": 63.0,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "ridgid",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Replacement advice for 6095D Netherlands",
+        "selftext": "Im looking to replace my dad's Makita 6095D with something newer.  \nBudget isn't really a constraint since it's a shared gift, I just want to get the right replacement without it being overkill or underkill.\n\n**Current drill complaints:**   \nThe 6095D was fine for his use cases (which is probably also why it has survived so long), but his two gripes are the weak battery life and the forward/reverse toggle being on the back of the tool (awkward to reach).  \nThe old drill otherwise still works fine and I will be using it myself afterwards for extremely light stuff.  \n  \n**Use case:**   \nHe wants a hammer driver-drill, mainly to make drilling into brick easier. He already has a separate dedicated hammer drill for heavier work like concrete, so this doesn't need to cover that.\n\n**What I've narrowed down so far:**  \nBased on my own research, it sounds like the 18V line is the way to go, and within that the DHP series fits what he needs (hammer driver-drill, not just driver-drill). As far as",
+        "score": 9,
+        "num_comments": 14,
+        "created_utc": 1784666382.0,
+        "url": "https://i.redd.it/k1medo182neh1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1v2ukml/replacement_advice_for_6095d_netherlands/",
+        "relevance_score": 60.215999999999994,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "hammer drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Carpentry",
+        "title": "Wich would you choose between DeWalt and Metabo mitre saw?",
+        "selftext": "For professional use in solid wood and occasionally furniture panels ,both in workshop and on site wich one should I choose? I'm looking for something reliable, powerful and also with a decent depth stop for grooves. Both I will use with a mobile stand. I was also looking for the articulated arm bosch but space won't be a problem. Budget 800-100 \u20ac. Thank you. No Kapex ",
+        "score": 24,
+        "num_comments": 91,
+        "created_utc": 1784490931.0,
+        "url": "https://www.reddit.com/gallery/1v1062c",
+        "permalink": "https://reddit.com/r/Carpentry/comments/1v1062c/wich_would_you_choose_between_dewalt_and_metabo/",
+        "relevance_score": 51.480000000000004,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "bosch",
+          "metabo",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      }
+    ],
+    "content_angle": "Power Tool Reviews & Professional Tips",
+    "example_videos": [
+      "Best cordless drills 2024",
+      "Miter saw buying guide",
+      "Tool storage solutions"
+    ],
+    "hashtags": [
+      "#powertools",
+      "#cordlesstools",
+      "#dewalt",
+      "#milwaukee",
+      "#contractor"
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 57,
+    "avg_engagement": 197.17543859649123,
+    "avg_relevance": 22.113894736842106,
+    "total_comments": 1864,
+    "demand_strength": 248538.06294736842,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Replacement advice for 6095D Netherlands",
+        "selftext": "Im looking to replace my dad's Makita 6095D with something newer.  \nBudget isn't really a constraint since it's a shared gift, I just want to get the right replacement without it being overkill or underkill.\n\n**Current drill complaints:**   \nThe 6095D was fine for his use cases (which is probably also why it has survived so long), but his two gripes are the weak battery life and the forward/reverse toggle being on the back of the tool (awkward to reach).  \nThe old drill otherwise still works fine and I will be using it myself afterwards for extremely light stuff.  \n  \n**Use case:**   \nHe wants a hammer driver-drill, mainly to make drilling into brick easier. He already has a separate dedicated hammer drill for heavier work like concrete, so this doesn't need to cover that.\n\n**What I've narrowed down so far:**  \nBased on my own research, it sounds like the 18V line is the way to go, and within that the DHP series fits what he needs (hammer driver-drill, not just driver-drill). As far as",
+        "score": 9,
+        "num_comments": 14,
+        "created_utc": 1784666382.0,
+        "url": "https://i.redd.it/k1medo182neh1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1v2ukml/replacement_advice_for_6095d_netherlands/",
+        "relevance_score": 60.215999999999994,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "hammer drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "What string trimmer in one+ line?",
+        "selftext": "I\u2019m thinking about switching to the Ryobi ONE+ system for my garden tools and I\u2019m trying to decide which string trimmer to buy.\n\nI\u2019m in Europe. I have a fairly small, A large part of it is a slope with uneven ground, so the trimmer will get used quite a lot. I also have some flat lawn, but it\u2019s not a large area. I want to stay with the 18V ONE+ platform and don\u2019t want to move to 36V since that would mean buying into another battery system. also most of the tools are to big and heavy for my small garden. \n\nThe three models I\u2019m looking at are:\n\nOLT1832A ( cheapest only one string \n\nRY18LT33A same as above but with a gimock wheel? \n\nRY18LTX33A (brushless) mor power full same price as the above \n\nHas anyone used two or all three of these?\n\nIs the brushless RY18LTX33A worth the extra  for a typical homeowner, or is the OLT1832A enough?\n\nI\u2019m interested in hearing about real-world differences in Power,  Battery life, Weight and balance, Vibration,  Line feed, Overall build quality and durabil",
+        "score": 1,
+        "num_comments": 10,
+        "created_utc": 1784469149.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1v0r5xs/what_string_trimmer_in_one_line/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1v0r5xs/what_string_trimmer_in_one_line/",
+        "relevance_score": 49.608,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "battery"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "woodworking",
+        "title": "One Board, One Console Table",
+        "selftext": "Just finished my fourth project, a medium-sized console table made from a single 1.75\u201d walnut board I\u2019ve had in my garage for 6 months, leftover from a prior project.\n\nThe board was milled primarily by hand. The figuring on this board was pretty spectacular, so I wanted to try and do a waterfall miter and have it flow over both sides. I\u2019ve done miters like this on one prior project, so it wasn\u2019t completely new, but it was still challenging in some spots due to a fairly limited tool set.\n\nI used my WEN track saw to cut the miters - I found on a prior project that the trick to get clean miters with this particular track saw is to tighten down all of the adjusters so there is absolutely no play on the track (this seems self explanatory, but doing so makes it very difficult to slide on the track). To get around this, I oiled the track and the saw base to reduce friction.  Aside from this, I had to cut each miter in 1/4\u201d passes to eliminate the risk of binding/stalling, which happens freque",
+        "score": 206,
+        "num_comments": 14,
+        "created_utc": 1785014073.0,
+        "url": "https://www.reddit.com/gallery/1v6k63h",
+        "permalink": "https://reddit.com/r/woodworking/comments/1v6k63h/one_board_one_console_table/",
+        "relevance_score": 43.31999999999999,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "orbital sander",
+          "router"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 68,
+    "avg_engagement": 158.80882352941177,
+    "avg_relevance": 22.998535294117644,
+    "total_comments": 2086,
+    "demand_strength": 248361.18264117645,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "Are Makitas Drill Motherboards epoxied/potted?",
+        "selftext": "The reason I ask is for repairability sake. I'm looking to buy into the brand and I'm comparing makita with Milwaukee and Bosch. I have Milwaukee, but hate how the newer drills have the entire motherboard basically coated in rubber. That would make repair a pain in the ass. Can you guys give me a run down of Makitas recent releases in terms of how the electronics look inside the tools? I'm mainly looking for the least amount of removable adhesive as possible. (I know it has its purpose but I'm hoping makita did it eloquently). Thank you guys!",
+        "score": 5,
+        "num_comments": 26,
+        "created_utc": 1784815628.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1v4eylg/are_makitas_drill_motherboards_epoxiedpotted/",
+        "permalink": "https://reddit.com/r/Makita/comments/1v4eylg/are_makitas_drill_motherboards_epoxiedpotted/",
+        "relevance_score": 47.4,
+        "matched_brands": [
+          "milwaukee",
+          "makita",
+          "makita",
+          "milwaukee",
+          "bosch",
+          "bosch"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "RYOBI PCL220 drill issue",
+        "selftext": "My son bought me the pcl 220 hammer drill for Father\u2019s Day to replace my 15+ year old RYOBI drill.  Doesn\u2019t matter what I do, bits come loose in it, on regular or hammer mode.  Several different people have used it with the same issue, doesn\u2019t matter if it\u2019s a standard bit, spade bit or screw driver bit.  Don\u2019t care how much you torque on it, it will come loose within about 10 seconds of use.  Anyone else have this issue or have a hack to fix this or did I get a defective one? ",
+        "score": 2,
+        "num_comments": 2,
+        "created_utc": 1784758968.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1v3v7a7/ryobi_pcl220_drill_issue/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1v3v7a7/ryobi_pcl220_drill_issue/",
+        "relevance_score": 42.0,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "hammer drill"
+        ],
+        "matched_keywords": [
+          "torque"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Parents bought a faulty washing machine, the solution can not be serious",
+        "selftext": "My parents are elderly (early 80s) and recently replaced their washer dryer with Maytags through Whirlpool, purchased at Home Depot. Just before delivery Home Depot calls and says just as a reminder you have 2 days if you want to return them to Home Depot. That seems fair I guess. \n\nFast forward 3 weeks and the washing machine just stops working mid wash and the door is locked with a load in the washing machine. Whirlpool sends out a guy to assess it and says \u201cthe board\u201d is no good. They said they can\u2019t just replace the unit without 3 attempts at a repair. Couple days later and they\u2019re told it will be 3-4 weeks to get the part in. Meanwhile they have to go up to the laundry mat to do their laundry, which is costing them money. \n\nThis can\u2019t be real life can it?",
+        "score": 37,
+        "num_comments": 81,
+        "created_utc": 1784758000.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1v3us9v/parents_bought_a_faulty_washing_machine_the/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1v3us9v/parents_bought_a_faulty_washing_machine_the/",
+        "relevance_score": 42.0,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "maytag"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 69,
+    "avg_engagement": 130.3913043478261,
+    "avg_relevance": 26.02759420289856,
+    "total_comments": 3141,
+    "demand_strength": 234170.26504347834,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "18 v or 40v?",
+        "selftext": "I'm trying to decide whether to invest in Makita LXT (18V) or XGT (40V)\n\nA bit of background:\n\n\\- DIY homeowner, not a professional\n\n\\- I already own a Makita SP6000 (corded track saw) and a corded jigsaw.\n\n\\-I also have a Flex cordless drill, but I don't plan to continue investing in the Flex ecosystem.\n\n\\- For garden tools, I already own several Stihl battery tools.\n\nI'd like to keep the number of battery systems as low as possible, which is why I'm struggling to choose between LXT and XGT.\n\nMy first cordless Makita purchase will probably be a small pruning chainsaw (around 15 cm / 6\") for trimming bushes and small branches around the garden. After that, I'll slowly add more tools as I need them.\n\nI'm thinking about a Oscillating multi-tool maybe? whats also needed for a homeowner?\n\nFor someone like me, does XGT make sense as a long-term investment, or is LXT still the better choice?\n\nThe price difference between many of the tools doesn't seem huge anymore, but the batteries are obvi",
+        "score": 11,
+        "num_comments": 52,
+        "created_utc": 1784530863.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1v1e39g/18_v_or_40v/",
+        "permalink": "https://reddit.com/r/Makita/comments/1v1e39g/18_v_or_40v/",
+        "relevance_score": 69.576,
+        "matched_brands": [
+          "stihl",
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "jigsaw"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Oil Impulse",
+        "selftext": "I would like to see an updated Oil Impulse driver from Makita. I have Milwaukee M18 SURGE Gen 2, and its great, quiet yet very powerful at its max, doesn't transfer much of kicks to the handle, but the trigger is not as smooth as Makita and often feathering is difficult because it speeds up randomly. On the other hand, Makita transfers more of the kick to the handle at each pulse and costs an absurd \\~ $270 for an old tool. My friend's Dewalt hydraulic beats both in my opinion, but I don't feel like buying another battery system driver to add to the mix of battery systems I already have. And now Ridgid released a new one that seems to be kicking Makita's butt in every aspect, compactness, power, smoothness, and price, by far. I wish they would update the Oil Impulse to have less of a kick at the handle so I could get rid of the SURGE and consolidate to having only Makita drills/drivers, at a price that isnt laughable.",
+        "score": 15,
+        "num_comments": 15,
+        "created_utc": 1784737542.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1v3l2i0/oil_impulse/",
+        "permalink": "https://reddit.com/r/Makita/comments/1v3l2i0/oil_impulse/",
+        "relevance_score": 63.0,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "ridgid",
+          "ge"
+        ],
+        "matched_products": [
+          "drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Replacement advice for 6095D Netherlands",
+        "selftext": "Im looking to replace my dad's Makita 6095D with something newer.  \nBudget isn't really a constraint since it's a shared gift, I just want to get the right replacement without it being overkill or underkill.\n\n**Current drill complaints:**   \nThe 6095D was fine for his use cases (which is probably also why it has survived so long), but his two gripes are the weak battery life and the forward/reverse toggle being on the back of the tool (awkward to reach).  \nThe old drill otherwise still works fine and I will be using it myself afterwards for extremely light stuff.  \n  \n**Use case:**   \nHe wants a hammer driver-drill, mainly to make drilling into brick easier. He already has a separate dedicated hammer drill for heavier work like concrete, so this doesn't need to cover that.\n\n**What I've narrowed down so far:**  \nBased on my own research, it sounds like the 18V line is the way to go, and within that the DHP series fits what he needs (hammer driver-drill, not just driver-drill). As far as",
+        "score": 9,
+        "num_comments": 14,
+        "created_utc": 1784666382.0,
+        "url": "https://i.redd.it/k1medo182neh1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1v2ukml/replacement_advice_for_6095d_netherlands/",
+        "relevance_score": 60.215999999999994,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "hammer drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Buying Guides & Recommendations",
+    "example_videos": [
+      "What to look for when buying...",
+      "Best value tools under $200",
+      "Professional vs homeowner grade"
+    ],
+    "hashtags": [
+      "#buyingguide",
+      "#recommendations",
+      "#bestvalue",
+      "#professional"
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 16,
+    "avg_engagement": 261.25,
+    "avg_relevance": 17.508750000000003,
+    "total_comments": 1569,
+    "demand_strength": 73186.57500000001,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Which compressor to get?",
+        "selftext": "I need to get a compressor for my mobile mechanic business. For now I\u2019m carrying around 6 gallon pancake Ridgid that I borrowed from family member and I have no complaints about it other than size. I wanted to size down to like 2-3 gallon hot dog style because it would fit a lot better it my truck and easier to carry around. I don\u2019t use air tools. Only need it for tires, blowing off air and vacuum filling the cooling system . Any reason why I should stay with 6 gallon and not get a smaller unit? 6 gallon craftsman is going for $99 right now which is pretty sweet given that smaller units go for almost double that. Noise is also a consideration. Not the main factor but would be nice to keep it quieter. What are your thoughts on this? Are smaller ones usually louder? I would buy smaller due to compact size as it will fit in my vehicle a lot better and just in general I like the look more but double the price for the smaller size and less power is kind of hard to understand. Would I miss o",
+        "score": 42,
+        "num_comments": 79,
+        "created_utc": 1784721417.0,
+        "url": "https://www.reddit.com/gallery/1v3dzuq",
+        "permalink": "https://reddit.com/r/Tools/comments/1v3dzuq/which_compressor_to_get/",
+        "relevance_score": 36.96,
+        "matched_brands": [
+          "craftsman",
+          "craftsman",
+          "ridgid",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Makita AWS question: Will a shop vacuum with an auto-start switch and an AWS transmitter trigger the vacuum?",
+        "selftext": "The AWS transmitter is designed to plug directly into a dust extractor with integrated auto-start (like Festool). An aftermarket auto-switch can be added to a shop vacuum to replicate this function. \n\nThe question is: Is the current from the transmitter strong enough to trigger the auto switch? Has anyone tried?\n\nThank you in advance",
+        "score": 11,
+        "num_comments": 16,
+        "created_utc": 1784482580.0,
+        "url": "https://i.redd.it/mfa0hh0w28eh1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1v0ws7o/makita_aws_question_will_a_shop_vacuum_with_an/",
+        "relevance_score": 33.6,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "festool",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum",
+          "shop vac"
+        ],
+        "matched_keywords": [],
+        "detected_intents": []
+      },
+      {
+        "subreddit": "BuyItForLife",
+        "title": "Looking to buy a new vacuum, is Miele still the peak?",
+        "selftext": "I've had a handed-down Dyson for the past 20 years, and after cleaning it out and changing filters it's been a good workhorse. Unfortunately the plastic is becoming brittle now and bits are breaking off so it's time to buy something new.\n\nI kept hearing from people that Miele were a really good brand but I've always overlooked them due to not being able to afford their products in the past. Atm I don't really have any budget to stay under, just looking for a high quality product.\n\nI don't have pets and I don't like stick vacuums so I'm looking to get the Miele Guard L1 Comfort XL. Anyone have experience with it? Would you recommend it? If not, what alternative? \n\nCheers!",
+        "score": 73,
+        "num_comments": 90,
+        "created_utc": 1784881764.0,
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1v55f1e/looking_to_buy_a_new_vacuum_is_miele_still_the/",
+        "permalink": "https://reddit.com/r/BuyItForLife/comments/1v55f1e/looking_to_buy_a_new_vacuum_is_miele_still_the/",
+        "relevance_score": 31.56,
+        "matched_brands": [
+          "ge",
+          "miele"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "buying_intent",
+          "comparison",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 42,
+    "avg_engagement": 60.57142857142857,
+    "avg_relevance": 24.86734285714286,
+    "total_comments": 1675,
+    "demand_strength": 63262.52022857143,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "18 v or 40v?",
+        "selftext": "I'm trying to decide whether to invest in Makita LXT (18V) or XGT (40V)\n\nA bit of background:\n\n\\- DIY homeowner, not a professional\n\n\\- I already own a Makita SP6000 (corded track saw) and a corded jigsaw.\n\n\\-I also have a Flex cordless drill, but I don't plan to continue investing in the Flex ecosystem.\n\n\\- For garden tools, I already own several Stihl battery tools.\n\nI'd like to keep the number of battery systems as low as possible, which is why I'm struggling to choose between LXT and XGT.\n\nMy first cordless Makita purchase will probably be a small pruning chainsaw (around 15 cm / 6\") for trimming bushes and small branches around the garden. After that, I'll slowly add more tools as I need them.\n\nI'm thinking about a Oscillating multi-tool maybe? whats also needed for a homeowner?\n\nFor someone like me, does XGT make sense as a long-term investment, or is LXT still the better choice?\n\nThe price difference between many of the tools doesn't seem huge anymore, but the batteries are obvi",
+        "score": 11,
+        "num_comments": 52,
+        "created_utc": 1784530863.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1v1e39g/18_v_or_40v/",
+        "permalink": "https://reddit.com/r/Makita/comments/1v1e39g/18_v_or_40v/",
+        "relevance_score": 69.576,
+        "matched_brands": [
+          "stihl",
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "jigsaw"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Replacement advice for 6095D Netherlands",
+        "selftext": "Im looking to replace my dad's Makita 6095D with something newer.  \nBudget isn't really a constraint since it's a shared gift, I just want to get the right replacement without it being overkill or underkill.\n\n**Current drill complaints:**   \nThe 6095D was fine for his use cases (which is probably also why it has survived so long), but his two gripes are the weak battery life and the forward/reverse toggle being on the back of the tool (awkward to reach).  \nThe old drill otherwise still works fine and I will be using it myself afterwards for extremely light stuff.  \n  \n**Use case:**   \nHe wants a hammer driver-drill, mainly to make drilling into brick easier. He already has a separate dedicated hammer drill for heavier work like concrete, so this doesn't need to cover that.\n\n**What I've narrowed down so far:**  \nBased on my own research, it sounds like the 18V line is the way to go, and within that the DHP series fits what he needs (hammer driver-drill, not just driver-drill). As far as",
+        "score": 9,
+        "num_comments": 14,
+        "created_utc": 1784666382.0,
+        "url": "https://i.redd.it/k1medo182neh1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1v2ukml/replacement_advice_for_6095d_netherlands/",
+        "relevance_score": 60.215999999999994,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "drill",
+          "hammer drill"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "learning_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "Are Makita Blades, Bits, Hand Tools Anything Special?",
+        "selftext": "Need a few new blades - SP6000, LS1219L, a jobsite table saw.  I usually buy Diablo.  Is there any reason to think Makita blades are better?  \n\nHow about bits and bit holders?  I haven\u2019t noticed any difference between Makita, Bosch, Milwaukee - but maybe I\u2019m not discerning something.\n\nFinally, I want to get a general toolkit for the project building, so that my sockets and wrenches can go back home.  https://a.co/d/006u1tc9 caught my eye.   If Makita hand tools are anything special, it \u201cmight\u201d be worth considering?  After all it comes in a Makpac!",
+        "score": 9,
+        "num_comments": 34,
+        "created_utc": 1784429824.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1v0f042/are_makita_blades_bits_hand_tools_anything_special/",
+        "permalink": "https://reddit.com/r/Makita/comments/1v0f042/are_makita_blades_bits_hand_tools_anything_special/",
+        "relevance_score": 51.11999999999999,
+        "matched_brands": [
+          "milwaukee",
+          "makita",
+          "makita",
+          "milwaukee",
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "table saw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 98,
+    "avg_engagement": 33.02040816326531,
+    "avg_relevance": 18.757432653061226,
+    "total_comments": 3471,
+    "demand_strength": 60699.05206530614,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "Parents bought a faulty washing machine, the solution can not be serious",
+        "selftext": "My parents are elderly (early 80s) and recently replaced their washer dryer with Maytags through Whirlpool, purchased at Home Depot. Just before delivery Home Depot calls and says just as a reminder you have 2 days if you want to return them to Home Depot. That seems fair I guess. \n\nFast forward 3 weeks and the washing machine just stops working mid wash and the door is locked with a load in the washing machine. Whirlpool sends out a guy to assess it and says \u201cthe board\u201d is no good. They said they can\u2019t just replace the unit without 3 attempts at a repair. Couple days later and they\u2019re told it will be 3-4 weeks to get the part in. Meanwhile they have to go up to the laundry mat to do their laundry, which is costing them money. \n\nThis can\u2019t be real life can it?",
+        "score": 37,
+        "num_comments": 81,
+        "created_utc": 1784758000.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1v3us9v/parents_bought_a_faulty_washing_machine_the/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1v3us9v/parents_bought_a_faulty_washing_machine_the/",
+        "relevance_score": 42.0,
+        "matched_brands": [
+          "whirlpool",
+          "ge",
+          "maytag"
+        ],
+        "matched_products": [
+          "washing machine",
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting"
+        ]
+      },
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Exhaust fan for a very hot garage gym?",
+        "selftext": "We have an attached two car garage that we use as a home gym.  The garage door is insulated and the other three walls have drywall, but the ceiling is open to the rafters and roof decking.  The air near the top can get close to 100\u00b0F, sometimes 20 to 30 degrees hotter than outside.\n\nWe have a mini split, but it has to work pretty hard.  There are no other appliances in the garage, including no water heater, furnace, or gas appliances.  I was wondering if a high mounted exhaust fan would make sense to clear out the hot air before turning on the AC.\n\nWould it be better to vent through the roof or through the highest part of an exterior wall near the soffit?  There are two existing vents near the floor, about 6 x 14 inches each, similar to standard foundation vents.  Would those two existing vents provide enough intake air, or would the contractor need to cut in a larger additional intake vent?\n\nWhat size fan and CFM would make sense?  Would 8, 10, 12, 14, or 16 inches be appropriate?  An",
+        "score": 8,
+        "num_comments": 16,
+        "created_utc": 1784860037.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1v4ye57/exhaust_fan_for_a_very_hot_garage_gym/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1v4ye57/exhaust_fan_for_a_very_hot_garage_gym/",
+        "relevance_score": 41.808,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "water heater",
+          "hvac",
+          "furnace",
+          "exhaust fan"
+        ],
+        "matched_keywords": [
+          "contractor"
+        ],
+        "detected_intents": [
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Bosch",
+        "title": "HELP! Bosch - Ice maker, freezer lights, and door alarm all stopped working (EA110 error)",
+        "selftext": "I\u2019m hoping someone familiar with Bosch built-in refrigerators can point me in the right direction. Bosch is charging $180 + $250 per/hr  \n  \n**Model** [B30IB900SP/02 ](https://www.bosch-home.com/us/en/productservice/B30IB900SP-02)  \n  \n**Symptoms**\n\n* Ice maker stopped producing ice.\n* Freezer LED lights no longer turn on when opening the drawer.\n* Freezer door alarm no longer sounds when the drawer is left open.\n* Refrigerator and freezer temperatures are normal (freezer holds around\u00a0**-11\u00b0F**).\n\n  \n**Diagnostics I ran:**  \nUsing the hidden Bosch service menu:\n\n* **Door Status Test (CS2):**\n   * Refrigerator door changes correctly.\n   * Freezer door appears to stay\u00a0**\u201cClosed\u201d**\u00a0even when I open the freezer drawer.\n* **Error Memory:**\n   * **EA110**\n* **Ice/Water System Test:**\n   * **FAIL (What is the component how to fix)**\n* **Automatic Component Test:**\n   * **PASS**\n\n  \n**Other possible clue**  \nI found this loose plastic piece in the bottom freezer, I still don't know where this ",
+        "score": 1,
+        "num_comments": 2,
+        "created_utc": 1784839799.0,
+        "url": "https://www.reddit.com/r/bosch/comments/1v4qapb/help_bosch_ice_maker_freezer_lights_and_door/",
+        "permalink": "https://reddit.com/r/bosch/comments/1v4qapb/help_bosch_ice_maker_freezer_lights_and_door/",
+        "relevance_score": 40.8,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "refrigerator",
+          "freezer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "outdoor_power_equipment",
+    "post_count": 42,
+    "avg_engagement": 42.714285714285715,
+    "avg_relevance": 22.909619047619046,
+    "total_comments": 761,
+    "demand_strength": 41099.856571428565,
+    "sample_posts": [
+      {
+        "subreddit": "Makita",
+        "title": "18 v or 40v?",
+        "selftext": "I'm trying to decide whether to invest in Makita LXT (18V) or XGT (40V)\n\nA bit of background:\n\n\\- DIY homeowner, not a professional\n\n\\- I already own a Makita SP6000 (corded track saw) and a corded jigsaw.\n\n\\-I also have a Flex cordless drill, but I don't plan to continue investing in the Flex ecosystem.\n\n\\- For garden tools, I already own several Stihl battery tools.\n\nI'd like to keep the number of battery systems as low as possible, which is why I'm struggling to choose between LXT and XGT.\n\nMy first cordless Makita purchase will probably be a small pruning chainsaw (around 15 cm / 6\") for trimming bushes and small branches around the garden. After that, I'll slowly add more tools as I need them.\n\nI'm thinking about a Oscillating multi-tool maybe? whats also needed for a homeowner?\n\nFor someone like me, does XGT make sense as a long-term investment, or is LXT still the better choice?\n\nThe price difference between many of the tools doesn't seem huge anymore, but the batteries are obvi",
+        "score": 11,
+        "num_comments": 52,
+        "created_utc": 1784530863.0,
+        "url": "https://www.reddit.com/r/Makita/comments/1v1e39g/18_v_or_40v/",
+        "permalink": "https://reddit.com/r/Makita/comments/1v1e39g/18_v_or_40v/",
+        "relevance_score": 69.576,
+        "matched_brands": [
+          "stihl",
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "drill",
+          "jigsaw"
+        ],
+        "matched_keywords": [
+          "cordless",
+          "battery",
+          "contractor"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "comparison",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "What string trimmer in one+ line?",
+        "selftext": "I\u2019m thinking about switching to the Ryobi ONE+ system for my garden tools and I\u2019m trying to decide which string trimmer to buy.\n\nI\u2019m in Europe. I have a fairly small, A large part of it is a slope with uneven ground, so the trimmer will get used quite a lot. I also have some flat lawn, but it\u2019s not a large area. I want to stay with the 18V ONE+ platform and don\u2019t want to move to 36V since that would mean buying into another battery system. also most of the tools are to big and heavy for my small garden. \n\nThe three models I\u2019m looking at are:\n\nOLT1832A ( cheapest only one string \n\nRY18LT33A same as above but with a gimock wheel? \n\nRY18LTX33A (brushless) mor power full same price as the above \n\nHas anyone used two or all three of these?\n\nIs the brushless RY18LTX33A worth the extra  for a typical homeowner, or is the OLT1832A enough?\n\nI\u2019m interested in hearing about real-world differences in Power,  Battery life, Weight and balance, Vibration,  Line feed, Overall build quality and durabil",
+        "score": 1,
+        "num_comments": 10,
+        "created_utc": 1784469149.0,
+        "url": "https://www.reddit.com/r/ryobi/comments/1v0r5xs/what_string_trimmer_in_one_line/",
+        "permalink": "https://reddit.com/r/ryobi/comments/1v0r5xs/what_string_trimmer_in_one_line/",
+        "relevance_score": 49.608,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer"
+        ],
+        "matched_keywords": [
+          "brushless",
+          "battery"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "learning_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "40v chain saw",
+        "selftext": "I have never been a fan of ryobi tools I had the old 18v blue impact that I loved but always have been a makita guy. I bought the 40v chainsaw and expand it pole saw used it to cut down 8 trees in my yard thing was a gem.",
+        "score": 9,
+        "num_comments": 6,
+        "created_utc": 1784549961.0,
+        "url": "https://i.redd.it/1on30i68ndeh1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1v1jwu5/40v_chain_saw/",
+        "relevance_score": 39.6,
+        "matched_brands": [
+          "ryobi",
+          "makita",
+          "makita",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "pole saw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": []
+      }
+    ],
+    "content_angle": "OPE Reviews, Maintenance & Buying Guides",
+    "example_videos": [
+      "Chainsaw buying guide 2024",
+      "Pressure washer comparison",
+      "Lawn mower maintenance tips"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#lawnmower",
+      "#pressurewasher",
+      "#OPE",
+      "#yardwork"
+    ]
+  }
+]
