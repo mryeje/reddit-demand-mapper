@@ -1,0 +1,835 @@
+[
+  {
+    "theme": "power_tools",
+    "post_count": 100,
+    "avg_engagement": 72.54,
+    "avg_relevance": 15.230800000000006,
+    "total_comments": 3066,
+    "demand_strength": 110484.22320000005,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Battle of the cheap compact drill",
+        "selftext": "Help me choose! \n\nBosch compact (GSR18v-400) vs skil 12v.\n\nThe Bosch is on sale from Lowe's for $60 as a kit, and the skil is available for the same price online, also with a battery. \n\nI already own the flex turbo hammer drill and quick eject impact, picked them up during the great purge from Lowe's. I'm looking for a small, lightweight, light duty drill for smaller projects that I don't need the power of the full size for. \n\nI have a few skil 12v tools like an impact driver and a jigsaw. I don't mind adding an additional platform if I picked the Bosch, but it's a factor. \n\nI'm having a hard time finding good real reviews for these, especially the Bosch. \n\nJust unboxed today, and first impressions are the size is closer than I thought. Bosch is only a tiny bit longer and a couple oz heavier with a battery. It feels more substantial though, and has a metal chuck vs the skil. \n\nSomething else I noticed right away is that the skil has greater trigger control/variable speed. You can get i",
+        "score": 50,
+        "num_comments": 75,
+        "created_utc": 1790812712.0,
+        "url": "https://i.redd.it/y3nau9gmxqsh1.jpeg",
+        "permalink": "https://reddit.com/r/Tools/comments/1wukqsm/battle_of_the_cheap_compact_drill/",
+        "relevance_score": 57.35999999999999,
+        "matched_brands": [
+          "bosch",
+          "skil",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "hammer drill",
+          "jigsaw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Carpentry",
+        "title": "Track saw reccomendations",
+        "selftext": "Im looking at purchasing a track saw and I cannot seem to come to the conclusion of which one to get, I'm currently stuck between the milwaukee 18 fuel and the new dewalt 20v max one. I also heard reccomendations with the makita and obviously festool. I am not trying to spend ridiciulous ammounts, I already have the dewalt ecosystem so I have the batteries. HD is running a m18 special that is buy one, which means it could come with a battery for free.\n\nany recommendations are great, send me your products or your experience with these brands, thanks!\n\nEdit: when I say not to expensive, I\u2019d prefer if you kept festool OUT of this conversation lol \n\nAlso like I said the M18 has a deal that comes with a $200 battery which would help me get into the platform ",
+        "score": 17,
+        "num_comments": 85,
+        "created_utc": 1790541453.0,
+        "url": "https://www.reddit.com/r/Carpentry/comments/1wruygq/track_saw_reccomendations/",
+        "permalink": "https://reddit.com/r/Carpentry/comments/1wruygq/track_saw_reccomendations/",
+        "relevance_score": 54.0,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "festool",
+          "ge"
+        ],
+        "matched_products": [],
+        "matched_keywords": [
+          "battery"
+        ],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "Ryobi P330 vs PBL375B 15 gauge nailers (huge upgrade!)",
+        "selftext": "I've had a P330 15 gauge nailer for many years (since around 2017.) As a homeowner it only gets used occasionally.  On this occasion, it started malfunctioning - leaving the nails about 1/8 proud, no matter the settings.  Mid project, I had little time to try to fix it, so I picked up the current model - the PBL375B . \n\nLet me tell you - these are not the same tool!  It's rare that I'm impressed by something newer that does the same thing. \n\nThe P330 always felt like a \"1st revision\".  It's big, it's heavy, and it's slow.  But it is way better than swinging a hammer. \n\nThe PBL375B is almost 2lbs lighter, much smaller, faster and quieter. \n\nIf you are considering an upgrade, do it. ",
+        "score": 48,
+        "num_comments": 5,
+        "created_utc": 1790520789.0,
+        "url": "https://www.reddit.com/gallery/1wrm7i0",
+        "permalink": "https://reddit.com/r/ryobi/comments/1wrm7i0/ryobi_p330_vs_pbl375b_15_gauge_nailers_huge/",
+        "relevance_score": 31.92,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "comparison",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Power Tool Reviews & Professional Tips",
+    "example_videos": [
+      "Best cordless drills 2024",
+      "Miter saw buying guide",
+      "Tool storage solutions"
+    ],
+    "hashtags": [
+      "#powertools",
+      "#cordlesstools",
+      "#dewalt",
+      "#milwaukee",
+      "#contractor"
+    ]
+  },
+  {
+    "theme": "major_appliances",
+    "post_count": 95,
+    "avg_engagement": 50.34736842105263,
+    "avg_relevance": 19.620631578947354,
+    "total_comments": 3392,
+    "demand_strength": 93845.48084210519,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "maytag commercial dryer",
+        "selftext": "My dryer is three years old. I was told by maytag that this is their commercial product and would be very dependable. Model : MED 7230HW3 Serial # MC1528723\n\nI just want to warn people about this product. I should have purchased an appliance protection program. I would say that it should be considered with all new technology focused appliances\n\nOver three years I had to replace the Thermistor three times. Now the motor is burned up as well. I spent the cost of the machine repairing it. The Maytag dealer in Farmington said I would have to bring them the product to review and charge $75.00 to look at it. plus any uncovered parts and labor. Basically buying a new washer again with costs. I felt this was a lemon and called Maytag to register a complaint. They just said the same thing over and over. We can arrange to send you a new motor which is covered by ten year. But labor, and thermister will be charged. I felt there would be more accountability for a very poor product that for three y",
+        "score": 8,
+        "num_comments": 2,
+        "created_utc": 1790692152.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtbncl/maytag_commercial_dryer/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtbncl/maytag_commercial_dryer/",
+        "relevance_score": 43.68000000000001,
+        "matched_brands": [
+          "ge",
+          "maytag"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Such a Disappointment in Speed Queen Warranty",
+        "selftext": "I switched to Speed Queen because of its excellent reputation, strong reviews, and the expectation of superior quality and customer service. Unfortunately, my first experience with Speed Queen\u2019s warranty process has been extremely disappointing.\n\nFirst, no one explained that the service company was coming out **only to evaluate the issue**, and that no repair would be made until Speed Queen reviewed and approved it. This should have been communicated clearly from the beginning, and I expected to get my **DRYER** **ODOR** fixed the same day! I did not expect to have to wait for another appointment.\u00a0\n\nMore importantly, I am very concerned by the response below dated **September 29, 2026**.\n\n*Good Morning,*\u00a0  \n*We apologize that the original concern regarding the odor was not addressed more directly.*  \n*If the authorized service technician identifies a defective component that is contributing to the odor, the applicable part(s) would be replaced under warranty. However, the unit\u2019s intern",
+        "score": 6,
+        "num_comments": 31,
+        "created_utc": 1790709147.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "relevance_score": 39.35999999999999,
+        "matched_brands": [
+          "ge",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Botched by Bosch",
+        "selftext": "$4,500 Refrigerator Needs Major Repairs in Less Than 4 Years\n\nI purchased a Bosch 800 Series refrigerator in December 2022 for approximately $4,500, expecting premium quality, reliability and years of dependable service. Unfortunately, my experience has been extremely disappointing.\n\nLess than four years after purchase, the refrigerator stopped cooling properly. The inverter was replaced, but that did not resolve the problem. I have now been advised that the compressor, dryer and inverter need replacement.\n\nI've already spent $558.91 on the initial unsuccessful repair and received an additional repair estimate of $1,237.58. That's nearly $1,800 in repair expenses on a refrigerator that isn't even four years old.\n\nI chose Bosch because of its reputation for quality. At this price point, I believe consumers should reasonably expect major components to last significantly longer.\n\nI've contacted Bosch and requested full goodwill coverage. I hope the company will stand behind its product an",
+        "score": 7,
+        "num_comments": 21,
+        "created_utc": 1790695449.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtd2da/botched_by_bosch/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtd2da/botched_by_bosch/",
+        "relevance_score": 38.4,
+        "matched_brands": [
+          "bosch",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "dryer",
+          "refrigerator"
+        ],
+        "matched_keywords": [
+          "reliability"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Appliance Buying Guides & Maintenance",
+    "example_videos": [
+      "Washer and dryer buying guide",
+      "HVAC maintenance tips",
+      "Refrigerator troubleshooting"
+    ],
+    "hashtags": [
+      "#appliances",
+      "#HVAC",
+      "#homeappliances",
+      "#maintenance"
+    ]
+  },
+  {
+    "theme": "buying_advice",
+    "post_count": 56,
+    "avg_engagement": 65.92857142857143,
+    "avg_relevance": 23.874999999999993,
+    "total_comments": 2929,
+    "demand_strength": 88146.49999999997,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Battle of the cheap compact drill",
+        "selftext": "Help me choose! \n\nBosch compact (GSR18v-400) vs skil 12v.\n\nThe Bosch is on sale from Lowe's for $60 as a kit, and the skil is available for the same price online, also with a battery. \n\nI already own the flex turbo hammer drill and quick eject impact, picked them up during the great purge from Lowe's. I'm looking for a small, lightweight, light duty drill for smaller projects that I don't need the power of the full size for. \n\nI have a few skil 12v tools like an impact driver and a jigsaw. I don't mind adding an additional platform if I picked the Bosch, but it's a factor. \n\nI'm having a hard time finding good real reviews for these, especially the Bosch. \n\nJust unboxed today, and first impressions are the size is closer than I thought. Bosch is only a tiny bit longer and a couple oz heavier with a battery. It feels more substantial though, and has a metal chuck vs the skil. \n\nSomething else I noticed right away is that the skil has greater trigger control/variable speed. You can get i",
+        "score": 50,
+        "num_comments": 75,
+        "created_utc": 1790812712.0,
+        "url": "https://i.redd.it/y3nau9gmxqsh1.jpeg",
+        "permalink": "https://reddit.com/r/Tools/comments/1wukqsm/battle_of_the_cheap_compact_drill/",
+        "relevance_score": 57.35999999999999,
+        "matched_brands": [
+          "bosch",
+          "skil",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "hammer drill",
+          "jigsaw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Carpentry",
+        "title": "Track saw reccomendations",
+        "selftext": "Im looking at purchasing a track saw and I cannot seem to come to the conclusion of which one to get, I'm currently stuck between the milwaukee 18 fuel and the new dewalt 20v max one. I also heard reccomendations with the makita and obviously festool. I am not trying to spend ridiciulous ammounts, I already have the dewalt ecosystem so I have the batteries. HD is running a m18 special that is buy one, which means it could come with a battery for free.\n\nany recommendations are great, send me your products or your experience with these brands, thanks!\n\nEdit: when I say not to expensive, I\u2019d prefer if you kept festool OUT of this conversation lol \n\nAlso like I said the M18 has a deal that comes with a $200 battery which would help me get into the platform ",
+        "score": 17,
+        "num_comments": 85,
+        "created_utc": 1790541453.0,
+        "url": "https://www.reddit.com/r/Carpentry/comments/1wruygq/track_saw_reccomendations/",
+        "permalink": "https://reddit.com/r/Carpentry/comments/1wruygq/track_saw_reccomendations/",
+        "relevance_score": 54.0,
+        "matched_brands": [
+          "dewalt",
+          "milwaukee",
+          "makita",
+          "dewalt",
+          "makita",
+          "milwaukee",
+          "festool",
+          "ge"
+        ],
+        "matched_products": [],
+        "matched_keywords": [
+          "battery"
+        ],
+        "detected_intents": [
+          "buying_intent"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "maytag commercial dryer",
+        "selftext": "My dryer is three years old. I was told by maytag that this is their commercial product and would be very dependable. Model : MED 7230HW3 Serial # MC1528723\n\nI just want to warn people about this product. I should have purchased an appliance protection program. I would say that it should be considered with all new technology focused appliances\n\nOver three years I had to replace the Thermistor three times. Now the motor is burned up as well. I spent the cost of the machine repairing it. The Maytag dealer in Farmington said I would have to bring them the product to review and charge $75.00 to look at it. plus any uncovered parts and labor. Basically buying a new washer again with costs. I felt this was a lemon and called Maytag to register a complaint. They just said the same thing over and over. We can arrange to send you a new motor which is covered by ten year. But labor, and thermister will be charged. I felt there would be more accountability for a very poor product that for three y",
+        "score": 8,
+        "num_comments": 2,
+        "created_utc": 1790692152.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtbncl/maytag_commercial_dryer/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtbncl/maytag_commercial_dryer/",
+        "relevance_score": 43.68000000000001,
+        "matched_brands": [
+          "ge",
+          "maytag"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Product Buying Guides & Recommendations",
+    "example_videos": [
+      "What to look for when buying...",
+      "Best value tools under $200",
+      "Professional vs homeowner grade"
+    ],
+    "hashtags": [
+      "#buyingguide",
+      "#recommendations",
+      "#bestvalue",
+      "#professional"
+    ]
+  },
+  {
+    "theme": "product_comparisons",
+    "post_count": 36,
+    "avg_engagement": 98.5,
+    "avg_relevance": 22.011555555555553,
+    "total_comments": 2619,
+    "demand_strength": 78052.976,
+    "sample_posts": [
+      {
+        "subreddit": "Tools",
+        "title": "Battle of the cheap compact drill",
+        "selftext": "Help me choose! \n\nBosch compact (GSR18v-400) vs skil 12v.\n\nThe Bosch is on sale from Lowe's for $60 as a kit, and the skil is available for the same price online, also with a battery. \n\nI already own the flex turbo hammer drill and quick eject impact, picked them up during the great purge from Lowe's. I'm looking for a small, lightweight, light duty drill for smaller projects that I don't need the power of the full size for. \n\nI have a few skil 12v tools like an impact driver and a jigsaw. I don't mind adding an additional platform if I picked the Bosch, but it's a factor. \n\nI'm having a hard time finding good real reviews for these, especially the Bosch. \n\nJust unboxed today, and first impressions are the size is closer than I thought. Bosch is only a tiny bit longer and a couple oz heavier with a battery. It feels more substantial though, and has a metal chuck vs the skil. \n\nSomething else I noticed right away is that the skil has greater trigger control/variable speed. You can get i",
+        "score": 50,
+        "num_comments": 75,
+        "created_utc": 1790812712.0,
+        "url": "https://i.redd.it/y3nau9gmxqsh1.jpeg",
+        "permalink": "https://reddit.com/r/Tools/comments/1wukqsm/battle_of_the_cheap_compact_drill/",
+        "relevance_score": 57.35999999999999,
+        "matched_brands": [
+          "bosch",
+          "skil",
+          "ge",
+          "bosch"
+        ],
+        "matched_products": [
+          "drill",
+          "impact driver",
+          "hammer drill",
+          "jigsaw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "compact"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Dewalt vs. Kobalt 48v Trimmer",
+        "selftext": "I have been wanting an electric string trimmer for a while and I have been eyeing the 60v Dewalt trimmer (I have heard good things about it). I currently have a Dewalt tool set for house projects which includes a 20v 2ah and 5ah battery. The extra battery from the 60v or 20v Dewalt trimmer would be useful, especially with the circular saw.\n\nHowever, I just received a Kobalt 48v trimmer as a gift from my family. I am debating whether to keep the Kobalt trimmer or return it and use the money to purchase a Dewalt trimmer. But I\u2019m wondering the following:\n\n1. Has anyone had experience using the 48v Kobalt trimmer and how has it been?\n2. Has anyone had experience between the 48v Kobalt versus the 20v or 60v Dewalt trimmer? Which one do you prefer?\n3. Price wise, the 48v Kobalt and 20v Dewalt are relatively similar, is it worth spending the extra cash to get the 60v Dewalt in lieu of the 20v Dewalt, if I returned the Kobalt(money is tight right now)?\n\nAny input would be helpful in my decisio",
+        "score": 4,
+        "num_comments": 7,
+        "created_utc": 1790960155.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1wvyyc0/dewalt_vs_kobalt_48v_trimmer/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1wvyyc0/dewalt_vs_kobalt_48v_trimmer/",
+        "relevance_score": 40.559999999999995,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "kobalt",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer",
+          "circular saw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Such a Disappointment in Speed Queen Warranty",
+        "selftext": "I switched to Speed Queen because of its excellent reputation, strong reviews, and the expectation of superior quality and customer service. Unfortunately, my first experience with Speed Queen\u2019s warranty process has been extremely disappointing.\n\nFirst, no one explained that the service company was coming out **only to evaluate the issue**, and that no repair would be made until Speed Queen reviewed and approved it. This should have been communicated clearly from the beginning, and I expected to get my **DRYER** **ODOR** fixed the same day! I did not expect to have to wait for another appointment.\u00a0\n\nMore importantly, I am very concerned by the response below dated **September 29, 2026**.\n\n*Good Morning,*\u00a0  \n*We apologize that the original concern regarding the odor was not addressed more directly.*  \n*If the authorized service technician identifies a defective component that is contributing to the odor, the applicable part(s) would be replaced under warranty. However, the unit\u2019s intern",
+        "score": 6,
+        "num_comments": 31,
+        "created_utc": 1790709147.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "relevance_score": 39.35999999999999,
+        "matched_brands": [
+          "ge",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Product Comparisons Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#product_comparisons"
+    ]
+  },
+  {
+    "theme": "outdoor_power_equipment",
+    "post_count": 36,
+    "avg_engagement": 42.97222222222222,
+    "avg_relevance": 19.636111111111113,
+    "total_comments": 1058,
+    "demand_strength": 30377.06388888889,
+    "sample_posts": [
+      {
+        "subreddit": "Dewalt",
+        "title": "Dewalt vs. Kobalt 48v Trimmer",
+        "selftext": "I have been wanting an electric string trimmer for a while and I have been eyeing the 60v Dewalt trimmer (I have heard good things about it). I currently have a Dewalt tool set for house projects which includes a 20v 2ah and 5ah battery. The extra battery from the 60v or 20v Dewalt trimmer would be useful, especially with the circular saw.\n\nHowever, I just received a Kobalt 48v trimmer as a gift from my family. I am debating whether to keep the Kobalt trimmer or return it and use the money to purchase a Dewalt trimmer. But I\u2019m wondering the following:\n\n1. Has anyone had experience using the 48v Kobalt trimmer and how has it been?\n2. Has anyone had experience between the 48v Kobalt versus the 20v or 60v Dewalt trimmer? Which one do you prefer?\n3. Price wise, the 48v Kobalt and 20v Dewalt are relatively similar, is it worth spending the extra cash to get the 60v Dewalt in lieu of the 20v Dewalt, if I returned the Kobalt(money is tight right now)?\n\nAny input would be helpful in my decisio",
+        "score": 4,
+        "num_comments": 7,
+        "created_utc": 1790960155.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1wvyyc0/dewalt_vs_kobalt_48v_trimmer/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1wvyyc0/dewalt_vs_kobalt_48v_trimmer/",
+        "relevance_score": 40.559999999999995,
+        "matched_brands": [
+          "dewalt",
+          "dewalt",
+          "kobalt",
+          "ge"
+        ],
+        "matched_products": [
+          "string trimmer",
+          "circular saw"
+        ],
+        "matched_keywords": [
+          "battery",
+          "ah"
+        ],
+        "detected_intents": [
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Help Me Understand",
+        "selftext": "Alright, this is no troll post, all my tools are dewalt 20v.\n\nHowever, I\u2019m in the market for a 20v string trimmer and pruner (don\u2019t want or need the different 60v platform), and Ryobi just seems to have the better option here. My Dewalt trimmer (which always vibrated like crazy) died after 2.5 years (the Ryobi is attachment-capable), The Dewalt pruner is brushed and bulky. \n\nI could list other examples in the 20v OPE line. I just really don\u2019t understand. It\u2019s like they\u2019re not even trying to compete. \n\nDo we think Dewalt will up their game here or should seriously consider other options?",
+        "score": 6,
+        "num_comments": 31,
+        "created_utc": 1790906895.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1wvhwns/help_me_understand/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1wvhwns/help_me_understand/",
+        "relevance_score": 38.76,
+        "matched_brands": [
+          "ryobi",
+          "dewalt",
+          "dewalt",
+          "ryobi"
+        ],
+        "matched_products": [
+          "string trimmer",
+          "pruner"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "comparison"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "Apologies to a potential buyer that I accidentally may have inadvertently tried scamming",
+        "selftext": "So I have about 10 Husqvarna chainsaws and consider myself a pretty good mechanic with the saws. I ended up buying a basic craftsman chainsaw at an estate sale because it was right in front of me for about $20\u2026I thought I\u2019d fix it up and sell it dirt cheap to someone in need. Had surgery and a new born baby in the interim and decided it was time to get the saw going and to sell it. Ended up checking the vitals (fluid, spark, compression) and it all seemed perfect. Bugger started up in 2 pulls and was burning pretty rich, I thought it may have been the prior owners fuel mix\u2026I\u2019m not messing with it, let\u2019s get it out of my shop.\n\nI then recorded a video of the chainsaw running and posted it on a sale site\u2026got a hit and met the gentleman for the sale for $60. I handed him the saw and it started right up then turned off and wouldn\u2019t turn on again, it was now burning what appeared to be oil and was dripping fuel all over\u2026I felt soo scammy and embarrassed that he probably thought I was trying",
+        "score": 7,
+        "num_comments": 3,
+        "created_utc": 1790746937.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1wtwvry/apologies_to_a_potential_buyer_that_i/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1wtwvry/apologies_to_a_potential_buyer_that_i/",
+        "relevance_score": 37.199999999999996,
+        "matched_brands": [
+          "husqvarna",
+          "craftsman",
+          "craftsman",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "OPE Reviews, Maintenance & Buying Guides",
+    "example_videos": [
+      "Chainsaw buying guide 2024",
+      "Pressure washer comparison",
+      "Lawn mower maintenance tips"
+    ],
+    "hashtags": [
+      "#chainsaw",
+      "#lawnmower",
+      "#pressurewasher",
+      "#OPE",
+      "#yardwork"
+    ]
+  },
+  {
+    "theme": "utility_appliances",
+    "post_count": 11,
+    "avg_engagement": 145.63636363636363,
+    "avg_relevance": 18.78872727272727,
+    "total_comments": 863,
+    "demand_strength": 30099.54109090909,
+    "sample_posts": [
+      {
+        "subreddit": "HomeImprovement",
+        "title": "Unfinished Basement Advice",
+        "selftext": "I\u2019m looking for advice on how I should go about improving the basement in the house my fianc\u00e9e and I recently purchased(February). We got it water proofed by adding a drain around the inside perimeter with two sump pumps to prevent water from getting in. The previous owner for some reason didn\u2019t care. There was a musty smell that we had gotten rid of, but now there\u2019s a still not pleasant smell that I can\u2019t quite figure out what it is. I would like to try to clean up the walls and eventually finish it(not in the budget at the moment). In the mean time we were thinking about potentially painting them with a lime wash? Everywhere I see says not to use drylok or something similar so I\u2019m trying to figure out what our options would be. I have two dehumidifiers and one air purifier running in the basement. It doesn\u2019t feel overly humid any more so they definitely helped. Could I be taking too much out of the air? The smell is driving me crazy and I need it gone, but I\u2019m lost as to what it coul",
+        "score": 7,
+        "num_comments": 6,
+        "created_utc": 1790859684.0,
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/1wuyu0v/unfinished_basement_advice/",
+        "permalink": "https://reddit.com/r/HomeImprovement/comments/1wuyu0v/unfinished_basement_advice/",
+        "relevance_score": 32.4,
+        "matched_brands": [
+          "ge"
+        ],
+        "matched_products": [
+          "air purifier",
+          "dehumidifier",
+          "humidifier"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "learning_intent",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Ryobi",
+        "title": "3 gallon vac",
+        "selftext": "I have a dust extractor in my workshop which is great for pulling dust from power tools but stinks for general cleanup use. I\u2019m looking for a mobile wet/dry vac I can use for cleanup around the workshop and take to the car periodically. What are thoughts on the RYOBI 3 gal vacuum? Worth the money? Any issues with suction power for general use cleaning up mostly dust?",
+        "score": 36,
+        "num_comments": 41,
+        "created_utc": 1790776418.0,
+        "url": "https://i.redd.it/g95d3x8pxnsh1.jpeg",
+        "permalink": "https://reddit.com/r/ryobi/comments/1wu5k1u/3_gallon_vac/",
+        "relevance_score": 28.2,
+        "matched_brands": [
+          "ryobi",
+          "ryobi",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Makita",
+        "title": "I didn't know I needed it until I got it, and now I'd really miss it if I didn't have it. DUB185Z",
+        "selftext": "I used to think a battery-powered blower like the Makita DUB185Z was just a bit of a gimmick. \n\nBut man was I wrong. \n\nI grabbed one recently and now I'm using the bloody thing almost every single day.\n\nIt\u2019s completely taken over a dozen random chores around the place.\n\nSweeping tools and the workshop with a broom is officially ancient history. A quick burst with this mate and the workbench and floor are spotless.\n\nBlasts away dust, dry leaves, and dirt from the veranda without having to drag out a heavy vacuum or hose.\n\nTop-notch for blowing out dirt from the interior (with open doors) and drying off the Ute and getting water out of the side mirrors and panel gaps after a wash.\n\nPerfect for blowing dry the chain and frame of the bike after a clean.\n\n.....\n\nHonestly, if this thing goes belly up tomorrow, I\u2019d be straight down to the shop to buy another one.",
+        "score": 149,
+        "num_comments": 48,
+        "created_utc": 1790695652.0,
+        "url": "https://i.redd.it/qadpx7hj9hsh1.jpeg",
+        "permalink": "https://reddit.com/r/Makita/comments/1wtd5nq/i_didnt_know_i_needed_it_until_i_got_it_and_now/",
+        "relevance_score": 27.0,
+        "matched_brands": [
+          "makita",
+          "makita",
+          "ge"
+        ],
+        "matched_products": [
+          "vacuum"
+        ],
+        "matched_keywords": [
+          "battery"
+        ],
+        "detected_intents": [
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "Home Utility Equipment Reviews",
+    "example_videos": [
+      "Best shop vacuums 2024",
+      "Air purifier comparison",
+      "Dehumidifier buying guide"
+    ],
+    "hashtags": [
+      "#shopvac",
+      "#airpurifier",
+      "#homeimprovement",
+      "#utility"
+    ]
+  },
+  {
+    "theme": "how_to_guides",
+    "post_count": 56,
+    "avg_engagement": 25.339285714285715,
+    "avg_relevance": 19.835357142857152,
+    "total_comments": 1232,
+    "demand_strength": 28146.3717857143,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "Such a Disappointment in Speed Queen Warranty",
+        "selftext": "I switched to Speed Queen because of its excellent reputation, strong reviews, and the expectation of superior quality and customer service. Unfortunately, my first experience with Speed Queen\u2019s warranty process has been extremely disappointing.\n\nFirst, no one explained that the service company was coming out **only to evaluate the issue**, and that no repair would be made until Speed Queen reviewed and approved it. This should have been communicated clearly from the beginning, and I expected to get my **DRYER** **ODOR** fixed the same day! I did not expect to have to wait for another appointment.\u00a0\n\nMore importantly, I am very concerned by the response below dated **September 29, 2026**.\n\n*Good Morning,*\u00a0  \n*We apologize that the original concern regarding the odor was not addressed more directly.*  \n*If the authorized service technician identifies a defective component that is contributing to the odor, the applicable part(s) would be replaced under warranty. However, the unit\u2019s intern",
+        "score": 6,
+        "num_comments": 31,
+        "created_utc": 1790709147.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "relevance_score": 39.35999999999999,
+        "matched_brands": [
+          "ge",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "Stihl 009",
+        "selftext": "So I purchased a new to me chainsaw and the thing was filthy, like it looked like someone at a paper mill dunked it in glue and threw it in the sawdust pile.. \n\nSeeing as this is my first chainsaw, I decided to go way overboard cleaning it, ripped it down almost to the crank, replaced the carb, degreased and reassembled. \n\nHowever, the new Amazon special carb (my local Stihl dealer said I'd be waiting until next year for a new carb) has three adjustment screws, and the one it replaced only has two.\n\nI've never tuned a two stroke carb let alone a chainsaw carb, and stupidly decided to try to start it thinking it would've come out of the box ready to party, until it ran so rich fuel was starting to drip out of the muffler. \n\n\\-So my question is, should I just pull all the gaskets out of the Amazon special and put them in the original, give her a spritz of carb cleaner and call it a day? All of the sources online say to tighten the screws until they can't be tightened anymore, and back th",
+        "score": 3,
+        "num_comments": 2,
+        "created_utc": 1790732203.0,
+        "url": "https://www.reddit.com/r/Chainsaw/comments/1wts9ca/stihl_009/",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1wts9ca/stihl_009/",
+        "relevance_score": 33.96,
+        "matched_brands": [
+          "stihl",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw"
+        ],
+        "matched_keywords": [
+          "rpm"
+        ],
+        "detected_intents": [
+          "buying_intent",
+          "learning_intent",
+          "learning_intent",
+          "learning_intent",
+          "comparison",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Chainsaw",
+        "title": "Dull files: The beginner chain filing cycle of shame?",
+        "selftext": "Been learning felling, wood processing and hand or dremel filing for the last few years and one hang up I still have is how fast I go through files/stones.  I have a theory I wanted to share.  I've watched multiple YT videos (Buckin, Chickanic, Farmcraft) and have learned a lot on technique and what a sharp chain actually is.  Now I often get it sharp, more often now than not, and I'm learning the feel of the motion and when to switch files.\n\nThat said, even with a Pferd file, I feel I only get 2 or 3 at best sharpenings per file on a 20\" bar semi chisel chain.  I have not seen a single video or post address this as a sign of a bigger problem, or if this is just normal for files to got this fast (doesn't seem to be). Off brand chains may be part of the issue but I have the same problem with stihl chains.\n\nSo, my theory in short is that while I can fell trees and buck multiple cords of wood, I still don't know how to properly run a chainsaw and its overheating and hardening my chains.  ",
+        "score": 48,
+        "num_comments": 55,
+        "created_utc": 1790784220.0,
+        "url": "https://i.redd.it/r2b8jdhwkosh1.jpeg",
+        "permalink": "https://reddit.com/r/Chainsaw/comments/1wu8uf2/dull_files_the_beginner_chain_filing_cycle_of/",
+        "relevance_score": 33.6,
+        "matched_brands": [
+          "stihl",
+          "ge"
+        ],
+        "matched_products": [
+          "chainsaw",
+          "dremel"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "learning_intent",
+          "learning_intent",
+          "learning_intent",
+          "maintenance"
+        ]
+      }
+    ],
+    "content_angle": "How To Guides Content",
+    "example_videos": [
+      "Custom content needed"
+    ],
+    "hashtags": [
+      "#how_to_guides"
+    ]
+  },
+  {
+    "theme": "repair_help",
+    "post_count": 53,
+    "avg_engagement": 16.67924528301887,
+    "avg_relevance": 21.48679245283019,
+    "total_comments": 892,
+    "demand_strength": 18994.324528301888,
+    "sample_posts": [
+      {
+        "subreddit": "appliances",
+        "title": "maytag commercial dryer",
+        "selftext": "My dryer is three years old. I was told by maytag that this is their commercial product and would be very dependable. Model : MED 7230HW3 Serial # MC1528723\n\nI just want to warn people about this product. I should have purchased an appliance protection program. I would say that it should be considered with all new technology focused appliances\n\nOver three years I had to replace the Thermistor three times. Now the motor is burned up as well. I spent the cost of the machine repairing it. The Maytag dealer in Farmington said I would have to bring them the product to review and charge $75.00 to look at it. plus any uncovered parts and labor. Basically buying a new washer again with costs. I felt this was a lemon and called Maytag to register a complaint. They just said the same thing over and over. We can arrange to send you a new motor which is covered by ten year. But labor, and thermister will be charged. I felt there would be more accountability for a very poor product that for three y",
+        "score": 8,
+        "num_comments": 2,
+        "created_utc": 1790692152.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtbncl/maytag_commercial_dryer/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtbncl/maytag_commercial_dryer/",
+        "relevance_score": 43.68000000000001,
+        "matched_brands": [
+          "ge",
+          "maytag"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "buying_intent",
+          "troubleshooting",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "appliances",
+        "title": "Such a Disappointment in Speed Queen Warranty",
+        "selftext": "I switched to Speed Queen because of its excellent reputation, strong reviews, and the expectation of superior quality and customer service. Unfortunately, my first experience with Speed Queen\u2019s warranty process has been extremely disappointing.\n\nFirst, no one explained that the service company was coming out **only to evaluate the issue**, and that no repair would be made until Speed Queen reviewed and approved it. This should have been communicated clearly from the beginning, and I expected to get my **DRYER** **ODOR** fixed the same day! I did not expect to have to wait for another appointment.\u00a0\n\nMore importantly, I am very concerned by the response below dated **September 29, 2026**.\n\n*Good Morning,*\u00a0  \n*We apologize that the original concern regarding the odor was not addressed more directly.*  \n*If the authorized service technician identifies a defective component that is contributing to the odor, the applicable part(s) would be replaced under warranty. However, the unit\u2019s intern",
+        "score": 6,
+        "num_comments": 31,
+        "created_utc": 1790709147.0,
+        "url": "https://www.reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "permalink": "https://reddit.com/r/Appliances/comments/1wtj757/such_a_disappointment_in_speed_queen_warranty/",
+        "relevance_score": 39.35999999999999,
+        "matched_brands": [
+          "ge",
+          "speed queen"
+        ],
+        "matched_products": [
+          "washer",
+          "dryer"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "buying_intent",
+          "troubleshooting",
+          "troubleshooting",
+          "learning_intent",
+          "comparison",
+          "maintenance",
+          "maintenance"
+        ]
+      },
+      {
+        "subreddit": "Dewalt",
+        "title": "Help Me Understand",
+        "selftext": "Alright, this is no troll post, all my tools are dewalt 20v.\n\nHowever, I\u2019m in the market for a 20v string trimmer and pruner (don\u2019t want or need the different 60v platform), and Ryobi just seems to have the better option here. My Dewalt trimmer (which always vibrated like crazy) died after 2.5 years (the Ryobi is attachment-capable), The Dewalt pruner is brushed and bulky. \n\nI could list other examples in the 20v OPE line. I just really don\u2019t understand. It\u2019s like they\u2019re not even trying to compete. \n\nDo we think Dewalt will up their game here or should seriously consider other options?",
+        "score": 6,
+        "num_comments": 31,
+        "created_utc": 1790906895.0,
+        "url": "https://www.reddit.com/r/Dewalt/comments/1wvhwns/help_me_understand/",
+        "permalink": "https://reddit.com/r/Dewalt/comments/1wvhwns/help_me_understand/",
+        "relevance_score": 38.76,
+        "matched_brands": [
+          "ryobi",
+          "dewalt",
+          "dewalt",
+          "ryobi"
+        ],
+        "matched_products": [
+          "string trimmer",
+          "pruner"
+        ],
+        "matched_keywords": [],
+        "detected_intents": [
+          "troubleshooting",
+          "comparison"
+        ]
+      }
+    ],
+    "content_angle": "Troubleshooting & Repair Tutorials",
+    "example_videos": [
+      "Common tool problems and fixes",
+      "Appliance troubleshooting guide",
+      "When to repair vs replace"
+    ],
+    "hashtags": [
+      "#repair",
+      "#troubleshooting",
+      "#DIYrepair",
+      "#maintenance"
+    ]
+  }
+]
